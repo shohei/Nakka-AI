@@ -1,0 +1,111 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Rocket Recovery System Timer
+￼
+Introduction
+Parts List
+Schematic
+Construction
+Operation
+
+Introduction
+The electronic timer system described on this webpage has been used with great success for deployment of the main parachute in the Boreas rocket. The circuit is essentially that of Robert's Tiny Timer with some minor modifications such as a multi-turn potentiometer to adjust the time delay, rather than switchable resistor banks (purely a personal preference). The timer is triggered by a mercury switch, which activates the timing sequence at motor burnout, as the rocket begins to decelerate due to aerodynamic drag. Alternatively, a g-switch can be used to trigger the timer at liftoff. After the set time delay, which allows the rocket to coast to apogee, the circuit supplies momentary electrical current to an igniter squib which fires the parachute ejection charge.
+This timer system incorporates a SAFE/ARM switch to allow for pre-launch testing or adjustment of the timer in the SAFE mode. An IGNITER CONTINUITY check is also incorporated to provide confirmation that the igniter is connected and functional. Connection of the igniter leads to the circuit is through a terminal block, which allows simple interface, and importantly, allows the igniter leads to remain shunted (stripped leads twisted together) for safety right until the rocket ejection system is ready to be armed.
+
+Parts List
+The electronic components that are required to construct the timer circuit are shown in the table below. The DIGI-KEY part number is shown for reference, although similar parts may, of course, be substituted. The DIGI-KEY part number is handy, as the data sheets for these components may be downloaded from that website. Not shown in the table are the other components that are necessary, such as circuit board, wiring, mounting hardware, etc.
+Any suitable power source providing a voltage in the range of 5V to 15V may be used. The power supply that I used for my timer is the DURACELL Ultra 223 photo battery. This is a 6.2 V Lithium/Manganese Dioxide cell which has excellent current delivery, and an operating temperature range of -20oC to 60oC. It is highly recommended to use a Lithium battery for operation at temperatures below 5oC (40oF), as alkaline batteries have significantly reduced power output at low temperatures. A Lithium 9V cell would be a good choice. All components shown in the table are rated for operation at -20oC (or lower), to allow for reliable cold weather operation. Alternative parts may be used if cold weather operation is not an issue.
+
+Timer Parts List
+Item
+Digi-key P/N
+Quantity
+556 Dual Timer
+296-10344-5-ND *
+1
+HEXFET
+IRF510-ND
+1
+Touch switch
+P8006S-ND
+2
+SPDT switch
+EG1903-ND
+2
+LED, Red
+67-1096-ND
+1
+LED, Amber
+67-1097-ND
+1
+Terminal block
+281-1400-ND
+1
+Mercury switch
+-
+1
+Capacitor, 22 uF
+P2015-ND
+1
+Capacitor, 1 uF
+P2105-ND
+2
+Capacitor, 0.01 uF
+P4582-ND
+3
+1 M trimmer pot. (18 turn)
+CT94W105-ND
+1
+470 ohm resistor
+-
+2
+10 k ohm resistor
+-
+2
+1 M ohm resistor
+-
+3
+* TLC556IN, rated at -40oC. Alternative is TLC556CN, which is rated at 0oC.
+
+Schematic
+￼
+The value of capacitor C3 controls the time delay. With the 22 microfarad capacitor, as shown, the maximum delay is about 30 seconds. The maximum delay period can be increased by substituting a higher value of capacitance. For example, a 100 microfarad capacitor will provide for a maximum delay of about 2 minutes.
+
+Construction
+Construction of the timer circuit is straightforward. The components are suitably laid out on the circuit board, then soldered in place & wired. Note that some components are static sensitive and must be handled with care. The mercury switch (or g-switch) can be epoxied directly onto the circuit board. The battery can be mounted to the circuit board with a ty-rap. The figure below shows the completed circuit board that was built for the Boreas rocket (not shown is the terminal block which was later installed just above the two toggle switches).
+
+￼
+An opening was cut into the side of the fuselage to allow for access to the switches and to make the connection of the igniter leads to the terminal block. A removable hatch, retained with a couple of screws, covers the opening.
+As mentioned earlier, instead of using a using a mercury switch to activate the timing sequence, a g-switch can be used which is activated by the acceleration of the rocket at liftoff. The figure below illustrates a simple-to-make g-switch.
+
+￼
+
+The body of the switch consists of a metal tube (e.g. brass or aluminum). Inside the tube, a free-sliding inertial slug is housed. At the bottom end of the tube a touch switch such as the P8006S-ND is epoxied in position. The top end of the tube is closed off with a plug with a central hole to allow for testing of the switch using a thin rod or straightened paperclip. The inertial mass can be made of steel or brass (or other dense material). The mass of the inertial slug, in grams, may be calculated, knowing the trigger force of the touch switch, and the acceleration chosen to activate the switch, as follows:
+
+￼
+The P8006S-ND switch has a rated trigger force of 100 grams (+/- 30 grams).  Alternatively, the required length of a cylindrical slug may be calculated for a given diameter (D), :
+
+￼
+For reference, the mass density of steel is 7.85 grams/cm3, the density of yellow brass (65/35) is 8.40 grams/cm3, and the density of red brass (80/20) is 8.75 grams/cm3.
+Example:
+A g-switch is required that will activate at an acceleration of 19 g's. The trigger force of the touch switch is 100 grams. The required mass of the slug is therefore m = 100/(19+1) = 5 grams.  If the slug is to be made from a steel rod with a diameter of 0.9 cm., the required length of the slug is  L = 4 (100) / [(7.85 * 3.14 * 0.9 * 0.9 * (19+1)] = 1.0 cm.
+
+Operation
+There are several software packages that are available that will provide the time to peak altitude, for choosing the appropriate time delay, and the maximum acceleration of the rocket, for designing the g-switch. For example, EzAlt.xls Excel spreadsheet or the SOAR program, both available for downloading from the Rocketry Software webpage.
+
+
+The following is the procedure for prepping the timer prior to launch. Safety glasses are to be worn whenever connecting the timer system to a live ejection charge.
+	1	Confirm SAFE/ARM switch is in the SAFE position.
+	2	Turn POWER switch on.
+	3	Pressing the TIMER TEST switch, confirm the correct time delay.
+	4	Unshunt the igniter and snip off the twisted leads. Strip anew and connect the leads to the terminal block.
+	5	Pressing the CONTINUITY CHECK switch, confirm the igniter continuity.
+	6	Set the SAFE/ARM switch to ARM position.
+Caution: Ejection System is now armed. Take care not to jar the rocket.
+
+￼
+Last updated October 14, 2006
+Back to Home Page
+

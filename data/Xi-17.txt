@@ -1,0 +1,145 @@
+Basic Information
+Name
+Xi-17
+Launch date:
+14 March 2020
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Legendary formulation
+Liftoff mass
+2.800 kg.
+Stability Margin (minimum)
+2.44
+Flight objectives
+-Test of new APM-C (Advanced Propellant Motor-C) powered by new formulation KNPSB. This fast-burning formulation is 35%KN, 30%KP and 35% sorbitol, cast and otherwise prepared in the same manner as standard KNSB. This motor was twice successfully static fired.
+ 
+Motor details
+Motor name
+APM-C
+Propellant
+KNPSB
+Grain mass
+314 grams
+Nominal impulse
+460 N-sec (est.)
+Class
+I
+ 
+Additional information
+One ply stainless steel foil (0.002 inch/0.05mm) used as a thermal barrier to augment casing thermal liner. As well, a two-ply layer thermal barrier augments the propellant casting tubes.
+ 
+Weather conditions
+Temperature
+-10°C  (14°F)
+Wind
+N 10 km/hr
+Sky
+Variable hazy clouds with intermittent sun
+Other
+Wind chill -15C
+Ceiling
+20k ft.
+ 
+Launch Event Description
+Setup of the launch equipment and rocket went smoothly although somewhat slowly due to the cold ambient temperature. Hand warmer packets were used to keep the electronic components (flight computers and BRB transmitter) from getting overly chilled. As with the previous flight, two packets had been first activated then were taped to the outside of the nosecone (which houses the BRB transmitter) and two packets were taped to the outside of the AvBay. This was done some hours prior to the launch (the packets supply heat for several hours). To help retain the heat, cloth towels were then wrapped around the rocket at these locations.
+ 
+After removing the heat packets and towelling, the BRB receiver was activated and verified that a good GPS signal was obtained. After installing rocket on pad, the BREO-N, Eggtimer, and then Raven were activated. Eggtimer “blinked” its LED indicating ready for launch. Raven beeped eight times for voltage and gave three positive indications for the three active pyros. For videotaping the flight, I used the hand-held Sony camcorder fitted with scope tube.
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately came to life and the rocket bolted skyward at a very rapid pace. Burn time was very short, as expected, estimated at ½ second. Right after departing the launch rod, the rocket immediately veered to the left at an angle estimated at 20-25 degrees. Visual contact was lost shortly after burnout.  We searched the sky for smoke from the tracker but could not visually detect any trail, due to the white hazy sky. After about 15 seconds we heard a faint ‘pop’ sound of the apogee charge. The rocket was not sighted. After about ½ minute, we heard the ‘pop’ sound of the parachute pyro charge and spotted the rocket straight ahead. It appeared to be quite distant however it was clear that the chute has blossomed fully and that the rocket was descending gently. Approximately ½ minute later the rocket touched down.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.43 miles (700 metres). We headed out to recover the rocket. When we arrived at the touchdown site all the rocket components were seen to be present and looked to be in great condition. The smoke charge had fully burned. Raven beeped out an apogee of 3260 feet (994m.). A quick inspection indicated that all five pyro charges had fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+3272
+997
+Separation
+14.0
+3267
+995
+Main deployment
+51.2
+535
+163
+Touchdown
+78
+-
+-
+Range
+-
+2253
+688
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.3
+22.3
+ 
+Main parachute
+22.25
+6.8
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven, EggTimer, BREO and BRB was fully nominal.  The Raven, EggTimer and BREO gave apogee readings within ½ percent.
+ 
+The APM-C rocket motor performed as expected based on earlier static test results. The shape of the acceleration curve closely matched the pressure-thrust curve from the static test. The vehicle acceleration curve also indicated a burn that demonstrated that the inhibitor and in particular the thermal barrier was fully effective. This was confirmed by tear-down of the motor. The casing thermal liner and all casting tubes were essentially intact.
+ 
+Maximum acceration of the rocket was an breathtaking 52 G’s. Compared to Impulser-XX flown on the previous flight, the maximum acceleration was 23 G’s. The robustness of the rocket and payload was clearly demonstrated.
+ 
+When downloading the video footage from the Sony camcorder, it was discovered that recording ceased after about 5 seconds and none of the flight was captured. It is speculated that I inadvertently pressed the “record” button a second time, which would result in the camera switching to “stand-by” mode. In the future, it will be standard practice to verify the “record” icon is displayed prior to launch.
+ 
+Both the forward and aft launch lugs were detached from the rocket. This likely happened when the rocket was accelerating along the launch rod. It is speculated that the powerful exhaust blast that the APM-C generates caused the launch pad to tilt over, with the pad legs digging into the snow layer that the legs rested on. This would have resulted in excessive structural loading of the lugs and subsquent detachment. To avoid this from happening in the future, it will be necessary to better support the launch pad in some manner ( always a challenge when the ground is snow covered). As well, the launch lugs will be modified to strengthen the attachment to the rocket.
+ 
+The veering of the rocket after departing the launcher is explained by the loss of the two launch lugs.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-17\Xi-17_Raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-17\Xi-17_Raven_accel.gif
+Static test thrust-pressure graph for APM-C                                      Xi-17\APM-C-ST1_pressure-thrust_curve.jpg
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-17\Xi-17_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-17\Xi-17_BREO.gif
+ 
+BRB GPS data:
+Flight path, mapped                                                                                Xi-17\Image2AA.jpg
+ 
+Miscellaneous photos:
+APM-C                                                                                                        Xi-17\APM-C.JPG
+Grains for APM-C (prior to application of foil barrier)                     Xi-17\DSCF6140.JPG
+Grains primed and wrapped in thermal barrier foil                           Xi-17\DSCF6142.JPG
+Applying heat packets to AvBay                                                           Xi-17\DSCF6143.JPG
+Applying heat packets to Nosecone                                                    Xi-17\DSCF6144.JPG
+ 
+Launch photos:
+Rocket on the pad                                                                                   Xi-17\DSCN0424a.JPG
+Rocket at landing site                                                                             Xi-17\DSCN0425a.JPG
+                                                                                                                    Xi-17\DSCN0426a.JPG
+Video:
+Static test firing of APM-C                                                                     https://youtu.be/wCWnFpzQYpw
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

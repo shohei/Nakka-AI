@@ -1,0 +1,204 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Development of a Metalized Ammonium Nitrate-based Propellant
+
+This web page describes the impressive research undertaken by fellow rocketry experimentalist Denis Claude to develop a rocket propellant based on Ammonium Nitrate, Aluminum and Magnesium. This research has been of particular interest to me, as it parallels my own on-going experimental work with aluminumized Ammonium Nitrate formulations. Denis has kindly written up his efforts and experiments, to date, in the following report. Denis lives in Europe, and as such, the products mentioned are those that are available there.
+A] Objectives
+	•	develop a propellant with an increase in performance over KNSB formulation (130-140s Isp typical)
+	•	easy method of fabrication
+	•	availability of ingredients
+	•	low cost if possible
+	•	low toxicity
+	•	easy grain shaping
+B] Oxidizer
+Ammonium nitrate (NH4NO3) ”AN” is the oxidizer of choice where ammonium perchlorate isn’t available.
+
+	•	advantages:
+	◦	Availability in fertilizer grade(33.5%N)
+	◦	products of decomposition are only gas
+	◦	very low cost ~0.3 €/kg
+	•	disadvantages:
+	◦	hygroscopic nature
+	◦	known to be very hard to ignite
+	◦	experiences phase change at room temperature which means that it cannot be stored it in an easy way
+Remarks:
+In its pure form, AN has a 35% nitrogen content. This implies that there are some impurities in the fertilizer grade (33.5% nitrogen). This will probably somewhat lower the theoretical performance.
+C] FUEL and BINDER
+	•	You cannot directly substitute AN for KN because of it’s melting point of 169°C. As such, “sugar” is not a feasible fuel/binder.
+	•	You also have to find a decomposition enhancer/catalyst because decomposition rate of AN is very low.
+	•	You have to increase the combustion temperature to obtain a good Isp.
+	•	This is the rule of metallic powder that by increasing the temperature, increase the decomposition rate, the combustion temperature and so, increase the isp (even if the result is some solid/liquid combustion products).
+	•	You have to find a suitable binder.
+i) Fuel
+There are two candidates:
+	•	Aluminum (atomized powder <60µm from Axson Technologie) ~ 6 €/kg
+	•	Magnesium powder (<400 µm from Panreac) ~ 88 €/kg expensive!!
+ii) Binder
+As HTPB isn’t available, all my usual resins:
+	•	polyester resin ECO from Soloplast (~15 €/kg)
+	•	epoxy resin Epolam 2010 from Axson (~15 €/kg)
+	•	polyurethane resin UR3468 from Axson; 30 MPa tensile strength (~35€/kg)
+D] PRELIMINARY TESTS
+The CP technologies formulation is taken as an starting point (60%AN/ 20%Mg/ 20%HTPB)
+a) preparation and mixing
+	•	AN grind in a coffee grinder 10 sec/table spoon dry in a oven 30 min/kg at 70°C with mixing every 5 minutes grind in a coffee grinder 10 sec/2 table spoons sieve at 400µm
+	•	Fuel mixture of 50%Mg /50%Al as obtained
+	•	binder mix the ratio resin/ hardener
+Whichever binder:
+	•	Mix the resin with the fuel by hand
+	•	Add AN and mix by hand
+	•	Mix in a 1 litre mixer capacity by 4 table spoons about 15”
+	•	Mix all by hand
+	•	Mix 15” by 4 spoons a new times
+For a 760g total preparation, it takes about 15 minutes.
+I try to mix a spoon of preparation about 1 minute without effect (no ignition).
+For the first tests, I prepare 100g total and try to cast a 20mm cylinder in a PVC tube to check density, ignitability and burn rate. 96hour curing time at 20/25°C
+b) Composition in %
+￼ * Ignition with a small thermite (MnO2/Mg) charge
+c) First Conclusions
+None of the formulation is castable, a pressing process must be used..
+Polyurethane resin seem to be the only one binder to investigate.
+
+E] USABLE FORMULATION
+
+a) second trial of formulation
+-preparation as in D] a)
+￼ -~75% theoretical density is obtained with packing by hand.
+-Burn rates still very low but “seem” to increase with the % binder decreasing
+b) packing process
+As demonstrated by Richard Nakka, a hydraulic pressing process is feasible and is tried.
+97/98% theorical density is obtained.
+c) conclusion
+A motor test is decided to be attempted with the 65/10/10/15 formulation as a starting point.
+F] FIRST STATIC TEST AND FIRST TEST MOTOR
+
+a) motor design
+￼
+	•	The test motor is steel to minimize the risk of CATO.
+	•	nozzle is steel with a graphite insert due to the high combustion temperature.
+	•	it’s a 3 bates grain motor + a KNSB grain as a starter + a thermite disc MnO2/Mg (66/34%) at each intersegment*.
+	•	no thermal protection for this first test.
+	•	both thrust and pressure are recorded (mechanical gauges).
+*thermite disc: ￼
+For the 65/10/10/15 formulation, PROPEP gives the following results. (I replace 10%Mg+10%Al by 20%Mg or 20%Al
+At 2.5Mpa:
+	•	Chamber temperature 2787°K
+	•	Cf 1.45 at optimum expansion ration 4.3
+	•	C* 1501 m/s
+	•	Isp 222 s
+b) grain design
+￼ Click for larger image
+c) Grain shaping
+-Inhibitor fabrication
+Inhibitor is also used as the “pressing” tube. Inhibitor is 400g/m² fiber glass fabric +polyester resin. Inhibitor is fabricated in a 200mm cut steel tube (80mm OD,the same as the motor tube), cut is about 2mm thick, by applying the fabric in the tube and impregnating it with the resin.
+Cut allows to remove the tube after curing. fabric is 200 x 540 mm which gives a 1mm final thickness.
+￼
+Cut allows removal of the tube after curing. Fabric is 200*540 mm which gives a 1 mm final thickness.
+￼ Click for larger image
+	•	very strong collars must be used, a collar failure (and inhibitor too) occurred the first time.
+	•	special care must be taken to the support as inhibitor must fit very well to the base (to allow a good tightening by the cut steel tube and the first collar).
+	•	s Base is about 10mm high.
+	•	3 differents sizes (100,150, 200 mm) of cylinder are employed to avoid disturbing of the pressing device due to the low stroke of the piston.
+	•	Ø71mm PTFE (teflon) cylinders are employed but it’s not the good choice because these expand under pressure.
+	•	2 PVC discs avoid bonding.
+Pressing process
+	•	preparation is the same as in D] a) (One segment a time).
+	•	a pressing cycle is done every 4 tablespoons of preparation until no preparation is left. It takes about 20 minutes for a 720g grain.
+	•	a 200 mm length inhibitor tube is employed as filling the the last spoonful of preparation needs volume.
+	•	The final grain inhibitor has to be cut to size (5mm at each side+125 mm for the grain=135mm).
+	•	24h are allowed before removing the grain from the support and extracting the conical mandrel with the press.
+The grain is good with a 98% theoretical density.
+d) Static test result
+
+	•	Isp 117 seconds
+	•	Max. pressure 0.9 Mpa
+	•	Good pressure at ignition (2.5Mpa but it drops to 0.9 afterward) due to consumption of the KNSB grain.
+	•	Very long burn of 25 seconds not very stable but no chuffing.
+	•	No hot point on the tube
+	•	Inhibitors are already burned due to the long burn time.
+	•	A throat diameter decrease occurred with a deposit (MgO or Al2O3?) from 12.3 to 11.1mm
+￼
+e) Conclusion
+	•	Not a bad result but combustion efficiency has to be improved (by increasing the pressure).
+	•	probably have to decrease the binder content.
+	•	try to decrease the metal content to reduce the cost.
+	•	don’t change the kn for the next test.
+G] SECOND STATIC TEST
+a) formulation
+85/5/5/10 formulation is tried. All the other parameters or process are the same.
+The packing process is better than with the earlier formulation as the mix is more dry (solid content increase), no waste!
+A 98% of the theoretical density is achieved -> it doesn’t take into account the impurity of AN.
+b) test motor
+It ‘s the same as the first test.
+c) Static test results
+
+	•	148 seconds Isp is achieved with a 11.5 second burn time.
+	•	3.5Mpa max. pressure is obtained.
+	•	300 N max. thrust is obtained.
+	•	Curve is nearly flat.
+	•	throat diameter decrease from 12.3 to 10.5 mm with the same deposit.
+H] STATIC TEST 3
+a) Configuration
+	•	throat diameter is reduced to 11.1 mm with the same configuration as static test 2.
+	•	average Kn moves from 480 to 590. 
+b) Results
+￼
+
+	•	Isp 166 seconds
+	•	Throat diameter decreased from 11.1 to 9 mm.
+	•	Max. pressure was 6.2 Mpa. An estimated C* with a linear regression of the throat diameter (which is not true) gave a value of 1285m/s. ￼ 
+	•	The burn was stable.
+	•	Combustion seems good
+	•	A new identical test was made to confirm the result but a CATO occurred.
+	•	A blister develops such that pressure dropped and the burn finished in a very long chuffing manner.
+b) Conclusions
+	•	The inhibitor thickness will be increased to 2mm instead of 1mm (recall that there is no thermal insulation).
+	•	Binder content will be reduced to increase the burn rate.
+	•	Metal content will be increased to increase the performance.
+I] STATIC TEST 4
+a) Formulation
+78/7/7/8 formulation is chosen.
+b) Preparation and mixing
+No special problem, the mix is now very dry but just wet enough to be easily pressed.
+c) Inhibitor
+Preparation is the same except for the fabric which is now 200 x 1080 mm and gives a 2 mm final thickness.
+d) Grain shaping
+The PTFE cylinders are decreased in diameter from 71 to 69 (inhibitor is about 72 mm ID now). the pressing process stays the same.
+e) Motor design
+Special care is taken to have parallel sides (and perpendicular to the cylinder) for the inhibitor to bond the sides together (with the termite disc sandwiched) and as such, limit the thermal leakage.
+￼
+Motor design is the same 3 bates grains as the earlier tests.
+Average Kn is 500 (throat diameter is 12mm) as I don’t know the behavior of the reduced 8% binder formulation
+f) Results
+￼
+
+	•	A nearly flat curve!
+	•	Isp 195 seconds
+	•	C* with a linear regression of throat diameter from 12 to 10.5 mm is 1480m/s.
+J] STATIC TEST 5, 6, 7
+The objective is to validate the static test 4 with respectively a 3, 4, 5 grains motor.
+But Kn is decreased to 450 to reduce pressure to ~4Mpa. In this purpose, I adjust the throat diameter from 12.6, 15, 16 mm.
+All the tests give 185 seconds Isp, a nearly flat curve and a 8.40” burn time.
+A throat diameter reduction occurred each time.
+Here is a photo and video MPG (4.7 Mbyte) or WMV (380 kbyte) of the 5 grains motor test.
+A 1200N maximum thrust/6810Ns total impulse was achieved with the last test (complete motor weight 8Kg).
+
+￼
+
+K] CONCLUSIONS
+The beginning of this “study” is encouraging, and a lot of work has to be done to obtain a motor suitable for a flight.
+
+	•	Study of the formulation:
+	◦	to see what is the minimum % binder usable.
+	◦	improve the “only” 80% efficiency (185”isp instead of 225” theoritical).
+	◦	Increase the burn rate which is still low (2.5mm/s average).
+	•	
+	•	Find an effective thermal protection for aluminum casing and a good configuration to avoid any thermal leakage.
+
+￼
+Last updated June 1, 2008
+Return to Top of Page
+Return to Home Page
+

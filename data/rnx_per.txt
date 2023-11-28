@@ -1,0 +1,50 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+General Notes Regarding Performance
+Combustion Efficiency and C-Star 
+Specific Impulse 
+Chamber Pressure Design Charts
+SRM Software for RNX Propellant
+General Notes Regarding Performance
+Great performance was not one of the key goals that drove development of RNX composite propellant. The virtues of RNX span traits such as exceptional safeness of the propellant due to cold-casting and its exceptional tolerance with respect to accidental ignition, to its versatility with regard to forming various grain configurations by either casting or machining, or a combination of the two. Indeed, the performance of RNX, as measured by specific impulse, is lower than the sugar propellants. Put another way, more propellant is needed in a motor to achieve the same impulse as a corresponding sugar motor. For typical-sized motors made by rocketry experimentalists, this is of minor significance.
+
+Combustion Efficiency and C-Star
+It has been found experimentally that the combustion of RNX propellant is a fair amount less efficient than predicted by PROPEP. Combustion efficiency, measured in terms of actual flame temperature compared to theoretical, is taken to be 85% for design purpose. This is visually apparent when watching the smoke plume of an RNX motor. The smoke is a dark grey colour. This compares to white smoke for sugar propellant, which is comprised of the same major condensed-phase constituent (potassium carbonate). The dark smoke is partly a consequence of the Fe and FeO in the exhaust products, but is also likely due to carbon from incomplete combustion of the epoxy. It is speculated that potassium nitrate, which is a low-energy oxidizer, does not efficiently break down the strong bonds of the epoxy polymer. Sugar on the other hand, readily breaks down when heated.
+Delivered Characteristic Velocity or C-star, based on static testing, has been found to be in the range of 760 m/s to 785 m/s which is around 88-92% of theoretical. C-Star is a figure of thermochemical merit for a particular propellant and as such is a reflection of its combustion efficiency.
+
+Specific Impulse
+As is the case with the sugar propellants, the delivered specific impulse (Isp) of the RNX propellants suffers from two-phase flow losses due to the prodigious quantity of condensed-phase matter in the exhaust constituting over half of the mass of the exhaust. Other losses that typically affect rocket motor such as heat loss, frictional flow losses in the nozzle, non-axial flow, etc. also serve to further reduce the delivered specific impulse. For design purpose, a nozzle efficiency of 80% corresponds well to static test results. Typical delivered specific impulse is in the range of 105-115 seconds. Operating a motor at higher pressure improves the performance.
+
+Chamber Pressure Design Charts
+Design charts which may be used to estimate the steady-state chamber pressure of an RNX powered rocket motor are presented in Figures 1 & 2. These are presented in the form of "chamber pressure v.s. Kn chart" for both the RNX-71V and RNX-57 propellants. For more information, see Rocket Motor Design Charts - Chamber Pressure.
+For the chart data to be considered valid, it is necessary that the propellant be prepared by the method described in the Preparation and Mixing section of the RNX web pages and that the potassium nitrate be milled to a fine powder. This is achieved by using a coffee grinder to mill the potassium nitrate prills or granules for approximately 25 seconds per 2 heaping tablespoons (roughly 40 ml). As such, approximately half the particles should be smaller than 75 micron, with the remaining half smaller than 300 microns. The dry constituents (potassium nitrate and iron oxide) must be very well blended prior to mixing with the epoxy (e.g. 1 hour per 100 g. in a rotating mixer). Tthe mass density ratio of the cast propellant should be in the range of 94-98% of theoretical.
+
+￼
+Figure 1 -- Design chart for RNX-71V propellant
+
+￼
+Figure 2 -- Design chart for RNX-57 propellant
+
+￼
+Figure 3 -- Data for design chart for RNX-71V propellant
+
+￼
+Figure 4 -- Data for design chart for RNX-57 propellant
+
+SRM Software for RNX Design
+For convenience in the design of RNX powered rocket motors, the MS Excel spreadsheet originally created for designing sugar-propellant rocket motors, SRM.XLS, has been populated with RNX thermochemical and burn rate parameters.
+Note that for RNX, the following values should be retained:
+Combustion efficiency = 0.85
+Nozzle efficiency = 0.80
+SRM_RNX-71V.XLS
+SRM_RNX-57.XLS
+Next -- Safety
+
+￼
+Last updated  July 6, 2018
+Back to RNX Index Page
+Back to Home Page
+

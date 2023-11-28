@@ -1,0 +1,73 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Propellant Burn Rate
+General Notes
+Strandburner Burn Rate Measurements 
+BEM Burn Rate Results
+RNX Burn Rate Summary
+Video Clip
+General Notes
+As detailed in the Propellant Burn Rate web page, the burn rate of a rocket propellant significantly increases at elevated pressure. Burn rate is a key parameter of rocket motor design, and knowing the relationship between burn rate and chamber pressure is invaluable for rocket motor design.
+Two complementary methods have been utilized to determine the relationship between chamber pressure and burn rate for the RNX propellant. The initial method that was used was the same technique that was used for sugar propellants – the use of strand burner apparatus. Strands (sticks) of RNX were prepared, typically by casting a block of propellant, then cutting out strands to appropriate dimensions. In all cases the strands were inhibited on the sides with paint to ensure a linear regression during burn. A photo of the strand burner apparatus is shown in Figure 1.
+
+￼
+Figure 1 -- Strand burner apparatus
+Burn rate results obtained by strand burner analysis are not always consistent with the burn rate that will occur in an actual rocket motor due to various factors. As such, a Ballistic Evaluation Motor (BEM) was used to conduct test firings with the goal of obtaining motor specific burn rate data. Conveniently, the BEM utilized an existing nozzle and casing. In order to operate over a relatively large pressure range, the grain configuration was hollow-cylindrical, inhibited on the outer surface and ends. Initial burning occurs only along the core, which continually grows in diameter as burning progresses. The BEM is illustrated in Figure 2.
+
+￼
+Figure 2 -- Ballistic Evaluation Motor
+
+Grains of both RNX-71V and RNX-57 were prepared. The geometical data for the grains are shown in Figure 3.
+￼
+Figure 2 -- BEM grain data for RNX-71V and RNX-57
+
+
+Strandburner Burn Rate Measurements
+A total of 12 strands were burned for each RNX-57 and RNX-71V over a pressure range of approximately 330 psi to 1275 psi (2.28MPa to 8.80MPa). The burn rate results were plotted on graphs and a best-fit power curve of the usual form r = a Pn applied to each, where r is the burn rate, a is the burn rate coefficient and n is the pressure exponent. The results are shown in Figure 3. The graphs also have a single point plotted indicating the zero (ambient) pressure burn rate. This value is not taken into consideration in the curve fit, as we are primarily interested in the burn rate at typical motor chamber pressures.
+
+￼
+Figure 3 -- Strand Burner results for RNX-57 and RNX-71V
+
+
+BEM Burn Rate Results
+Static test firings of the BEM occurred on 7 November 2009, test BM-5 which was loaded with RNX-71V and test BM-6 with RNX-57. Overall, good pressure curves were obtained, however, both tests suffered from startup anomalies. BM-5 experienced delayed ignition of the full core area, likely as a result of undersized pyrogen igniter. For BM-6, the ignition delay was significantly less, however, an initial pressure spike occurred. Both anomalies were fairly minor in nature, but the result of such was the need to make certain assumptions in the subsequent analysis performed to derive the burn rate as a function of chamber pressure. This leads to a small degree of uncertainty in the final results. Ambient temperature at time of test firing for both motors was 13oC
+.
+￼
+Figure 4 -- BEM chamber pressure results for RNX-57 and RNX-71V
+
+The method described in the web page Burn Rate Determination from a Pressure-time Trace was used to derive burn rate as a function of pressure for both propellants. Certain assumptions were made regarding the initial burning area. The valid pressure range was limited to the time period that the motor burned in a steady-state manner. For BM-5, this was over the range of 258-673 psi. For BM-6, the range was 100-837 psi.Overall, the procedure worked well and a reasonable estimate of burn rate was derived over the steady-state operating duration of the motor. The analysis results, compared to the strand burner results over the same pressure range, is shown in Figure 5. Note that the units are mm/second and MPa, which are the units utilized when performing the burn rate analysis.
+￼
+Figure 5 -- Analysis results for RNX-71V compared to strand burner results
+
+As is seen in the figure, the burn rate obtained from the static firing of RNX-71V was lower than the strand burner measurements. The same result was seen for RNX-57. It turns out that the pressure exponent n is the same for both strand burner and static firing results, however, there is a reduction in the coefficient, a, value. Reducing the value of a to 94% of the strand burner results gives a good match of burn rate at chamber pressures greater than 500 psi (3.5MPa). For rocket motor design, we are mainly interested in operating at pressures greater than 500 psi, so this reduced coefficient serves as a suitable design value. The static test analysis results compared to strand burner results with reduced a is shown in Figure 6, clearly showing a good match of burn rate at pressures greater than 3.5MPa.
+
+￼
+Figure 6 -- Analysis results for RNX-71V compared to strand burner results with modified a value
+
+At pressures lower than 3.5MPa, the slope of the analysis burn rate curve is seen to be significantly more steep. Fitting a curve through this particular region indicates a relatively high pressure exponent of approximately n=0.5. This helps explain why clean start-up of RNX powered motors can be rather challenging, as it is well known that propellants with high pressure exponents can be hesitant to start up and reach nominal operating pressure (chuffing is an associated phenomenon). Motors operating with high-exponent propellants require a suitably powerful igniter to aid obtain rapid startup and operation. A powerful igniter (a pyrogen is preferred) help ensure rapid heat transfer to the entire (exposed) propellant area, and help ensure chamber pressure is sustained during the startup period.
+BEM burn rate results for RNX-57 are very similar to RNX-71V. At chamber pressure above 3.5MPa (500 psi), the pressure exponent derived from the analysis is nearly the same as the strand burner results. As with RNX-71V, the burn rate coefficient needs to be reduced to match the burn rate trend. Figure 7 illustrates the analysis results compared to strand burner results, with the graph on the right-hand side showing a comparison with the coefficient reduced to 90% of the strand burner value. Again, at pressures below 3.5MPa, the pressure exponent tends to be higher, being around n=0.55.
+
+￼
+Figure 7 -- Analysis results for RNX-57 compared to strand burner results with modified a value
+
+
+
+RNX Burn Rate Summary
+Table 1 presents a summary of the burn rate parameters that are suitable for designing a rocket motor utilizing either RNX-57 or RNX-71V propellant. These values are considered to be applicable for rocket motor design for chamber pressure greater than 500 psi (3.5MPa). The values are provided for two units of measure: burn rate expressed in inches per second applicable to chamber pressure in psi (gauge); burn rate expressed in millimetres per second applicable to chamber pressure in megapascals (gauge).
+
+￼
+Figure 8 -- Design values for RNX propellant burn rate parameters
+
+
+Video Clip
+Motor Firing BM-6 Static firing of BEM BM-6 with RNX-57 propellant
+RNX-BM6.WMV  Nov.7, 2009  WMV movie file    2.5 Mbytes
+Next -- Combustion Chemistry
+
+￼
+Last updated  January 18, 2018
+Back to RNX Index Page
+Back to Home Page
+

@@ -1,0 +1,283 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+KNSB Propellant
+
+Introduction
+Properties of Sorbitol
+Effects of Heating Sorbitol
+Propellant Formulation
+Preparation and Mixing
+Casting
+Quality Control
+Effects of Overheating
+Theoretical Performance
+Burn rate
+Mechanical Properties
+Special Considerations
+Assessment
+
+Introduction
+I first became aware of the Potassium Nitrate/Sorbitol (KNSB) rocket propellant in 1996, when I learned that it was being used as a replacement for the KN-Sucrose (KNSU) propellant by some European rocketry organizations. From correspondence with the Dutch group NERO, I learned that Sorbitol was chosen as a replacement for sucrose in an attempt to alleviate certain problems that were attributed to the brittle nature of the KNSU propellant. I more recently learned that sorbitol propellant was experimented with as early as 1977 by the Belgian group VRO, who successfully test-fired KNSB motors. Although similar in many respects to the "classic" KNSU sugar propellant, KNSB has a number of significant advantages, which are detailed further on in this web page.
+For convenience, I use the acronym KNSB to refer to the standard Potassium Nitrate/Sorbitol propellant, comprised of 65% Potassium Nitrate (KN) and 35% Sorbitol.
+Now the obvious question -- what is Sorbitol?
+Sorbitol is an artificial sweetener, very similar in appearance and with similar physical characteristics to both sucrose and dextrose sugars. However, unlike the sugars, Sorbitol is not a carbohydrate. Rather, Sorbitol is a hexahydric alcohol, or an "alcohol sugar". The chemical formula is C6H14O6, which is similar to dextrose, except with 2 additional hydrogens atoms. Although sorbitol occurs in nature, it is manufactured commercially by the reduction of glucose (dextrose). Some other names for Sorbitol are:
+	•	Neosorb
+	•	Sorbite
+	•	Karion
+	•	Sorbit
+	•	D-Sorbol
+	•	D-Glucitol
+
+Sorbitol is widely used in industry, in particular, in the manufacture of processed items such as confections, toothpaste, chewing gum, candy and syrups. It is also used as a sweetener for diabetics. The nonvolatile, plasticizing properties of Sorbitol are exploited to impart texture to tissue paper, paper napkins, and wax papers. Sorbitol also imparts body and texture to frozen desserts.
+At a consumer level, however, Sorbitol is less well known, and is less easy to obtain than dextrose. Sorbitol powder is most conveniently obtained through on-line sellers such as eBay.
+￼
+The molecular structure, which is shown in Figure 1, is a chain rather than the cyclic form of the sugars. The Sorbitol molecule is much smaller than the sucrose molecule. Smaller organic molecules often have a lower melting point and also have less tendency to decompose upon heating, which is a result of the molecule having less tendency to break up as it "thrashs around" due to thermal agitation. Testing of the Sorbitol-based propellant confirmed that the melting point is significantly lower than sucrose-based, and, significantly, no caramelization (decomposition) occurs as a result of normal heating. As far as hygroscopicity is concerned, there does appear to be some improvement over sucrose-based and dextrose-based. The mechanical properties (such as tensile strength and elastic modulus) of the Sorbitol-based propellant are similar to sucrose-based and dextrose-based propellant.
+Sorbitol has one very odd property. When Sorbitol powder is melted, then allowed to cool, it does not harden immediately. Rather, it forms a transparent mass that is fairly soft and may be cut with a knife. If pulled, it stretches in the form of long strands. After two or three days, the surface hardens, but the inside remains soft. After 5 days, the mass completely hardens and attains a brittle nature. Interestingly, the material in this "cured" state is non-hygroscopic, at least at moderate humidity levels. Sorbitol-based propellant seems to cure sooner, requiring only one or two days to completely harden.
+
+￼
+Figure 1 -- Author with a 10 lb. (4.5 kg) bag of Sorbitol
+
+
+Properties of Sorbitol
+The following is a brief comparison of some physical and thermodynamic properties of Sucrose, Sorbitol, and Dextrose . Note that Sorbitol may also exist in a hydrated state, with molecular bound water present.
+Table 1 -- Comparison of Properties
+
+Sucrose
+Sorbitol
+Dextrose
+
+Chemical Formula
+C12H22O11
+C6H14O6    [1]
+C6H12O6
+
+Molecular Weight (g/mole)
+342.3
+182.2       [1]
+180.16
+
+Melting Point (C.)
+185 (d)
+110-112    [2]
+146 (d)   [3]
+
+Density (g/cm3)
+1.581
+1.489
+1.562
+
+Enthalpy of Formation (kJ/mol)
+-2221.2
+-1353.7
+-1274.5
+
+Enthalpy of Formation (cal/gram)
+-1549.9   [4]
+-1774.8   [4]
+-1689.7   [4]
+
+Appearance
+white granular or
+cohesive powder
+white granular or 
+cohesive powder
+dry white powder
+
+ d = decomposition initiates upon melting  [1] Anhydrous; hydrated form has ½ H2O or 1H2O  [2] Anhydrous; 98-100 C. for hydrated form  [3] Anhydrous; 86 C. for hydrated form  [4] Units of calories/gram used for GUIPEP. Conversion shown here
+
+Effects of Heating Sorbitol
+An experiment was performed to determine the effects of elevated temperature on Sorbitol (alone). This was done by slowly heating a 250 gram batch of Sorbitol in a stainless steel bowl, over an electric element. The effects of heating were noted (qualitatively, such as appearance, colour change, smell, texture, etc) as well as quantitative changes such as mass and temperature, as a function of time. Key results of this testing are summarized in the graph below:
+
+￼
+
+Figure 2 -- Effects of elevated temperature on Sorbitol
+ From the graph, the following observations may be made:
+	1	Melting of the sample was first noticed after about 8 minutes of heating, at a temperature above 91 C. deg. 
+	2	Sample was fully melted after about 18 minutes, at a temperature of 123 C. deg. As would be expected, a temperature plateau is observed until the melting is largely complete. 
+	3	The temperature of the sample continued to rise with further heating, although at a decreasing rate. 
+	4	There was no indication of decomposition as the temperature increased further. A faint yellow colour was detected, although this could very likely be a result of impurities in the sample. Since sorbitol is synthesized from glucose, it is conceivable that the trace amounts of glucose were responsible for the slight caramelization. 
+	5	Very little change in mass occurred. A total of 4 grams reduction represents a percentage mass loss of about 1.5%. Since the resolution of the scale is 2 grams, the actual loss may be slightly more or less. The percentage of water bound in the ½ H2O hydrated sorbitol is 4.7%. Therefore, it would appear that the sorbitol that was tested was not the hydrated form, and that the water present was simply absorbed moisture. This is contradicted, however, by the melting temperature of the sample, which corresponded to that of sorbitol hydrate.
+Click for details of testing and results...
+
+
+Propellant Formulation
+The standard formulation of KNSB propellant is 65% potassium nitrate (KN) which serves as the oxidizer and 35% Sorbitol (SB) which serves as the fuel and binder. This ratio of oxidizer to fuel mass represents a practical upper limit for "solids" loading of a sugar binder, while maintaining good performance and burn rate characteristics. A higher O/F ratio, and thus higher "solids" loading, may give slightly enhanced performance, but leads to a thicker consistency of the melted mixture (slurry). This makes casting more difficult. The effect of using a lower O/F ratio is reduced performance and a slower burning rate. However, the slurry has a thinner consistency, which makes casting a bit easier.
+Potassium nitrate, also known as saltpetre, is a commonly used chemical (used, for example, for pickling meats, and in toothpaste for "sensitive teeth"). I’ve purchased potassium nitrate in 2 kg. lots at a veterinary chemical supply store. Potassium nitrate is also sold as 14-0-45 fertilizer at farm supply stores, typically 98-99% pure. This is by far the most economical form, and the performance is generally no different that purer grades. Sadly, nowadays the sale of potassium nitrate has had restrictions placed on it, making it more challenging for prospective rocket engineers to carry on their calling. Good fortune does shine on those who deserve it, however. It turns out that it is not difficult to synthesize potassium nitrate from a commonly available, non-regulated fertilizer (click for more information).
+Powdered sorbitol tends to form hard clumps in storage. Caked clumps may be reduced to a fine powder by using a flour sifter or by rubbing inside a strainer.
+
+Preparation and Mixing
+
+The first step in preparation of the propellant is to grind, or mill, the potassium nitrate to a fine texture. This may easily be done with the use of an electric coffee grinder, such as that shown in Figure 3. Adding two tablespoons (30ml) to the hopper, the grinder is then run about 15-30 seconds, depending on how finely the KN is to be milled. To facilitate milling, the grinder is slowly "gyrated" about its base. Milling as such will reduce the particle size appreciably. A sieve analysis that was done on three samples of milled KN prills indicated that 50% of the resulting particles are smaller than 74 microns, with most of the remainder being less than 234 microns in size.
+It should be noted that the viscosity of the melted propellant slurry is highly dependant upon how finely of the potassium nitrate is milled. When prepared as described above, the slurry will not be fluid enough to cast, and as such it is necessary to scoop the propellant into the casting mould. The slurry will be more fluid and easier to cast if the potassium nitrate is milled for a shorter time, such as 10 seconds or less. Or if the potassium nitrate is obtained as a fine granular form (similar to table salt), it can be used "as is". The drawback is reduced performance due to less efficient combustion, lower chamber pressure, combined with a slightly longer burn time compared to propellant made with fine-grind oxidizer.
+For maximum performance, the sorbitol should be dessicated to remove all traces of residual water. This is done by placing sifted sorbitol in a shallow pan and putting in a dessicator for several days. A dessicator can be as simple as a tupperware container lined with a few centimetres of fresh calcium chloride. It is important to note that dessicating should only be done if performance must be maximized. One drawback to dessicating the sorbitol is that it makes for a stiffer, more viscous propellant slurry when melted, making the casting operation more difficult.
+Following the milling process, the two constituents are carefully weighed out using an accurate scale. Enough of the powdered mixture of potassium nitrate and sorbitol has to be prepared to take into account the inevitable waste resulting from the casting procedure, typically 20-25% additional for small batches, less for larger batches.
+After individually weighing out the two constituents, the two are blended together in a single container. Complete mixing of the two is necessary for optimum and consistent performance. I built an electric tumbler for this purpose (Figure 4). The powdered mixture is loaded into a tupperware container, then secured to the rotating drum with rubber bands, then tumbled for several hours. The tumbler rotates at 30 RPM. As a guideline, I allow one hour per hundred grams of powdered mixture. Videoclip of tumbler in action
+Once the mixing operation has been completed, the powdered mixture is transferred immediately to a closed container for safe storage. At this stage, the mixture is readily combustible amd sensible precautions are observed to keep it away from any possible ignition sources.
+
+
+￼
+Figure 3 -- This $15 coffee grinder does a superb job of pulverizing the potassium nitrate to a fine texture.
+
+￼
+Figure 4 --Propellant "dry" mixer
+
+Casting Sorbitol-based Propellant
+
+The casting process involves heating of the powdered mixture until it becomes molten, then casting into a mould to produce the propellant grain of the desired shape. The required temperature that the mixture must attain is just above the melting point of sorbitol. The potassium nitrate, which has a much higher melting point, remains as solid particles that partly dissolve in the sorbitol. The result is a slurry of solid oxidizer particles suspended in liquid sorbitol medium.
+Heating the mixture is done using a thermostatically controlled electric "deep fryer". A thermostatically controlled skillet may also used for heating KNSB.
+It is essential, from a long-term safety consideration, that only a thermostatically controlled heating vessel with no exposed elements be used for heating propellant, the critical intent being that no exposed heating surface is of significantly higher temperature than the melting point of the propellant.
+￼
+
+Figure 5 -- Casting setup for KNDX, employing 'tilt-table' for the heating vessel.
+(click for larger image)
+
+For KNSB, the casting temperature should be in the range of 115-125oC.To monitor the temperature of the heated slurry, a dial-type candy thermometer, a digital thermometer equipped with a probe sensor, or an infrared thermometer may be used. I've used all three types and have found the infrared thermometer to be the most convenient.
+The casting procedure involves first preheating the deep fryer or skillet to the required temperature, and maintaining this temperature +/- 5 degrees. Then, starting with about half the total amount, the powdered mix is added, and stirred often to assist melting. Once this has melted, the remaining powdered mix is added. Stirring helps facilitate melting. The initial colour of the melted slurry is nearly colourless, but begins to turn a white colour as the mixture becomes fully melted. Once all the powdered mixture has been fully incorporated into the melt, it is further heated and stirred, to eliminate any lumps that may be present. An additional five to ten minutes of heating will bring the slurry up to the casting temperature. If the sorbitol contains residual moisture (which is usually the case), melting occurs quite rapidly and the slurry has a pure white, almost translucent appearance. Some tiny bubbling may be noticed, as the residual water boils away. When nearly all the residual water has been driven off, the colour may begin to change to a light ivory. The more pure the oxidizer, the more pure white the colour of the slurry will be.
+Note that the slurry may not become fluid enough to pour, depending on how finely the oxidizer has been milled. In most cases the consistency will remain fairly thick, and must be simultaneously poured and scooped with a spoon or spatula onto the funnel (if used), and allowed to flow into the mould. Once the mould has been loaded, I typically pick up the mould then firmly tap it against a hard surface repeatedly. This serves to force any trapped air to rise to the surface. Immediately after loading, the coring tool is inserted into the mould, making certain it is fully inserted all the way down. This completes the casting operation. The mixture is then allowed to cool and harden.
+
+￼
+Figure 6 -- A silicone spatula is ideal for mixing and scooping
+As previously stated, sorbitol propellant remains pliable after cooling, and as such, a grain may become deformed if not carefully handled. A full day after casting, the exposed surfaces of the grain become quite hard. The inside, while still "waxy" and easily cut with a knife, is sufficiently rigid to allow handling. However, it is necessary for cast KNSB propellant to "cure" for one or two days prior to demoulding, depending on residual moisture content and size of the grain. If it is demoulded too soon, the grain may become distorted when extracting the coring rod. Until fully cured, care should be exercised, as KNSB does tend to chip quite easily. After complete curing, however, the material becomes hard and relatively strong. Full curing may take a week, however, it is perfectly acceptable to fire a grain anytime after demoulding.
+
+A finished cast KNSB grain is illustrated in Figure 3 below:
+
+￼
+
+Figure 7 -- Cast KNSB propellant grain
+
+
+Using Surfactant as a Casting Aid
+As mentioned earlier, molten propellant slurry can be quite viscous and requires careful scooping to load the propellant into the mould. This is particularly true if the potassium nitrate is finely milled especially if the mould is of small diameter. Fellow rocketry experimenter Scott Jolley (The Jolley Rocket) has discovered that the use of a tiny amount of surfactant (a substance that tends to reduce the surface tension of a liquid in which it is dissolved) can greatly reduce the viscosity of molten KNSB. In fact, from my experience, molten KNSB becomes readily pourable when surfactant is incorporated, having a viscosity similar to maple syrup.
+There are various surfactants that can be used. I've used Sodium Laureth Sulfate (SLS), which is readily available and very inexpensive, as it is used commercially in many soaps and shampoos. I've purchased SLS on-line (Voyageur Soap and Candle) for about $5 CAD for a 500 ml bottle. Also available from Essential Wholesale & Labs for $1.95 USD for a "sample" size. It is also possible to use a retail product such as foaming bath gel, as long as the main listed ingredient (other than water) is Sodium Laureth Sulfate. Bear in mind this product contains an appreciable amount of water so a greater percentage may be required, and additional heating may be required to drive off the added water. The surfactant is simply added to the fully molten KNSB and stirred. The viscosity of the slurry will immediately decrease. Only a tiny amount of surfactant is required. I typically use 0.1% surfactant mass relative to the mass of the molten propellant, which amounts to a couple of drops from an eyedropper for a batch of 300 grams propellant (mass surfactant = 0.001 x 300 = 0.3 grams). At this tiny concentration, evidence so far suggests the performance of KNSB in a motor is unaffected.
+At this point in time, I have limited experience using the surfactant method. Eventually, I plan to adopt this method for all my small diameter motors. Before using this method for larger motors, I plan to conduct testing to verify that burn rate and other important performance parameters are not significantly altered.
+Videoclip demonstrating casting KNSB using Surfactant
+Using a Casting Tube
+A casting tube serves as a sleeve into which molten propellant is poured. I typically use a sleeve made from posterboard, rolled into a cylindrical shape. If the grain is to be uninihibited (burning occurs on the grain outer surface) such as for the A-100M Rocket Motor, the casting tube is coated with grease to allow it to be peeled off after the grain has cured. This is also the case when an inhibiting material (such as polyester soaked fabric) is to be applied to the grain after casting.
+Generally, for BATES or other configurations whereby the outer grain surface needs to be inhibited, the casting tube serves an additional function as an inhibitor. In this case, the casting tube intimately bonds to the propellant and becomes a permanent part of the grain. To serve as an effective inhibitor, a paper casting tube must have sufficient thickness. For small motors such as the F70 PVC Rocket Motor 3 or 4 layers of letter paper are sufficient. For larger motors such as the "I-class" Impulser Rocket Motor, two plies of 0.013 inch (0.3mm) posterboard are used. Prior to rolling, the posterboard is made more heat resistant by applying one or two coats of oil-based (not water-based) polyurethane varnish and allowed to fully dry. To form the tube, the posterboard is cut to size, adhesive applied to overlapping region, then rolled firmly around a mandrel of suitable diameter.
+As a paper or posterboard casting tube lacks the rigidity to hold its own shape when loaded with propellant, a Support Tube, into which the casting tube is inserted, is used. The Support Tube can be metal or PVC of a suitable size that snuggly holds the casting tube. As is often the case, finding a tube that is exactly the right fit is unlikely. A tube that fits loosely can be made to work by using a spacer, made from posterboard, that wraps around the casting tube with enough layers to provide a good fit within the Support Tube.
+Photo of Grain Segments for Impulser Motor with Casting Tube Inhibitor
+Curing KNSB under Pressure
+It is important that the casting tube, serving as an inhibitor, bonds completely and intimately to the propellant. As hot propellant shrinks when it cools, under certain circumstances the casting tube may partly disbond from the propellant. I have experienced this anomaly when there is too much residual moisture in the propellant, or when the casting tube material lacks the necessary porosity to adhere fully to the propellant. In the first case, the hot residual moisture in the freshly cast propellant migrates to the grain boundaries, when it encounters the casting tube. There it tends to condense, forming a sticky layer. As the propellant body cools, it shrinks and slightly pulls away from the casting tube, leading to disbonding in some places. This tends to be less of a problem with KNSB, as it remains pliable after cooling (compared to KNSU and KNDX which harden as it cools). In the second case, an inhibitor material that is not sufficiently porous will not allow the propellant to 'grab' hold. Certain cardboard materials have one side that is particulary smooth and shiny, and propellant does not bond well. I always make sure that this smooth surface forms the outside of the casting tube.
+Another important consideration when casting a propellant grain is that there be no trapped air bubbles or voids. Lifting then tapping the casting mould repeatedly against a table surface (prior to insertion of the coring rod) after filling with propellant helps dispel air, but this remedy is not infallible.
+A very effective solution to avoiding both of these issues is to cure the propellant under pressure. This method eliminates the risk of disbonding, eliminates all trapped air, and results in a consistent propellant grain that has a near-ideal density. I now use this method nearly exclusively[1]. Curing under pressure is achieved by use of a casting mould apparatus that utilizes a compression spring to apply a force to the top surface of the propellant. This force generates a hydrostatic pressure in the body of the propellant, that forces it against its enclosures, consisting of a top cap, a bottom cap and the casting tube (held within the Support Tube). Initially, when the propellant is still hot, only light spring pressure is applied, to squeeze out any trapped air (if overly tightened, hot propellant will ooze out through gaps). After the propellant has largely cooled, full spring pressure is applied and left until the propellant has fully cured.
+Based on my experience, the spring should be chosen to deliver a force, when fully compressed, that develops a pressure in the range of 25-40 pounds per square inch (psi) or 170-275 kPa [2]. Using higher pressure could result in difficulty in removing the grain from the mould.
+Diagram of Pressure Casting Mould Setup Photo of Pressure Casting Mould Setup for Impulser Motor
+  [1] An exception is when using surfactant. Early trials of this method suggest that casting tube bonding is enhanced and trapped air content is minimal.   [2] Recall that pressure equals force divided by area, where area is the cap area acting on the propellant A = 1/4 x 3.14 x (D2 - d2) where D=Cap diameter, d=Cap hole diameter
+
+Comparison to Casting KNSU
+
+As can be seen from Table 2, the melting temperature of the KNSB slurry is much lower than KNSU, and no caramelization occurs. Cast KNSB is slightly translucent, and can be nearly pure white in colour.
+
+
+
+Table 2 -- Measured casting temperatures, 65/35 O/F propellant
+
+Sorbitol-based
+Sucrose-based
+Initial melting
+91 C.
+174 C.
+Fully melted
+125 C.
+184-187 C.
+1st sign of caramelization
+does not caramelize
+176 C.
+There are two significant advantages to casting this propellant over casting sucrose-based propellant. One is that the heated slurry does not 'freeze' nearly as quickly, resulting in a better cast grain . This is due to the lower temperature of the slurry, which consequently has a lower heat loss rate to the surroundings. Secondly, since no caramelization (decomposition) occurs, the "pot life" of the molten KNSB propellant is not limited, and thus the casting procedure can be performed at a more relaxed pace.
+
+Quality Control
+After the casting and demoulding operation has been completed, and a visual examination of the resulting grain segment suggests all is well, how can we know for sure whether the grain is acceptable for firing in a rocket motor? Does it contain hidden flaws such as empty voids or air bubbles? How well is the casting tube (inhibitor) bonded to the propellant? Fortunately, there are two checks we can make to assess the grain quality, checks that I always perform:
+1) Density Check 2) Tap Test
+The first check determines how well packed the cast propellant is. If a grain segment is solidly packed, the segment volume consists entirely of propellant. Often, however, there is a small amount of air, in the form of tiny bubbles, that make up part of the volume. Such air inclusion, if no more than a few percent, has negligible effect on the overall performance of the propellant when fired in a rocket motor.
+On the other hand, if there are sizeable bubbles, or great many of therm, or voids caused by trapped air, the result on motor performance can be significant and detrimental. The increased surface area provides for greater burning area than expected, which can lead to overpressurization (or even CATO) of the motor.
+Fortunately, a simple and effective check can be made to assess how solid a grain segment is. Presence of air results in a lower density of the propellant compared to the ideal case of solidly packed propellant. A Density Check serves to measure the actual density of the segment and compare it to the ideal case. To perform a Density Check, the grain segment is weighed and the volume measured. Density, which is mass divided by volume, is then calculated. This is compared to the ideal density for KNSB which is 1.841 grams/cubic centimetre (g/cc) or 0.0665 lbs per cubic inch. The ratio of actual to ideal density provides a benchmark of quality, as shown in Table 3.
+
+￼
+Table 3 --Propellant density assessment
+Volume of a grain can be measured using an accurate ruler, although using calipers is a more accurate means.
+Grain core diameter typically does not need to be explicitly measured, as it is the same diameter as the coring rod. If a grain is integral with the casting tube, it is necessary to know both the mass and the thickness of the casting tube, which are subtracted from the measured grain mass and diameter.
+For convenience, an MS Excel spreadsheet is available for doing a Density Check: Graindensity.xls
+The Tap Test (also known as Coin Tap Test in aerospace industry) only applies to a grain with an integral casting tube as inhibitor. Is is imperative that the inhibitor be intimately bonded to the propellant to be effective, there must be no disbonding or gap. Such disbonding could allow hot combustion gases to seep in between the inhibitor and the propellant body, increasing the burning area of the propellant. The Tap Test assesses this bond by indicating areas of disbonding.
+The test is performed by taking a coin (larger coin works better) and gently tapping the inhibitor at points all around the grain segment, and noting the sound that the tapping makes. The sound (and feel) should be a solid tap as opposed to a "dull" tap. The tap sound is, of course, difficult to explain in words, it actually takes experience to recognize what is a good tap sound and what is a bad tap sound. I have found that the best technique is to listen to the relative tap sounds at the various tapping points. Each tap should sound identical. Any locations where the tap sound is distinctly different (usually more dull, like tapping on hard rubber versus tapping on hard plastic, for example) signals a possible disbonding. If this occurs only at a single location, its generally not a problem. I have found, for example, that at the seam of a rolled casting tube, a different tap sound is heard. I consider this normal and not a problem.
+What we particularly need to be on the lookout for is a different tap response between grains segments of the same batch. If one of the grain segments of a batch sounds distinctly different, and less solid, that grain's inhibitor may have a flawed bond. When I encounter this, I reject the grain segment and do an examination. The inhibitor is slit lengthwise and carefully peeled away, examining the bond. A flawed bond is usually apparent, as it is easy to peel and there is little or no propellant residue on the inhibitor surface.
+It is important to note that the Tap Test should only be performed after a propellant grain has fully cured or else indications of disbonding may be false. As well, I have on occasion noticed that a grain segment may fail a tap test due to residual moisture in the bondline. Placing the segment in a dessicator for a few days often results in a "pass" when the test is redone. On a final note, for grains that are cured under pressure, failing a Tap Test is very rare. Out of perhaps two hundred grain segments that I have produced using this method, only a few have failed a Tap Test due to flawed inhibitor bonding.
+
+
+Effects of Overheating during Casting
+Since the casting process of this propellant involves operation at an elevated temperature, it is important to know how much of a "safety margin" one has, with regard to possible hazards associated with inadvertent overheating. To determine the effects of overheating during the casting process, an experiment was performed in which a sample of KNSB propellant was overheated. This involved placing a small sample (16 grams) of the KNSB powdered mixture into an aluminum pan, and heating the sample with a forced-air heat gun (1400 watt; 1100 deg.F max. rating). A type-K thermocouple (chromel-alumel) was inserted into the mixture to monitor temperature. The setup for this experiment is illustrated in Figure 8.
+
+￼
+
+Figure 8 -- Setup for propellant "overheating" experiment (left); Remains after conclusion of experiment (right). Bottom layer (exposed for clarity) was severely charred, yet failed to ignite.
+Soon after the sample became fully melted, the material around the edges of the pan began to turn a slight yellowish colour. The temperature of the sample, at this point, was 175 C. The colour eventually became a greyish-amber, after 11 minutes of heating with the temperature around 225 C. Bubbles began to be noticed , and shortly after, puffs of smoke, accompanied by a strong burning caramel odour. The temperature was recorded at 250 C. These indicators of strong decomposition continued, until after 19 minutes, at a temperature of just over 300 C. it was decided to terminate further heating. This was done to allow for an examination of the sample, to see in detail the degree of decomposition that had occurred to this point. Some charring had been visible, and upon close examination, it was seen that the entire bottom layer of the sample was severely charred. As such, it would seem improbable that accidental ignition during casting would occur due to overheating, given the obvious indicators of overheating, in particular, the colour change from white to greyish-amber, bubbling combined with smoke, and the strong burning odour. As well, auto-ignition occurs at a temperature greater than 300 C., whereby the normal casting temperature is below 135 C.,
+Needless to say, appropriate safety precautions must always be taken when casting the propellant. Inadvertent ignition due to other unforeseen causes (e.g. electrical short, static electricity, distraction, etc.) must be considered as a possibility. Appropriate apparel must be worn when casting the propellant, such as face & hand protection as a minimum. The fact that the KNSB propellant is highly tolerant of overheating must not lead to lax standards of safety, rather, this characteristic should only be considered to be a valuable margin of safety.
+
+Click for details of overheating experiment and results...
+
+Theoretical Performance
+The theoretical performance of the KNSB propellant is very similar to that of both the KNSU propellant and the KNDX propellant. For example, the specific impulse is less than 1% lower than Sucrose-based, the combustion temperature is about 100 C. lower, and the products of combustion are very similar, including the mass fraction of particles in the exhaust. The ideal density of the cast propellant is 2.5 % lower than Sucrose-based propellant. KNSB Ideal Performance Calculations
+
+Burn Rate
+The burn rate of a propellant, and how it varies under pressure, is a key parameter for rocket motor design. This is explained in detail on another web page (Details). Briefly, burn rate will vary dependant upon ambient pressure and, to a lesser extent, upon temperature. Several years ago I conducted a rather extensive experimental investigation to determine the effect of pressure upon burn rate of KNSU, KNDX and KNSB by utilizing a Strand Burner apparatus. Details of this investigation are presented on another web page, but results are summarized in Figure 9. The effect of temperature upon burn rate was also explored, although not extensively. Details are found on the same web page. A summary of the results for KNSB, compared to KNDX and KNSU, is shown in Figure 9.
+
+￼
+Figure 9 -Comparison of burn rate for three sugar propellants
+CLICK for larger image...
+Fellow rocketry experimenter Magnus Gudnason conducted a similar strand burner investigation of the burn rate of KNSB (and some other sugar propellants) in 2010, for his Bachelor Thesis in Chemical Engineering. Magnus's investigation was conducted with excellence in technique and comprehesiveness, and close attention to detail. Although similar to my earlier investigation with regard to methodology, Magnus chose to characterize KNSB made with as obtained potassium nitrate in granular form. The results of Magnus's burn rate measurements as well as my earlier work is shown in Figure 10.
+￼
+Figure 10 -- Experimental results for burn rate versus pressure for KNSB
+As expected, larger oxidizer particle size results in a lower burn rate, over the full range of pressure. Interestingly burning rate versus pressure for granular potassium nitrate is seen to follow St.Robert burning rate law reasonably well, not displaying the mesa behaviour exhibited by the finely ground oxidizer. Another contributing factor to the suppressed burning rate is likely the result of Magnus using as-obtained sorbitol. My earlier work was done using dessicated potassium nitrate and dessicated sorbitol. From my own experience using KNSB, residual moisture in propellant has a significant effect on suppressing burn rate in a rocket motor. This is particularly true of sorbitol, which has a greater moisture content, as obtained, compared to sucrose, or dextrose which is usually used in the anhydrous form. A suppression in burn rate is reflected in a reduced value for the burn rate coefficient (a) and does not change the pressure exponent (n). This can be demonstrated by plotting a best-fit power curve through the data obtained for KNSB made with fine-grind dessicated oxidizer, and comparing to that for KNSB with granular oxidizer. The result is seen in Figure 11. When plotted on a log-log graph, the slope of both curves is seen to be the same.
+
+￼
+Figure 11 -- Experimental results for burn rate versus pressure for KNSB
+KNSB Burn rate graph, psi and inches/second
+
+
+Mechanical Properties
+The mechanical properties of a propellant pertain to its behaviour under the condition of loading. Such loading may be tension, compression, shear, bending, torsion etc, or any combination of these. A propellant grain may be subjected to one or more of these loads during operation, resulting from, for example, the forces associated with acceleration (flight), or even during static testing, as a result of being subjected to high pressure that exists in the combustion chamber. The grain configuration is significant for the latter condition. If a grain is configured to be freestanding, it is subjected almost exclusively to compressive loading. A case-bonded grain with a central core, on the other hand, is predominantly subjected to tension loading.  Experience has proven that, configured as a freestanding grain, a brittle propellant can perform very reliably with no structurally related problems. A brittle material is one that is strong in compression, but may have poor capability to withstand tension loading. But can a brittle propellant, such as KNSB, alternatively be configured as case-bonded? To answer this question, it is first necessary to know two important mechanical properties:
+	1	Tensile strength (Ftu). This is the force per unit area (stress) that a material loaded in axial tension ultimately can carry before fracture (breakage) occurs.
+	2	Elastic modulus (E). Also known as Young's modulus, this term defines how much strain (stretch) occurs when a material is subjected to stress.
+The elastic modulus determines, for example, how much a cantilever beam will deflect when subjected to a force applied at the free end. The deflection is given by   ￼
+where
+D = deflection at beam free end
+P = applied load
+L = beam length
+I = area moment of inertia of beam
+It is apparent that this deflection is inversely proportional to E, for a given beam geometry and applied load. This provides a simple means to estimate E for the KNSB propellant. A beam of rectangular cross-section was cast, of approximate dimensions 12 x 0.53 x 0.50 inches. One end was held firmly in a vise, a force was incrementally applied to the end, and the deflections recorded. The setup is shown in Figure 12 and the results shown in Figure 13.
+￼
+Figure 12 -- KN-Sorbitol beam setup
+
+￼
+Figure 13 -- Experimental results
+The deflection is seen to be initially linear, becoming less so as the magnitude of the deflection increases. Since the moment of inertia is given by I = 1/12 w h3, the elastic modulus may be expressed as   ￼ A straight line was fit through the linear portion in order to calculate elastic modulus. From this, the value of elastic modulus was determined to be approximately E = 850 000 lb/in2 (5.84 GPa). This is similar to bakelite. For further comparison, Plexiglas, 450 000 ; Nylon, 260 000; Polyethylene, 35 000; Aluminum, 10 000 000 lb/in2.
+After completion of the elastic modulus experiment, the beam was used to determine the modulus of rupture. The modulus of rupture (Fb) is the breaking strength of the material, when subjected to bending, and is defined as Fb = M/S where M is the applied bending moment (M = F L for an end-loaded cantilever beam), and S is the section modulus (S = w h2/6 for a rectangular beam). The beam was cut into three specimens to allow for three separate measurements to be taken. The resulting values determined for Fb were 839, 1102 and 1072 lb/in2. Note that for the first test, the broken beam cross-section revealed a small bubble that would have reduced the bending strength somewhat. Therefore, the modulus of rupture for pristine KNSB would be approximately 1100 lb/in2 (7.6 N/mm2).
+The pieces of the beam that remained after the previous tests were next used to obtain an estimate of the tensile strength of the material. Tensile specimens were prepared as shown in Figure 14. Holes were drilled through both ends and a ty-rap used to transfer tension loading without inducing any bending to the specimen.
+￼
+Figure 14 -- Tensile specimen
+
+
+Four tests were conducted. In the first, the specimen broke at the hole location. The resulting values for Ftu determined for the other three tests were: 436, 874 and 1050 lb/in2. These results suggest that the Ftu of pristine KNSB is (at least) 1050 lb/in2 (7.2 N/mm2) . For comparison, this is similar to particleboard. Examination of the broken cross-section did not reveal any significant flaws to account for the large scatter in results. The results show that, as is the case with any brittle material, even tiny flaws act as stress raisers which may result in tensile failure at nominal stress levels well below the strength of pristine material. As such, a propellant grain should be designed to avoid subjecting the grain to tensile stress. If not possible, the allowable tensile stress should be taken as no greater than 20% of the Ftu of the pristine material.
+One final note about the mechanical properties of KNSB. In comparison with KNSU and KNDX, it has been noticed that the Sorbitol-based propellant is far more susceptible to "chipping". This is apparent when cutting the material with a hand saw. If too coarse a blade is utilized, the parted material has a tendency to chip.
+To case-bond or not to case-bond, that is the question...
+
+Special Considerations
+When I first began using KNSB propellant for my motors way back in 2000, I discovered that this propellant behaved oddly in a rocket motor. Unlike KNDX and KNSU motors, the chamber pressure and thrust curves for KNSB were not consistent with the design curves. The curves had a "triangular" or mountain-shaped profile as opposed to the design curves which were more flat or gently curved. Discussing this issue with other rocketry experimentalists, I learned that this was a common finding. I also learned that KNSB can be more stubborn to ignite than either KNSU or KNDX (see Propellant Igniteability Experiment) and wondered if that was a clue...perhaps the two were related? A solution to the ignition issue was to coat the exposed surfaces of the propellant grain with ignition primer. This helped to some degree, but did not eliminate the mountain-shaped curve.
+Another researcher suggested that delayed ignition of the end faces of the BATES grains segments could theoretically result in such an anomalous pressure profile, based on computer simulations. I was skeptical at first, but decided to follow up on that idea with motor testing. To achieve more reliable ignition of the ends of the grain segments, the inter-segment spacing was varied, from 1.5mm to 18.5mm.(see SSJ Testing). The results of those motor firings, which took place in 2004, confirmed the theory. The conclusion was that KNSB motors need to have adequate inter-segment spacing in order to perform to expectation. All my KNSB motor now use spacers between the grain segments (made of cardboard rings). The "rule-of-thumb" is that the spacing should be in the range of 25%-30% of the grain diameter (spacing larger than this can be deterimental to the casing thermal liner). Additionally, I always coat the grain segment end faces and core with ignition primer.
+Primed KNSB grain segments
+
+
+Assessment
+
+The KNSB propellant has a big advantage over the sucrose-based KNSU propellant with regard to casting, and has certain advantages over dextrose-based KNDX propellant, as well. The temperature of the melted mixture is significantly lower than KNSU, which results in an improved safety margin with regard to overheating. Lower casting temperature also leads to the significant advantage of less rapid freeze-up of the melted slurry, which results in a better cast product with fewer voids or air bubbles. Since KNSB propellant does not caramelize, the pot life is essentially unlimited. This makes it very suitable for casting very large propellant grains. The largest KNSB powered motor that has been successfully fired to date is a 300 mm static test motor built by Rick Maschek which contained two grain segments, each having a propellant mass of 55 kg (121 lbs).
+The mechanical properties of cast KNSB propellant are similar to sucrose-based KNSU and dextrose-based KNDX propellants, that is, rigid and brittle. The tensile strength, however, is appreciable. As such, the structural integrity of a grain made from this material is substantial, and if reasonable care is taken in the design and support of the grain in the motor chamber, large grains are capable of withstanding the high acceleration loads imparted by flight.
+The hygroscopic tendency to absorb moisture from the air is significantly less than that of the sucrose-based KNSU propellant and is slighty better in this regard than KNDX. It appears that there is a relative humidity threshold that determines whether or not a KNSB grain will be hygroscopic. I have observed that when the humidity is low (less than 50%) that KNSB propellant left in the open air will remain bone dry.
+The performance of KNSB propellant is theoretically similar to that of both the KNSU and KNDX propellants. It is however important to coat KNSB burning surfaces with ignition primer and to provide adequate inter-segment spacing of the grain segments in a motor. This is a consequence of bare KNSB being hesistant to ignite. With this approach, KNSB delivered performance is consistent with performance predictions and comparable to that of KNSU and KNDX.
+
+￼
+Last updated July 4, 2018
+Return to Top of Page
+Back to Home Page
+

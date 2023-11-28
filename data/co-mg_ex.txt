@@ -1,0 +1,48 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Copper Oxide -Magnesium Thermite Experiment
+
+Thermite made with copper oxide and magnesium (CuO/Mg, 3.3:1) burns very hot and extremely rapidly. It is also quite easy to ignite. A regular Xmas bulb igniter element is sufficient to reliably light this pyrotechnic material. As such, this material holds promise as an effective rocket motor igniter charge, to get a motor up to operating conditions very quickly.
+Because this material is so potent and burns "in a flash", there is a concern that when confined, such as in a rocket motor, that overpressurization could occur. The primary products of combustion are non-gaseous in nature (elemental copper and magnesium oxide). The boiling point of copper is 2840 K. and the boiling point of magnesium oxide (MgO) is 3873 K. According to GUIPEP, the theoretical combustion temperature is 3300 K, and the equilibrium composition at this temperature contains a certain percentage of gaseous copper. As such, this concern may have a legitimate basis. An experiment was therefore performed whereby 1 gram of CuO/Mg thermite was fired in a confined matter to ascertain the ability of this thermite to generate pressurization.
+
+￼
+
+Figure 1 -- Weighing out 1 gram of thermite
+
+￼
+
+Figure 2 -- Closeup of CuO/Mg thermite made with 60 micron (230 mesh) magnesium
+To confine the thermite for a rapid burn, the material was loaded into a standard drinking straw type igniter. A Xmas bulb is used to initiate combustion. To ensure effective confinement, the straw was wrapped with 3 layers of aluminum tape.
+
+￼
+
+Figure 3 -- Thermite loaded into "straw" igniter then wrapped with aluminum
+To simulate the partial confinement of a rocket motor, the igniter was then placed into a 7 cm diameter x 8 cm deep tin can. Two 3 mm holes were punched in the side of the can for partial venting.
+
+￼
+
+Figure 4 -- Tin can for housing igniter
+To complete the partial confinement, a 1.5 kg aluminum bar was placed onto the tin can. Knowing that force = pressure x area, an internal pressure of 0.04 atmospheres would need to be generated to "lift" the bar and vent any excess pressure during combustion. If a large pressure were to be developed (sufficient to possibly damage a grain or motor), the bar would be expected to be blown upward forcefully. Should this happen, for safety, the assembly was placed beneath a sturdy wooden picnic table. Ignition was performed by use of a standard rocket motor electrical ignition system.
+
+￼
+
+Figure 5 -- 1.5 kg aluminum bar placed on top of tin can
+The thermite fired immediately when the ignition button was pressed, and burned instantly, with a visible white flash. The firing was videotaped, and excerpts are shown in the figures below.
+
+￼  ￼
+
+￼  ￼
+
+Figure 6 -- Still-capture images of the experimental firing
+Download videoclip (2 meg)
+The aluminum bar remained in place. Examination of the video indicated that it had been momentarily tipped slightly due to the internal pressure resulting from the thermite combustion.
+
+￼
+
+Figure 7 -- Residue in the can after firing contained elemental copper and magnesium oxide
+Based on the results of this experiment, it would appear that the pressure developed from confined CuO/Mg thermite combustion is not excessive, and that no problems relating to overpressurization would be expected when used to ignite a rocket motor.
+
+Last updated February 24, 2007
+Return to Home Page
+

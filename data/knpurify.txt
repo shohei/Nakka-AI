@@ -1,0 +1,76 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Purification of Low-grade Potassium Nitrate
+Introduction
+Process Description 
+Apparatus
+Procedure
+Safety
+Discussion
+Introduction
+Potassium nitrate is available in many different grades which vary in terms of purity. For rocket propellant usage, a high-purity grade is desired although not a strict requirement for good performance. A purity of 98-99% is perfectly acceptable and will deliver decent performance. One important consideration, however, is the type of impurity that is present. Even in small quantities, certain impurities can be problematic. This is especially true when producing sugar propellant by the heat-cast method. It has been found by many experimenters that some grades of potassium nitrate contain a particular impurity that causes moderate or even severe decomposition upon heating the propellant mixture for casting. Certain brands of stump remover, for example, contain traces of detrimental impurities. Some impurities that are known to generate such problems are potassium hydroxide, sodium hydroxide, potassium carbonate and ammonium nitrate. Certain impurities may also have an effect upon the burn rate of a propellant and as such, cause deviation from the expected chamber pressure and thrust profiles of a motor.
+Often the presence of such impurities can be readily detected by measuring the pH of a saturated solution of potassium nitrate and water. If the pH is greater than 7, then the presence of such impurities is likely. For best results, the pH should be neutral or slightly acidic (pH7 to pH6). Inexpensive pH indicator strips can be used to measure pH.
+Other types of impurities that may be present in some lower grades of potassium nitrate are insolubles such as clay, sand and small pebbles. Such impurities are often found to be present in low-cost potassium nitrate fertilizers. Although these impurites tend to be inert, it is generally desirable to remove the bulk of such impurities. An example of a low-cost fertilizer that contains both soluble and insoluble inpurities is shown in Figure 1.
+This article describes a simple method of purifying potassium nitrate, which is contaminated by impurities, through the process of recrystallization. If this method is followed closely as described, the resulting product is of excellent quality and will produce a rocket propellant as good as the better (and much more expensive) lab grade. The method described here was used to purify a low-grade brand of fertilizer (Sylvite13-0-46) containing small pebbles and clay as well as water-soluble impurities. A pH measurement of a saturated solution (15 grams potassium nitrate in 50 ml water @20oC.) indicated a significantly alkalinity of pH8.5. KNDX propellant made with this brand of fertilizer (as obtained) produced a tan coloured propellant. For comparison, KNDX propellant made with high-purity potassium nitrate has a light ivory colour. After purification, a saturated solution of the resulting potassium nitrate and water indicated a slightly acidic pH6.5, indicative of high purity potassium nitrate.
+
+￼
+
+Figure 1-- Bag of potassium nitrate 13-0-46 fertilizer
+Click for larger image.
+
+
+Process Description
+Recrystallization is the process whereby contaminated potassium nitrate is dissolved in a minimal amount of hot water then allowed to cool resulting in crystals of pure potassium nitrate forming as the solution cools down. This method exploits the very high solubility of potassium nitrate in hot water and the relatively low solubility in cold water. The solubility of potassium nitrate in water is illustrated in the graph shown in Figure 2. Following complete cooling, the crystals of potassium nitrate are mechanically separated from the liquor (remaining liquid and dissolved impurites), washed in ice-water and then dried.
+The process detailed here describes how to clean 1 kg of fertilizer or other form of low-grade potassium nitrate. The process can be directly scaled up or down for batches of other amounts.
+
+￼
+
+Figure 2-- Solubility of potassium nitrate in water with respect to temperature
+
+￼
+
+Figure 3-- Sylvite brand fertilizer before and after purification.
+
+Apparatus
+	•	Two 2-litre pots for potassium nitrate/water solution. May be Pyrex glass or stainless steel. Do not use aluminum.
+	•	Thermometer, capable of reading 110oC. (optional)
+	•	Large spoon or other utensil for stirring solution
+	•	Fine sieve. Should be at least 3 inches (75 mm) in diameter
+	•	Sheet of polyester or nylon fabric (18 inches or 45 cm square)
+	•	Large plastic bowl for drying the collected potassium nitrate
+	•	500 ml (2 cups) ice-cold water
+Procedure
+	1	Weigh out 1 kg (2.2 lbs) of potassium nitrate to be purified.
+	2	Put 500 ml of water in the 2 litre pot.
+	3	Heat the pot containing the water over an electric or gas stove element and add approximately one half the potassium nitrate. Stir well to dissolve.
+	4	Add the remaining potassium nitrate and continue to heat to a full boil or an indicated temperature of 110oC (230oF) is reached.
+	5	Remove the pot from the heating element and carefully pour the solution through the sieve into the remaining 2-litre pot. This will filter out the insoluble contaminents. For safety, the receiving pot should be placed in a sink or at ground level.CAUTION: SCALDING HAZARD
+	6	Allow solution to cool to room temperature. Stir occasionally. Cooling will take several hours (heat is evolved during the exothermic crystallization process).
+	7	Place bowl with crystallized solution into a refrigerator and leave overnight to fully cool.
+	8	Place the fabric sheet on top of the empty plastic bowl. Empty the contents of the pot onto the fabric sheet being careful to capture all the crystals.
+	9	Gather corners of fabric sheet to enclose the mass of crystals. Break up the chunks of intertwined crystals.
+	10	Lift fabric sheet and squeeze hard, repeatedly, to remove as much liquor from the crystals as possible.
+	11	Discard the liquor and rinse the plastic bowl with clean water.
+	12	Transfer the crystalline potassium nitrate into the bowl. Add the 500 ml ice-water and stir briskly to wash the crystals. This step is very important as it serves to flush away undesired impurites that are present in the liquor.
+	13	Once again pour the contents of the bowl onto the fabric sheet and squeeze out as much water as possible
+	14	Transfer the crystalline potassium nitrate into plastic bowl. Place in a warm location and allow to dry for several days (do not use an oven to attempt to dry the potassium nitrate, otherwise the potassium nitrate will tend to dissolve in the heated residual water and a gooey mess will result). Stir the contents at least twice a day to facilitate drying.
+	15	Once the potassium nitrate has dried to the extent that no moisture is visibly present, use an oven set at 80oC. (175oF.) to complete the drying operation.
+Net yield of dry, purified potassium nitrate will be approximately 900 grams.
+
+Safety
+The hot solution of potassium nitrate and water is a scalding hazard to a much greater extent than boiling water. As such, it is important to take extreme care when handling the solution. Conduct the pouring operation in a sink or at ground level to reduce the risk associated with inadvertent spashing. Wear leather gloves and other suitable protective clothing.
+
+Discussion
+Using the simple method of recrystallization, it is straightforward to purify any form of contamined potassium nitrate. The resulting product will perform very well and importantly, will provide for consistent results when used to produce rocket propellant.
+
+￼
+
+Figure 4-- Purified fertilizer grade potassium nitrate
+
+
+￼
+Last updated April 3, 2008
+Return to Top of Page
+Return to Home Page
+

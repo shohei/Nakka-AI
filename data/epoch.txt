@@ -1,0 +1,128 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Epoch Rocket Motor
+￼
+
+Introduction
+Basic Description
+Nozzle
+Bulkhead
+Motor Casing
+Thermal Liner
+Crown ring
+Propellant Grain
+Motor ignition
+Engineering drawings
+Performance
+Introduction
+Work on designing the "I-class" Epoch solid rocket motor began in August 2002 after a series of developmental static tests with its precursor, the RNXS motor, had concluded. This marked the successful development of the RNX epoxy-based composite propellant. The Epoch represents the first motor designed specifically for use with the RNX propellant. Two prototype motors were fabricated, one being essentially the same as the motor described here, fitted with a supersonic deLaval nozzle. The second had a truncated nozzle that lacked a divergent portion. The motor with this truncated "sonic" nozzle was used for early static testing involving fine-tuning of the RNX formulations. Since only chamber pressure was being measured in these tests, it was felt that there was no need for a supersonic nozzle. The motor with the supersonic nozzle was intended for propellant characterization and for motor performance measurements, and later, for rocket flights.
+To date, a total of 28 Epoch motor firings have occurred, consisting of 19 static firings and 9 flight tests (Boreas and Zephyr rockets). Included in those static tests were firings of new experimental variations of the RNX propellant, leading to the eventual development of the three "standard" RNX formulations: RNX-57, RNX-71V and RNX-73. The main difference between these three versions is the brand of epoxy used.
+Thanks to the relatively low combustion temperature of the RNX propellant, the Epoch motor is fully reusable, needing only to be cleaned between firings, and having the O-rings, crown ring and thermal liner replaced. Cleaning is done with detergent and hot water. A crusty iron oxide residue that typically forms on the nozzle flow surfaces is removed using a scraping tool and diluted muriatic acid.
+The name "Epoch" was chosen to symbolize the advent of a new-millenium motor featuring the first usage of a promising new AER solid propellant.
+
+￼
+
+Figure 1 -- Epoch rocket motor
+The Epoch motor is capable of lofting an 8 lb. (3.6 kg.), 3" (7.6 cm.) diameter rocket to an altitude of about 2000 feet (600 m.).
+View SOAR simulation file:  Boreas Flight #5
+
+
+￼    ￼
+
+Figure 2 -- Left: Epoch motor being static fired. Right: Launch of Boreas rocket with Epoch motor
+
+
+Basic Description
+The Epoch rocket motor has basic dimensions of 1.80" (46 mm) inside diameter with an overall length of 11.3" (286 mm). The motor is all-steel construction with a standard conical profiled supersonic nozzle, with an expansion ratio of 10.2. The propellant grain is free-standing, hollow cylindrical, with burning on both diametrical surfaces. inhibited only at the grain ends. This particular geometry of the grain was chosen for simplicity of grain preparation, high reliability and the need for a high Kn value, characteristic of the RNX propellants. A disadvantage to this grain configuration is that the casing is exposed to extreme convective heating, necessitating the use of steel as a casing material. Since both ends of the grain are inhibited, the surface area remains constant throughout the burn, thus providing a completely neutral Kn profile. Nominal propellant mass for the Epoch motor is 400 grams (0.88 lbs). The empty mass of the Epoch motor, including thermal liner and crown ring, is 470 grams (1.04 lbs).
+
+A cross-sectional view of the Epoch motor assembly is shown in Figure 2.
+
+￼
+
+Figure 3 - Cross-sectional view of the Epoch motor assembly
+Click for larger image
+
+
+Nozzle
+The nozzle is a conical profiled, deLaval supersonic type machined from low-carbon steel (AISI 1018), featuring 30o convergent and 12o divergent half-angles. The expansion ratio is 10.2, and typical operating pressure is between 800 psi and 1000 psi (6.2 MPa and 6.9 MPa), with MEOP being 1000 psi (6.9 MPa.). The nozzle is attached with eight #6-32 x 1/4" socket head alloy steel machine screws. Alloy steel screws are used due to their high shear strength of 95 kip/in2 (655 MPa). To provide an effective and reliable pressure seal, a single -129 O-ring is used in conjunction with silicone grease. Standard buna-N (nitrile) O-rings have been used exclusively in the test firings conducted so far. It has been found that the nozzle O-ring can be safely reused a number of times provided that the O-ring has been well coated with protective grease.
+For optimum performance, it is important that the inlet to the throat be well-rounded (radiused) to accelerate the combustion products more gradually. This reduces performance loss associated with two-phase flow velocity lag (see SRM Theory section for full details).
+The Epoch nozzle is illustrated in Figure 4.
+
+￼
+
+Figure 4 - Engineering drawing of Epoch nozzle
+
+Bulkhead
+The bulkhead is machined from low-carbon steel (AISI 1018). The bulkhead is attached with eight #6-32 x 1/4" socket head alloy steel machine screws. For sealing, the bulkhead is provisioned for a single -129 O-ring, used in conjunction with silicone grease. Standard buna-N (nitrile) O-rings have been found to be suitable. It has been found that the bulkhead O-ring can be reused numerous times provided that the O-ring has been well coated with protective grease.
+The bulkhead as shown has provision for attachment of a pressure tap or alternatively for installation of a Delay Ejection Device (DED) for a parachute recovery system. When not being used, the hole is closed off with a 1/8 NPT brass or aluminum plug.
+The Epoch bulkhead is illustrated in Figure 5.
+
+￼
+
+Figure 5 - Engineering drawing of Epoch bulkhead
+
+Casing
+The motor casing is made from thin-walled (20 gauge) seam-welded steel tubing. The tubing material is purchased as residential-grade "main fence post" tubing (for chain-link fencing). As obtained, the tubing is galvanized (zinc coated). This coating may be optionally stripped by soaking the tubing in a muriatic acid bath.
+The wall thickness of the tubing, excluding the zinc coating, is 0.038" (1.0 mm) , which makes for an exceptionally lightweight casing. For a MEOP of 1100 psi, the design safety factor is 1.8, based on a tubing burst pressure of 1800 psi. However, the elevated operating temperature of the casing lowers the strength slightly, reducing the safety factor to around 1.5. This tubing has been hydrostatically tested at room temperature to 1600 psi without failure. Measured burst pressure is approximately 2000 psi, with "hoop" failure occurring at the welded seam.
+The motor is designed to fail in a controlled radial manner by the casing splitting at the seam, in case of overpressurization. The steel material used for the casing is highly ductile and as such does not fragment and safely remains as a single piece. To date, three motors fitted with experimental propellant formulations have overpressurized, with the casings rupturing in this manner, substantiating the design. It is quite advantageous to have a motor fail in this manner. For one thing, it is less hazardous, as the components of the motor remain together, without parts flying off at high velocity. Another important reason is to avoid damage to the load cell (in case of static testing), or rocket vehicle (in case of flight). An axial failure mode necessarily inflicts major damage. My load cell has survived radial failures essentially unscathed.
+Since the tubing is seam-welded, it has been found necessary to modify that portion of the casing that seats the O-rings for both the nozzle and the bulkhead. This is done by using a file or dremel tool to carefully grind away any raised portion of the welded seam. In some cases, there exists a small gap or crevice at the seam. This must be made smooth and flush by filling with epoxy (J-B Weld works best) then sanding flush with fine sandpaper. It is essential to clean the area well before applying epoxy, using acetone or lacquer thinner.
+
+Zinc coating removal: The galvanized coating on the tubing may be removed by soaking the tubing in a bath of dilute muriatic acid. This acid is available in 20 baume (31.45%) strength at hardware stores, typically used for concrete etching and adjusting the pH level of swimming pools. The acid should be diluted with water at a 2:1 ratio. The bath container should be plastic such as polyethylene. Use an old paint brush to strip off the zinc coat as it loosens. After all the zinc has been removed, flush the motor immediately with lots of warm water. Rinse with hot water, then dry completely with a cloth. Spray on a protective coat of WD-40 oil or similar.
+Caution-- Muriatic acid is very corrosive and must be handled with great care. The use of rubber gloves as well as both eye & face protection are essential. When diluting, always add acid to water, never the reverse. Significant amount of heat is evolved when the acid reacts with zinc. Flammable hydrogen gas is produced. As such, this stripping process must only be conducted outdoors. Do not breathe the fumes (wearing a mask with organic vapour filter is advised).
+
+Thermal liner
+A thermal liner is required for the Epoch motor in order to protect the thin walled casing from heating that would occur due to the unrestricted burning grain. Although the mild steel casing is well suited to resisting the high combustion temperatures, some loss of strength would occur if the casing were not protected in a suitable manner. The thermal liner is made from a single layer of tagboard (file-folder paper), typically 0.010" (0.025 mm) thick rolled to fit inside the motor casing. The size of the sheet of tagboard is typically 7.4" long x 6" wide (18.8 cm x 15.4 cm). This allows for a 0.4" (1 cm) overlap joint, which may be glued with any paper adhesive. The inside of the liner tube is then soaked with epoxy, to provide thermal ablative protection, and set aside to cure before installation in the motor.
+
+￼
+
+Figure 6 - Thermal liners for the Epoch motor
+
+
+Crown ring
+Since the propellant grain is "free-standing" within the rocket motor, and burning occurs on the outside grain surface, as well as on the core surface, it is desirable to provide a means of channeling the combustion gases that are generated on the outer grain surface smoothly and without undue restriction into the nozzle. If the grain were to sit directly onto the nozzle, such flow would tend to be restricted. The purpose of the crown ring to to support the grain while also allowing for gas flow into the nozzle. The crown ring is made from a short length of 2" ABS plastic sewer pipe, with channels for gas flow cut at a bevel. ABS plastic has been found to be surprisingly heat resistant, and as such, the crown ring normally survives a motor firing largely intact. A second purpose of the crown ring, and just as important, is that it protects the O-ring from direct exposure to hot combustion gas flow. To serve this purpose most effectively, prior to installation in the motor, a thin layer of mastic "duct seal" is spread onto the crown ring surface that seats against the nozzle.
+
+
+Propellant Grain
+The propellant grain is free-standing, hollow-cylindrical with burning on both the core surface and outer surface. Both ends are restricted from burning by a cardboard disc of 0.032" (0.8 mm) thick that is bonded in place. This provides for a completely neutral Kn profile. The grain is loose fitting within the motor to facilitate combustion of the grain outer surface. Maximum grain mass is 400 grams. Both RNX-57 and RNX-71V have been used successfully in the Epoch motor with a nominal Kn=900..
+The casting of the grain for this motor is detailed in the RNX web page. The design of the Epoch motor was optimized for the RNX-57 propellant. However, this motor can be used with either RNX-71V or RNX-73 propellant.
+Fabrication of the propellant grain is described in the The Potassium Nitrate/Epoxy Composite Propellant (RNX) webpage. The core may either be drilled, or cast-in-place using a mandrel. The end inhibitors are bonded in place during the grain casting process. Prior to bonding, the inhibitors should be coated with a thin layer of epoxy to ensure a positive bond. Alternatively, the forward inhibitor disc may be bonded onto the grain after the grain is cast and allowed to cure. This way, the grain can be cast longer than required and then cut to the exact required length.
+
+Motor Ignition
+For reliable ignition of the motor, a hot burning igniter should be used. A Blackpowder "straw" igniter such as that used for the sugar propellants will not reliably ignite RNX propellant. Two types of igniters that have been used with good success are the Ferocious igniter, and the Spitfire igniter. The design and fabrication of these igniters is detailed in the Igniters & Ignition Systems webpage. The PDF article Nitrate-based igniters for composite propellant also describes a number of igniters that will function well with RNX propellant.
+The igniter should be prepared such that the pyrolant is formed into a thin disc, such that the igniter can be placed at the outer grain surface. The facilitates pressure buildup of the motor and leads to improved overall performance. The igniter may alternatively be placed at the forward end of the core, but some performance will be lost due to the slower rate of pressurization of the motor as a result of the less grain surface area in the core.
+
+Engineering drawings
+Acrobat PDF files ￼ or CAD files ￼
+	•	English units of measure
+	•	Epoch Rocket Motor Assembly (PDF)  
+	•	Epoch Rocket Motor Assembly (CAD)
+	•	Metric units of measure
+	•	Epoch Rocket Motor Assembly (PDF)  
+	•	Epoch Rocket Motor Assembly (CAD)
+
+Motor Performance
+The Epoch motor was designed with the aid of the SRM Excel spreadsheet, modified with characterization data for the RNX propellants. Figure 7 illustrates the design thrust-time curve. The performance shown assumes both combustion efficiency and nozzle efficiency of 85%. The design total impulse of 455 N-sec. makes the Epoch a 42% "I" class motor. Delivered specific impulse is typically 118 seconds. Design chamber pressure is 950 psi (6.55 MPa) at Kn = 900.
+Actual performance numbers for the Epoch motor have been obtained from static firings performed utilizing the STS-5000 test rig and electronic data acquisition. Both motor thrust and chamber pressure were recorded. Thrust was sensed with the use of a 200 lb. (900 N.) capacity strain-gage based load cell and pressure sensed using a 0-5000 psig Omega PX300 pressure transducer. The load cell was fitted with a full-bridge arrangement of strain gages, 2 active and 2 passive. Both were interfaced to separate INA122 based instrumentation amplifier circuit, then piped to a DATAQ 154RS multichannel A/D converter. Data was collected and stored on a laptop computer. The pressure transducer was thermally protected from the hot combustion gases by a grease-filled manifold.
+Typical thrust and pressure curves are presented in Figure 8.
+
+￼
+
+Figure 7 - Design thrust versus time
+
+￼
+
+Figure 8 - Static test measurements of thrust and chamber pressure
+
+The thrust coefficient was determined from the measured chamber pressure, thrust and nozzle throat diameter and found to be a constant value of 1.5 over the steady-state operating duration of the motor, as illustrated in Figure 9.
+
+￼
+
+Figure 9 - Measured thrust coefficient
+
+
+￼
+Last updated September 5, 2005
+Return to Top of Page
+Return to Index Page
+

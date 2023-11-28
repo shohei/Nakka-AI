@@ -1,0 +1,64 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Experiments with Oxides and other possible Burn Rate Modifiers
+
+Introduction
+This web page describes a series of experiments that were performed to determine the effect of various additives on propellant burn rate. The additives included metal oxides and other readily available materials that it was felt could influence the burn rate. It had been discovered during earlier investigation that certain additives such as red iron oxide and charcoal have the ability to increase the burn rate of sugar (and other) propellants. Discussion on the SugPro forum had also dealt with this topic quite extensively, and, in particular, with the possibility of certain materials acting as burn rate depressors. As such, it was decided to conduct experimentation on a fairly wide variety of additives to try to gain some quantitative information on this interesting and potentially useful subject. Burn rate enhancers are of practical benefit in certain applications were a high thrust/short duration burn is needed, such as a booster or potentially for use in an end burner grain configuration. Burn rate depressors are of practical interest as a means of increasing burn time of a motor, such as would be desirable in a sustainer mode of operation.
+Experimentation
+The table below shows the additives that were used for "doping" basic KNDX (potassium nitrate/dextrose) propellant. The KNDX propellant was chosen due to its suitability of producing strands ("sticks"), compared to KNSU (sucrose based), which earlier experience had shown that production of strands was difficult due to its higher casting temperature. KNSB (sorbitol based) was passed over because this propellant requires a day or two to cure (harden), and because of known burn rate peculiarities. It is assumed, however, that the results of the experiments with KNDX may be generally applicable to those other two sugar propellants, based on the knowledge that performance and combustion chemistry are all very similar.
+
+￼
+
+Table 1 -- Additives used for doping KNDX propellant, shown with respective "sample" identifications.
+Doping refers to the inclusion of 1% additive to the basic 65/35 O/F ratio of potassium nitrate and dextrose (i.e. 1 gram of doping material added to 100 grams of KNDX). Twelve samples of propellant strands were produced, in addition to undoped strands. All samples were created from the same "master" batch of KNDX powder mix, which was well blended in a rotating mixer for several hours prior to dividing into the 13 individual 40 gram samples. After doping, the individual samples were well blended in a rotating mixer to ensure complete incorporation of the additive. Strands were produced using an extruder device to help with consistency. After the strands cooled, they were dried with alcohol, then placed in a dessicator overnight to remove all traces of surface moisture. The strands were then painted with high heat aluminum paint to help ensure that the burning surface remained planar (uninhibited strands tend to burn such that the burning surface becomes conical in shape). The resulting colours of the strands varied quite markedly, as illustrated in Figure 1.
+
+
+￼    ￼
+Figure 1 -- Left: Pallette of doped propellant colours.
+Right: Some raw extruded strands (prior to trimming, drying & painting)
+Sources of the various additives were:
+	•	Red iron oxide, brown iron oxide, yellow iron oxide and black iron oxide materials were obtained from a building supply store as "concrete pigment". Purity was 98-99%.
+	•	Cupric oxide, cuprous oxide, chrome oxide and manganese dioxide were obtained from a pottery supply outlet as "glaze pigment". Purity for the three former was typically 98%, for the latter, 75%.
+	•	Charcoal was obtained as aquarium "activated charcoal" for filter use. It was obtained as granules, then ball milled to "air-float" form.
+	•	Water was from the tap.
+	•	Magnesium sulfate was obtained at the local supermarket as "Epsom salts". It was then dehydrated in an oven at 180oC for two hours.
+	•	Sulfur was obtained at the local Wal-mart (hunting goods dept.) as "saline activator" (beats me what the heck that is). Purity appeared high, 98%?
+The first part of the experiment was to measure the burn rate at ambient pressure. Strands were hot-glued to a base, then ignited at the top. Burn rate was determined by the time interval required for the flame to pass datum lines marked onto the strands. Two strands of each sample were tested, and the result averaged. The results are shown in Table 2 below.
+
+￼
+Table 2 -- Results of ambient burn rate measurements
+(sorted in order of increasing rate).
+Part two of the experiment was to measure the burn rate at elevated pressure. The same strand burner setup that had been used for the RNX experiments was used. The apparatus consisted of a high pressure tank (safe rating 3000 psi) serving as a combustion vessel, interfaced to a nitrogen supply bottle. The strands were mounted horizontally to avoid problems associated with liquid combustion products that would tend to "drool" down a vertically mounted strand burning under high pressure. Nitrogen was introduced into the tank through a valve and micro-orifice flow restrictor. A pressure transducer was used to measure pressure, which was connected to an amplifier-A/D circuit, then interfaced to a laptop computer for simple and reliable data acquisition. Burn rate of the strand was determined by knowledge of the initial strand length, and the burn time, taken as the duration over which pressure is detected as rising (example output curve). Ignition of the strands was done electrically, using a nichrome bridgewire embedded in a spot of pyromix, which consisted of a hot burning mixture of potassium chlorate and charcoal in a cellulose nitrate /acetone binder. To ensure that combustion of all strands took place at room temperature, the combustion vessel was cooled after pressurizing with a cloth soaked in 70% isopropyl alcohol (the gas in the tank would get quite warm due to the effect of isentropic compression).
+Nearly all strands were burned at two different elevated pressure levels, initially pressurized to 250 psig, and 450 psig (17 atmospheres and 31 atmospheres, respectively). Due to combustion, the pressure in the vessel would typically rise by approximately 100 psi. As such, for analysis, the average value of pressure during the burn was used. A summary of results for all 12 samples, as well as the undoped sample, is illustrated in the graph in Figure 2. Note that the sample doped with Brown iron oxide (BrIO) was additionally fired at a higher pressure.
+
+
+￼
+Figure 2 -- Complete set of results for all samples.
+To visualize the results more clearly, separate plots were made of various groupings of additives, each shown in comparison with the undoped sample, and are given in Figures 3 to 6.
+
+￼
+Figure 3 -- Results for the iron oxide additives.
+
+
+￼
+Figure 4 -- Results for the copper oxide additives.
+
+
+￼
+Figure 5 -- Results for the chrome oxide, manganese dioxide, and magnesium sulfate additives.
+
+
+￼
+Figure 6 -- Results for charcoal, water and sulfur.
+
+Discussion of Results
+From the summary of results shown in Figure 2, it is seen that most additives appeared to have slight to moderate influence on propellant burn rate. Although most enhanced the burn rate, a few additives tended to depress the burning. Brown iron oxide, however, bucks the trend and appears to have a very pronounced enhancing effect on burn rate. This is seen more clearly in comparison to the other iron oxides (Figure 3), which have a moderate enhancing effect.
+From Figure 4, the copper oxides appear to have little or no overall effect on the burn rate, with the deviation from undoped KNDX being within expected experimental error. The same is true for Chrome oxide (Figure 5). Manganese dioxide may have an enhancing effect, as indicated by the higher pressure data point. Magnesium sulfate, on the other hand, appears to depress the burn rate somewhat, more notably at lower pressures.
+The last curve, Figure 6, indicates that both charcoal and sulfur tend to increase the burn rate to a moderate extent, at least at higher pressures. Interestingly, earlier experimentation (see KN-Dextrose & KN-Sorbitol Propellants -- Burn Rate Experimentation) suggested a more prominent effect for charcoal doped propellant. This may well be due to the inherently wide variety of charcoal available, which is known to affect burning characteristics ( a better pyrotechnic grade of charcoal was used for the earlier experiments). Water, as might be expected, tends to slightly depress the burn rate. A higher percentage of water than that used in this experiment (1%) may well depress the burn rate further.
+Returning to the surprising results for Brown iron oxide, it was initially felt that experimental error could conceivably be an explanation. As such, additional strands were burned, including one at an initial pressure of 750 psig (51 atm.). The result of this measurement supported the trend, as seen in Figure 5. Other sources of possible error were considered. It was felt that perhaps the inhibiting paint on the strands was somewhat thinner than on the other doped strands. A strand was repainted and fired, with similar results obtained. Lastly, the possibility of propellant porosity was investigated (a porous propellant would burn more rapidly). A strand doped with brown iron oxide was cut lengthwise, polished smooth, then examined under 20x and 60x magnification. No porosity was evident. As such, the results appear to be valid. It is curious, though, that the other "hydrated" iron oxides (yellow & black) did not exhibit such a pronounced effect. A suggested follow-up experiment would be to static test a motor using KNDX doped with Brown iron oxide.
+
+￼
+Last updated May 24, 2004
+Return to Index Page
+

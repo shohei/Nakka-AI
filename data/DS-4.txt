@@ -1,0 +1,137 @@
+ 
+Basic Information
+Name
+DS-4
+Launch date:
+2 June, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 24 in. circular parachute
+- Two pair launch lugs
+Payload
+- Raven altimeter
+- Backup Apogee Timer
+- BRB900 GPS transmitter
+- Motor initiated Smoke Charge
+- microcamcorder
+Liftoff mass
+2.124 kg.
+Flight objectives
+- Confirm operation of new Backup Apogee Timer
+- Six shear screws used at forward separation joint to prevent chute deployment at apogee.
+- To determine performance with launch lugs, to compare to future flight using fall-away launch guides
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNDX
+Grain mass
+305 grams
+Nominal impulse
+359 N-sec
+Class
+I
+ 
+Additional information
+- Raven unit is newly purchased for dedicated DS flights (prior DS flights shared Raven with Zeta rocket)
+- Six #6-32 nylon shear screws used at forward AvBay joint (was four), to prevent inadvertent joint separation (and chute deployment) during apogee separation event.
+- Microcamcorder was fastened to the bridle loop of the parachute. The goal is to get footage during descent with minimal spinning.
+ 
+Weather conditions
+Temperature
+20°C
+Wind
+NW 5 km/hr
+Wind Chill
+n/a
+Sky
+Sunny with haze
+Other
+Launched 1 hr before sunset
+Ceiling
+30k ft (9k metres)
+ 
+Launch Event Description
+The trek to the launch site was physically taxing due to the muddy conditions, a result of recent rainy weather. The wagon wheels accumulated a great deal of mud (sticky clay). Fortunately, after our earlier experience, a modification had been made to the wagon, moving the rear wheels outboard. This mod served well to prevent the mud from jamming against the wagon sides. Excess mud was regularly scraped off the wheels. As such, the trek was not nearly as bad as it could have been. Once there, setup of the rocket went smoothly (we used a checklist). I set up a remote camcorder on a tripod, and used the hand-held camcorder (with scope tube) to film the flight.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, smoke appeared at the base of the rocket, followed by the rocket soaring off the pad. The sound of the motor was particularly loud, likely due to the light wind. The motion of the rocket as it ascended displayed some degree of instability, veering slightly in one direction, then the other. The flight path straightened and the rocket ascended vertically with a slight bias with the wind.  After about 15 seconds, a faint “pop” sound of the apogee charge was heard. Shortly after, a smoke trail was spotted. The charge burned for about 10 seconds, after which we lost sight of the rocket. Another 20 seconds or so passed before we heard a loud ‘pop’ sound of the parachute pyro charge. The parachute was soon spotted and the rocket was seen to gently drift downward, landing about a half kilometer downwind.
+ 
+We entered the indicated GPS coordinates of the landing site into the hand-held Garmin unit, then headed toward the rocket to retrieve it. When we arrived at the site, we immediately noticed that only the forward section of the rocket, attached to the chute, was present. The tether was noticed to have snapped. The aft section of the rocket was missing, as was the AvBay (containing Raven and Timer units). We conducted a brief search, but as it was starting to get dark, we decided to abandon the search. As well, it was felt that our best bet at finding the missing rocket was to download the BRB GPS data and use that to try to pinpoint where the impact site of the missing parts would be. Clearly the tether broke during the parachute deployment event, and the rocket would have fallen straight down from that point.
+ 
+The BRB GPS data was downloaded and a plot made of descent rate versus time. The rate was seen to change sharply at the 57 second mark of the flight. This is when the chute would have deployed. The GPS coordinates at that point should represent the impact site, or at least close to it. This was calculated to be 34 metres from the landing site, directly upwind. These GPS coordinates were entered into the Garmin GPS unit and the next day we resumed the search, starting at the predicted impact site. After a few minutes of searching, the missing rocket section was found, 24 metres from the predicted site. The aft section and AvBay appeared to be in perfect condition, having landed on soft, damp ground.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.5
+3236
+986
+Separation
+15.1
+3222
+982
+Main deployment
+50.7
+700
+213
+Touchdown
+61.1/71
+-
+-
+Range
+-
+1406/1329
+429/405
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+74.8
+22.8
+ 
+Main parachute
+15.3
+4.7
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that all components of the rocket were in perfect condition, with no damage to the Raven and Timer despite the free-fall impact.
+The tether strength was tested and found to break at a load of 250 lbs (114 kg). For the next flight, the tether will be replaced with a somewhat heavier 5mm nylon rope, with a breaking strength of 900 lbs (400 kg). Clearly, the use of six shear screws resulted in a large separation force.
+The stability issue was likely caused by the launch lugs being too far forward, which would have caused the centre of pressure to be too close to the rocket’s centre of gravity.
+The new Raven unit and the newly made apogee backup Timer both performed nominally.
+The video footage from the chute mounted microcamcorder was a disappointment. There was no reduction in the ‘spinning’, as had been hoped. The launch footage from the hand-held camcorder was less than satisfactory, as I had inadvertently used full zoom. However, this did result in some nice close-up captures of the rocket during ascent.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-4\DS-4_Raven_basic.jpg
+Acceleration data                                                                                        DS-4\DS-4_Raven_accel.jpg
+Lateral acceleration data                                                                          DS-4\DS-4_Raven_acc-lat.jpg                                                                                                                       
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-4\DS-4_track.jpg
+Descent rate plot, based on BRB GPS data                                            DS-4\DS-4_altitude_vs_time.jpg
+ 
+Photos:                                                                                                         
+Raven mounted                                                                                           DS-4\DSCF4120a.JPG
+Apogee Backup Timer                                                                                DS-4\DSCF4119a.JPG
+Impulser motor with Smoke Canister                                                      DS-4\Impulser_wsc.jpg
+Rocket on pad                                                                                              DS-4\DSCN0309a.JPG
+                                                                                                                        DS-4\DS-4_on_pad.jpg
+Liftoff and ascent, remote camera                                                         DS-4\DS-4_liftoff_on_rail nikon.jpg
+                                                                                                                        DS-4\DS-4_liftoff_nikon.jpg
+                                                                                                                        DS-4\liftoff.jpg
+                                                                                                                        DS-4\DS-4_ascent.jpg
+Smoke trail on descent                                                                               DS-4\smoke_trail.jpg
+Smoke cloud, main pyro charge                                                               DS-4\smoke_cloud_main.jpg                                                                                                                       
+Landing site                                                                                                  DS-4\DSCN0312a.JPG
+Recovered aft section and AvBay                                                            DS-4\DSCN0316a.JPG
+ 
+Video:                                                                                                           
+Liftoff, remote camcorder                                                                        DS-4\DS-4_Nikon.MP4
+ 

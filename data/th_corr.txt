@@ -1,0 +1,54 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Solid Rocket Motor Theory -- Corrections for Actual Rocket Motors
+
+The preceding Web Pages dealing with solid rocket motor theory consider the analysis of an ideal rocket, which of course, does not exist. The ideal rocket represents the maximum performance condition that could be attained if it were not for real-world factors and other approximations that lead to performance reductions in actual solid rocket motors. These are accounted for by using various correction factors in the design or analysis of a rocket motor.
+
+Chamber Conditions
+Combustion efficiency and heat losses through the chamber wall both tend to produce a lower chamber pressure than predicted by theory. Solid propellant, however, typically has a high combustion efficiency if well mixed and the oxidizer particle size is very fine. A measure of the combustion efficiency of a propellant can be taken by comparing the measured (delivered) value of characteristic velocity (cee-star) to the ideal value:
+￼
+
+The delivered value of cee-star can be obtained from pressure measurements of static test results:
+￼
+
+or measured by "closed vessel" combustion of propellant samples.
+For well-prepared sugar-based propellants, the combustion efficiency has been measured to be between 98 and 99%. To some degree, the combustion efficiency is a function of the motor size. Motors with longer combustion chambers provide more time for the chemical reactions to occur before dispelling through the nozzle.
+Heat loss through (or into) the chamber walls is also dependant upon motor size, as well as casing material and wall thickness. For example, a larger sized motor with a thin-walled steel casing would have much less heat loss than a small motor with relatively thick walled aluminum casing. However, the overall detrimental effect is probably insignificant for both.
+The chamber pressure has a pronounced effect upon the propellant specific impulse, particularly at the lower pressure regime, as shown in the figure below:
+
+￼
+
+As amateur experimental rocket motors typically have short burn times, a significant portion of the total impulse may result from the pressure start-up or tail-off phases of the burn, when the chamber pressure is well below the steady-state operating pressure level. As a result, the total delivered specific impulse suffers. This is one reason why delivered specific impulse can be lower than ideal, which is based on constant steady-state pressure (usually referenced at 1000 psi). The extent of loss, designated Vp, is highly dependant upon the motor burn time and pressure-time profile, but may be 5% or greater. Thus a typical pressure correction factor would be Vp = 0.95.
+
+Nozzle Corrections
+The flow through a real nozzle differs from that of an ideal nozzle because of frictional effects, heat transfer (particularly at the throat), imperfect gases and incomplete combustion, non-axial flow, nonuniformity of the fluid, and particle velocity and thermal lag. Conical nozzles are used almost exclusively for amateur motors, due to the relative simplicity in manufacturing such a nozzle. In nozzle theory, flow is assumed to be one-dimensional (axial). In a conical nozzle, the flow is two-dimensional, with the extent of the non-axial velocity dependant upon the divergence cone half-angle, a. The correction factor for non-axial flow is given by:
+
+l = ½ (1 + cos a)
+This loss is usually quite small, with typical values being l = 0.99 for a 12 degree half-angle and l = 0.97 for a 20 degree half-angle.
+The discharge correction factor is used to express how well the nozzle design permits the mass flow rate through the throat to approach the theoretical rate, and is given by the ratio of delivered mass flow rate to ideal mass flow rate:
+
+￼
+The most significant design parameter which determines the discharge factor is the contour at the entrance region of the throat. A well rounded contour tends to maximize the actual flow rate. For propellants that have a significant fraction of particles in the exhaust, good contouring minimizes acceleration of the flow at the entrance, thus minimizing the two-phase flow loss associated with particle velocity lag.  Certain factors tend to increase the actual mass flow rate in comparison to the idealized mass flow rate. These factors include
+	•	heat transfer of the fluid to the nozzle walls, tending to decrease the flow temperature, increasing the density.
+	•	the specific heat ratio and other gas properties change through the nozzle in such a way as to increase the discharge factor.
+Consequently, for a rocket motor that has no condensed-phase products in the exhaust, the discharge correction factor may be close to unity. However, for a rocket motor that utilizes a propellant with a large fraction of condensed-phase products (such as the KN-Sugar), the losses can be quite significant, even with a well contoured nozzle entrance. The value of the discharge correction factor would typically be Vd = 0.90 for this propellant with a well designed nozzle with smooth flow surfaces and minimal heat loss.
+
+Corrections for Specific Impulse
+The Ideal Specific Impulse must be corrected to obtain the Delivered Specific Impulse of an actual rocket motor, by applying the correction factors discussed above:
+
+￼
+As an example, the Kappa-DX rocket motor, powered by the KN/Dextrose propellant, has the following correction factors:
+	•	Combustion efficiency correction factor   h* = 0.98
+	•	Chamber pressure correction factor        Vp = 0.95     (estimated)
+	•	Nozzle discharge correction factor          Vd = 0.91     (estimated)
+	•	Nozzle divergence correction factor        l = 0.99
+As the Ideal Specific Impulse is Isp = 164 sec. (@1000 psi), the Delivered Specific Impulse is given by:
+￼
+Next -- GUIPEP : Propellant Performance Software
+
+￼
+Last updated  August 19, 2001
+Back to Theory Index Page Back to Index Page
+

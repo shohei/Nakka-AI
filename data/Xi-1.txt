@@ -1,0 +1,146 @@
+ 
+Basic Information
+Name
+Xi-1
+Launch date:
+12 November, 2017
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Timer for backup apogee separation
+- Eggtimer Classic altimeter for backup apogee separation and main deploy
+Liftoff mass
+2.734 kg.
+Stability Margin (initial)
+3.64
+Flight objectives
+As this is the maiden flight of Xi rocket, objective is to assess performance of rocket and systems.
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB-S.1
+Grain mass
+302 grams
+Nominal impulse
+356 N-sec
+Class
+I
+ 
+Additional information
+-As with Zeta & DS rockets, the Raven3 serves as the primary recovery system controller. The Eggtimer altimeter serves as the backup unit. However, a Backup Timer will continue to be used on initial Xi flights until the Eggtimer has proven flight reliability. Backup Timer is the unit previously flown in DS rocket, having performed with high degree of reliability.
+-Propellant was made with 0.1% SLS surfactant.
+-Rocket was not painted in case modifications need to be made.
+ 
+Weather conditions
+Temperature
+-4°C
+Wind
+W 13 km/hr
+Sky
+Thin overcast
+Other
+RH 80%
+Ceiling
+3000 ft.
+ 
+Launch Event Description
+Following a checklist, setup of the rocket proceeded smoothly with no glitches. The BRB was activated first. After installing rocket on pad, Eggtimer was activated and verified nominal, followed by the Raven. Raven beeped nine times for voltage and gave 4 positive indications for the 4 pyros. Backup Timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated skyward. Acceleration was slower than with the Zeta and DS rockets due to the greater liftoff mass of the Xi rocket. The rocket tended to wobble slightly as a result. The Impulser motor burned for approximately 2 seconds. Rocket remained in sight during the entire ascent. About 10 seconds after burnout we heard a series of ‘pops’ of the apogee pyro charges firing. Owing to the grey cloudy sky, no smoke clouds were visible. The rocket tumbled downward and shortly after the parachute charge was seen to fire and the chute was seen to immediately deploy and inflate. At that point, the tether connecting the forward and aft body sections snapped.  The forward rocket section descended slowly by parachute, while the aft section tumbled to the ground. The forward section landed downwind roughly 350 feet distant on a snow-covered field. The landing locator was immediately set to fix the landing site of the aft section to help in finding it.
+ 
+As the touchdown site of the forward section was readily seen, we decided that it was unnecessary to utilize the BRB GPS system. We headed out to find the aft section, using the landing locator to narrow the search zone. After approximately 10 minutes, we found that section, which had landed in a snowy field of tall grass and was essentially undamaged. The Raven unit, housed in the Avbay (connected by tether to the aft body) beeped out an apogee of 1828 feet. The smoke charge was seen to have fired, as did all six pyro charges. We then went to recover the forward section, which was found to be in perfect condition.  
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+11.3
+1830
+558
+Separation
+12.6
+1740
+530
+Main deployment
+28.2
+720
+219
+Touchdown
+37.5/85
+-
+-
+Range
+-
+523/506
+159/154
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+71.2
+21.7
+ 
+Main parachute
+8.6
+2.6
+ 
+                                  
+Post-flight analysis and comments:
+The Raven, Eggtimer and backup Timer all performed nominally. Peak altitude reported by Eggtimer closely matched Raven (1834 ft. versus 1830 ft.).  Apogee separation event and main chute deploy were nominal, with the exception of snapped tether.
+ 
+Examination of the Raven data did reveal one anomaly. The primary pyro charge (fired by the Raven) failed to separate the rocket sections (joint fastened by three #40 nylon screws). The Raven backup pyro, which fired approximately ½ second later, did successfully separate the rocket into two section.
+ 
+Damage to the aft section of the rocket was minor. Two fins were loosened and the Timer inertial switch had detached from its mounting.
+ 
+It is unclear why the tether snapped. Post-flight testing indicated the nylon rope has a breaking strength of 340 lbs (average), typically breaking at the knot (flight tether did not fracture at a knot). Parachute snatch load was calculated and found to be of low magnitude, therefore tether snapped due to force associated with the separation event. For the next flight, a higher strength tether will be used, together with a more robust in-line shock absorber.
+ 
+The failure of the primary pyro to effect rocket separation at apogee is likely due to a combination of cold and undersize pyro charge (1 gram Crimson Powder). For future flights, the primary pyro charge will be increased to 1.3 grams. The backup charge will also be increased from 1.2 grams to 1.6 grams.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Xi-1\Raven_Xi-1_basic.jpg
+Axial acceleration data                                                                              Xi-1\Raven_Xi-1_accel.jpg
+ 
+Eggtimer:                                                                                                     
+Barometric data                                                                                          Xi-1\Xi-1_ET_basic.jpg
+ 
+BRB:                                                                                                              
+GPS path of flight trajectory                                                                     Xi-1\BRB_Xi-1_mapped.jpg
+ 
+Photos:
+Xi rocket for first flight                                                                               Xi-1\Xi-1.jpg
+Rocket prior to flight                                                                                  Xi-1\DSCN0106a.JPG
+                                                                                                                        Xi-1\DSCN0107a.JPG
+Xi on pad just before liftoff                                                                       Xi-1\DSCN0109a.JPG      
+Ignition…Liftoff…                                                                                         Xi-1\2017-11-22_12-16-49.jpg
+Ascent                                                                                                            Xi-1\2017-11-22_12-17-41.jpg
+Burnout                                                                                                         Xi-1\2017-11-22_12-18-11.jpg
+Descending and touchdown                                                                      Xi-1\2017-11-16_12-20-31.jpg
+                                                                                                                        Xi-1\2017-11-16_12-21-39.jpg
+                                                                                                                        Xi-1\2017-11-16_12-21-53.jpg
+                                                                                                                        Xi-1\2017-11-16_12-22-32.jpg                                                                                                                       
+Rocket forward section on ground                                                          Xi-1\DSCN0113a.JPG
+Aft section landing site                                                                               Xi-1\DSCN0110a.JPG
+Aft section and Avbay                                                                                 Xi-1\DSCN0111a.JPG
+ 
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

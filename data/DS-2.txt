@@ -1,0 +1,122 @@
+ 
+Basic Information
+Name
+DS-2
+Launch date:
+16 January, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 24 in. circular parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter (replacement)
+- Smoke Charge
+Liftoff mass
+2.020 kg.
+Flight objectives
+- Test new Smoke Charge system
+- Reduced SM to reduce weathercocking
+- Assess improved motor thermal liner
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+296 grams
+Nominal impulse
+349 N-sec
+Class
+I
+ 
+Additional information
+-        A newly developed Motor Initiated Smoke Charge system tried for the first time. Consists of a smoke charge (KNSB) filled canister interfaced to the motor bulkhead. A “delay grain” burns during ascent, main charge begins burning during initial descent.
+-        Stability Margin, SM = 1.71 (initial)
+-        New BRB transmitter unit being used. Original unit apparently damaged during Z-22 incident, and sent for repairs.
+-        The motor thermal liner was improved by the addition of aluminum foil tape covering the outside of the cardboard liner tube.
+-        Flight DS-2 represents the 100th amateur rocket flight since my first-ever flight, A-1 on February 26th, 1972.
+ 
+Weather conditions
+Temperature
+-25°C
+Wind
+NW 15 km/hr
+Wind Chill
+-35°C
+Sky
+Partly sunny with ice haze
+Other
+-
+Ceiling
+24k ft
+ 
+Launch Event Description
+Despite wearing balaclavas, the walk to the launch site was cold on our faces, due to the wind chill. Setup of the rocket initially went smoothly. Then, while loading rocket onto the launch rail, the lower launch lug snapped off. We attempted to tape the lug in place, but the roll of tape was frozen. We headed back to the parked car, and heated the tape roll over the heat vent. The repair was successful and we once again made the trek to the launch site. The remainder of the setup went well. I used the hand-held camcorder (with scope tube) to film the flight. After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the rocket soared off the pad, climbing straight upward with a slight waver. The motor seemed to burn somewhat longer than usual, likely due to the cold propellant. The rocket quickly disappeared from sight on its way to apogee. After about 15 seconds, a “pop” sound of the apogee charge was heard. No smoke cloud or smoke trail could be seen. The rocket was not sighted at all, and after about a minute and a half, a very faint ‘pop’ sound was heard, which we believed was the chute pyro charge. No sign of the chute could be seen. After another minute or so, we geared up to enter the BRB GPS coordinates into the hand-held Garmin GPS unit, knowing this was our only hope of finding the rocket. To our dismay, the Garmin kept shutting off while entering the coordinates, likely due to weak batteries made worse by the extreme cold. We then marked down the GPS coordinates on paper, for safekeeping, packed up, and headed back to the parked car. Once there, we warmed up the Garmin and put in a fresh pair of lithium AA cells. Entering the coordinates was successful. The indicated distance to the landing site was 0.41 miles (0.7 km), which seemed oddly far. Could the cold have resulted in false GPS data? The direction pointed directly downwind, so that made sense. By this time, the sun had set and daylight was quickly fading. We briskly headed out in the direction indicated. Deep snow in places led to some difficulties in the journey. However, we eventually approached the target GPS location, and scanned around for the downed rocket. The bright red chute was then spotted snagged in a small cherry tree with the rocket safely slung below; the forward section hanging and the aft section laying on the snow-covered ground. The rocket appeared to be in perfect condition. Raven beeped out an apogee of 3283 feet.
+ 
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.5
+3286
+1002
+Separation
+14.32
+3273
+998
+Main deployment
+89.72
+1025
+312
+Touchdown
+126.3
+-
+-
+Range
+-
+3205
+977
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+-
+-
+ 
+Main parachute
+30.0/27.8
+9.1/8.5
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was overall in great shape except for the one missing launch lug. All three pyro charges had fired. The motor looked pristine and the Smoke Charge had fired and fully burned. Upon examination of the Raven flight data, it was clear why the rocket had drifted so far downrange. The parachute anomalously deployed at apogee. Inspection of the rocket and data could not conclusively determine why this occurred. It was tentatively concluded that the apogee and chute pyro charges had been cross-wired. For the Zeta rocket, the leads are colour-coded; such was not the case for this flight. Colour-coding will be incorporated for future DS flights.
+The new motor-initiated smoke charge apparently worked per design. Examination indicated that all components were in good condition for re-use. The reason that no smoke trail had been observed is no doubt due to the high altitude during operation. If the rocket had free-fallen as intended, it is likely that the smoke trail would have been observed, at least during latter portion of operation.
+The motor thermal liner improvement (aluminum foil tape layer) worked very well. There was zero burn-through of the liner. This was a first, as there has always been at least a few small areas of the cardboard liner that had experienced (usually minor) burn through.
+Based on the GPS track, the rocket did not weathercock at all, so clearly the reduction in SM by clipping the fins was effective.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-2\DS-2_Raven.jpg
+ 
+Photos:                                                                                                         
+Smoke Charge canister mounted on motor bulkhead                         DS-2\misc004a.jpg
+Smoke Charge canister with insulation wrap                                        DS-2\misc005a.jpg
+Impulser motor with Smoke Charge ready for flight                           DS-2\misc006a.jpg
+Trek to launch site                                                                                       DS-2\DSCN0266a.JPG
+Rocket on pad                                                                                              DS-2\DSCN0264a.JPG
+Sun dogs kept us company                                                                        DS-2\DSCN0262a.JPG
+Liftoff and ascent                                                                                       
+                                                                                                                        DS-2\DS-2_capture1.jpg
+                                                                                                                        DS-2\DS-2_capture2.jpg
+                                                                                                                        DS-2\DS-2_capture3.jpg
+Smoke Charge components, post-flight                                                 DS-2\misc014.jpg
+ 
+ 
+ 
+ 

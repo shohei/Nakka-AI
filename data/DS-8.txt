@@ -1,0 +1,132 @@
+ 
+Basic Information
+Name
+DS-8
+Launch date:
+8 October, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 36 in. semi-ellipsoid parachute
+- 2 pair launch lugs
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Microcamcorder
+Liftoff mass
+1.790 kg.
+Flight objectives
+- First-ever launch attempt of Helios rocket motor powered by A24 ANCP.
+ 
+Motor details
+Motor name
+Helios
+Propellant
+A24 (ANCP)
+Grain mass
+115 grams
+Nominal impulse
+224 N-sec
+Class
+H
+ 
+Additional information
+-Microcamcorder mounted externally on aft rocket body.
+ 
+Weather conditions
+Temperature
+7°C
+Wind
+WSW 10 km/hr
+Wind Chill
+n/a
+Sky
+Mixed sun and clouds
+Other
+RH 66%
+Ceiling
+4000 ft (1200 metres)
+ 
+Launch Event Description
+Trek to the launch site was somewhat hindered by muddy conditions due to recent rains. It was necessary to stop every now and then to scrape mud off the launch wagon wheels. Once we arrived, setup proceeded smoothly with no glitches. For videotaping the flight, I used the hand-held camcorder (with scope tube). A second camera was set up on a tripod a short distance from the pad.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the thermite igniter fired with a bright flash appearing at the base of the rocket. The motor, however, failed to ignite (A24 is challenging to ignite). After waiting five minutes, we proceeded to install a new igniter. This went smoothly and within ten minutes we were ready to try again. This time, the motor immediately fired and the rocket briskly climbed the launch rod. Acceleration skyward was relatively slow, as expected due to the low thrust of this motor, and rocket wobbled noticeably as it gained speed and stability. The bright flame emanating from the nozzle and lack of copious smoke provided striking contrast to previous launches. Motor burned for about 3 seconds then we lost visual contact shortly after burn out. A few seconds later, a pair of smoke clouds appeared overhead and a second later a “pop” sound of the apogee charge was heard. The rocket was then seen tumbling downward. After falling for about 10 seconds, a “pop” sound was heard, but the parachute did not appear to deploy. Rocket continued tumbling downward and landed in tall grass about a thousand feet downwind from the pad.
+ 
+We entered the indicated GPS coordinates of the landing site into the hand-held Garmin unit, then headed toward the location to retrieve the rocket. Oddly the rocket was not found where indicated. We searched the vicinity (tall grass) and after a few minutes spotted the downed rocket roughly 50 feet away from the indicated touchdown location. The Avbay was open and the electronics were outside of the compartment. The parachute was still inside the rocket body.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+10.6
+1397
+426
+Separation
+11.6
+1385
+422
+Main deployment*
+22.4
+694
+212
+Touchdown
+30.8
+-
+-
+Range
+-
+1090
+332
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.4
+22.4
+ 
+Main parachute
+-
+-
+ 
+* Pyro fired; chute failed to deploy
+Post-flight analysis and comments:
+Post-flight examination indicated that the rocket was undamaged with the exception of the Avbay compartment. The Helios motor was in great shape and appeared to have operated nominally.
+Examination of the Avbay and parachute compartment revealed that the phenolic forward bulkhead of the Avbay had suffered a structural failure due to the pressure loading of the main pyro charge firing. The six nylon screws attaching the Avbay to the forward rocket body were found to have partially sheared. As such, the parachute was not extracted. For future flights, this issue will be resolved by utilizing an aluminum bulkhead instead of phenolic. The Raven unit was undamaged.
+Analysis of the BRB GPS track of the flight revealed that the trajectory of the rocket was well off-vertical. Shortly after clearing the launcher, the rocket veered at an angle of approximately 30 degrees with respect to vertical. This continued all the way to apogee, giving the rocket a significant horizontal velocity, explaining the unexpectedly large distance the rocket traversed downrange. This was doubtless a result of the low thrust-to-weight ratio.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-8\DS-8_Raven_basic.jpg
+Axial acceleration curve during burn                                                       DS-8\DS-8_Raven_accel.jpg
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-8\BRB_mapped.jpg
+Trajectory Plot (altitude versus range)                                                    DS-8\DS-8_trajectory_plot.jpg
+ 
+Photos:                                                                                                         
+A24 grain segments as formed and drilled                                             DS-8\DSCF4372.JPG
+Helios with A24 grain segments with inhibitor                                      DS-8\DSCF4374.JPG
+My brother Blair adjusting launch rods                                                   DS-8\DSCN0394.JPG
+Maiden flight of Helios motor begins…!                                                 DS-8\Image1A.jpg           
+Rocket climbing launch rod                                                                       DS-8\Image2A.jpg           
+                                                                                                                        DS-8\Image3A.jpg
+Ascending skyward                                                                                      DS-8\Image5A.jpg           
+                                                                                                                        DS-8\Image6A.jpg
+                                                                                                                        DS-8\Image7A.jpg
+                                                                                                                        DS-8\Image8A.jpg
+                                                                                                                        DS-8\Image9A.jpg
+Ejection charge clouds                                                                               DS-8\2016-10-12_12-15-21.jpg
+Sun glints off rocket tumbling earthward                                               DS-8\2016-10-12_12-16-34.jpg
+                                                                                                                        DS-8\2016-10-12_12-17-21.jpg
+                                                                                                                        DS-8\2016-10-12_12-17-36.jpg
+Touchdown site                                                                                           DS-8\DSCN0399.JPG
+Launch pad (post-flight)                                                                             DS-8\DSCN0401.JPG
+Fractured Avbay bulkhead                                                                         DS-8\DS-8_bulkhead.jpg
+ 
+Video:                                                                                                           
+DS-8 Liftoff (10 Mb. File)                                                                            DS-8\DS-8_Liftoff.MP4
+ 
+ 

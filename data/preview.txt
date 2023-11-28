@@ -1,0 +1,523 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+S n e a k    P r e v i e w
+
+of my Latest Projects
+
+
+￼
+An APCP motor displaying mach diamonds
+
+￼
+Ammonium Perchlorate/HTPB grain segments
+
+
+￼
+APM-D.1 rocket motor
+
+
+￼
+APM-G 76mm finned rocket motor
+
+   December 17, 2020
+Another year has flown by and there are a lot of new developments to write about.
+My rocketry activities were concentrated on development and testing of higher performance propellants featuring potassium perchlorate and ammonium perchlorate as oxidizers. There was a lot of learning involved, as I had not before worked with these particularly potent oxidizers. Fortunately, my efforts paid off and I was able to conduct a number of successful launches using some new propellants.
+Initially, the bulk of my efforts were geared toward an AP-silicone propellant. Silicone is attractive as a fuel & binder as it is readily available and preparation of a AP-silicone grain is simplicity in itself. Although the experience was basically successful, the resulting propellant had a very high burn rate and featured a rather high pressure exponent.
+I put work on AP-silicone propellant aside, for the time being, to delve into a more traditional AP-HTPB propellant. I figured it was a good idea to start off with a more tried-and-true approach. My retired friend and fellow rocketry experimenter Harry Lawrence (who worked with AP-HTPB propellants during his professional career) provided me with a simple starter propellant, which he deemed APX. I had good success with this propellant, and after a number of static tests, launched my Xi-20 rocket with APX powered APM-D.1 experimental motor. This motor featured a new development for me -- an aluminum nozzle with a graphite insert. Aluminum is attractive, not only because it is lightweight, but because it is nicer to machine than steel.
+On the footsteps of some false starts attempting to develop a KP-based propellant, I altered my course and instead tried a blended oxidizer approach. Employing potassium perchlorate together with potassium nitrate, a modified version of KNSB was successfully developed, a propellant which I deemed KNPSB. Several successful static test firings and a couple of launches followed.
+Due to the rather fast burn rate of KNPSB, I then designed a novel 76mm motor that is short and fat, and is unique in the sense that it has fins mounted on it. The 76mm diameter, which matches the diameter of my Xi rocket, provides for a decent burn time.
+This motor also features a new development -- an aluminum nozzle with steel throat insert. This motor was successfully static fired, followed by a launch, powering my Xi-21 rocket.
+KNPSB propellant is featured on my newest web page.
+One other AP-based experimental propellant that I had success with utilizes epoxy as a binder and iron powder as a thermic agent. In the process of experimenting with such formulations, I learned that many common epoxies are not compatible with AP. I was fortunate to find one particular brand of epoxy that was compatible, although it required curing under pressure to prevent the formation of microbubbles in the finished grain.
+
+
+	•	Machining an aluminum nozzle for 76mm motor
+	•	Aluminum nozzle with steel throat insert for 76mm motor
+	•	Aluminum nozzle with steel throat insert for 76mm motor
+	•	76mm APM-G motor on stand (pressure only measured) for first test firing
+	•	Aluminum nozzle (with graphite insert) for APCP motor
+	•	Balls of AP-silicone propellant ready for packing into mould
+	•	Machining a phenolic throat insert
+	•	Aluminum nozzle with phenolic throat insert
+	•	Thrust-pressure curve for 38mm AP-silicone motor test firing
+	•	Thrust-pressure curve for 38mm APM-D.1 motor with APX propellant
+	•	Static test firing of a 38mm AP-silicone grain
+	•	Static test firing of a 38mm AP-epoxy-iron grain 
+
+
+￼
+3D printed nosecone for Xi rocket
+
+￼
+NTM-5 nozzleless rocket motor firing
+
+
+￼
+JEM rocket motor
+
+   July 17, 2019
+It has been over a year since I last updated my Sneak Preview page. As such, it is clearly time to tell about the many yet-unpublished projects that have occupied my spare time over that duration. Most recently, I have gotten a 3D printer. I figured it would be handy to have, as many parts related to my rocketry hobby can potentially be made more readily using "additive manufacturing" technology, compared to conventional methods. I have seen parts made by other rocketeers and have been more than impressed. So I was itching to get one for myself. The printer I bought is a FLSUN Cube, which comes as a kit. It is quite large, with a 260x260mm bed and can print items 350mm tall. It took a while to assemble and even longer to work out the bugs, but just recently I successfully printed my first rocket part -- a nosecone to replace the existing one for my Xi rocket. It is fabricated of PLA plastic and weighs a third of the current nosecone which was machined out of a solid bar of delrin (which was a big job!). I subsquently printed a parachute piston and AvBay compartment. Other parts that I foresee being 3D printed in the near future are fins and avionics supports.
+Wishing to further expand my rocketry horizons, last fall I began experimenting with AP (ammonium perchlorate) oxidizer and to a lesser extent KP (potassium perchlorate). Initially wanting to use a readily available binder, I began experimenting with silicone II. I was largely impressed with the results. Physically, the product blends well into a putty consistency perfect for packing into a mould. It cures effectively, taking about 2 weeks to mature into a nice rubber-like grain. I successfully static fired a number of motors using AP-Silicone II formulations. The burn rate was found to be very high. Although not necessarily a drawback, I have been investigating additives such as ammonium chloride in an attempt to tame the burn rate. Or alternatively, I might take advantage of the fast burn to design an end-burner motor. In the near future, I'll be experimenting with traditional APCP based on HTPB rubber. With regard to KP, I have found it to be a difficult beast to tame as a propellant oxidizer. This is not a great surprise as KP is known for its high pressure exponent and attendant problems. I have found that KP, when blended with other oxidizers, appears to behave in a more responsible manner. This is a promising approach that I have just begun to pursue.
+One of the essential elements of propellant development is determination of burn rate parameters (burn rate coefficient, a and pressure exoponent, n). This is useful for two important reasons. One, to ascertain whether the pressure exponent is in the practical range for a propellant (best between 0.3 and 0.6). And secondly, quantifying the burn rate parameters for a particular propellant is necessary for designing a rocket motor. A convenient device for measuring burn rate parameters is a strand burner. I have constructed a few of these in the past which have worked well. One of the drawbacks is the expense of using nitrogen gas as a pressurizing agent. As such, I decided to try designing and building a self-pressurizing strand burner. It seemed to make good sense to harness the combustion gases of a burning propellant strand to develop the required pressure. Another advantage to this approach recognizes that pressure changes (increases) as the strand burns, so theoretically a single burn can provide burn rate over a range of pressure.
+Venturing into another field of endeavour, I have recently flirted with nozzleless rockets. As the name implies, a nozzleless rocket is simply a rocket without a nozzle. Or more specifically, without a dedicated converging/diverging nozzle. The motor consists solely of a propellant grain cast into a casing, with a central core running the length of the grain. A bulkhead closes off the forward end. If such a motor is made sufficiently long, choked flow develops in the core. As such, the core serves as a sonic nozzle. After learning about the nozzleless development work of Serge Pipko and in particular the surprisingly decent performance of such motors, I couldn't resist trying nozzleless rockets for myself. I made a pair of 38mm motors, one KNSB based and the other KNDX. Each held just over 500 grams of propellant. Although the KNSB motor suffered an anomaly, ejecting the entire grain from the motor shortly after ignition, the KNDX motor performed well, burning for 2.5 seconds and producing a maximum thrust of 50 lbs. (220 N.). Subsequently this motor was successfully flown in my Xi rocket (Xi-9). Eventually I plan to delve into the theory of nozzleless flow to gain a better understanding of the physics behind it and to develop a rational basis for nozzleless motor design and performance prediction.
+I've recently developed a new rocket motor for boosting the Xi rocket. My goal was to develop a motor with a slightly higher impulse and longer burn time than the workhorse Impulser. This new motor, deemed JEM, is a 51mm J-class motor powered by KNDX. JEM was first static fired on 4 January 2019. Following this successful test, the JEM motor boosted Xi-11 a little over a month later.
+	•	My new 3D printer
+	•	3D printed parachute-piston for Xi rocket
+	•	Measured thrust and pressure curve for nozzleless motor NTM-5
+	•	Apparatus for casting JEM grains
+	•	KNDX grains for JEM motor
+	•	Two experimental AP-silicone composite motors
+	•	Experimental AP-silicone composite motor on test stand
+	•	Test firing of experimental AP-silicone composite motor
+	•	Mixing a batch of AP-HTPB propellant
+	•	Cast grains of AP-HTPB for an experimental 38mm motor
+	•	Experimental self-pressurizing strand burner
+
+
+￼
+Static firing of the Impulser-XX
+
+   June 27, 2018
+Amongst other rocketry related endeavours that have kept me busy, I've recently worked on developing two new motors for my Xi rocket. One of these is a second stretch of my Impulser motor, which I've deemed Impulser-XX. This motor holds six grain segments of KNDX. This motor was successfully static test-fired on June 3rd. During the same outing, I test-fired my basic Impulser with KNSB. The purpose of this test was to assess certain design improvements such as grain inhibitor material and thermal liner that had an enhanced thermal protection coating. Also, an objective was to compare KNSB made with synthetic potassium nitrate (made from calcium nitrate) to that made with commercial-grade potassium nitrate (the Impulser-XX was likewise fueled by synthetic potassium nitrate). The results of these two tests demonstrated that synthetic oxidizer performed just as well. The enhanced thermal protection coating was also a success.
+A third rocket motor, deemed SSJ-F was also fired -- a flight-version of a static-test motor that I'd developed and test-fired back in 2006-2007, the J-Class SSJ motor. This motor is slated to be flown in a future Xi flight. The test-firing of SSJ-F was less successful than the Impulser motor firings. A burn-through of the motor casing occurred shortly after achieving full thrust, leading to a partial rupture of the casing. Fortunately, no damage to the STS-5000 test stand or instumentation resulted, despite the violent event. Cause of the burn-through was, in hindsight, the result of a number of design flaws including deficiencies in the thermal protection. Of significant note, the SSJ-F did not incorporate the improved thermal protection used experimentally on the earlier Impulser/Impulser-XX tests. The SSJ-F motor is currently being prepared for a follow-up test firing in the near future, with several design modifications being implemented.
+	•	Author with Impulser rocket motor
+	•	Author with Impulser-XX rocket motor
+	•	Author with SSJ-F rocket motor
+	•	SSJ-F grain segments
+	•	Thrust-pressure curve for Impulser static test rocket motor
+	•	Thrust-pressure curve for Impulser-XX static test rocket motor
+	•	SSJ-F ruptured motor casing
+	•	Videoclip of Impulser-XX static test firing (camera 1)   6.6 MBytes
+	•	Videoclip of Impulser-XX static test firing (camera 2)   8.6 MBytes
+	•	Videoclip of SSJ-F static firing   10.3 MBytes
+
+
+
+￼
+Some of the Xi rocket components
+
+   September 5, 2017
+Over the past few months, I have been designing and building my newest rocket. Deemed "Xi", this rocket incorporates lessons learned from my experience with the Zeta and DS rockets that I have built and flown regularly over the past three years. Similar to the Zeta, the Xi rocket is fabricated largely of lightweight aluminum, has a Delrin nosecone, and features the "Avbay" concept of the DS rocket that I favoured. The Xi rocket will incorporate an improved on-board aft-facing video camera and a smoke tracking charge. An "Egg Timer" altimeter will be added to provide backup for parachute deployment. To allow for greater payload volume, the Xi diameter has been increased to 3 inches (76mm), although the aft section housing the motor retains the 2.5 inch diameter (63.5mm) of the Zeta. The Impulser-X motor will be used for initial flights. An 8-grain segment version of the Helios motor, termed the Helios-XX has been designed and following static verification testing, will likewise power the Xi.
+Graphics
+	•	Preliminary design drawing of Xi rocket
+	•	AeroLab drawing of Xi rocket
+
+
+
+￼
+View inside reaction vessel
+￼
+Synthesized K-Chlorate
+   July 18, 2016
+A project that had been lingering at the back of my mind for quite some time has finally begun in earnest. I had often thought about the growing difficulty that comes with obtaining propellant oxidizer, a situation that sadly has gotten worse for many amateur rocketry enthusiasts, through no fault of our own. What if it were possible to make our own oxidizer material, in a safe and reliable manner? The central tenet of amateur rocketry is to "make from scratch"; this would take things up a notch in that direction. Over the past few years I have been gathering whatever information I could find on the topic of "chemical synthesis" of oxidizers. More recently, I have put a lot of effort into studying this material to gain a better understanding of the processes and challenges involved. The outcome of this effort has been encouraging. It turns out that there are a number of synthesis methods that hold promise. The technique that I decided to attempt first is the electrochemical synthesis of potassium chlorate and potassium perchlorate. The synthesis of these two oxidizers is relatively simple and uses commonly available salts as starting material. Needless to say, there were false starts and unexpected technical challenges once I tried putting what I had learned into practice. Much was learned from the early aborted trials which required careful analysis and perseverence to overcome. But the effort has started to pay off. My first fruitful synthesis run worked surprisingly well, yielding a batch of over 1 kg of K-Chlorate. I am continuing the experiments, concentrating at the moment on improving the reliablity of the apparatus, before attempting the more challenging (and potentially more rewarding) perchlorate synthesis.
+Photos
+	•	Chlorate cell setup
+	•	View inside the reaction vessel
+	•	Ammeter, voltmeter and temperature gauge to monitor batch progress
+	•	Purpose-built cabinet
+	•	Precipitate of K-Chlorate at end of run, with graphite erosion residue
+	•	Graphite anodes and stainless steel cathodes
+	•	Anode and cathode electrical connections siliconed to protect against corrosion
+	•	Bag of cleansed K-Chlorate
+	•	Additional bag of K-Chlorate, subjected to further cleansing
+
+
+
+￼
+Setup for test firing
+￼
+I-350 thrusting
+   Dec.7, 2013
+I"ve recently had the opportunity to static test fire a new rocket motor that I designed and built earlier this year. The I-class motor, which is deemed "I-350", was originally intended for "sport flying" a new rocket that I've been slowly building over the past couple of years, in my limited spare time. To qualify the motor for flying, I static fired it three times. Twice with BATES grains and once with a new grain configuration referred to as "Double D Slot". All three static firings were sucessful with good thrust and pressure data obtained. The first firing of the motor with the BATES grain (test I-350-1) delivered performance that was below expection. This was attributed to the nozzle, which had a divergence half-angle of 28 degrees. Nearly all previous motors that I've designed used a 12 degree divergence. This nozzle was an experiment that clearly showed that divergence angle is important. To confirm this, a new nozzle was made, this time with a 10 degree divergence. The resulting performance matched expectation.
+The Double D Slot motor also performed as expected and confirmed that this is a viable grain configuration.
+Photos
+	•	Assembled I-350 rocket motor
+	•	Setting up equipment to conduct I-350 static tests
+	•	Installing I-350 in test stand
+	•	DD-Slot Grain prior to painting with primer
+	•	DD-Slot Grain with primer applied
+	•	First test firing of I-350 motor (with BATES grain)
+	•	Second test firing of I-350 motor (with BATES grain)
+	•	My wife (Pauline) holding motor following test firings and subsequent cleanup
+	•	Comparison between first and second BATES test firings (28 degree vs 10 degree nozzle)
+	•	Comparison between design and delivered thrust/pressure (2nd firng)
+	•	Delivered thrust and pressure curves for DD slot grain
+Videos
+	•	Static test firing of I-350 with BATES grain (1.5 Mb)
+	•	Static test firing of I-350 with DD-Slot grain (2.4 Mb)
+
+
+
+￼
+76 mm KNSB grain with star core
+￼
+Setup for test firing
+   Jan.8, 2011
+A rocket motor was recently designed and built in order to assess a new grain geometry -- one with a star shaped central core. This particular shaped star, with seven points, produces a relatively neutral burn, at least in theory. There are a number of advantages to this grain configuration. One of the most significant is that all burning takes place in the core. This means that the propellant itself serves to insulate the motor casing from the intense heat of combustion. The propellant used for this test was conventional sorbitol based KNSB, however, surfactant was added to allow for better casting around the complex geometry of the mandrel. The mandrel was machined from aluminum, and consisted of a central 7-sided rod and seven triangular "fins". Removal of the mandrel was simple, with the rod being extracted first, followed by each of the seven fins. Being intended only for static testing, the motor had a simple design. A heavy steel nozzle and bulkhead were used, requiring a minimum machining effort. The casing, however, was fibreglass composite. This choice was made to help assess how well the propellant served to insulate the casing.
+The rocket motor was test fired on December 4th, 2010. The firing was fully successful and a good graph was obtained of both chamber pressure and thrust. The thrust curve was somewhat progressive, however, this was attributed to casting flaws in the grain which resulted from some trapped air during casting. A repeat test will be conducted in the near future using an improved casting method which is expected to resolve this issue.
+Photos
+	•	Assembled 7-pointed star mandel
+	•	Grain showing burn inhibitor bonded onto each end
+	•	Assembled rocket motor
+	•	Assembled rocket motor illustrated closure with machined nozzle
+	•	Rocket motor in test stand after successful firing
+	•	Delivered thrust and pressure curve
+Videos
+	•	Static test firing of star grain motor (5.3 Mb)
+	•	Static test firing of star grain motor, camera #2 (3.2 Mb)
+
+
+
+￼
+Four A-100M grains
+￼
+Firing of A24-C1 motor
+   Oct.2, 2010
+Since the last update in April, I've been fortunate enough to have the chance to head out to the test range a couple of times to do some rocket motor testing. In May, I static fired the A-100M motor five times, including testing KNSB and KNDX propellants with and without a surfactant. Surfactant was added to the propellant during casting in order to reduce the viscosity of the slurry. Scott Jolley developed this remarkable technique, which worked very well and made the propellant pourable (watch the video). The surfactant that I used was foaming bath gel with sodium laureth sulfate as the primary active ingredient. There was a small reduction in delivered Isp (from 116 sec. to 112 sec.), but overall the performance was very comparable, with a somewhat extended burn duration of the KNSB treated with surfactant. Grain density was not adversely affected by the addition of surfactant.
+A propellant grain was also cast using xylitol sugar (KNXY), and test fired. The KNXY grain, which seemed to be non-hygroscopic, performed well in the test firing.
+
+More recently, I static fired the A-100M motor an additional two times. In the first firing, a propellant grain made from liquid honey served as the fuel. The resulting propellant had an interesting and potentially useful property. It remained flexible even after a month in storage. The motor fired quite well, despite a rather unusual thrust curve. I"ve deemed the propellant "KNPK" after my fiancee who suggested that I give honey a try. The second static test served to assess the performance of KNDX made using purified (recrystalized) potassium nitrate oxidizer (see "Purification of Low-grade Potassium Nitrate"). It was good to see that the performance of the motor was on par with KNDX made from chemical grade product
+Two other motors were static tested. One was the new J-class motor powered by a half-kilogram of A24 composite propellant based on ammonium nitrate, aluminum and neoprene. This motor, deemed A24-C1, is a scaled-up version of the A24-B motor successfully developed earlier. This motor proved difficult to ignite, mainly due (in hindsight) to undersized igniters. After a number of attempts, the motor did successfully fire after a delayed start-up, and performed in a most impressive manner. The total delivered impulse was indeed mid J-class (977 N-sec) and would have been even higher if the start-up was cleaner. The characteristic velocity (c-star), which is a key measure of propellant merit, was a satisfying 1350 metres/sec. This compares to about 850 metres/sec typically obtained for sugar propellant.
+The last motor tested had a KNSB grain with a pseudo-finocyl configuration. The primary goal of the test was to see if the pressure curve matched the theoretical Kn curve. It was found to match quite well. In the near future, I plan to test fire a grain with a 7-pointed star configuration, which theoretically produces a much more neutral burn.
+
+	•	Photos
+	•	Four A-100M propellant grains, with (SBS, DXS) and without surfactant
+	•	Thrust curve comparison, with and without surfactant
+	•	Delivered thrust curve for A-100M with xylitol based KNXY propellant
+	•	My niece holding the A-100M motor
+	•	Honey chemistry facts
+	•	Propellant grain for A-100M motor made from honey
+	•	Thrust & Pressure curve for honey-based KNPK
+	•	Thrust & Pressure curve (SI units) for honey-based KNPK
+	•	Thrust & Pressure curve for KNDX made with purified potassium nitrate
+	•	Thrust & Pressure curve (SI units) for KNDX made from purified potassium nitrate
+	•	Six A24 propellant segments
+	•	The six A24 segments bonded to form a monolithic grain
+	•	A24 grain with inhibitor (cotton/epoxy) coating
+	•	My niece holding the A24-C1 motor
+	•	A24-C1 motor in test stand prior to test firing
+	•	Thrust & Pressure curve for ammonium nitrate based A24-C1 motor
+	•	Thrust & Pressure curve (SI units) for for ammonium nitrate based A24-C1 motor
+	•	Pseudo-finocyl KNSB grain for experimental 64 mm motor
+	•	Experimental 64 mm motor for pseudo-finocyl test firing
+	•	Thrust & Pressure curve for pseudo-finocyl motor test
+	•	Thrust & Pressure curve (SI units) for pseudo-finocyl motor test Videos 
+	•	Demonstration of casting KNSB made with surfactant (3.5 Mb)
+	•	Demonstration of a burning strand of KNSB made with surfactant (2 Mb)
+	•	Demonstration of xylitol propellant combustion (2.7 Mb)
+	•	Five test firing various propellants in A-100M motor (8.9 Mb)
+	•	Static test firing of KNPK propellant in A-100M motor (6.4 Mb)
+	•	Static firing of A-100M motor with KNDX propellant made from purified oxidizer (1.3 Mb)
+	•	Static test firing A24-C1 experimental motor, camera #1 (3.3 Mb)
+	•	Static test firing A24-C1 experimental motor, camera #2 (13 Mb)
+	•	Static test firing experimental motor with pseudo-finocyl grain (7.6 Mb)
+
+
+
+￼
+New experimental J-class motor
+￼
+
+   Apr.13, 2010
+On March 20th, I gave a presentation at the University at Buffalo (New York state) on Experimental Rocketry and also on the Sugar Shot to Space program. This presentation was in support of the North East Conference of Space 2010. I was kindly invited by the Students for the Exploration and Development of Space (UB-SEDS), which is a student run international organization that works to promote the exploration and development of space. I had a great time and the presentation was well received. In other developments, I've recently designed and fabricated a new rocket motor powered by A24 AN-based composite propellant.
+
+This is the first motor that has been designed specifically for this propellant, based on theoretical combustion analysis of the propellant combined with empirically obtained design data. This motor will be test fired in the near future.
+Whenever I visit a new supermarket, I always have my eyes open for mislabeled rocketry supplies. I recently discovered two such products, both interesting sweeteners. One is Xylitol and the other is a product called Stevia. I plan to attempt casting propellant grains for my A-100M motor and perform test firings if the casting is successful.
+I have also been working diligently on updating and finally completing the web pages on RNX propellant. Last fall I test fired my RNX-BM motor which provided useful characterization data that will prove useful for designing RNX powered motors.
+
+	•	New J-class motor powered by A24 composite propellant, disassembled
+	•	New J-class motor powered by A24 composite propellant, assembled
+	•	Design thrust curve for the new motor
+	•	CAD drawing of the new motor
+
+
+
+￼
+RNX-BM5 results
+￼
+RNX-BM6 results
+   Nov.14, 2009
+The RNX-BM "characterization" testing was recently concluded, with two good motor firings on Nov.7. The motor had been modified to hold a larger propellant charge, in order to obtain burn rate data at higher Kn values. The first static firing (RNX-BM5) was with RNX-71V propellant, and the second firing was with a charge of RNX-57 propellant. As is seen in the graphs, the progressive burning grains (hollow cylindrical) displayed the expected strongly progressive pressure and thrust curves. An interesting feature of the RNX-71V propellant is the slow initial pressure rise, which is a consequence of the rather high pressure exponent (n) that characterizes the burn rate at low pressure. Once chamber pressure reaches a certain value, the pressure exponent drops, which results in a sudden ramp-up of pressure.
+
+-Videoclip RNX-BM6 firing with RNX-57 propellant (2.5 Megabyte, wmv file).
+
+
+
+￼
+Test firing of RNX-BM motor
+   Sept.27, 2009
+The RNX-BM "characterization" rocket motor was test fired 3 times on Aug.19th. Three different propellants were used, RNX-71V, RNX-73 and the new formulation RNX-75V. The new formulation is similar to RNX-71V except that an extra-slow hardener was used with the West System epoxy that comprised the fuel/binder. Good thrust and chamber pressure data was obtained which was used to determine burn rate parameters, specific impulse and characteristic velocity (c-star). Kn (Klemmung) values for these tests ranged from 425 to 800, which is on the low side for slow-burning RNX propellant. As such, chamber pressures were relatively low.
+Using the method outlined in the Burn Rate Determination from a Pressure-time Trace webpage, values of pressure coefficient (a) and pressure exponent (n) were derived. These values were plugged into SRM.xls together with the other key propellant parameters. The resulting "predicted" pressure curve was satisfyingly similar to the actual pressure curve. Future testing will explore higher Kn values, with the intention of obtaining similar characterization data at higher pressures. 
+-RNX-BM3 test pressure versus simulation (RNX-75V)
+-RNX-BM4 test pressure versus simulation (RNX-71V)
+
+-Videoclip RNX-BM3 firing with RNX-75V propellant (7.0 Megabyte, wmv file).
+-Videoclip RNX-BM4 firing with RNX-71V propellant (7.3 Megabyte, wmv file).
+
+
+￼
+New RNX-BM motor 
+￼
+Nozzle 
+￼
+Bulkhead + pyrogen + thrust fitting 
+￼
+Pyrogen unit
+   August 04, 2009
+I have been planning for a long time now to complete my research on the RNX epoxy-based propellants. The only remaining task is to complete the propellant characterization. In particular, I want to confirm the burn rate behaviour in a rocket motor, to compare to the strand burner results. And to get more precise measurements of specific impulse and characteristic velocity, the two key criteria with regard to performance. To achieve this goal, I have fabricated a new rocket motor, very similar to my Paradigm motor. The main difference is with regard to the grain configuration. Instead of rod & tube, the grain is hollow cylindrical. With this configuration, the burning area (and thus Kn) increases continually throughout the burn. This should allow for an experimentally based determination of burn rate versus chamber pressure. Thrust will also be measured, in order to compute the delivered specific impulse. To help ensure rapid and hopefully complete ignition of all burning surfaces at start-up, a pyrogen unit was developed. This unit is mounted into the bulkhead and fires a jet of flame down the core of the motor upon ignition. The pyrogen grain is made from a hot burning pyrolant based on KP, epoxy, RIO and sucrose.
+
+Larger views of motor & components:
+-RNX-BM motor, nozzle end view
+-RNX-BM motor, bulkhead end view
+-Nozzle
+-Bulkhead with pyrogen and thrust fitting (which contacts the load cell)
+-Pyrogen unit
+-Videoclip of pyrogen being test fired for the first time (1.3 Megabyte, wmv file).
+
+
+￼
+Experimental ANCP grains pressed into metal tubes 
+(-17 & -14A formulations)
+￼
+Nozzle for AIR 64 mm motor
+   February 10, 2009
+Following successful development of an aluminized AN based propellant (see Experiments with Ammonium Nitrate / Aluminum based Propellant Formulations ), I decided to take on what may be an even greater challenge - to develop a non-metalized AN based propellant, using only commonly available materials. The photo shows two of the formulations, pressed into small grains, for open-air burn tests. Both of these particular formulations burned in a stable manner, as can be seen in the videoclips. The ANCP-14A formulation is based on AN, neoprene binder, with sodium chloride and charcoal burn rate enhancers. The ANCP-17 formulation is similar, but uses polyurethane binder, with sodium chloride and copper oxide to enhance combustion.
+The photo at left shows a nozzle that I recently machined. This is for a 9-grain, 64 mm motor that will use KNER (erythritol based sugar propellant) that is being designed and built by the Icelandic rocketry group AIR, and is slated to be flown in May in a new rocket (click for specs).
+Videoclip of ANCP-14A in open air burn test (2.2 Megabyte, wmv file).
+Videoclip of ANCP-17 in open air burn test ( 3.2 Megabyte, wmv file).
+
+
+￼
+Remainder of self-extinquished propellant (1 of 4 segments)
+   June 1, 2008
+Recently I had the opportunity to test fire two of my new 38 mm motors with experimental AN-AL (ammonium nitrate - aluminum) propellants (see Dec.2/07 posting), in addition to firing a number of other motor, including one for characterizing RNX propellant.
+One of the two AN-AL motors performed particularly well, with rapid start-up, a good clean flame, and excellent performance.
+The only downside was burn-through of the motor casing toward the end of the burn (accompanied by a loud pop sound). Interestingly, the remaining propellant "self-extinquished". The delivered Isp was 196 seconds and the c* was 1368 metres/second, which is 99% of theoretical according to GUIPEP analysis.
+Videoclip of A24-B1 static firing (3.1 Megbyte, wmv file).
+Videoclip of A24-B1 static firing (lo-resolution, 374 kbyte, wmv file).
+Thrust & chamber pressure curves for A24-B1.
+
+
+￼
+U. of Reykjavik presentation (with students' rocket)
+￼
+Media scrum at the launch site
+￼
+Raising the rocket into launch position
+   May 10, 2008
+I was recently extended an invitation to do a presentation at the University of Reykjavik in Iceland, on the topic of amateur rocketry and to give an overview of the Sugar Shot to Space Program. The presentations were well-attended and enthusiastically received. Amateur rocketry is quite new to Iceland and the activities of rocketry groups, such as AIR, have been wholeheartedly embraced by the public.
+In addition to giving the presentations, a highlight of the visit was attending the launching of a scratch-built rocket by the students of the School of Science and Engineering. The rocket, powered by erythritol sugar propellant, was the culmination of a rocketry design course taught in collaboration with AIR. Despite a strong wind, the rocket was successfully flown to an apogee of 1.5 km., and safely recovered by parachute. This was an exciting event and provided a fitting climax to a short but wonderful visit to this beautiful and friendly country. A complete report on this trip will be presented in a future web page. A hearty thanks goes out to Ágúst Valfells and Magnus Gudnason for offering the invitation and for their wonderful hospitality.
+
+￼
+A24-A3 motor firing
+￼
+New bulkhead and nozzles
+￼
+New 38mm test motor
+   Dec.2, 2007
+Another round of test firings was recently conducted with my experimental ammonium nitrate (AN) and aluminum (AL) formulations. One formulation worked particularly well, resulting in a stable burn with a nice foot-long white flame (see photo at left). Buoyed by this result, I have been working on a scaled-up, 38 mm motor that will be used as part of this on-going test program. This motor utilizes a graphite nozzle retained within a steel shell (photos at left). The steel parts have been giving a protective coating of "Tool Black", a tough protective finish of cupric selenide. This motor also features snap-ring retention for the nozzle and bulkhead.
+In addition to conducting these test firings, I am working on a new web page which will give full details of my experiments with AN-AL compositions.
+Videoclip of static firing  (1.2 Megbyte, wmv file). New test motor, CAD drawing
+
+
+￼
+Experimental AN-AL motors
+￼
+A23-A6 motor firing
+￼
+Richard Graf setting up SSJ motor in test stand
+   August 1, 2007
+This past Saturday turned out to be a momentous day for my rocketry journal. Five motors were successfully fired, with excellent data collected. The previously proven SSJ motor was fired twice, providing useful erosive-burning data. The firings also demonstrated the viability of KNSB propellant prepared by the Vacuum-Evaporation method (which will be documented in a future web page). Also confirmed was the viability of a new method of casting KNDX propellant directly within inhibitor sleeves.
+The most exciting results came from the firings of my new motors powered by an experimental ammonium nitrate (AN) and aluminum (AL) propellant. Out of the five motors (see photo, top left), two failed to ignite. However, the other three ignited and burned rather well (photo, middle left), generating decent chamber pressure. The measured pressure was used to compute characteristic velocity (c-star) for the propellant, which was determined to be 4204 feet/sec (1281 m/sec). Not bad, for a first try. This roughly relates to an Isp of about 200 seconds, which should improve at higher chamber pressure. A lot more experimentation is needed before a practical propellant comes out of the effort, but this is an encouraging step.
+Besides the novel propellant composition, the AN-AL motors were my first motors to utilize snap-rings for nozzle retention. Utilizing neoprene as a binder, the hollow-cylindrical propellant grain was formed by a hydraulic ramming technique in a case-bonded configuration. Complete details on these motors and propellant is slated to be featured in a future web page.
+With a grain core diameter equal to the throat diameter, the six-segment SSJ motor (in stand, lower left photo) was expected to exhibit erosive burning. This was beautifully demonstrated in the measured pressure and thrust curves. SSJ-4 KNSB motor thrust & pressure curves  (English units)   (SI units) (kind of cool how the measured curves exhibit that initial "kink" that matches the theoretical curve).
+SSJ-5 KNDX motor thrust & pressure curves  (English units)   (SI units) (classic signposts of erosive burning are the pressure exceedance at start-up and the extended tail-off).
+Images: AN-AL Experimental Motors Measured chamber pressure curves Thermite pellets for initiating combustion Experimental motors for testing "A" formulations Internal view of motor showing case-bonded propellant grain End view showing nozzle retained by snap-ring End view showing Bondo-Glass bulkhead with pressure port Graphite c-star nozzles Hydraulic ram setup for press-forming grains within motor casing Fornulations
+Videoclips: Videoclip of SSJ-5 Static test (835 kbyte, wmv file). Videoclip of SSJ-5 Static test (1675 kbyte, mpg file). Videoclip of A23-A4 Static test (1238 kbyte, wmv file).
+
+
+￼
+￼
+   April 18-22, 2007
+An on-going side project of mine has been to develop a successful AN (ammonium nitrate) based rocket propellant. Pictured at the left are some experimental grains that were recently prepared. Having a large aluminum content, this particular formulation burns with a hot, energetic flame in the open air, and has a theoretical Isp of about 245 seconds. I plan to attempt to test fire these charges in a rocket motor in the near future. These particular grains feature a special polymer binder and were formed with a high pressure compaction technique. The cores were subsequently drilled out.
+The lower photo shows a half-segment loaded into an open-ended tube for a test burn.
+Videoclip of burn test (1.3 Megbyte, wmv file).
+Same videoclip, but in AVI format (3.1 Megabyte, AVI file).
+
+
+￼ 
+￼ 
+   December 17, 2006
+My newest SSJ "J-class" motor was successfully test fired on Dec.10th. Three firings were conducted (dismantling, cleaning and re-loading of the motor was pleasantly easy and troublefree). The main goal of the first two firings was to compare the effect of spacing between the six KNSB grain segments. The first firing had minimal spacing (1.5 mm) and the second firing had a much larger spacing (18.5 mm). The results were very interesting. The first firing results displayed the infamous "triangular" thrust profile. The second firing results, however, displayed a thrust profile very close to the design condition.
+These results suggest that the "triangular" thrust profile is a result of delayed ignition of the grain end faces (KNSB is known to be hard to ignite). Greater inter-segment spacing allows for turbulent flow to occur in the inter-segment region, facilitating ignition. Small inter-segment spacing provides a stagnant zone, which takes longer for ignition to occur at the segment faces.
+In addition to the SSJ motor, the A-100M motor was fired seven times, to collect data on the effect of potassium nitrate grade on performance. These results will be presented in a future web page.
+Video clip of SSJ motor second firing (700 kb, wmv file).
+Video clip of SSJ motor second firing, low-resolution (400 kb, wmv file).
+PDF of SSJ motor drawing (24 kb pdf file).
+
+
+￼ 
+￼ 
+   December 1, 2006
+In the photo at left, I am holding my newest creation, a "J" class rocket motor that will be used primarily for studying erosive burning of sugar propellants (as described in the November 5th update). The cause of the odd "triangular" thrust profiles seen in many test results of KNSB (sorbitol propellant) will be also be investigated. The most recent hypothesis suggests that inadequate segment spacing may be responsible.
+The photo below illustrates three batches of six segments of KNSB propellant for this motor. The first three static tests will determine the effects of core size and of segment spacing.
+As well, I am continuing to gather data and test results on the influence of the potassium nitrate grade on propellant performance and burning characteristics.
+
+￼ 
+￼ 
+￼
+   November 5, 2006
+Impurites present in certain brands of potassium nitrate can have a detrimental effect when used in making sugar propellant. I am presently conducting some experiments to get a better understanding of this matter. In the photo at top left are three samples of KNSB (sorbitol) propellant made with three different brands of potassium nitrate. The sample in the middle is made using laboratory grade potassium nitrate. Findings will be published in a future web page.
+The middle photo illustrates the casting tubes that I recently manufactured for a new 38 mm, six grain motor that I will be utilizing to study (and hopefully characterize) erosive burning of KNSB propellant. The bottom left photo shows two of the grain segments that will be used in this motor. The key difference is the core diameter. The smaller core is the same size as the nozzle throat, and the larger core is 50% larger in diameter. The effect of intersegment spacing of this BATES configuration motor will also be studied.
+The first test firing of this new motor is expected in early December.
+
+￼ 
+   September 30, 2006
+A milestone in the Sugar Shot to Space Project was recently achieved with the successful test firing of the 1/4 Scale Ballistic Evaluation Motor (BEM) that was successfully test fired on September 23rd. This "M class" motor powered by 6.8 kg (15 lbs) of KNSB sugar propellant is unique in the sense that it is "restartable". After firing its first "phase", there is an 18 second delay prior to firing ot the motor's second "phase".
+Read the test report
+Photo: left to right, Tarun Tuli, Richard Nakka, Daniel Faber, Richard Graf
+
+￼ 
+   September 4, 2006
+When casting sugar propellant, shrinkage of the propellant during cooling can result in loss of bonding between the propellant and the casting tube. This can be a serious problem which can lead to overpressurization of the motor due to an unexpected increase in burning area. To overcome this problem, I've recently experimented with various casting techniques. A successful method, for sorbitol-based KNSB propellant, is shown here. The casting tube is made from a heat resistant gasket material which is sufficiently porous to allow the propellant to bond well. Additional bonding is achieved by first coating the inside of the casting tube with melted sorbitol. The key to reliable bonding, however, is the use of clamping pressure that is applied immediately after casting and maintained until the propellant has fully cured (typically 15 hours). The setup is shown in the photo at left. High propellant density in the order of 97% of theoretical density has been achieved.
+    Propellant segment     Casting fixture     Disassembled view
+
+￼ 
+   June 19, 2006
+To aid in the casting of sugar propellant, which can be quite viscous and hard to pour into a mould, I recently designed and built this vibrating platform. The motor mounted to the bottom of the platform rotates at 1725 RPM. An 80 gram offset mass on the pulley produces a 2G "packing force" in the vertical and sideways directions. The platform is pivoted at one end and rests on springs at the other end. The vibrating action additionally helps prevent the inclusion of bubbles or voids in the grain.
+The black cylindrical part on top of the platform is a casting tube.
+
+￼ 
+   June 4, 2006
+This is a photo of a hand-operated "hydraulic pump" that was recently developed. The purpose of this pump, which uses water as a pressurizing medium, is for hydro-static pressure testing of rocket motors. This allows a completed motor to be safely tested to operating pressure (or greater) to confirm structural integrity and to check for possible leakage.
+Prior to development of this pump, a regular grease gun had been used, but this proved to be messy and cumbersome. This new hydraulic pump can also be used for checking the calibration of pressure gauges, and for calibrating pressure transducers.
+Photo of Dismantled pump 
+Photo of piston assembly 
+
+￼ 
+   April 14, 2006
+Now that spring is here, static testing season has arrived once again. This past weekend featured eight test firings, including 5 tests of the A-100M motor with various propellant modifications, and the fourth firing of the L-class Liberty motor powered by epoxy-based RNX propellant (photo af left). Two of the A-100M experimental grains were produced using an innovative "vacuum-evaporation" method, which is being considered for use in the Sugar Shot to Space project (detailed in ssts_pdt_item6c.pdf). Also fired in the A-100M motor were two "sugar alloy" grains, as described in the Nov.19/2005 article below.
+
+Video clip of Liberty motor firing, lo-resolution (519 kb, wmv file).
+Video clip of Liberty motor firing, hi-resolution (1.32 Mb, wmv file).
+Video clip of A-100M motor firing, lo-resolution (593 kb, wmv file).
+Video clip of A-100M motor firing, hi-resolution (1.25 Mb, wmv file).
+
+
+￼ 
+   November 19, 2005
+Although the Sugar Shot to Space project has occupied much of my free time of late, I have nevertheless continued work on my own rocketry developments. At left is a photo of two A-100M propellant grains made of a sugar "alloy". The top grain was made using a mixture of 23% sorbitol plus 12% sucrose, and the bottom grain made using a mixture of 18% sorbitol and 17% sucrose.
+Interestingly, both mixtures melt at nearly the same temperature as pure sorbitol, and cast similarly. One advantage is a quicker cure. The grain can be removed from the mould within a few hours. Both of these grains will be test fired in the near future. Static firing in the STS-5000 test stand.
+
+￼ 
+￼ 
+￼
+   June 23, 2005
+The photo at top left is of a self-made "bomb calorimeter" apparatus. I constructed this apparatus for measuring heat of combustion of various materials such as polyester, epoxies, neoprene and other experimental propellant binders. Knowledge of the heat of combustion is useful for comparing energy content, and for determining  formation enthalpy. Formation enthalpy (also known as heat of formation) is required as a key input parameter for chemical equilibrium software such as GUIPEP. Some of the experimental results are summarized in the table (middle left, click for larger image). The "A" series of propellants listed in the table are experimental ammonium nitrate/aluminum formulations.
+At lower left is a photo of my motorized vacuum pump that I recently put together. After the handle broke off my hand-operated pump from overuse, I decided to motorize the pump. The motor that I used was salvaged from a discarded garage door opener. It was necessary to modify the motor housing by open up cooling holes, as the original design was intended for short duty cycle usage.
+Other activities of late include presenting a lecture on AER to the Waterloo Space Society (in May) and more recently to a Canadian Space Society gathering, held at the University of Toronto.
+
+
+￼ 
+￼
+   January 18, 2005
+The new Liberty "L-class" solid rocket motor was successfully static tested on January 16, and performed flawlessly on its maiden firing! This is the largest motor that I have successfully tested, to date. The Liberty motor met its design goal, delivering 3337 Newton-seconds of impulse ( click for performance curve). The motor is powered by RNX-71V potassium nitrate/epoxy composite propellant in a "rod & tube" grain configuration.
+Photos (from top, click on image for larger photo):  1.Author + Liberty rocket motor 2. Static firing in the STS-5000 test stand.
+Video clip of motor firing (834 kb, wmv file).
+
+￼
+   Dec.11, 2004
+This is a photo of the nozzle which I recently machined for the new Liberty rocket motor that I designed and am currently fabricating. This 75 mm L-Class motor, which has a design impulse of over 3000 N-s., is intended to boost Frostfire Three to a targeted max velocity of mach 1.3. If successful, this will be my first supersonic rocket.
+
+￼ 
+￼
+￼
+   October 11, 2004
+
+As usual, there have been several activities and projects that have kept me overly busy of late. Perhaps the most interesting was a guest lecture I recently presented in Luleå, Sweden on the topic of Amateur Experimental Rockety. I will be presenting more details of this trip in a future web page.
+An interesting project that is coming to fruition is development of a Delay-Ejection Device (DED). It's a simple reloadable pyro-based delay and ejection charge that screws into the bulkhead of a motor. Ground tests have proven successful. Next is a flight test in my new SkyDart rocket, powered by the A-100M motor, which should be capable of lofting this rocket to over 2000 feet (600 m.).
+Photos (from top, click on image for larger photo):  1. Lecture in Sweden 2. DED 3. Author holding unfinished SkyDart 
+
+￼ 
+￼
+￼
+￼
+   July 4, 2004
+In the past 3 months since this "Preview" page was last updated I've been busy on a number of very interesting projects. I've developed the A-100M rocket motor, an updated version of the A-100. The main differences are the incorporation of o-rings for sealing, and that this version is mainly intended for use with KNDX and KNSB propellants. I've fired this G-class motor many times, and I've taken a rather keen liking to it. It is particularly suitable for experimenting with modified propellant formulations (it field-reloads in 15 minutes!), including various sugar propellants doped with oxides. I've also done development work on a new sugar propellant, based on fructose sugar. The key advantage to fructose is the low melting point and thinner viscosity. An ongoing project involves further development work in potassium nitrate/epoxy formulations, as well as AN based formulations.
+Photos (from top, click on image for larger photo): 
+1. A-100M rocket motor
+2. Various experimental grains for the A-100M
+3. Author (left) with visiting Australian rocketry enthusiast, Shannon Dyer.
+4. Static firing of a highly experimental aluminum enriched KN/epoxy formulation.
+
+￼
+   Mar.27, 2004
+The flight of Frostfire Two made it apparent that for higher altitude flights, an effective means of making the rocket visible during descent is required. A number of methods will be investigated before the next Frostfire launch. In the photo at left is a flashing strobe light unit that was recently constructed in an effort to investigate whether this might be one solution. The strobe unit is made from a flash attachment for my old 35 mm Pentax. An alternative would be to use the flash components from a one-shot camera, but I chose this unit because it is quite a lot more powerful, operating off a 6V power supply (as opposed to 1.5V). The xenon strobe bulb is housed in a transparent nosecone fabricated from cast epoxy. The flash rate is set at once every 5 seconds.
+
+￼
+This is the (unpainted) aft fuselage for my next rocket project. The hi-tech body tube and fins are fabricated from composite materials by my good friend Roman (composites expert). Made to my specifications, the fins have a NACA 0005 airfoil shape, and are constructed of carbon/kevlar reinforced epoxy skins, with syntactic foam core. Very stiff & extremely lightweight, no flutter with these fins! The fuselage is sandwich construction, also with carbon/kevlar reinforced epoxy inner & outer skins. Sandwiched between is an 1/8" (3 mm) phenolic honeycomb core. The fins are bonded onto the fuselage with structural epoxy (Scotch-Weld 2216), and will be proof-load tested in the near future.
+
+￼
+   Feb.14, 2004
+This is the completed Frostfire Two rocket, which will be launched in the near future. It is quite similar to Frostfire One, launched early last year. The RNX powered Paradigm motor now has a slightly lengthened casing, holding 10% more propellant than the original design. Payload consists of the same PET (Parachute Ejection Triggering) module used with good success in the Zephyr rocket, the R-DAS flight data acquisition unit (and backup system for parachute deployment), and a radio transmitter. This unit will pick up & transmit sounds from within the rocket. An audio oscillator is mounted adjacent to the transmitter to provide a tracking signal. 
+The colour scheme was chosen strictly on the basis of visibility (clearly not aesthetics!), based on past experience. White shows up well against a blue sky, and darker colours (such as red & black) contrast well with a pallid sky.
+
+￼
+   Jan. 24, 2004
+Here I am "wind testing" the new "1 metre cross-parachute" that I just recently designed and fabricated. Construction technique is similar to the "1 metre semi-ellipsoidal parachute" that I designed some years ago. However, the cross-parachute is much easier & quicker to make. This parachute will be used on my next rocket, Frostfire Two. This rocket will be quite similar to Frostfire One, launched early last year (however, this rocket will not have induced roll!). Payload will consist of the R-DAS, the PET system in the Zephyr rocket, a transmitter (same unit that flew on Frostfire One) with a new audio beacon, and an Audio Data Recorder (ADR). The motor will be the Paradigm, which is capable of boosting the rocket to a one mile (1600 m.) apogee.
+
+￼
+   Nov. 23, 2003
+Several things have been keeping my busy of late. Besides composing the CD of my website (on-going), finishing off my new Zephyr rocket, developing an AN/KP/epoxy formulation, I have also recently prepared an RNX-73 (KNCP) grain with a new geometric configuration. I call this a "pseudo-finocyl" (a true finocyl has fins that taper along the length of the grain). This configuration is quite easy to make. A central bore is drilled, then a saw is used to cut the fins (thanks to Dave Muesing for the concept).
+
+￼
+   Nov. 2, 2003
+At left is a photo of the new Parachute Ejection Triggering (PET) module that I've just completed (click for hi-res photo). Three systems are combined in the one module: Air-Speed Switch for primary drogue deployment, Timer for backup drogue deployment, and a second Timer for Main Chute deployment. A number of design improvements have been incorporated, such as a redesigned lightweight g-switch and an epoxy encapsulated Mercury Switch for mercury containment in case of hard touchdown. Otherwise, the basic concepts are the same at the PET system used for the Boreas series of rocket flights. First launch of the yet-unnamed rocket will be in a few weeks from now.
+
+￼
+   Oct. 4, 2003
+Recent static testing was conducted to determine if Mr.Fiberglass epoxy would be suitable for RNX propellant. This brand has the advantage of being nearly 40% cheaper than either West System or East Systems, currently in use. The photo shows the succesful firing of PCM-11 loaded with RNX-73 propellant, validating this brand of epoxy. Another plus is that vacuum treatment during production of the propellant is not required.
+
+￼
+   Sep. 2, 2003
+The load cell (see below) worked like a charm. Together with the pressure data acquisition system, developed earlier, the thrust & chamber pressure curves for the Epoch motor were produced. The RNX-71V propellant also performed as hoped, confirming the design goal that this propellant be interchangeable with RNX-57. (Click for photo of test firing).
+
+￼
+   Aug. 23, 2003
+This is a photo of a 200 lb. (900 N.) capacity load cell that I recently built (see Strain Gage Load Cell for Thrust measurement). This load cell is fitted with four (full-bridge) strain gages and produces a nicely linear calibration curve. It has been mounted on the STS-5000 static thrust stand and will soon be used in conjunction with a pressure transducer utilizing the data acquisition system I built a few months back (see below) to collect both thrust and chamber pressure readings. This setup will be utilized in the static firings of the Epoch and Paradigm rocket motors loaded with RNX-71V propellant
+
+￼
+Static firing of PCM-5    June 22, 2003
+This was another characterization test of a slab grain of RNX-57 composite propellant. This motor had a Kn=700 and a propellant mass of 208 grams.
+View video: PCM-5.WMV (272 kbyte, sound is kinda weird) View video: PCM-5.MPG (1.7 Mbyte, better resolution)
+
+
+￼
+Pressure-time plots of Slab motor firings with RNX-62 propellant
+The above graph shows the measured chamber pressure for the two Slab motor static tests that were recently conducted (tests PCM-3 & 4). The Slab grains (see below) have a constant burning area (constant Kn) and it was expected (hoped!) that the pressure plots would reflect this with a more-or-less constant chamber pressure. Clearly, this "expectation" was dashed when I saw these curves...the pressure rises (nearly linearly) over the duration of the burn. Why? Inhibitor failure was ruled out after initial consideration. This behaviour has not been observed with RNX-57. After some head scratching, I recalled that RNX-62 was earlier noticed to be a lot more porous than RNX-57. Examination of the surface of the propellant under magnification revealed that RNX-62 has nearly 10 times as many minute bubbles or voids, estimated at 4000 per cubic centimetre (constituting about 10% of the propellant volume). Although these voids are very small (approximately 350 micrometre diameter), the large number of them may lead to a constantly increasing burning area (Kn) and an accelerated burn rate, explaining the odd pressure curves. The next "obvious" step is to determine the source of the bubbles (reaction between the West System epoxy & potassium nitrate, or some impurity...?).
+
+￼
+Two PCM's (Propellant Characterization Motor) with "slab" grains
+Two new static test motors were recently designed and built and will be used for characterizing the RNX propellants. These motors utilize slab (rectangular) propellant grains with inhibited edges, which provides for neutral burning. These slab grains are 1/2 inch (12.7 mm) thick. Key propellant characteristics such as chamber pressure as a function of Kn, burn rate as a function of pressure, and characteristic exhaust velocity (c-star) will be measured.
+
+￼
+New data acquisition system
+A new data acquisition system has been developed for use with the PCM series of tests. Currently, the system will be utilized for chamber pressure measurement only, but will later be enhanced to measure motor thrust, as well. A 0-5000 psi pressure transducer is connected to a simple INA122 based amplifier circuit, which in turn is interfaced to a DATAQ 154 A/D converter unit. This is controlled by software on the laptop computer, which also stores the test data. The blue item in the photo is a manifold to which the pressure transducer, a 0-1000 psi digital pressure gauge, and a grease nipple are connected. This is used for calibrating the transducer...a grease gun supplies the necessary pressure.
+
+
+￼
+Epoch Rocket Motor -- "W-Variant"
+Tailored to the faster burning RNX-62 epoxy composite propellant (utilizing West System epoxy), a BATES grain configuration was prepared. The casing was stretched to accommodate the 10% additional propellant, over the basic version of this motor which is powered by RNX-57.
+This motor was static tested on April 19th (ERMS-19). The results are shown in the graph below.
+
+￼
+Static test results for ERMS-19
+Only the chamber pressure was measured. The indicated thrust is based on the relationship  F = Pc At Cf , where Pc is the chamber pressure, At is the throat area, and Cf = 1.4, the estimated thrust coefficient.
+As the chamber pressure is on the low side for the Epoch motor (which has a rated design pressure of 1000 psi), the Kn will be increased for the next test. However, this particular Kn and grain configuration would be just about right for a PVC motor, giving a really l-o-n-g burn time! Hmm, food for thought...
+
+￼
+Last updated December 17, 2020
+Return to Top of Page
+Return to Home Page
+

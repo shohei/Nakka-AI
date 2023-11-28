@@ -1,0 +1,56 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Fins for Rocket Stability
+Purpose of fins on a rocket
+CG and CP
+Why CP aft of the CG?
+Why fins?
+CP--how far aft of the CG?
+Planform shape of the fins
+Aerofoil shape of the fins
+How many fins?
+Attaching fins to a rocket
+Stability Software
+Purpose of fins on a rocket
+The purpose of putting fins on a rocket is to provide stability during flight, that is, to allow the rocket to maintain its orientation and intended flight path. If a typical amateur rocket was launched without fins, it would soon begin to tumble after leaving the launcher, due to the way that aerodynamic and other forces (such as wind) act upon the rocket, in relation to the forces that are exerted upon the rocket by the motor and by gravity. The problem here is that the rocket's centre of pressure (CP) would be forward of its centre of gravity (CG). Fitting fins on a rocket serves to locate the centre of pressure aft of the CG. This begs the question -- what exactly are the centre of gravity and the centre of pressure and why the importance of these?
+CG and CP
+The CG is simplest to explain. It is the mass balance point of the rocket, that is, if the rocket was laid horizontal and balanced on a pencil, the CG is the location where the rocket balances. This is important, because this is the point that the rocket would rotate about if it was spun end over end. The CP is similar, it is where the resultant force of aerodynamic pressure acts, or the aerodynamic balance point. This is perhaps best visualized by imagining yourself holding the rocket outside the window of a moving car, however, holding it perpendicular to the airflow (e.g. nosecone pointing away from you). If you were to hold the rocket by grasping it with two fingers (such that it could pivot horizontally), the location where it would be perfectly balanced in the airflow is the location of the centre of pressure (it is somewhat more complicated, however, as the CP location varies with the angle of attack; in this example, the angle of attack is 90 degrees). For a rocket that is to be stable in flight, this point must be aft of the CG by a certain amount.
+Why CP aft of the CG?
+The importance of the location of CP relative to CG is apparent by considering a free body diagram of a rocket in flight.
+￼
+Figure 1 shows a stable rocket, with the CP aft of the CG. In this figure, the rocket is illustrated in a simplified form. This is because this principle is true for a body of any shape, not only for a finned rocket (for example, fireworks rockets don't have fins yet are stable bodies).
+
+In Fig. 1A, the rocket is shown during the powered flight This is an ideal state, with all the forces acting through the CG and no external (perturbing) forces present. The rocket is stable and accelerating with exclusively linear motion along the line of thrust. 
+
+In Fig. 1B, a perturbing force is introduced, in this example, the force due to a gust of wind. The resultant of this pressure force acts through the CP, causing the rocket to rotate about its CG, changing slightly the angle of attack (alpha).
+This change in angle of attack immediately generates a lift force, acting as shown (normal to the body) through the CP. This force balances the force due to wind, and the rocket remains stable, with its flight path only slightly altered.
+
+￼
+Fig. 2A illustrates a rocket with the CP, CG locations reversed, that is, the CP is ahead of the CG. This is an undesirable scenario. In this figure, the rocket is initially stable, being in the same ideal situation as in Fig. 1A, with no perturbing forces present. Along comes a disturbing force, again a gust of wind, as illustrated in Fig. 2B. The wind force acts with its resultant through the CP, again generating a slight rotation, and consequential change in angle of attack. Again, a lift force is generated due to the change in angle of attack, but this time the lift force acts in the same direction as the wind force. The consequence of this is an unchecked rotation of the rocket about its CG, as shown. The rocket becomes unstable, that is, its flight path is no longer linear motion, but rotational motion is introduced. The rocket tries to turn around and fly backward. The thrust force from the motor does not allow this, of course, and so the rocket tumbles out of control.
+
+
+Why fins?
+It may be apparent from the preceding discussion that fins, per se, may not be necessary to maintain the stability of a rocket. Other means are possible to achieve the same result, such as a stick attached to a fireworks rocket. However, fins are ideally suited to the task for many reasons. Fins are lightweight, low in drag, easily made and attached, can have just about any planform as is required, and probably most importantly, provide good assurance of a dynamically stable rocket This is because fins provide a high restoring lift force at even small angles of attack. This is important to reduce turning momentum of the rocket (due to its mass), which can lead to an underdamped wobbling rocket (which would zig-zag during its ascent), or at worse, dynamic instability caused by the restoring force being insufficient to overcome turning momentum.
+CP--how far aft of the CG?
+The exact location of the CP relative to the CG is rather a tradeoff. Having the CP too close to the CG risks having a rocket that is dynamically underdamped or even unstable. As well, since the CP for a typical rocket moves forward with increasing angle of attack, a sharp wind gust or other perturbation may result in loss of stability. Having the CP too far aft of the CG is also undesirable. This is because the rocket will experience significant or even sever weathercocking, which means its flight path will veer in a direction into the wind, rather than climb vertically. For model rockets, the rule-of-thumb is to have a rocket with one-calibre stability. Calibre refers to body diameter, so that the CP should be located one body diameter aft of the CG. Anything more than two-calibre stability leads to excessive weathercocking. Amateur rockets, which tend to be more massive (literally, have more mass for a given size) than model rockets, may require a CP further aft than this recommendation, owing to the much greater turning momentum that results from its mass. I generally aim for the CP to be 1.5 to 2 calibres aft of the CG of a fully loaded rocket.
+Planform shape of the fins
+Strictly speaking, the shape (planform) of fins for an amateur rocket is not highly important Nearly any reasonable shape will do the job, as long as the required CP-CG relationship is maintained, and the span is sufficient to generate good restoring (lift) force. Bear in mind that fin span is more effective than fin length. Probably the best shapes for fins are either the clipped delta or the trapezoidal (which is really a clipped delta with a forward swept trailing edge). If it is necessary for stability purpose to move the CP further aft than either of these two shapes allow, then the tapered swept planform may be considered. These three fin planforms are shown in Fig. 3. There is one notable advantage to the trapezoidal planform. Since the trailing edge is located forward of the end of the body tube, the fins are somewhat protected from impact damage (bending) when the rocket touches down. Even though the parachute reduces the descent rate significantly, my rockets ended up with bent fins when using either of the other two planforms, as it is the fin trailing edges that initially make contact with the ground.
+￼
+
+Aerofoil shape of the fins
+Although the fins are made of relatively thin sheet material (such as aluminum or plywood), it is beneficial to shape the edges to provide something of an aerofoil shape in order to reduce pressure drag and induced drag. For rockets that will fly at a velocity that is fully in the subsonic regime, the leading edges should be rounded, the trailing edges should be wedge shaped, the outboard edge should be left square edged, and of course the fin root edge does not need to be shaped. The leading edge and trailing edges of a supersonic fin, however, should both be wedge shaped. Another design, that is suitable for both subsonic and supersonic fins, is the unsymmetrical aerofoil. The leading and trailing edges are chisel-shaped, such that greater lift is developed on one surface of the fin. This introduces a slight rotation to the rocket, about its longitudinal axis. This aids stability, and tends to eliminate minor veering that may result from unbalanced drag, such as from the presence of launch lugs. This fin profile was used on the Cirrus One rocket with good results -- once stability was achieved, the rocket climbed skyward very straight. These three aerofoil shapes are illustrated in Figure 4. An aerodynamic fairing at the junction of the fin root and the body is a good idea, which could be beneficial in reducing interference drag.This sort of feature is often present on model rockets, with a glue or putty fillet applied at this junction serving this purpose. Another benefit to this sort of fairing is that it increases the structural strength of the fin with regard to out-of-plane bending loads that could result from handling or touchdown forces.
+￼
+
+How many fins?
+Clearly, at least three fins are required (for hopefully obvious reasons). And I can't imagine a need to have more than four fins, other than for aesthetic reasons. So the question becomes -- 3 or 4 fins? Nearly all my rockets had four fins. With such an arrangement, I found it simpler to form the root bend on the fins, and end up with fins that were neatly and symmetrically aligned. Three fins are best when designing a high performance, low drag rocket. This allows interference drag (drag caused by interference of the airflow over the body and fins at the junction) to be reduced by 25 percent. For this reason, the Cirrus One rocket was designed with a set of three fins.
+Attaching fins to a rocket
+Various means of attaching the set of fins to a rocket is detailed in the Rocket Construction Web Page.
+Stability Software
+AeroLab, written by Hans Olaf Toft, is a very useful and easy to use package with interactive graphics that estimates Drag, Lift and Center of Pressure for rockets flying at velocities up to Mach 8. It also estimates the rocket's Center of Gravity and Moments of Inertia and performs stability analysis within the entire velocity range. Available for downloading from the DARK website.
+
+￼
+Last updated August 26, 2001
+Return to Top of Page
+Return to Index Page
+

@@ -1,0 +1,21 @@
+
+
+Richard Nakka's Experimental Rocketry Web Site
+
+KN-Dextrose Propellant -- Burn rate as a function of O/F ratio
+
+To obtain an indication of the role that oxidizer/fuel ratio has on the burn rate of the KN-Dextrose propellant, some simple experiments were conducted.
+The experiments involved casting propellant strands and burning them at atmospheric pressure. Both, dextrose-based and sucrose-based strands were tested, in order to compare burnrates under identical conditions.
+Strands were prepared from dextrose monohydrate-based propellant, as well as anhydrous dextrose-based propellant. The strands prepared with dextrose monohydrate were intentionally heated minimally (strands were extruded immediately after melting occured). As such, these samples would be expected to have a significant moisture content.
+Various oxidizer/fuel (O/F) ratios were tested, ranging from 55/45 to 75/25. For all tests, batches of dry mixture were carefully weighed out ( typically 50-100 g.) and mixed thoroughly for 1-3 hours before casting. A summary of the test results is shown below in Figure 1. "Trend" lines are also shown, based on a best-fit quadratic curve.
+
+￼
+
+Figure 1 -- Burnrate testing results for varying O/F ratios
+As can be seen, the burnrate for dextrose-based propellant is far slower than sucrose-based. In fact, the rate is about one-half, for each O/F ratio tested (anhydrous). The trends are similar, though, indicating a maximum rate at around the 63/37 O/F ratio. Also, it can be seen that the burnrate for dextrose monohydrate-based strands is significantly less than for the anhydrous dextrose-based strands, undoubtedly due to the residual moisture.
+What is the significance of these test results? It is important to keep in mind that these tests were conducted at ambient atmospheric pressure conditions. Only further experimentation can reveal whether these trends hold under conditions of elevated pressure.
+
+￼
+Last updated October 23, 1999
+Back
+

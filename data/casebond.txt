@@ -1,0 +1,111 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Case-bonding of a High-Modulus Propellant Grain
+
+Introduction
+The concept of bonding a propellant grain directly to the motor casing wall, typically achieved by casting the propellant directly into the motor casing, has two important objectives:
+	1	To inhibit burning of the propellant grain at the bondline between grain and casing. As such, the motor can be configured to behave as an end-burner or a core-burner with a longer burn duration. 
+	2	To avoid exposure of the casing walls to the hot combustion gases. This is highly desirable, as the mechanical strength of the casing material is significantly reduced by high temperature exposure, in particular, aluminum alloys.
+But can a propellant grain with a high elastic modulus*  be successfully case-bonded? Such a grain is characterized as being highly "inflexible". More specifically, the grain tends to develop high internal stress with relatively tiny strain (stretch). Low-modulus (flexible, or rubbery) propellants are successfully employed as case-bonded, as these develop contrastingly small stresses at relatively large strains. The elastic modulus for this category of propellant is typically in the range shown below:
+Propellant Type
+Elastic Modulus (psi)
+PVC/AP/Al
+250
+Polysulfide/AP/Al
+3000
+PBAN/AP/Al
+3300
+HTPB/AP/Al
+2000
+Polyurethane/AP/Al
+20 000
+
+
+The cast "sugar" based propellants (KN-Sucrose, KN-Dextrose and KN-Sorbitol) all fit into the category of being high-modulus.
+Propellant Type
+Elastic Modulus (psi)
+KN/Sorbitol
+850 000
+KN/Dextrose
+TBD (similar)
+KN/Sucrose
+TBD (similar)
+* Elastic Modulus (E) is defined as E = s / e, where s is stress (force per unit area), and e is strain (change in length divided by original length).
+
+
+As such, it is of interest to examine the feasibility of case-bonding such propellants. As shown in Figure 1, there are two significant failure modes that may result from inappropriate design of a case-bonded motor utilizing a high-modulus propellant:
+	1	Disbonding of the grain from the casing wall (cohesive failure), as the casing tends to expand under pressure, and the grain resists expansion. This type of failure could likely occur if the grain length is less than the casing length, as the casing would tend to expand to a greater extent in the region beyond the grain boundaries (see Figure 2a). 
+	2	Cracking of the grain web (at multiple sites) if the tensile strength of the propellant is exceeded as a result of pressurization induced (hoop loading) strain.
+￼￼
+
+Figure 1 -- Potential failure modes for motor utilizing case-bonded grain
+
+Both failure modes would likely result in catastrophic motor failure due to overpressurization resulting from unexpected increase in burning area.
+The likelihood of disbonding failure can be reduced by utilizing a full length grain combined with reinforced casing closures to locally minimize radial expansion due to pressurization. (see Figure 2b). ￼￼
+Figure 2 -- Disbonding cause and prevention
+
+To prevent radial cracking of the propellant grain due to pressure induced strain (mode 2 failure), it is necessary to limit the strain by using a sufficiently stiff casing. This would normally be achieved by using a casing material of high elastic modulus (such as steel, rather than aluminum) and/or utilizing a sufficiently thick casing wall. But how thick must the casing wall be to sufficiently limit the strain? Consider the following analysis:
+The change (delta) in casing diameter due to chamber pressure is given by
+￼
+The casing strain, e, is the change in diameter divided by the original diameter
+￼
+Note that the term PD/2t represents casing hoop stress, sc. Considering this, and the fact that the grain must experience the same strain as the casing (as it is bonded to the casing), gives
+￼
+The poisson ratio for the grain material, ug, is not known. However, for most materials, the value is between 0.25 and 0.33. Assuming that it is similar to that of the casing leads allows this term to drop out of the equation, giving:
+￼
+This equation reveals that the ratio of the hoop stresses are proportional to the ratio of the elastic moduli.
+From this, the maximum allowable casing hoop stress may be calculated, knowing the maximum allowable hoop (tensile) stress of the grain material, as well as the elastic modulus of the grain and casing. Subsequently, the required casing wall thickness may be calculated.
+
+Note that the above analysis ignores the structural contribution of the propellant grain. In actual fact, the case-bonded grain becomes part of the motor structure and helps to resist hoop loading. As such, the analysis is slightly conservative, and the actual wall thickness required would be slightly less than indicated.
+
+Example:
+Consider a proposed case-bonded KN-Sorbitol grain, of 3.0 inch diameter. MEOP of the motor is 800 psi. Determine how thick the casing wall must be to limit the grain tensile stress to 20% of the grain ultimate tensile strength. Both steel and aluminum are being considered for the casing material. Assume that cohesive failure at the bondline will not occur.
+For this propellant,
+      850 000 lb/in2       Elastic modulus
+      1050 lb/in2       Ultimate tensile stress
+      0.20 (1050) = 210 lb/in2       Allowable tensile stress
+1.Steel casing
+Ec = 29 000 000 lb/in2
+
+Maximum allowable casing hoop stress is given by
+￼
+Therefore, required casing wall thickness is
+￼
+Such a casing would be rather heavy, having a mass of 0.47 lbs per inch of length.
+2. Aluminum casing
+Ec = 10 000 000 lb/in2
+
+Maximum allowable casing hoop stress is given by
+￼
+Therefore, required casing wall thickness is
+￼
+This casing would also be rather heavy, having a mass of 0.38 lbs per inch of length.
+
+Conclusion
+Particular care is imperative in the design and construction of a rocket motor that is to utilize a case-bonded grain of high elastic modulus propellant. Disbonding of the grain, which would certainly result in a catastrophic failure, is a real possibility that might only be prevented by careful design of the casing and the grain. Highly effective cohesion of the grain to the casing wall is essential, as well.
+In order to prevent radial cracking of the grain resulting from expansion under pressure, a sufficiently rigid casing must be used, preferably steel. As the examples indicate, the weight penalty of such a thick walled casing is severe.
+Care is also essential during casting the grain. Once cast, it is not possible to detect flaws, such as voids or bubbles, which could locally weaken the grain or act as stress raisers.
+As such, it would appear that case-bonding of a high-modulus propellant is of questionable practicality.
+It is interesting to consider that the objectives sought through case-bonding may well be achieved through other means. For example, to inhibit burning along the outer surface of the grain, the grain may be alternatively cast into a burn-resistant or ablative liner, such as a cardboard tube, of a diameter slightly less than the casing inside diameter. Protection of the casing walls from hot combustion gases may be achieved by a suitable ablative coating (such as polyester or epoxy resin) or a snug-fitting multilayered paper or cardboard liner. With such an arrangement, the grain can be free-standing, and thus subjected to benign compressive stresses only.
+
+
+Glossary of terms
+
+
+D       Casing inside diameter
+E       Elastic modulus
+t       Casing wall thickness
+P       Motor chamber pressure
+s       Hoop (or tensile) stress
+e       Strain
+n       Poisson ratio
+c       Casing (subscript)
+g       Grain (subscript)
+
+￼
+Last updated August 23, 1999
+Return to Top of Page
+Back to Home Page
+

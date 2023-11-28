@@ -1,0 +1,124 @@
+ 
+Basic Information
+Name
+DS-7
+Launch date:
+11 September, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 30 in. circular parachute
+- 2 pair launch lugs
+Payload
+- Raven altimeter
+- Backup Apogee Timer
+- BRB900 GPS transmitter
+- Motor initiated Smoke Charge with slow burning composition
+Liftoff mass
+2.191 kg.
+Flight objectives
+- To determine performance with launch lugs versus fall-away launch guides
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNDX
+Grain mass
+303 grams
+Nominal impulse
+357 N-sec
+Class
+I
+ 
+Additional information
+-Two pairs of tubular launch lugs fixed to rocket body (2nd opposing pair is for aerodynamic balance).
+-Smoke composition 58/42 KN/sorbitol. Previously was 65/35/0.5 KN/sorbitol/RIO
+-Parachute spill-hole closed off with a sewn-on patch
+ 
+Weather conditions
+Temperature
+23°C
+Wind
+SSE 7 km/hr
+Wind Chill
+n/a
+Sky
+Sunny with variable clouds
+Other
+RH 53%
+Ceiling
+30k ft (9k metres)
+ 
+Launch Event Description
+Setup for the launch went smoothly with no glitches. For videotaping the flight, I used the hand-held camcorder (with scope tube). A second camera was set up on a tripod a short distance from the pad.
+ 
+After verifying the sky was clear, the countdown proceeded. Shortly after ignition switch was closed, the motor fired and rocket briskly accelerated skyward. We lost visual contact shortly after burn out. About 10 seconds later, a smoke cloud appeared overhead and a few seconds later a “pop” sound of the apogee charge was heard. A second smoke cloud appeared and a faint smoke trail was seen. The rocket was not sighted tumbling downward. After approximately one-half minute, a “pop” was heard and the rocket was spotted. The parachute was deployed but did not fully open until the rocket was a couple hundred feet from the ground. Rocket drifted downward with fully inflated chute at a fairly brisk pace, landing in tall grass a few hundred feet downwind from the pad.
+ 
+We entered the indicated GPS coordinates of the landing site into the hand-held Garmin unit, then headed toward the rocket to retrieve it. The rocket was found exactly where indicated, and the rocket appeared to be in perfect condition. Raven beeped out an apogee of 3512 ft.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.0
+3512
+1070
+Separation
+15.9
+3500
+1067
+Main deployment
+54.8 (64.1)
+664 (131)
+202 (40)
+Touchdown
+68.8
+-
+-
+Range
+-
+345
+105
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+75.7
+23.1
+ 
+Main parachute
+30.2
+9.2
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that all components of the rocket were in perfect condition.
+The smoke charge once again burned out quickly. Examination of the device indicated that combustion was likely anomalous as a result of insufficient insulation separating the delay element from the main charge. More effective insulation will be added in the future.
+Examination of the BRB GPS track of the flight suggested why we did not spot the rocket during free-fall descent. Initially the rocket ascended relatively straight upward, with in a slight northerly bias. Immediately after burn out, the rocket veered distinctively to the southwest. This trajectory carried the rocket well behind us, away from where we were expecting the rocket to be seen during its descent.
+Once again the parachute had trouble inflating. Closing-off the spill-hole helped only slightly. As such, this parachute will be retired.
+Fixed launch lugs do not seem to carry a significant drag penalty for the DS rocket. The apogee of this flight (3512 ft.) was nearly the same, within two percent, as the previous flight equipped with fall-away launch guides (3453 ft.). These two flights were very comparable with regard to the rocket particulars, weather conditions and flight trajectory.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-7\DS-7_Raven_basic.jpg
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-7\DS-7 _BRB_mapped.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad                                                                                              DS-7\DSCN0389.JPG
+Liftoff of DS-7…!                                                                                          DS-7\DS-7_capture1.jpg
+Ejection charge clouds and smoke trail                                                  DS-7\DS-7_capture2.jpg
+Rocket tumbling earthward                                                                      DS-7\DS-7_capture3.jpg
+Descent by parachute                                                                                 DS-7\DS-7_capture4.jpg
+                                                                                                                        DS-7\DS-7_capture5.jpg
+                                                                                                                        DS-7\DS-7_capture6.jpg
+Touchdown site                                                                                           DS-7\DSC00159.JPG
+                                                                                                                        DS-7\DSC00160.JPG
+ 
+ 
+ 

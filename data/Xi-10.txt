@@ -1,0 +1,139 @@
+ 
+Basic Information
+Name
+Xi-10
+Launch date:
+5 January 2019
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker
+Liftoff mass
+3.050 kg.
+Stability Margin (initial)
+2.56
+Flight objectives
+- Test of new chute folding method for more reliable inflation
+ 
+Motor details
+Motor name
+Impulser-XX
+Propellant
+KNDX
+Grain mass
+462 grams
+Nominal impulse
+544 N-sec
+Class
+I
+ 
+Additional information
+-        On a number of recent flights, parachute inflation (once deployed) had been delayed or incomplete. Incomplete inflation of the chute leads to a harder than normal landing with typically some damage to the rocket. To attempt to resolve this issue, the parachute folding method was changed. The method being employed for this flight is very similar to the Dura-Chute method.
+ 
+Weather conditions
+Temperature
+-8°C  (18°F)
+Wind
+NE 11 km/hr with gusts to 17
+Sky
+Lightly overcast
+Other
+R.H. 79%
+Windchill -13°C
+Ceiling
+6000 ft.
+ 
+Launch Event Description
+We used our sled to haul the supplies to the launch site. The snow on the trail was hard-packed and as such, the trek was not strenuous. Setup of the rocket went smoothly, with no significant glitches. Followed checklist as usual. The BRB transmitter and receiver were activated and verified that a good GPS signal was obtained. After installing rocket on pad,  the BREO-N, Eggtimer, and then Raven were activated. Raven beeped nine times for voltage and gave 3 positive indications for the 3 active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately fired and the rocket roared skyward. Ascent was mainly vertical, with a small amount of veering into the wind. Visual contact was lost shortly after burnout. Due to the grey sky, we did not expect to gain sight of the rocket or smoke trail. Instead, I monitored the BRB GPS display, which indicates altitude of the rocket. Shortly after the readout showed 4686 feet ASL (Above Sea Level) we heard a pop sound of the apogee pyro charge. I continued to watch the altitude display, which showed decaying altitude at the expected rate. As the altitude passed below the 2000 foot mark, I announced that the chute should be deploying imminently. Just then a pop sound was heard as the main pyro charge fired. We then spotted the rocket, slightly downwind from the launch pad, descending slowly beneath a fully inflated chute. The rocket descended in a stable manner, drifting with the wind, and gently touched down a half-minute later in a snow-covered field approximately 1000 feet from the pad.
+ 
+Although the landed rocket was within view, we proceeded to program the touchdown site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.20 miles. We headed toward the touchdown site and as we approached, we observed that the rocket appeared to be in pristine condition. Raven beeped out a peak altitude of 4168 feet (AGL). We noted that all the pyros had fired and that that smoke charge had burned.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.1
+4171
+1271
+Separation
+15.9
+4159
+1268
+Main deployment
+55.9
+803
+245
+Touchdown
+91
+-
+-
+Range
+-
+1075
+328
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+87.3
+26.6
+ 
+Main parachute
+21.6
+6.6
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data confirmed that the flight was fully successful. There was one minor anomaly, which was inconsequential to the flight success. The BREO unit was found to have powered off prior to landing. A slide switch, which serves to power the unit, was seen to have moved to the off position. A review of the BREO data indicated that this anomaly coincided with the shock associated with main separation (for chute deploy) event.
+ 
+For the next flight, the BREO slide switch will be replaced with a toggle switch of the type used to power up the Raven and EggTimer units. Typically toggle switches are less susceptible to g-loading than slide switches.
+ 
+The deployed parachute inflated rapidly, suggesting that the revised parachute packing method is an improvement over the previous method. The revised method will be used on the next flight.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-10\xi-10 raven basic.gif
+Acceleration curve, boost phase                                                          Xi-10\xi-10 raven accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-10\Xi-10_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-10\Xi-10_BREO.gif
+ 
+BRB:
+Flight path, mapped                                                                                Xi-10\Xi-10_BRB.gif
+ 
+Photos:
+Xi-10 rocket on pad with author                                                           Xi-10\Dscn0313a.jpg
+Liftoff…!                                                                                                    Xi-10\2019-01-21_12-16-51.jpg
+Ascending skyward                                                                                  Xi-10\2019-01-21_12-17-47.jpg
+                                                                                                                    Xi-10\2019-01-21_12-18-13.jpg
+                                                                                                                    Xi-10\2019-01-21_12-18-37.jpg
+Descending gracefully by parachute                                                    Xi-10\2019-01-15_12-08-11.jpg
+Smoke cloud from backup pyro is seen                                               Xi-10\2019-01-15_12-08-46.jpg
+                                                                                                                    Xi-10\2019-01-15_12-09-14.jpg
+Nearing touchdown                                                                                Xi-10\2019-01-15_12-09-34.jpg
+                                                                                                                    Xi-10\2019-01-15_12-10-15.jpg
+Heading out to landing site                                                                   Xi-10\DSCN0316a.JPG
+                                                                                                                    Xi-10\2019-01-15_12-10-40.jpg
+                                                                                                                    Xi-10\2019-01-15_12-11-10.jpg
+Aft body section of rocket                                                                     Xi-10\2019-01-15_12-11-25.jpg
+Parachute and AvBay                                                                              Xi-10\2019-01-15_12-11-43.jpg
+                                                                                                                    Xi-10\2019-01-15_12-12-26.jpg                                                                                                                   
+Forward body section of rocket                                                           Xi-10\2019-01-15_12-12-01.jpg
+ 
+Video:                                                                                                           
+Flight Xi-10 (Youtube)                                                                             https://youtu.be/K7aLzweLiWA
+ 

@@ -1,0 +1,126 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Altimeter System
+
+￼
+Introduction
+Construction
+Parts List
+Schematic
+Programming
+Installation
+Operation
+PCB Layout
+
+Introduction
+The altimeter described in this Web Page was built for the Cirrus One rocket, which was launched in April 2001. This altimeter is based on Paul Kelly's design with minor modifications. The altimeter serves two important functions: (1) to record the maximum altitude achieved by the rocket; (2) to deploy the recovery system. The maximum altitude attained is indicated by an audible code. The recovery system is triggered in two stages, the first being at the peak altitude, and the second at an altitude of 700 feet (200 metres) during final descent. This allows for a "drogue" recovery system to be initially deployed, which allows for fairly rapid descent (to avoid excessive downrange drift) of the rocket. The main system, typically a parachute, is deployed nearer the ground to provide for a final soft touchdown.
+The altimeter is fully electronic, with the peak altitude recorded in non-volatile memory. The heart of the circuit is PIC16F84 programmable microcontroller chip. The altitude is sensed by a barometric pressure transducer, interfaced to a TLC542 analog-digital (A/D) converter chip. The two recovery stages are triggered by relays, which in turn, are interfaced to pyrotechnic deployment systems. For the Cirrus One rocket, the "drogue" system was a dual 4 metre nylon fabric streamer, and the main system was a parachute of one metre diameter, as described in the Parachute Design and Construction Web Page.
+
+Construction
+Rather than utilizing printed circuit board (PCB) as with Paul Kelly's design, I decided to use prototyping board instead, with which I had plenty of previous experience. Prototyping board (or Veroboard) is phenolic circuit board with rows of single sided copper strips running the length of the board fitted with 0.04" holes spaced 0.10" apart. The electronic components are simply inserted into the board at convenient locations (on the non copper clad side), then soldered in place. Wires may then be soldered in adjacent holes to connect the various components.
+
+Parts List
+Altimeter Parts List
+Item
+Digi-key P/N
+Quantity
+PIC16F84A Microcontroller
+PIC16F84A-04I/P-ND
+1
+8-BIT 11-Channel A/D converter
+296-1334-1-ND
+1
+Instrumentation amplifier INA122
+INA122PA-ND
+1
+Pressure sensor 15 psia
+287-1078-ND
+1
+Crystal 4.000 Mz
+300-6003-ND
+1
+Reed relay, 12 V
+HE208-ND
+2
+MOSFET N-CH 8A
+2SK3042-ND
+2
+12 V regulator 0.1 A
+LM78L12ACZ-ND
+1
+Piezo buzzer, 12V
+-
+1
+IC DIP socket 18 pin
+A9418-ND
+1
+IC PLCC socket 20 Pos
+ED80000-ND
+1
+Transistor 2N4124
+-
+1
+5 k trim variable resistor (pot.)
+-
+1
+22 pF capacitor
+-
+2
+22 microfarad capacitor
+-
+2
+LED
+-
+2
+150 ohm resistor
+-
+2
+10k ohm resistor
+-
+2
+SPST on/off switch
+-
+1
+3 Pos'n DIP switch
+GH1103-ND
+1
+
+Schematic
+￼
+Note that the two 10k resistors connected between rb1, rb2 and ground are optional, but recommended to ensure that these two pins are at ground level at startup.
+The 5 k potentiometer is to be adjusted to 3.9k ohm resistance before installing this part into the circuit. Setting the pot. to this value pre-calibrates the unit. Fine adjustment to the pot. may be peformed later if it is desired to calibrate the unit using a vacuum chamber, although this is not necessary.
+Note that two power supplies are required, one to power the altimeter, and one to fire the pyro squibs for streamer & parachute ejection. For the 6V source, I used 4 AA cells, and for the 12V source, I used two Duracell "J" "flat pack" 6V photo batteries wired in series.
+Note that IGN 1 is the igniter wire for the drogue system (fired at peak), and IGN 2 is the igniter wire for the parachute system (fired at 750 feet descent altitude). I used a 3mm length of #36 nichrome wire for the igniters, which triggered separate black powder charges. The buzzer produces the audible "beeps" which indicates the measured altitude in coded form. The power for the 6V ignition source is switched with one of the three DIP switches. The other two DIP switches are used in series with the igniters, to allow for final testing of the altimeter with the igniters connected.
+
+Programming
+The PIC chip needs to be programmed before the altimeter can be used. The software that I used (Altv45) is valid for altitudes of up to 10,000 feet.
+For me, programming was the most problematic part of the altimeter project. There are various PIC programmer designs available on the net, consisting of relatively simple hardware, as well as associated PC software. I built the NOPPP programmer, which was recommended by a fellow amateur rocketry buddy who had previously built this altimeter (as well as the NOPPP programmer) and had had good success with it. Unfortunately, I could not get the programmer that I built to work properly, the cause most likely being an incompatibility of the NOPPP with my PC. In the end, my rocketry buddy sent me a PIC chip that he programmed for me.
+
+Installation
+The altimeter must be installed correctly in the rocket to function properly. I learned this lesson the hard way, as the altimeter that I flew in Cirrus One was installed incorrectly, and did not work as intended. The altimeter must be installed in a "sealed" chamber with vents, or static ports, open to the outside. A sealed bulkhead located aft of the altimeter chamber is necessary to avoid the "vacuum" generated at the rear of the rocket during flight. A sealed bulkhead forward of the altimeter chamber is also necessary, to avoid pressure fluctuations that may be generated at the nose end of the rocket. The static ports must be in an area where there are no obstructions (e.g screw heads, launch lug) which might disturb the smooth flow of air over the ports. The port holes must be deburred and completely flush with the fuselage outside profile. A minimum of four equal diameter, evenly spaced ports should be used. The location of the ports should be at least four calibres (body diameters) aft of the nose/fuselage junction. The port holes must not be too small, nor too large. The general guideline is one 1/4 inch (6 mm) diameter hole per 100 cubic inches (1650 cu.cm.) of volume of the altimeter chamber. If more than one hole is used, then an equivalent area should be used (e.g. if four holes, then each should be 1/8 inch (3 mm) diameter, per 100 cu. in. volume)
+
+Operation
+With the igniters disconnected (or with DIP 2 & 3 open), the power supplies are turned on. The altimeter will then "beep" the code of the altitude last stored in memory. After about two minutes, the beeping will cease, indicating that the altimeter is calibrated, ready and waiting. Further calibration of the altimeter is not required, and should quite accurately report altitude, as long as the potentiometer has been adjusted to 3.9k ohms. DIP 2 and DIP 3 are then closed, arming the parachute ejection system. The altimeter senses altitude (pressure) change during ascent, and recognizes peak altitude by taking note of diminishing pressure change. The "drogue" system is then triggered. As the rocket descends, pressure is continually sensed, and at approximately 700 feet (200 metres) the "primary" recovery system is triggered. The peak altitude is then reported by the audible "beeps" and continues to beep until power is switched off. As the data is stored in non-volatile memory, the altimeter will once again beep the recorded peak altitude once the unit is switched back on. The beep code is quite simple and provides the altitude (feet) in scientific notation:
+	•	Tens of thousands
+	•	Thousands
+	•	Hundreds
+Where a short beep indicates "zero" and a long beep indicates "one".
+Example short beep          0 x 10,000  long long long pause          + 3 x 1000 long long pause          + 2 x 100 = 3200 feet
+
+
+PCB Layout
+The most space efficient means of building this circuit is to use a printed circuit board (PCB). The use of a PCB also makes assembly of the circuit much simpler and greatly reduces the likelihood of error. The following are two diagrams (not to scale) of a PCB created by Wm. Iserhardt.
+
+￼
+
+￼
+The PCB layouts are available as files compatible with Protel 98 and Protel DXP board-level design software available from Protel.
+Download altimeterPCB.zip
+A word of caution: I have not built the altimeter using this PCB layout and as such cannot vouch for its accuracy. I suggest comparing the PCB layout to the schematic to ensure the two are consistent.
+
+￼
+Last updated September 3, 2006
+Return to Top of Page
+Return to Home Page
+

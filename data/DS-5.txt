@@ -1,0 +1,129 @@
+ 
+Basic Information
+Name
+DS-5
+Launch date:
+1 July, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 30 in. circular parachute
+- One fixed launch lug; one fall-away launch guide
+Payload
+- Raven altimeter
+- Backup Apogee Timer
+- BRB900 GPS transmitter
+- Motor initiated Smoke Charge
+Liftoff mass
+2.163 kg.
+Flight objectives
+- To determine performance using fall-away launch guides
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNDX
+Grain mass
+300 grams
+Nominal impulse
+353 N-sec
+Class
+I
+ 
+Additional information
+Original goal was to use two fall-away launch guides (one upper and one lower). During launch prep, a bonded joint failed on upper guide, so this was replaced with a taped-on fixed lug.
+ 
+A new 30 inch (76cm) parachute (with spill-hole) is being used for first time.
+ 
+Weather conditions
+Temperature
+20°C
+Wind
+SW 5-10 km/hr
+Wind Chill
+n/a
+Sky
+Sunny with cirrus clouds
+Other
+RH 35%
+Ceiling
+30k ft (9k metres)
+ 
+Launch Event Description
+Trek to launch site, using wagon to haul equipment, went well. Wet conditions plaguing previous launch event had fully dried up. Setup of the rocket initially proceeded nominally (we used a checklist, as usual). But then I realized that I had failed to bring the pyrogen igniter for the motor. A spare pyrotechnic type was installed instead, knowing that this would unfortunately result in slower startup and therefore slightly degraded motor performance. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, smoke appeared at the base of the rocket. It took about two seconds before rocket soared off the pad. Climb was initially straight, then tilted slightly with the wind, before straightening and ascending vertically. A faint smoke trail was seen emanated from the rocket during the entire ascent, which greatly aided tracking. The smoke intensity greatly increased as the rocket approached apogee. The “pop” sound of the apogee charge was heard followed by another pop from the backup charge, after two smoke clouds appeared. Smoke trail then ceased and rocket was seen tumbling downward, made visible by flashes of light as the sun glinted off the reflective tape on the rocket. Rocket tumbled free-fall for about one-half minute, then the pyro charge was seen to fire and parachute immediately blossomed at about 500 ft (150m.) altitude. Rocket drifted downward at a brisk but stable manner.
+ 
+We entered the indicated GPS coordinates of the landing site into the hand-held Garmin unit, then headed toward the rocket to retrieve it. The rocket was found exactly where indicated, and the rocket appeared to be in perfect condition. Raven beeped out an apogee of 3265 ft.
+ 
+The fall-away launch guide was recovered about 30 feet (9m) downwind from the pad.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.4
+3265
+995
+Separation
+15.3
+3256
+992
+Main deployment
+52.7
+481
+147
+Touchdown
+67.1
+-
+-
+Range
+-
+883
+269
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+76.9
+23.4
+ 
+Main parachute
+29.3
+8.9
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that all components of the rocket were in perfect condition.
+Based on the video footage, the fall-away launch guide separated cleanly from the rocket shortly after departing the launch rod.
+The smoke trail greatly aided visual tracking of the rocket during coast to apogee. During free-fall, the sun glinting off the rocket’s reflective chrome bands greatly aided tracking.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-5\DS-5_Raven_basic.jpg
+Acceleration data                                                                                        DS-5\DS-5_Raven_accel.jpg
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-5\DS-5_BRB_mapped-1.jpg
+ 
+Photos:                                                                                                         
+Fall-away launch guide with dowel                                                         DS-5\DSCF4158.JPG
+Scope tube and camcorder                                                                       DS-5\DSCF4162 scope tube.JPG
+Rocket on pad                                                                                              DS-5\DSCF4167b.JPG
+Liftoff. Launch-guide is seen falling away                                              DS-5\2016-07-07_12-27-48.jpg
+Ascent                                                                                                            DS-5\2016-07-07_12-28-35.jpg
+Wisp of smoke trail on ascent                                                                  DS-5\2016-07-07_12-29-04.jpg
+Smoke trail and clouds at apogee                                                            DS-5\2016-07-07_12-30-17.jpg
+Sun glints of rocket during free-fall                                                         DS-5\2016-07-07_12-32-17.jpg                                                                                                                       
+Pyro charge fires, releasing parachute                                                   DS-5\2016-07-07_12-33-11.jpg
+Descent by parachute                                                                                 DS-5\2016-07-07_12-33-41.jpg
+Approaching touchdown                                                                           DS-5\2016-07-07_12-33-59.jpg
+ 
+Video:                                                                                                           
+Flight DS-5                                                                                                                        https://youtu.be/_kYkvJpmHOo
+ 
+ 

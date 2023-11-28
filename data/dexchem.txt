@@ -1,0 +1,137 @@
+
+
+Richard Nakka's Experimental Rocketry Web Site
+
+KN-Dextrose Propellant Chemistry and Performance Characteristics
+
+Standard Composition (65/35 O/F)
+For the KN-dextrose propellant, with an oxidizer-fuel (O/F) ratio of 65/35, the theoretical combustion equation is as follows:
+C6H12O6 + 3.31 KNO3 -> 2.116 CO2 + 2.300 CO + 4.512 H2O + 1.424 H2 + 1.655 N2 + 1.585 K2CO3 + 0.133 KOH
+at a pressure of 68 atmospheres, and where the following compounds are symbolized as:
+dextrose (anhydrous)
+solid
+C6H12O6
+potassium nitrate
+solid
+KNO3
+carbon dioxide
+gas
+CO2
+carbon monoxide
+gas
+CO
+steam
+gas
+H2O
+hydrogen
+gas
+H2
+nitrogen
+gas
+N2
+potassium carbonate
+liquid
+K2CO3
+potassium hydroxide
+gas
+KOH
+
+The mole numbers for each of the products shown above were determined from PROPEP (Propellant Evaluation Program).
+Characteristics of the KN-Dextrose Propellant (65/35 ratio)
+
+Parameter
+
+Units
+Note
+
+Process method
+Cast
+
+
+Isp
+Specific Impulse, ideal
+164
+sec.
+[1]
+Isp
+Specific Impulse, measured
+137
+sec.
+[6]
+C*
+Characteristic exhaust velocity, theoretical
+2993 (912)
+ft/s (m/s)
+
+C*
+Characteristic exhaust velocity, measured
+2922 (891)
+ft/s (m/s)
+[7]
+To
+Combustion temperature, theoretical @1000 psia
+1437 (1710)
+deg Celsius (K)
+[2]
+To
+Combustion temperature, measured@1000 psia
+TBD
+deg Celsius
+
+
+Density, ideal
+1.879
+gram/cu.cm.
+
+
+Density, as cast
+1.859
+gram/cu.cm.
+[3]
+X
+Mass fraction of condensed-phase products
+0.425
+-
+
+k
+Ratio of specific heats
+1.043
+-
+[4]
+M
+Effective molecular wt. of exhaust products
+42.39
+g/mole
+[5]
+
+Burn rate behaviour
+plateau
+ro
+Burn rate @ 1 atm.
+0.084
+in/sec
+r
+Burn rate @ 1000 psia
+0.509
+in/sec
+Tcr
+Auto-ignition temperature
+> 300
+deg. C.
+
+[1] At 1000 psi pressure; exit pressure one atmosphere [2] PROPEP combustion results [3] Measured (liquid displacement method), typical [4] Effective (2-phase flow), at chamber conditions. For static conditions, k=1.131 [5] System mass /number of gas moles [6] Static Test KDX-002 [7] Closed Vessel test, CV-2, Dec.8, 2000 
+
+￼
+
+Figure 1 -- This chart shows the variation of theoretical specific impulse with O/F (oxidizer/fuel) ratio.
+
+￼
+Figure 2 -- This chart shows the variation of combustion temperature and molecular weight of exhaust products with O/F ratio.
+
+￼
+Figure3 -- This chart shows the variation of theoretical specific impulse with chamber pressure.
+
+￼
+Last updated December 10, 2000
+Back
+

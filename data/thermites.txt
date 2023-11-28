@@ -1,0 +1,210 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Thermite Experiments
+
+A thermite reaction is one in which a metal (usually aluminum or magnesium) is oxidized by an oxide of another metal. The term thermite is also used to refer to the mixture of two such compounds. If the reacting metal is aluminum, the products are aluminium oxide (Al2O3) and the elemental metal from the original oxide. If the reacting metal is magnesium, the products are magnesium monoxide (MgO) and the elemental metal. Also produced is a great deal of thermal energy.
+Thermites are of interest to the amateur rocketeer due to their potential use as an effective rocket motor igniter composition. The large quantity of released heat, the rapid combustion, the abundance of condensed-phase products, and the absence of appreciable gaseous products combine to make their use appealing in certain applications. In particular, for rapid ignition of hard-to-light propellants.
+This webpage explores the theoretical properties and combustion characteristics of several of thermite formulations. For all of these, two reacting metals were considered -- aluminum and magnesium. The oxides considered are those commonly available, typically used as pigments. Those chosen for this investigation were based on what was available "on hand".
+The aluminum used in these experiments was West System 420 atomized aluminum powder. The magnesium was, for safety concerns, a relatively coarse 230 mesh (60 micrometer), and was non-passivated. All the oxides had been obtained from a local pottery supply shop.
+
+	•	 A. Red iron oxide & aluminum
+	•	 B. Red iron oxide & magnesium
+	•	 C. Copper oxide & aluminum
+	•	 D. Copper oxide & magnesium
+	•	 E. Manganese dioxide & aluminum
+	•	 F. Manganese dioxide & magnesium
+	•	 G. Titanium dioxide & aluminum
+	•	 H. Titanium dioxide & magnesium
+	•	 I. Chromium oxide & aluminum
+	•	 J. Chromium oxide & magnesium
+	•	 K. Calcium Sulfate & aluminum ￼
+For each of these, the balanced reaction equation and the change in enthalpy (heat released) per gram of reactants is presented. Since the reacting metal is a lot more precious than the oxides, the heat released per gram of metal reactant is also indicated. A negative sign indicates that heat is released by the reaction. Appendix A demonstrates how the change in enthalpy is calculated.
+Ten gram batches of each formulation were prepared. Of this, a small 0.5 gram sample was ignited to ascertain how readily the formulation could be ignited. Qualitatively, the rate of burning was observed, and the appearance of the resulting reaction. Three different means of igniting the thermite were tried. A standard propane torch was used first. If this failed, a ribbon of burning magnesium was used. For some formulations, an electrically initiated Mini bulb igniter was also used. No ignition powder was used with these igniters, rather, the filament was merely placed in direct contact with the thermite powder.
+
+
+A. Red iron oxide & aluminum
+This is the "classic" thermite.
+Fe2O3+ 2 Al -> Al2O3+ 2 Fe    Dh = -3.98 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 2.96:1.
+For a 10 gram batch:
+Fe2O3
+7.5 g
+Al
+2.5 g
+
+
+Observations: Could not be ignited with a propane torch. Ignited readily with magnesium ribbon. Burned with a medium quickness, emitting lots of iron "sparklers".
+
+
+B. Red iron oxide & magnesium
+This is a modified version of the "classic" thermite.
+Fe2O3+3 Mg -> 3 MgO+ 2 Fe    Dh = -4.21 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 2.23:1.
+For a 10 gram batch:
+Fe2O3
+6.9 g
+Mg
+3.1 g
+
+
+Observations: Easily ignited with a propane torch. Could also be ignited with a Mini bulb igniter. Burned quickly, with a bright white flash.
+
+
+C. Copper oxide & aluminum
+3 CuO + 2 Al -> Al2O3 + 3 Cu    Dh = -4.12 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 4.56:1.
+For a 10 gram batch:
+CuO
+8.2 g
+Al
+1.8 g
+
+
+Observations: Could not be ignited with a propane torch. Ignited readily with magnesium ribbon and also with a Mini bulb igniter. Burned instantaneously with a hot, white flash. Lots of brownish smoke was produced.
+￼Videoclip of 0.5 grams of copper oxide / aluminum thermite being ignited with a Mini bulb igniter WMV format, (519 kb), AVI format, (1.1 Mb),
+
+D. Copper oxide & magnesium
+CuO + Mg -> MgO + Cu    Dh = -4.29 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 3.3:1
+For a 10 gram batch:
+CuO
+7.7 g
+Mg
+2.3 g
+
+
+Observations: Ignited easily with a propane torch. Burned instantaneously with a bright flash. A Mini bulb igniter was also successful in igniting this thermite.
+￼Videoclip of 0.5 grams of copper oxide / magnesium thermite being ignited with a Mini bulb igniter WMV format, (629 kb), AVI format, (1.1 Mb)
+￼ Combustion of CuO-Mg thermite.
+
+
+E. Manganese dioxide & aluminum
+3 MnO2 + 4 Al -> 2 Al2O3 + 3 Mn    Dh = -4.79 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 2.42 :1.
+For a 10 gram batch:
+MnO2
+7.1 g
+Al
+2.9 g
+
+
+Observations: Reluctantly ignited with a propane torch. Ignited readily with magnesium ribbon, and was also successfully ignited with a Mini bulb igniter. Burned very quickly. Some unburned composition remained.
+￼Videoclip of 0.5 grams of manganese dioxide / aluminum thermite being ignited with a Mini bulb igniter WMV format, (436 kb), AVI format, (1.4 Mb),
+
+F. Manganese dioxide & magnesium
+MnO2 + 2 Mg -> 2 MgO + Mn    Dh = -4.98 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 1.79 :1.
+For a 10 gram batch:
+MnO2
+6.4 g
+Mg
+3.6 g
+
+
+Observations: Ignited readily with a propane torch. Was also successfully ignited with a Mini bulb igniter. Burned instantaneously with a bright flash and "whoosh" sound.
+￼Videoclip of 0.5 grams of manganese dioxide / magnesium thermite being ignited with a Mini bulb igniter WMV format, (436 kb), AVI format, (1.6 Mb),
+
+G. Titanium dioxide & aluminum
+3 TiO2 + 4 Al -> 2 Al2O3 + 3 Ti   Dh = -1.39 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 2.22 :1.
+For a 10 gram batch:
+TiO2
+6.9 g
+Al
+3.1 g
+
+
+Observations: Could not be ignited with a propane torch. Ignited using magnesium ribbon and burned quite slowly with a bright light. Much residue remained.
+
+H. Titanium dioxide & magnesium
+TiO2 + 2 Mg -> 2 MgO + Ti   Dh = -1.92 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 1.64 :1.
+For a 10 gram batch:
+TiO2
+6.2 g
+Mg
+3.8 g
+
+
+Observations: Ignited with a propane torch. Was also successfully ignited with a Mini bulb igniter. Burned quite quickly with a bright white flash. Lots of spatter.
+￼Videoclip of a "straw" igniter with 0.2 grams of Titanium dioxide / magnesium thermite WMV format, (458 kb), AVI format, (1.3 Mb),
+
+I. Chromium oxide & aluminum
+Cr2O3 + 2 Al -> Al2O3 + 2 Cr   Dh = -2.55 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 2.81 :1.
+For a 10 gram batch:
+Cr2O3
+7.4 g
+Al
+2.6 g
+
+
+Observations: Failed to ignite with a propane torch. Ignited with magnesium ribbon and burned quite slowly and in a feeble manner. Some unburned composition remained.
+
+J. Chromium oxide & magnesium
+Cr2O3 + 3 Mg -> 3 MgO + 2 Cr   Dh = -2.91 kJ/gram.
+The stoichiometric mass ratio of oxide to metal is 2.09 :1.
+For a 10 gram batch:
+Cr2O3
+6.8 g
+Mg
+3.2 g
+
+
+Observations: Ignited readily with a propane torch and burned rapidly with a bright yellow flash, some spatter. Was also successfully ignited with a Mini bulb igniter.
+￼Videoclip of 0.5 grams of chromium dioxide / magnesium thermite being ignited with a Mini bulb igniter WMV format, (467kb), AVI format, (1.4 Mb),
+
+K. Calcium Sulfate & aluminum
+Calcium sulfate, CaSO4, is readily available in the form of plaster of paris, blackboard chalk*, or gypsum. As plaster of paris, it exists as the hemihydrated state with ½ molecule of water, CaSO4.½H2O, or as chalk or gypsum, in the dihydrate state, CaSO4.2H2O. In the anhydrous state, it is used as a dessicant. Before using in a thermite mixture, the material should be dried in an oven at 175oC. (350oF) for an hour or more to reduce the moisture content to the hemihydrated form.
+
+
+*Blackboard chalk may be made from either calcium sulfate or calcium carbonate. To confirm a given chalk is calcium sulfate, drop a piece in strong acid (e.g. muriatic). If it fizzes, the product is calcium carbonate. If there is no (or minimal) fizzing, the product is calcium sulfate.
+
+The assumed balanced equation is:
+CaSO4 + 2 Al -> Al2O3 + CaO + S   
+The stoichiometric mass ratio of oxide to metal is 2.43 :1.
+For the hemihydrate form, the mass ratio is adjusted to account for the ½ molecule of water: The mass ratio of hemihydrate oxide to metal is 2.6 :1.
+For a 10 gram batch:
+CaSO4.½H2O
+7.2 g
+Al
+2.8 g
+
+
+Observations: Quite difficult to ignite, requires magnesium ribbon to initiate. Burns very rapidly with a bright flash. Could not be ignited with a Mini bulb igniter.
+￼Videoclip of 0.5 grams of calcium sulfate / aluminum thermite being ignited with a propane torch. WMV format, (2.6 Mb),
+
+Summary
+Table 1 summarizes the 10 formulations and lists the heat of reaction for each, given in terms of kilojoules per mole of reactant, per gram of thermite, and per gram of metal content.
+￼
+TABLE 1
+
+
+Tables 2 and 3 present the same information, however, sorted in order of :
+	1	heat of reaction per gram of thermite.
+	2	heat of reaction per gram of metal content
+￼
+Conclusions
+These experiments demonstrated that quite a variety of thermites are practical. All of the compositions that were tested reacted in a manner consistent with theory. The compositions with the theoretical high heat output burned with the greatest vigour.
+The aluminum based compositions were consistently harder to ignite than magnesium based compositions, and in most cases could not be ignited with a propane torch. These generally required the use of magnesium ribbon to initiate the reaction. Interestingly, a Mini bulb igniter was successful in initiating reaction for many of the aluminum based compositions. All of the magnesium based compositions ignited readily with a propane torch, and of those tested, all ignited with the use of a Mini bulb igniter.
+Out of the ten tested, the two copper oxide based compositions were most impressive in terms of apparent heat produced and rapidity of burning. Both burned "in a flash". The manganese dioxide compositions were a close second in terms of impression.
+The theoretical heat output of the various thermites varies significantly. The most potent, in terms of mixture mass, is the manganese dioxide/magnesium composition. Poorest is the titanium dioxide/aluminum composition, which produces less than a third of the heat output of the best.
+In terms of "economics", the greatest heat output per gram of metal content is produced by the copper oxide/aluminum thermite. This particular thermite clearly outshines the rest in this regard.
+
+
+Appendix A
+The following example shows how enthalpy change due to thermite reaction is calculated.
+Copper oxide & aluminum 3 CuO + 2 Al -> Al2O3 + 3 Cu
+The atomic weights of the elements involved are: Cu   63.55 grams/mole Al    26.98 grams/mole O    16.00 grams/mole
+From these, the molecular weights of the compounds involved are calculated: CuO, MW = 63.55 + 16.00 = 79.55 grams/mole Al2O3, MW = 2 (26.98) + 3 (16.00) = 101.96 grams/mole
+The enthalpy of formation of the two compounds are: (ref. NIST Chemistry WebBook) CuO    -156.06 kJ/mole Al2O3   -1675.7 kJ/mole
+The change in enthalpy due to the reaction is therefore: DH = -1675.5 - 3 (-156.06) = -1207.3 kJ/mole of thermite mixture
+The mass of 1 mole of mixture is: mass = 3 (79.55) + 2 (26.98) = 292.6 grams
+Therefore, on a mass basis, the change in enthalpy due to the thermite reaction is: Dh = -1207.3 / 292.6 = -4.13 kJ/gram
+
+Originally posted May 2, 2007
+
+Last updated February 13, 2009
+Return to Home Page
+

@@ -1,0 +1,141 @@
+ 
+Basic Information
+Name
+Xi-3
+Launch date:
+7 January, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Timer for backup apogee separation
+- Eggtimer Classic altimeter for backup apogee separation and main deploy
+Liftoff mass
+2.931 kg.
+Stability Margin (initial)
+3.49
+Flight objectives
+Test improved venting of parachute compartment
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+384 grams
+Nominal impulse
+452 N-sec
+Class
+I
+ 
+Additional information
+-Dual parachute tethers
+-Parachute compartment vent hole size increased from 1/8 inch (3.2mm) to 3/8 inch (9.5mm).
+ 
+Weather conditions
+Temperature
+-5°C
+Wind
+SW 10 km/hr gusting to 20 km/hr
+Sky
+Clear
+Other
+R.H. 80%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+We used our sled to haul the supplies to the launch site. Following a checklist, setup of the rocket proceeded smoothly with no glitches. The BRB was activated first. After installing rocket on pad, Eggtimer was activated, followed by the Raven. Raven beeped nine times for voltage and gave 4 positive indications for the 4 pyros. Backup Timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated rapidly skyward, climbing straight and vertical in a stable manner. Rocket remained in sight nearly the entire ascent, thanks to the bright sun illuminating the orange-painted rocket. A smoke cloud was seen to appear at apogee and the ‘pop’ sound heard a few seconds later The smoke tracking trail was then seen as rocket began tumbling downward.  After about half minute of decent, the parachute charge was seen to fire and immediately the parachute was seen to fully blossom. The smoke charge burned out a few seconds later. The rocket had a gentle and stable descent, and landed in a snow-covered field about 2000 feet away, which was farther than expected with the light ground-level wind.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site was indicated as 0.43 miles away. When we arrived at the location of the downed rocket, we found the rocket to be in perfect condition.  The Raven had shut off so we did not get a field-report of the peak altitude.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.9
+3180
+969
+Separation
+15.0
+3168
+966
+Main deployment
+48.3
+722
+220
+Touchdown
+72.9
+-
+-
+Range
+-
+1925
+587
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+77.0
+23.5
+ 
+Main parachute
+24.8
+7.56
+ 
+                                  
+Post-flight analysis and comments:
+The Raven, Eggtimer and backup Timer all performed nominally. Peak altitude reported by Eggtimer closely matched Raven (3189 ft. versus 3180 ft.).  All pyros had fired.
+ 
+No valid BRB flight data could be obtained. I had forgot to power down the unit and after a few hours, flight data was overwritten (memory looping was enabled).
+ 
+Chute deployment was fully nominal. The dual parachute tethers showed no sign of trauma or significant loading. As such, the improved venting worked well.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Xi-3\Xi-3_Raven_basic.jpg
+Axial acceleration data                                                                              Xi-3\Xi-3_Raven_accel.jpg
+ 
+Photos:
+Pyro charges                                                                                                 Xi-3\DSCF5213.JPG
+Rocket for Flight Xi-3                                                                                  Xi-3\DSCN0125.JPG
+Ignition…Liftoff…                                                                                         Xi-3\2018-01-11_12-17-41.jpg
+Ascent                                                                                                            Xi-3\2018-01-11_12-18-30.jpg
+                                                                                                                        Xi-3\2018-01-11_12-18-55.jpg
+                                                                                                                        Xi-3\2018-01-11_12-19-10.jpg
+Burnout                                                                                                         Xi-3\2018-01-11_12-19-31.jpg
+Apogee charge smoke cloud                                                                     Xi-3\2018-01-11_12-21-41.jpg
+Smoke trail begins                                                                                       Xi-3\2018-01-11_12-21-58.jpg
+Descending                                                                                                   Xi-3\2018-01-11_12-22-13.jpg
+                                                                                                                        Xi-3\2018-01-11_12-22-57.jpg
+                                                                                                                        Xi-3\2018-01-11_12-23-26.jpg
+Parachute charge fires                                                                               Xi-3\2018-01-11_12-25-25.jpg                                                                                                                       
+Descending by parachute                                                                          Xi-3\2018-01-11_12-26-22.jpg
+                                                                                                                        Xi-3\2018-01-11_12-26-47.jpg
+Rocket at landing site                                                                                 Xi-3\DSCN0130.JPG
+AvBay and parachute                                                                                  Xi-3\DSCN0129.JPG
+Heading home after a successful outing                                                Xi-3\DSCN0128.JPG
+ 
+Video:                                                                                                           
+Flight Xi-3 (Youtube)                                                                                   https://youtu.be/5RQtBhdIyGA                                                                                                                       
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

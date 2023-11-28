@@ -1,0 +1,26 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Solid Rocket Motor Theory -- Basic Assumptions
+
+Basic Assumptions
+The various physical and chemical processes that occur in an actual rocket motor during operation are highly complex. These processes include the complex chemical reactions that occur during combustion; the manner in which "consumption" of the propellant grain occurs during burning; the behaviour of the flow of exhaust gases as they form at the burning surface, travel through the chamber, and exit through the nozzle; the interaction between the exhaust gases and condensed particles (smoke).  The theoretical analysis of a solid rocket motor necessitates certain simplifications, that is, the assumption is of an ideal rocket motor. An ideal rocket motor assumes the following:
+	•	The propellant combustion is complete and does not vary from that assumed by the combustion equation.
+	•	The combustion products obey the perfect gas law.
+	•	There is no friction impeding the flow of exhaust products.
+	•	The combustion and flow in the motor and nozzle is adiabatic, that is, no heat loss occurs to the surroundings.
+	•	Unless noted otherwise, steady-state conditions exist during operation of the motor. This means that the conditions or processes that occur do not change with time (for a given geometric conditions) during burning.
+	•	Expansion of the working fluid (exhaust products) occurs in a uniform manner without shock or discontinuites.
+	•	Flow through the nozzle is one-dimensional and non-rotational.
+	•	The flow velocity, pressure, and density is uniform across any cross-section normal to the nozzle axis.
+	•	Chemical equilibrium is established in the combustion chamber and does not shift during flow through the nozzle. This is known as "frozen equilibrium" conditions.
+	•	Burning of the propellant grain always progresses normal (perpendicular) to the burning surface, and occurs in a uniform manner over the entire surface area exposed to combustion.
+Any further assumptions that may be required are stated as necessary in the following analyses.
+Although it seems like a lot of simplifying assumptions must be made, in fact, these are all reasonable and can be expected to reflect the actual behaviour of the rocket motor fairly closely.
+Next --Propellant Grain
+
+￼
+Last updated  July 5, 2001
+Back to Theory Index Page Back to Index Page
+

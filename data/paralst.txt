@@ -1,0 +1,130 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Parts list for Parachute Construction
+
+Fabric for canopy
+Suggested material is lightweight ripstop nylon. For the prototype parachute that I constructed, I simply used a nylon shower curtain, which was nearly ideal, the only drawbacks being it was not ripstop and that it was somewhat heavier fabric than was necessary. It had a nice tight weave, not surprisingly, since it's intended purpose dictates that it be water-resistant! The following table lists the specifications for commercial parachute fabrics, as well as for the fabric that I used for the prototype parachute:
+Parachute Fabric Properties
+
+
+
+WARP
+FILL
+THICKNESS
+TEARING
+BREAK
+AIR
+MIL
+
+WEIGHT
+COUNT
+COUNT
+
+STRENGTH
+STRENGTH
+PERMEABILITY
+CODE
+TYPE
+(oz/sq.yd.)
+(per in.)
+(per in.)
+(in)
+(lbs)
+(lbs/in)
+(CFM/sq.ft)
+498E
+D
+0.88
+90
+90
+N.A.
+2.5
+40
+300-500
+498E
+G
+0.88
+90
+90
+N.A.
+2.5
+40
+100-325
+7020H
+I
+1.10
+120
+120
+0.003
+5.0
+42
+80-120
+7020H
+II
+1.60
+120
+120
+0.004
+5.0
+50
+100-160
+44378
+I
+1.17
+126
+132
+0.003
+5.0
+45
+0-5
+*
+*
+1.81
+80
+100
+0.004
+N.A.
+47
+N.A.
+*  IKEAtm, Billingen shower curtain (white) or Rosanna (off-white), 180x200 cm.; p/n 17763 (Billigen), 14331 (Rosanna), $14.50 CAD (sufficient fabric to make two 1-metre diameter canopies). Fabric for both is identical (100% nylon). The latter has a water-repellant coating, but this can be eliminated (before dyeing) by washing the fabric in hot water with laundry detergent. Properties listed for this fabric were determined by measurement and/or testing.
+
+Fabric Dye
+One half of the quantity of fabric that was used to make the canopy was dyed red. The dye used was:
+	•	RIT tm, tint & dye, #5 scarlet, one 32 gram package, $1.77 CAD.
+
+Cord for shroud lines
+The type that I used was braided nylon cord, the kind that is sold in the camping department of stores. The specific type that I used was:
+	•	World Famoustm, p/n 3150, 15 m. package, $2.47 CAD.
+The approximate width and thickness of the cord, measured under light tension loading, are :
+	•	width = 0.175 in. (4.5 mm)
+	•	thickness = 0.050 in. (1.27 mm)
+and the cord tested breaking strength is:
+	•	Breaking strength = 185 lbs (822 N.) average
+
+Sewing thread
+The thread that was used for machine stitching the canopy together and for sewing the shroud lines to the canopy was the following:
+	•	Coats tm, 100% nylon upholstery thread, 137 m. spool, $2.79 CAD
+The measured diameter, and tested breaking strength of the thread are:
+	•	Diameter = 0.013 in. (0.33 mm)
+	•	Breaking strength = 9 lb. (40 N.) average
+
+Seam Binding
+The seam binding that was used to join the canopy panels was as follows:
+	•	Wrights tm, Iron On Hem Tape, 100% polyester, PC22, 2.75 m. package, $1.97 CAD
+	•	
+	•	which is identical to the
+	•	Wrights tm, "Soft and Easy" Seam binding, 100% polyester, PC16, 2.75 m. package, $1.97 CAD
+	•	
+	•	except that the hem tape has heat activated adhesive to facilitate the joining process.
+The measured dimensions and tested breaking strength are:
+	•	width = 0.525 in. (13 mm)
+	•	thickness = 0.005 in. (0.13 mm)
+	•	Breaking strength (longitudinal) = 61 lbs (271 N.) average
+	•	Breaking strength (transverse) = 46 lbs/in (81 N/cm.) minimum
+
+￼
+Last updated May 25, 2001
+Back to Parachute Construction Page
+Back to Home Page
+

@@ -1,0 +1,166 @@
+s
+Basic Information
+Name
+Xi-19
+Launch date:
+29 August 2020
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Legendary formulation
+Liftoff mass
+2.869 kg.
+Stability Margin (minimum)
+2.34
+Flight objectives
+-Flight test of new APM-C.2 motor powered by KNPSB propellant
+ 
+Motor details
+Motor name
+APM-C.2
+Propellant
+KNPSB
+Grain mass
+328 grams
+Nominal impulse
+482 N-sec.
+Class
+I
+ 
+Additional information
+-APM-C.2 is a 51mm experimental motor powered by 2 segments KNPSB (KNPSB = 35%KN, 30%KP and 35% sorbitol). The motor features an aluminum nozzle with steel throat insert. This motor was successfully static fired previously.
+ 
+Weather conditions
+Temperature
+23°C  (73°F)
+Wind
+NNW 5-10 km/hr
+Sky
+Sunny with scattered clouds
+Other
+Humidity 36%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Setup of the launch equipment and rocket went well with no glitches. Following the launch checklist,  the BRB receiver was activated and verified that a good GPS signal was obtained. The BREO-N, Eggtimer and Raven were then activated. Eggtimer “blinked” its LED indicating ready for launch. Raven beeped nine times for voltage and gave three positive indications for the three active pyros. For videotaping the flight, I used the hand-held Sony camcorder fitted with scope tube. We tilted the launch rod slightly (approx. 5 degrees from vertical) in a northerly direction to reduce the risk of having the rocket land in a nearby grove of trees.
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately came to life and the rocket soared skyward, climbing nearly vertical with a slight tilt to the right. The thrusting sound of the APM-C.2 motor seemed more intense than either the Impulser or JEM motors. Burn time was about a second, as expected. We lost sight of the rocket shortly after burnout. After about 20 seconds we heard two distinct ‘pop’ sounds of the apogee charges. We then spotted a pair of smoke clouds produced by the charges. We briefly spotted the tumbling rocket, illuminated by the bright sun, but lost sight of it shortly after. No smoke trail was seen. After about ½ minute, we heard the ‘pop’ sound of the parachute pyro charge and spotted the rocket ahead and slightly to the right of us. The chute had deployed and fully blossomed. A few seconds later a gentle ‘pop’ was heard and a smoke cloud was seen to appear as the backup chute pyro fired. Approximately ½ minute later the rocket touched down roughly 1000 feet NW of the launch site.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. The indicated distance from where we were located was 0.2 miles (0.3 km). As we trekked toward the landing site, we soon spotted the rocket’s parachute a few hundred feet ahead, in a field of grass and alfalfa. Arriving at the touchdown site, all the rocket components were seen to be present and looked to be in great condition. Raven beeped out an apogee of 3136 feet. All five of the pyro charges were seen to have fired and the smoke charge appeared to have burnt.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.9
+3168
+966
+Apogee (temperature corrected)
+-
+3271
+997
+Separation
+14.6
+3165
+965
+Main deployment
+802
+50
+244
+Touchdown
+84
+-
+-
+Range
+-
+856
+261
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+69.2
+21.1
+ 
+Main parachute
+21.9
+6.7
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven, EggTimer and BREO was fully nominal.  The Raven, EggTimer and BREO all gave apogee readings within 0.1 percent (4 feet).
+ 
+Data from the BRB was a bit odd. There were a three periods of GPS data drop-out lasting 4-5 seconds. The first occurred at launch, and the 2nd and 3rd drop-outs just prior to apogee and immediately following apogee. The reason for this is not known, although the data does indicate the number or satellites received was only 3 or 4 during this time. For most of the flight, at least 9 satellites were received.
+ 
+The APM-C.2 rocket motor performed better than expected based on earlier static test results, achieving an apogee 5% higher than simulated. The shape of the acceleration curve closely matched the pressure-thrust curve from the static test. Tear-down of the motor showed it to be in nearly pristine shape. The casing thermal liner and all casting tubes were essentially intact. The aluminum nozzle did, however, experience some erosion at the convergent inlet to the steel throat insert. A design change will be required in this area of the nozzle.
+ 
+The smoke charge ignited but ceased burning almost immediately. A new batch of Legendary smoke composition had been used for this flight. The process of preparing the batch deviated from the normal process (in an attempt to improve efficiency). Subsequent post-flight testing of the mixture demonstrated unstable burning. This batch will be discarded and a new batch prepared for the next flight (with ground testing to verify stable burning).
+ 
+Raven data:                                                                                            
+Barometric and axial acceleration data                                          Xi-19\Raven_Xi-19_basic.gif
+Acceleration curve, boost phase                                                     Xi-19\Raven_Xi-19_accel.gif
+Static test thrust-pressure graph APM-C.2-ST1                            Xi-19\APM-C.2-ST1_graph.gif
+ 
+Eggtimer data:                                                                                    
+Altitude versus flight time                                                                 Xi-19\ET_Xi-19.gif
+ 
+BREO-N data:                                                                                      
+Altitude versus flight time                                                                 Xi-19\BREO_Xi-19.gif
+ 
+BRB GPS data:
+Right angle turn is fictitious, due to data drop-out                        Xi-19\BRB_Xi-19.gif
+ 
+Miscellaneous photos:
+APM-C.2 rocket motor/KNPSB propellant                                      Xi-19\DSCF6341.JPG
+                                                                                                                Xi-19\DSCF6342.JPG
+Launch photos:
+Rocket on the pad, my brother Blair viewing the checklist        Xi-19\DSCN0496.JPG
+Motor ignition and liftoff…                                                               Xi-19\2020-09-17_14-00-49.jpg
+                                                                                                                Xi-19\2020-09-17_14-01-18.jpg
+Rocket clearing the launch rod                                                         Xi-19\2020-09-17_14-01-36.jpg
+Climbing straight vertical                                                                   Xi-19\2020-09-17_14-01-58.jpg
+                                                                                                                Xi-19\2020-09-17_14-02-45.jpg
+                                                                                                                Xi-19\2020-09-17_14-03-07.jpg
+                                                                                                                Xi-19\2020-09-17_14-03-28.jpg
+Burnout: 375 ft (115m.); velocity 707 km/hr                                 Xi-19\2020-09-18_14-30-33.gif
+Coasting                                                                                                Xi-19\2020-09-17_14-04-05.jpg
+                                                                                                                Xi-19\2020-09-17_14-04-41.jpg
+Twin smoke clouds from apogee pyros                                         Xi-19\2020-09-17_14-05-30.jpg
+Descending by parachute                                                                  Xi-19\2020-09-17_14-07-04.jpg
+                                                                                                                Xi-19\2020-09-17_14-07-30.jpg
+Backup chute pyro fires                                                                     Xi-19\2020-09-17_14-08-08.jpg
+                                                                                                                Xi-19\2020-09-17_14-08-27.jpg
+Gentle descent                                                                                    Xi-19\2020-09-17_14-08-43.jpg
+                                                                                                                Xi-19\2020-09-17_14-09-12.jpg
+                                                                                                                Xi-19\2020-09-17_14-09-43.jpg
+Less than a second to touch down                                                  Xi-19\2020-09-17_14-10-25.jpg
+Landing site                                                                                          Xi-19\2020-09-17_14-11-05.jpg
+Rocket at landing site                                                                         Xi-19\2020-09-17_14-11-47.jpg
+                                                                                                                Xi-19\2020-09-17_14-12-06.jpg
+                                                                                                                Xi-19\DSCN0499.JPG
+                                                                                                                Xi-19\DSCN0501.JPG
+                                                                                                                Xi-19\DSCN0502.JPG
+                                                                                                                Xi-19\DSCN0503.JPG
+Video:
+Launch video (Youtube)                                                                                                                https://youtu.be/F5ebd3Gi1Ic
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

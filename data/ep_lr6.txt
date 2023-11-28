@@ -1,0 +1,80 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Boreas 1  Rocket -   Flight #5
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of ERMS-18, the official designation of the fifth flight of the Boreas 1 rocket, which is powered by the newly developed RNX propellant in the Epoch solid rocket motor.
+The main objective of this flight was to test out a timer based "2-stage" recovery system. For Flight #1 through to Flight #3, a timer system was used to trigger deployment of the main parachute, however, deployment was chosen to occur shortly after drogue chute deployment. The intent of this was to have the main chute serve an additional role as a backup in case of drogue chute deployment failure. This conservative approach was chosen as part of the development process of the contemporary rocket recovery system. Now that the basic recovery systems have been proven to be effective and reliable, the subsequent step is to delay deployment of the main parachute until the rocket has descended much of the way down. This is particularly important for higher altitude flights, in order to minimize downwind drift of the rocket, which can be very substantial, even in light winds. To accomplish this, and to maintain a backup for the drogue system, a second timer module was added for main parachute release. The drogue is thus triggered primarily by the Air-Speed (A-S) System, with the Timer module of the PET (Parachute Ejection Triggering) module providing redundancy.
+
+Rocket Description
+The motor used for this flight was once again the 48 mm Epoch-SS solid rocket motor, an "I" class motor (I308-1.5 classification) which delivers a total impulse of 460 N-sec. with a thrust time of 1.5 seconds.
+The specific propellant formulation was once again RNX-57, consisting of 70% Potassium Nitrate oxidizer, 8% Ferric Oxide (burn rate modifier & supplemental oxidizer), and 22% Epoxy (fuel & binder).
+The total propellant mass was 384 grams (0.846 lb.), and consisted of a free-standing hollow-cylindrical grain, inhibited on both ends (exclusively) which provides for a constant Kn =920. A thermal liner consisting of epoxy impregnated cardboard was employed to reduce heat transfer to the lightweight 1 mm steel casing.
+As with the preceding flight of the Boreas rocket, the igniter was located into the space between the grain outer surface and the thermal liner, to allow for more rapid buildup of thrust and more efficient usage of propellant. Two "Ferocious" igniters were again installed, with one serving as a backup.
+There were some changes to the configuration of the rocket for this flight:
+	•	Both the forward and aft fuselages were rebuilt (both had received damaged upon touchdown in the preceding flight). The aft fuselage was lengthened to 57 cm. to accommodate the larger Paradigm rocket motor (J400-3.0 classification) that was recently developed and successfully static test fired. This motor will be utilized on a future flight. 
+	•	As mentioned, a second timer module, the Main Parachute Timer, was built for triggering deployment of the main parachute. The design and construction is nearly identical to the timer utilized in the PET module. For this flight, the PET Timer is used as a backup system for drogue deployment. The only significant modification to the new Timer is that capacitor C3 was changed to 88 microfarad to increase maximum time delay to 120 seconds. For this flight, the time delay was set at 23 seconds. A mercury switch initiates the timing sequence at motor burnout.  ￼
+	•	Main Parachute Timer module 
+	•	The nosecone, which was damaged upon landing in the preceding flight, was remade. The design is basically the same, that is, a Styrofoam SM core covered with an epoxy skin. The nosecone was made substantially larger to additionally serve as an impact attenuator. In case of main chute deployment failure, with descent by drogue chute only, the nosecone is designed to crush. The energy absorption capacity of the nosecone is such that approximately 50% of the excess kinetic energy will be dissipated (based on the Dow Corning spec of 30 lb/sq.in. crush strength), protecting the payload within the forward and mid fuselages. Excess energy is defined as the kinetic energy difference due to a touchdown at 60 feet/sec (18 m/sec) as would be the case with drogue only descent, and a touchdown at 40 feet/sec (12 m/sec) which the rocket & payload is designed to withstand without significant damage. Nominal main chute descent rate is 25 feet/sec. 
+	•	In order to induce a certain degree of roll about the rocket's longitudinal axis, new fins were fabricated that had small tabs on the outboard trailing edges. The intent of inducing roll is to help keep the rocket on a straight trajectory, by eliminating any tendency to veer due to uneven aerodynamic drag or slight misalignment of the fins. The design of the tabs is similar to that used successfully on the Cirrus TV-1 rocket. The design roll rate is 3 rotations per second, at burnout. 
+	•	The rocket was repainted. Instead of fluorescent orange, it was painted bright red. It had been found that the fluorescence of the paint resulted in blurring of the images taken with digital cameras. Some roll markings were added: the nosecone was half red and half yellow; some fins were painted red, others yellow. 
+Pre-launch weight of the rocket was 8.15 lbs (3.70 kg.); total height was 1.965 metres (6.45 ft.). The main parachute was once again the one metre diameter semi-ellipsoidal parachute, and the drogue chute was the same cross-type used previously. The stability margin was greater than 2 for this flight. Although this is somewhat higher than optimum, the fins had been sized for the rocket fitted with the heavier Paradigm rocket motor.
+
+
+Launch Report
+Sunday, February 9, 2003 
+When we arrived at the test site, the wind had picked up and was now coming out of the west at 22 km/hr. Consideration was given to postponing the launch. However, it was felt that the improved stability margin of the rocket, combined with the fact that a two-stage recovery method was being employed, made the conditions acceptable. With the previous flight, it was felt that the wind combined with a narrow stability margin led to the significant veering of the rocket. Downrange drift, with delayed main chute deployment, was not considered to be a problem, either. Other than the breeze, the conditions were quite good, with a sunny, bright blue winter sky, and a temperature of -7oC (19oF.). The windchill was admittedly a bit nasty, at -13.
+The EMT rail launchpad was set up first of all, then the rocket was assembled. Owing to the length of the rocket, it had been separated for transport into two sections. Next the rocket was loaded onto the launch rail. In order to reach the upper hatch, which allowed access the the Main Parachute Timer module, it was necessary to stand on the tool box (fortunately, the tool box was designed for a step load). Connections were made to the main chute ejection charges and continuity confirmed. The lower hatch was then removed to gain access to the PET module, and a similar procedure was followed to connect and test the drogue triggering system. One these steps were completed with the aid of a comprehensive checklist, both systems were armed and the hatch covers put back in place. With the rocket now set for launch, the motor ignition system was set up and checked out to ensure that it was functioning normally. This accomplished, the observers then headed to safe viewing locations. The final step in launch prepping the rocket was to connect the motor igniter to the ignition box, then to arm the box.
+
+￼
+Author standing next to the Boreas rocket prior to flight.
+As usual, I assumed the task of operating the digital videocamera to capture the launch and flight. The second videocamera, which had been set up on a tripod to record the launch, developed a problem with recording. No image was visible through the viewfinder. The problem was attributed to the cold, and as such, usage of this camera was abandoned. For communication, FRS radios were again employed. When all participants were in safe viewing locations and set, the final "all ready & all clear" signals were announced over the FRS radios, and the countdown commenced...5-4-3-2-1-Ignition!
+Black smoke from the "Ferocious" igniter issued from the base of the rocket almost immediately, followed by the grey smoke characteristic of the propellant combusting. Thrust buildup prior to liftoff was rapid, owing to the effective ignition method. The Boreas rocket once again soared skyward, on this, it's fifth flight. The rocket climbed very fast leaving a dense grey smoke trail. The trajectory was nice and straight, despite slightly cocking over immediately after clearing the launch rail.
+The rocket had a pronounced spin as it climbed, clearly demonstrating the effectiveness of the fin tabs. About a second and a half after liftoff, motor burnout occurred, with a gradual diminishing of the smoke trail. The rocket was traveling at great speed, and after about 5 seconds, disappeared from view due to the high altitude attained.
+
+￼ ￼ ￼ ￼
+￼ ￼ ￼ ￼
+
+Sequences of the fifth flight of the Boreas rocket from pre-ignition, to liftoff, 
+to soaring skyward into the deep blue yonder...!
+Click on frames for larger images...
+Some seconds later, a "pop" sound was heard, clearly signalling firing of the drogue ejection charge. The rocket appeared into view shortly after, descending by a fully inflated drogue parachute. The rocket drifted with the wind as it descended, and after approximately 20 seconds, the main parachute ejection charge was seen to fire, producing a drawn out cloud of smoke. After an additional second or two, the main parachute fully blossomed. At this time, the rocket was at an altitude estimated to be between 800 and 900 feet (250-275 m.). The rocket, now separated into the three sections, drifted gently earthward and touched down near the end of the field.
+
+￼      ￼
+Left: Deployment charge fires, ejecting main parachute
+Right: Rocket about to settle down
+The touchdown distance was later estimated to be about 1100 feet (335 m.), directly downwind from the launch site. As we walked toward the recovery site, the red & white canopy of the main parachute could be seen inflated by the wind, serving as a rather alluring beacon.
+
+￼  ￼
+Left: Forward fuselage & main parachute at recovery site.
+Right: Author at recovery site with lower fuselage, mid fuselage & drogue chute.
+
+Upon inspection of the rocket at the landing site, some minor damage was apparent. The nosecone, although basically undamaged, had snapped off cleanly at the base. The aft fuselage was cracked at one fin attachment location. Both of these structural damages were undoubtedly due, in part, to the cold and the consequential increased brittleness of the PVC material. Although the Plastmo PVC has proven to be far more resilient and less prone to brittle fracture due to cold than ordinary PVC, a harsh impact may nevertheless result in fracture.
+
+Post-flight Analysis
+From inspection of the video footage, the following times were excerpted:
+	•	Ignition to liftoff --        1.2 sec.
+	•	Liftoff to burnout --        1.66 sec.
+	•	Liftoff to "pop" sound of drogue parachute ejection --       10.0 sec.
+	•	Liftoff to main parachute deployment--        31 sec.
+	•	Liftoff to touchdown --       65 sec..
+Post-flight teardown of the rocket revealed :
+	•	the motor suffered zero leakage, and there was very little slag (20 grams representing 5.2% of original grain mass)
+	•	The mercury switch of the Main Parachute Timer had shattered, presumably upon touchdown.
+	•	The aft fuselage suffered some slight heat warpage at the vent openings, due to the residual heat of the motor.
+	•	Examination of the drogue system igniter filaments confirmed that the A-S switch system triggered the ejection charge. This was expected to be the case, as the PET Timer delay had been set to 12 seconds from liftoff.
+
+Peak altitude was estimated to be approximately 2000 feet (600 m.) based on SOAR simulations. This value of peak altitude is also consistent with the measured descent time.
+Examination of the time intervals tabulated above indicates that the Main Parachute Timer was not triggered at motor burnout as intended. The Main Parachute Timer had been set to a delay of 23 seconds, therefore deployment should have occurred at 1.66+23 = 24.66 seconds from liftoff. Instead, deployment occurred at 31 seconds after liftoff. Rather, it is apparent that the jarring action of drogue chute ejection activated the mercury switch. This can be confirmed through an examination of the timing of the events. The time duration from liftoff to drogue charge firing can be determined from the recorded duration between liftoff and the "pop" sound of the charge. Knowing that the speed of sound at ambient conditions is 328 m/sec., and assuming that the apogee of the rocket was indeed 600 metres, the sonic delay is 600/328 = 1.8 seconds. Therefore, time to apogee would have been 10.0-1.8 = 8.2 seconds. If the timing sequence was initiated at this point in time, then main chute deployment would have occurred at 8.2+23 = 31.2 seconds. This agrees with the measured duration. A similar event also had occurred on the inaugural flight of the Boreas rocket. The cause can be traced to the type of mercury switch used for both flights, which does not function with good reliability. The switch will be replaced with a high quality mercury switch identical to the one used for the A-S switch system, which has so far functioned with 100% reliability.
+Examination of the video footage allowed for an estimation of the roll rate of the rocket, which was estimated to be 5 rotations per second at burnout. This is in good agreement with the design roll rate of 3 rotations per second.
+
+￼
+Last updated Feb. 23, 2003
+Back to Home Page
+

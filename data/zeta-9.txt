@@ -1,0 +1,123 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-9
+
+ 
+Basic Information
+Name
+Z-9
+Launch date:
+14 February, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood
+- aluminum conical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+-On-board mini camcorder (set to 640x380 resolution)
+-Modified Smoke Charge (initiated by Raven, 2 sec. post-apogee)
+-Out-board micro camcorder
+Liftoff mass
+2.300 kg.
+Flight objectives
+- Experimental smoke charge with improved ignition for tracking free-fall descent
+- New forward-facing out-board mounted camcorder to view chute deployment
+- Extreme cold-weather test
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+265 grams
+Nominal impulse
+312 N-sec
+Class
+H
+ 
+Weather conditions
+Temperature
+-27°C
+Wind
+N 5 km/hr
+Sky
+Hazy sky
+Other
+Partially obscured sun
+ 
+Launch Event Description
+Despite the cold, the trek to the launch site was fairly comfortable, as the wind was light and at our backs. Setup of the launch equipment went well. Setting up of the on-board video camera was done prior to loading the rocket on the launch pad. This helped a lot, as it was possible to shield the LCD screen from the daylight. The rocket was put onto the launch pad, then the out-board micro camcorder was set to record. While removing the Raven access panel, the forward launch lug snapped off (the cold compromised the epoxy bond). The rocket was then removed from the pad and repositioned, using the opposite (redundant) pair of launch lugs. The Raven was powered up and verified to be functioning nominally. The ignition system was armed and we moved to the launch position, 225 feet away, with the sun at our backs. After verifying sky was clear, the countdown was given and shortly after zero, the rocket soared straight vertical, leaving a long and distinctive smoke trail. The rocket was visible during the full ascent all the way to apogee. A ‘pop’ sound was heard and rocket was seen descending, followed by a second ‘pop’ a while later. The parachute immediately blossomed and drifted down nearly overhead. Rocket touched down an amazingly short distance (about 50 feet) from launch pad. Rocket appeared to be in great shape, although it was noticed that, once again, the smoke charge had not fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.1
+2667
+813
+Separation
+13.2
+-
+-
+Main deployment
+39.09
+572
+174
+Touchdown
+63.1
+ 
+ 
+Range
+ 
+300
+90
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+81.4
+24.8
+ 
+Main parachute
+19.2
+5.9
+ 
+ 
+Post-flight analysis and comments:
+Good Raven data, on-board video footage and out-board video footage was obtained. Examination of the smoke charge revealed that the igniter fired and burned nominally, but did not initiate the smoke charge. The charge surface was found to be very damp. Investigation of the source of the dampness suggested that this was a result of water absorption from the ceramic putty end cap (which has a water-based solvent). For the next flight, the smoke charge assembly will be placed into a dessicator for a few days, and verified that the charge is dry before installing the igniter.
+The extreme cold did not adversely affect any of the payload components (Raven, camcorder, BRB), and did not adversely affect any of the launch support equipment such as 2-way radios, camcorder, and launch controller. Note that all were equipped with lithium batteries (alkaline batteries are useless at temperatures below 0°C). From a human perspective, the cold was pretty much the limit of endurance. It was critically important to wear appropriate winter gear, to “keep moving” continuously and to not remove gloves for more than a half-minute or so, at any time.
+ 
+Raven baro and accelerometer graph:                                                 Z-9\Z-9_raven.jpg
+ 
+Photos:                                                                                                         
+Zeta-9 on launch pad                                                                                  Z-9\DSCF3447.JPG           
+Soaring skyward                                                                                          Z-9\fl_capture4.jpg
+Descending earthward                                                                               Z-9\fl_capture3.jpg
+                                                                                                                        Z-9\fl_capture2.jpg
+Touchdown                                                                                                   Z-9\fl_capture1.jpg
+Landed near pad                                                                                          Z-9\Dscf3449.jpg
+                                                                                                                        Z-9\Dscf3450.jpg
+Out-board capture, moment of main deployment                               Z-9\ob_capture1.jpg
+Out-board capture, blossomed canopy                                                  Z-9\ob_capture2.jpg
+                                                                                                                        Z-9\ob_capture3.jpg
+On-board capture, apogee separation event                                        Z-9\onb_capture2.jpg
+On-board capture, smoke cloud from backup apogee charge          Z-9\onb_capture5.jpg
+On-board capture, moments from touchdown                                    Z-9\onb_capture3.jpg
+ 
+Videos:                                                                                                         
+Flight                                                                                                              Z-9\Flight Z-9 launch.mp4                                                                                                                       
+On-board video                                                                                            Z-9\Flight Z-9 on-board.mp4
+Out-board video                                                                                          Z-9\Flight Z-9 outboard.mp4
+ 
+
+￼
+Last updated March 14, 2015
+Back to Home Page
+

@@ -1,0 +1,30 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Bleeding the Load Cell Hydraulic System
+	1	Coat rubber cups with oil, then partly insert into cylinder bore.
+	2	Insert pistons into each end of cylinder, only so far as the piston surface is flush with cylinder end, as shown in Figure A1.
+	3	Put teflon tape onto threads of bleed valve, being careful not to block oil hole
+	4	Install and close bleed valve. Install fill plug snugly, but do not tighten
+	5	Install rubber dust caps over pistons
+	6	Attach rubber hose to bleed valve, then orient the system as shown in Figure A2
+	7	Open bleed valve approximately 1 turn
+	8	Remove fill plug. Slowly add oil, tapping cylinder body every so often with a hammer to help air to escape
+	9	When oil begins to flow from end of hose, close bleed valve, remove hose, then tighten bleed valve.
+	10	Orient system such that fill hole surface is level. Add oil until flush with surface.
+	11	Put teflon tape onto fill plug, then install.
+	12	System should now be completely filled with oil and essentially free of air. If required, pistons may be pushed further into cylinder bore by first opening bleed valve slightly, then pushing pistons into bore as required, then immediately re-closing bleed valve.
+Note: The above method does not remove air from the gauge. Although not absolutely necessary, this may be accomplished (after bleeding system) by removing the gauge taking care not to lose oil, then using a syringe to insert oil into the gauge orifice, then re-installing.
+If the system has been fully bled, the piston displacement with a 300 lb applied load will be approximately 1 mm.
+
+￼
+
+Figure A1
+
+
+￼
+
+Figure A2
+
+Back

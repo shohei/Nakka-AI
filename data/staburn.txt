@@ -1,0 +1,64 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Strand Burner for Burn Rate Measurements
+
+
+Introduction
+The Strand Burner (sometimes referred to as the Crawford Strand Burner) is an apparatus that provides for burn rate measurements of a solid rocket propellant in an environment of elevated pressure. The propellant sample being tested, referred to as a strand, is burned within the confines of a pressure tank, called a Firing Vessel. The strand is in the form of a pencil-like stick, and is electrically ignited at one end. The time duration for the strand to burn along its length (cigarette fashion) is measured. Various means are used to measure the time duration, such as lead wires embedded in the strand which melt when contacted by the flame front, or by use of thermocouples. The burn rate is obtained by knowing the burning distance as well as the burning time between the lead wires (or thermocouples).To effectively characterize the burn rate versus pressure relationship for a particular propellant, 10 or more tests may be performed, at pressures ranging from a few atmospheres, to 100 atmospheres (1500 psi) or more. Nitrogen is normally used to pressurize the firing vessel. 
+This web page describes a Strand Burner that was built primarily for burn rate characterization of the KN/Sugar propellants. Future use of this Strand Burner will be for evaluating, and eventual characterization, of some new experimental propellants.
+
+Apparatus
+￼
+The Strand Burner apparatus is shown in Figure 1. The Firing Vessel consists of a 4.86 litre steel tank with hemispherical end caps, with the dimensions given in Figure 2. One end cap is equipped with a 1" NPT female fitting. Screwed into this fitting is a short length of 1" pipe to which a circular flange has been welded. This flange mates with a matching flange on the Strand Holder. The two components are bolted together with six 1/4" Grade 8 bolts, as seen in Figure 3. A gasket inserted between the flanges provides for a gas tight seal. The Strand Holder, to which the propellant strand is mounted (with "hot glue"), is shown in Figures 4 and 5. 
+The maximum operating pressure is 1600 psi, however, for safety, the tank was hydrostatic pressure tested to a full 2500 psi (greater than the maximum supply pressure). The firing vessel is pressurized with nitrogen, and is filled from a rechargeable nitrogen supply tank via a copper tubing line fitting with a 0.020" orifice. The orifice serves to reduce the flow rate during filling. Nitrogen was also used to purge the Firing Vessel prior to pressurizing.
+The Firing Vessel was either mounted vertically, as shown in Figure 1, or horizontally. It was found that at high pressure, the liquid "condensed phase" products of combustion tended to drool down the sides of the strands, when mounted vertically. This led to erroneous results on occasion, as the strand inhibitor was breeched, or the liquid would contact a thermocouple bead. Mounting the Firing Vessel horizontally solved this problem (testing confirmed identical burn rates for both vertical and horizontal orientation).
+Measurement of the burning rate was performed with the aid of two thermocouples, one attached to the strand with its bead at the end nearest the igniter. The second thermocouple was attached near the opposite end of the strand. The thermocouples were connected in parallel, to a pair of terminals on the Strand Holder. Either of two types of thermocouples were used. Type K (chromel-alumel), 0.010 inch diameter, glass-braid insulated, or type E (chromel-constantin), 0.010 inch diameter, teflon insulated. The distance between thermocouple beads was carefully measured before each test and recorded as the gauge length. Burning rate was simply taken as the time time duration to burn this distance. Ignition of the strand was accomplished electrically by use of a nichrome wire filament soldered to a pair of lead wires connected in turn to a second pair of terminals on the strand holder. Power for the igniter was supplied by an external ignition box, similar to the type used for rocket motor initiation. A third thermocouple was used to measure ambient temperature inside the Firing Vessel, and was connected to a third pair of terminals on the Strand Holder.
+Measurement of pressure within the Firing Vessel was made with the use of a standard bourdon-type pressure gauge. For low pressure measurements, a precision 0-300 psi gauge was used, and for high pressure measurements, a precision 0-5000 psi gauge was used.
+For data acquisition, the three thermocouples were connected to a Digital Volt Meter, which was interfaced to a 286 PC (details). A software routine was written which sampled the DVM output emf at the rate of 3.3 samples per second. This data was stored in RAM, then written to a text file for permanent storage.
+
+
+￼￼
+
+Figures 2 & 3 -- Firing Vessel dimensions; Detail of connection of Firing Vessel to Strand Holder
+
+
+￼
+
+Figure 4 -- Photo of Strand Holder with mounted strand
+
+
+￼
+
+Figure 5 -- Diagram of Strand Holder
+Diagram of Strand Holder showing dimensions
+
+Propellant Strands
+Propellant strands of the KN/Sugar propellants were prepared by extruding the melted slurry into long "sticks". An extrusion tool was fabricated to facilitate this process. The tool was preheated prior to loading with propellant.
+The "raw" extruded strands were typically 10-20 cm. long and had an approximately oval cross section of roughly 4x6 mm. These were then inspected for flaws (such as bubbles or discontinuities) with flawed portions being trimmed accordingly. Inspection was done visually by holding the strands up to a strong light. After this step, the strands were cleaned with lacquer thinner, then painted with two coats of hi-heat aluminum paint as an inhibitor. The sides of the strands were usually inhibited along their whole length to ensure that burning only occurred perpendicular to the surface. The final step was cutting to length, with the typical trimmed length being 5-10 cm. The longer strands were used for the higher pressure tests. 
+A photo of painted strands is shown in Figure 6.
+
+￼
+
+Figure 6 -- Propellant strands (untrimmed)
+
+Analysis of Data
+For analysis, the thermocouple output data was imported into an Excel spreadsheet and plotted in the form of a line graph, an example of which is illustrated in Figure 7. Acceptable results would be in the form of two pressure spikes, which represent the flame front reaching the first, then second thermocouple. The time period between initiation of the spikes was taken as the time duration required to burn the gauge length of the strand. The data point at which the slope of the curve sharply increased, at each spike, was taken as the reference point defining the time period. In the example plot in Figure 7, the beginning data points are #24 and #64. 
+Combustion of a strand results in a pressure rise, typically of 50 to 100 psi, depending on the strand size (longer strands were used for higher pressures due to more rapid burn rate). This represents about 10% of the nominal pressure. The pressure at which burning was considered to occur (reference pressure) was taken as the average of the initial and maximum pressure. 
+Burn rate at the reference pressure was taken as the gauge length divided by the burn time.
+A graph showing final results of burn rate measurements for the KN-Sugar propellants is shown in Figure 8. A more complete discussion of these results is provided in the KN-Dextrose & KN-Sorbitol Propellants -- Burn Rate Experimentation web page.
+
+￼
+
+Figure 7 -- Plot of experimental data
+
+
+￼
+
+Figure 8 -- Results of Strand Burner measurements for KN/Sugar propellants
+
+￼
+Last updated June 29, 2001
+Return to Top of Page
+Back to Index Page
+

@@ -1,0 +1,69 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+Hydraulic Load Cell for Thrust Measurement
+
+Introduction
+Design concept
+Construction details
+Calibration
+
+Introduction
+A load cell, or force transducer, has the function of transforming a thrust force to a calibrated output that can be recorded for post-testing analysis of a rocket motor. The design presented here is a hydraulic unit that converts thrust force of the rocket motor to hydraulic pressure, which may be displayed with the use of a standard pressure gauge. Pressure readings can be recorded very simply by use of a videocamera. Alternatively, an electrical pressure transducer may be used to sense the hydraulic pressure. This would allow for interfacing to a computer-based data collection system, if preferred.
+One important objective in the design is to have the load cell be as simple to make as possible, without compromising accuracy. The design presented here meets this objective in that it is quite simple to construct (using an off-the-shelf brake cylinder), and achieves good engineering accuracy. Owing to the fact that hydraulic fluid is essentially incompressible, very little actual displacement is involved in the operation of the load cell (some movement, however, is inevitable, as it is nearly impossible to remove all the air from the hydraulic system, in particular, the gauge). This is of great benefit, as it nearly eliminates dynamic effects associated with large displacement (e.g. spring) systems.
+The hydraulic load cell can also be very useful for calibrating other force measuring apparatus, such as those employing strain gage based load cells.
+
+Design concept
+The hydraulic load cell described in this web page (Figure 1) is simple in design, and consists of a slightly modified automotive brake cylinder, also referred to as a wheel cylinder or slave cylinder, of the type used for drum brakes.
+￼
+The principle of the operation of this device as a load cell is rather the reverse of its original operation. In operation in an automobile, a brake cylinder reacts to hydraulic fluid under pressure. The pressurized hydraulic fluid within the cylinder acts against a pair of opposing pistons, forcing the pistons apart. This force is transferred to the pair of opposing brake shoes, expanding them against the rotating wheel drum, thus slowing down the automobile via frictional effect.
+Click here for details of load cell...
+
+In operation as a load cell, the force, or thrust from the rocket motor, is applied directly against one of the pistons (the other piston exerts against a constraint). This tends to compress the fluid within the cylinder. The generated pressure, which is directly proportional to the applied force, is displayed by use of an appropriate pressure gauge. The range of the pressure gauge is chosen to match the hydraulic pressure resulting from the relationship between the maximum expected rocket motor thrust and the diameter of the cylinder bore.The measured thrust force (F) is given simply by F = P A, where P = measured hydraulic pressure (psi or N/mm2 ) and A = cross-sectional area of the cylinder bore, A = p/4 D2 ( in2 or mm2 ).  The cylinder that I used has a diameter of 0.750 inch, giving a cross-sectional area of 0.442 in2 , thus F = 0.442 P (force in pounds, pressure in psi).
+The concept of operation of the load cell is illustrated in Figure 2.
+￼
+Figure 2 -- Thrust measurement by use of a hydraulic load cell
+
+
+
+Construction Details
+The load cell can be made from any automotive brake cylinder. The prototype load cell that I built was made (for convenience) from a brake cylinder specified for the car that I own, which is a 1985 Chevrolet Camaro (Berlinetta). However, I am certain that this part is common to many GM cars with rear drum brakes. The bore diameter is 0.750 inch (19.1 mm) and the cylinder wall thickness is 0.27 inch (6.9 mm). The material is malleable cast iron, which means the load cell would be capable of sustaining a hydraulic pressure of 3500 psi, with an appreciable safety factor. This would allow measurement of thrust over the range of about 50 to 1500 lbs. (200-6500 N.). Fitted with a 1000 psi pressure gauge, this unit would allow thrust measurements up to 450 lbs (2000 N.).
+For measuring thrust greater than this, a cylinder should be chosen with a larger bore. In fact, a disc-brake cylinder, which has a much larger bore, may be most suitable for very large force measurement.  Interestingly, the "heavy-duty" brake cylinder from a 85-88 Chevy Pickup ($10) has a 1.125" (28.6mm) bore. This gives nearly a 1:1 ratio of pressure to applied force (pressure = 1.006 x force). Fitted to a 1000 psi pressure gauge, a thrust force up to 1000 lbs. (4450 N.) may be measured. The corresponding "light-duty" cylinder from the same vehicle has a 15/16" (23.8mm) bore, allowing thrust force measurement up to about 700 lbs. (3000 N.).
+The pressure gauge can be any good quality gauge with the appropriate pressure range. However, if a fluid-filled gauge is used, the fluid should be drained out, as the response time of a fluid-filled gauge is poor. Fluid-filled gauges (typically filled with glyercine) are meant for pulsating loads such as with hydraulic systems. Under static loading the true pressure may not be indicated, showing instead a slightly depressed level.
+The following section provides details of the design and construction of the prototype loadcell that was built.
+	1	Parts list The following is a listing of parts used in construction of the prototype hydraulic loadcell:
+	◦	automotive brake cylinder (malleable cast iron), for G.M. models, 0.750 inch bore
+	◦	pressure gauge, 0-1000 psi, Pacific Scientific
+	◦	brake line (steel), 3/16" x 8", flared ends
+	◦	tee (malleable iron), 1/8 NPT,
+	◦	inverted flare 90° male elbow (brass), 3/16" flared tube to 1/8 NPT
+	◦	plug (steel), 1/8 NPT
+	◦	teflon joint sealing tape
+	◦	rubber hose, 3/16" x 8"
+	◦	brake fluid or hydraulic jack oil (not motor oil, as this typically contains "swell" additives)
+	2	
+	3	Modifications Inside the brake cylinder, there was a compression spring that served to keep the pistons apart. This spring was removed and discarded. However, such was probably not necessary, as the spring was quite weak and would likely have had no detrimental effect. The pistons were modified by the addition a small v-groove filed along the side of each piston (Figure 3). This served to prevent air from being trapped (between piston and cup) by providing a channel for the air to escape. Trapped air, it was felt, could have affected the accuracy of the loadcell, as well as the possibility of introducing an undesirable "spring" effect. After filing the groove, the edges of the groove were deburred with 1000 grit wet sandpaper to prevent possible scoring of the cylinder bore. The only other modification that was done was to drill attachment holes through the flange "ears" for mounting of the loadcell. The holes were then tapped for #10 x 32 (NF) machine screws.  ￼  Figure 3 -- Modification of piston  
+	4	Assembly Assembly of the loadcell components was straightforward. The 3/16" hydraulic (brake) line was installed between the cylinder inlet port and the tee, which was fitted with a 90° elbow. The elbow was used to orient the gauge for convenient observation during testing. Teflon sealing tape was installed on all pipe thread (NPT) joints, but was not required on the flare connections. After assembly, the system was filled with oil and bled of residual air.  
+	5	Bleeding the hydraulic system
+
+Calibration
+A particularly attractive feature of the hydraulic load cell is that force calibration is not required. This is apparent by looking at Figure 4, which shows the results of a calibration test that was conducted on the prototype load cell. The predicted pressure, based on the equation P = F/ A is in excellent agreement with the measured test pressures. The setup for this calibration test is shown in Figures 5 and 6. The test involved applying a series of known forces to the load cell and recording the resulting pressure readings. A plot was made of the results, which were then compared to the predicted pressure. The outcome of this calibration test confirmed that the the applied thrust force can be readily and accurately determined from the cylinder bore diameter and measured hydraulic pressure. It should be noted, however, that if the applied force is relatively small (< 50 lbs.), friction due to the rubber cups within the load cell leads to some deviation from predicted results.
+￼
+Figure 4 -- Results of calibration test
+
+
+￼
+Figure 5 -- Setup for load cell calibration test. The square bar (only partly shown) is a lever arm that amplifies the applied force, allowing large forces to be easily applied.
+
+￼
+Figure 6 -- In this photo, the lever arm has been raised to better illustrate the load cell.
+
+
+
+￼
+Last updated February 12, 2020
+Return to Top of Page
+Back to Home Page
+

@@ -1,0 +1,132 @@
+
+
+
+Richard Nakka's Experimental Rocketry website
+
+
+
+￼
+KN-Dextrose & KN-Sorbitol Propellants Burn rate Experimentation
+Introduction
+Results of Pressure-Burn rate Experiments
+Discussion of Results
+Comparison with Actual Motor Burn rate data
+Temperature-Burn rate Experiments
+Preliminary results for Doped KNDX
+Conclusions
+
+
+
+Introduction
+In this web page, I am presenting the results of experimental investigation that was conducted to determine the relationship between burn rate and chamber pressure for two rocket propellants -- KN-Dextrose (KNDX), and KN-Sorbitol (KNSB). The standard oxidizer /fuel ratio of 65/35 was exclusively studied in this investigation. The apparatus employed was the Strand Burner, described in another web page, which allowed for strands (thin rods) of propellant to be burned under pressure, ranging from 1 to over 100 atmospheres. The burn rate was determined by measuring the time required for the strand to burn over a given gauge length, utilizing a thermocouple sensor at each end of this length. The sensors were interfaced to a computer-based data acquisition system for processing of results.
+Results are presented in graphical form in Figures 1 and 2. Note that the units for burn rate and pressure are given in the original form and are a consequence of the measuring devices employed in the experimentation.
+Complete details regarding propellant preparation, test method, data collection and interpretation, etc., are provided in the report (see link at bottom of this page).
+Also presented in this web page are the results of some simple burn rate experiments that were conducted to obtain a preliminary estimate of the burn rate sensitivity to grain temperature for the same two propellants.
+Recent experimentation was conducted on KNDX propellant doped with two experimental burn rate modifiers: red ferric oxide and air-float charcoal. Results are presented in this web page.
+
+
+
+Results of Pressure-Burn rate Experiments
+￼
+Figure 1 -- Burn rate v.s. pressure experimental results for KNDX propellant
+
+
+
+￼
+Figure 2 -- Burn rate /pressure, experimental results for KNSB propellant
+
+
+
+A comparison of the results for these two propellants with the results for the KN-Sucrose propellant, investigated earlier, is shown in Figure 3. Note that the scatter of the results is far less severe for the more recent testing. This is attributed to much improved experimental technique.
+￼
+Figure 3 -- A comparison for results for the three propellants.
+
+
+
+Discussion of Results
+The most striking feature of the results for KNDX and KNSB is the marked difference in the burn rate behaviour compared with the KN-Sucrose propellant. The latter propellant clearly follows the classic "de Saint Robert" model of burn rate behaviour, with which burn rate may be represented by a single power function equation over the full pressure range. In this model, where ￼ (ro usually taken as zero), the pressure exponent n is the slope of a straight line on a Log pressure-Log burn rate plot. However, the two recently tested propellants deviate significantly from this behaviour. Actually, this should not really come as a surprise. The simple power function behaviour is really just a convenient mathematical model, which aids in the performance analysis of rocket motors. If anything, it should come as something as a surprise the KN-Sucrose propellant in fact follows this model so well!
+For many rocket propellants, the value of n deviates greatly through various pressure regimes. Propellants showing a markedly reduced n are known as plateau propellants. Propellants that show negative values of n over short pressure ranges are known as mesa propellants. This concept is illustrated in Figure 4.
+￼
+Figure 4-- Burn rate v.s. pressure behaviour for different types of propellants  (Ref. NASA SP-8039 Solid Rocket Motor Performance Analysis and Prediction)
+
+In order to better comprehend the behaviour of the KNDX and KNSB propellants, the experimental burn rate results are therefore plotted on a Log pressure-Log burn rate graph, as shown in Figures 5 and 6.
+￼
+Figure 5 -- Log-Log plot for the KNDX propellant
+
+
+
+￼
+Figure 6 -- Log-Log plot for the KNSB propellant
+
+
+
+A line is drawn through the points to best represent the various regimes where the pressure exponent n may be considered to be constant.  The results now look very interesting! KNDX would appear to be a plateau propellant, and KN-Sorbitol would appear to be a mesa (or rather, inverted-mesa) propellant.
+As such, it is possible to isolate the pressure regimes and to obtain values for the pressure coefficient a and the pressure exponent n for each of these regimes. The results of this analysis are given in Tables 1 and 2. The tables are split into English units (left half) where burn rate is given in inch/sec with pressure given in psi (absolute), and in metric units (right half) where burn rate is given in mm/sec with pressure given in Mpa (absolute).
+ 
+￼
+ Table 1 -- Values of a and n for various pressure regimes, KNDX (propellant burn rate in each pressure range is given by ￼).
+For example, at 14.7 psia (1 atm.), the burn rate is 0.084 in/sec. At 1000 psia, the burn rate is 0.509 in/sec.
+ 
+￼
+ Table 2 -- Values of a and n for various pressure regimes, KNSB (propellant burn rate in each pressure range is given by ￼).
+For example, at 14.7 psia (1 atm.), the burn rate is 0.102 in/sec. At 1000 psia, the burn rate is 0.443 in/sec.
+ 
+Comparison with Actual Motor Burn rate Data
+A series of rocket motor tests recently conducted by the highly-capable group Danish Space Challenge (DSC) provides an excellent opportunity to compare the Strand burner results to actual motor test data. This motor, which is a scaled-down version of their Aurora vehicle's SRB's, was powered by a propellant essentially the same as that used in the Strand Burner experiments, that is, 65/35 O/F KNSB, prepared in a similar manner.
+￼
+Motor dimensions:
+	•	diameter 102mm (4.02 in.)
+	•	wall thickness 2mm (0.079 in.)
+	•	length 300mm (11.8 in.)
+Grain dimensions (rectangular cross-section):
+	•	depth 40mm (1.57 in.) x width 90mm (3.54 in.)
+	•	length 300mm (11.8 in.)
+Burning occurred on the 90mm sides only (the 40mm sides were inhibited).
+Six static tests were conducted:
+	•	Tests 1 & 2 with a throat diameter of 18mm (0.73 in.)
+	•	Tests 3 to 6 with a throat diameter of 14mm (0.55 in.)
+
+The chamber pressure history recorded for each of the six static tests in shown in Figure 8.
+￼
+Figure 8 -- Pressure-time traces for the DSC static tests
+In order to utilize these results, I have divided the graph arbitrarily into 14 equal time intervals. Next, I estimated the average pressure over each of these intervals (for a given trace). Using the appropriate values of a and n from Table 2, I calculated the average burn rate, and, subsequently, the depth of the grain expended during each time interval. Summing these up gives the predicted total depth of grain expended over the burn duration. This result is then compared to the actual depth of web that would have been burned (40 mm).
+This analysis was done for Grains 1 and 3, and the results are presented in Tables 3 and 4.
+
+￼
+Figure 8 -- Pressure-time traces for the DSC static tests
+As can be seen by the results, the predicted web depth expended over the burn duration is close to the actual, differing by +1.5% for Grain 1, and by -6% for Grain 3. These results, which are within the normal range of experimental error, provide reasonable evidence that the burn rate data obtained from the Strand Burner experiments may be used in analysis and prediction of rocket motor performance.
+See additional comments regarding these static test results.
+
+Temperature-Burn rate Experiments
+It is very useful to know how sensitive burn rate is to the temperature of the propellant, since it is very likely that rocket motors may be fired over a significant range of ambient temperatures (winter v.s. summer). As such, I decided to perform some simple burn rate tests to obtain an idea of this sensitivity. These particular burn rate experiments were not performed under carefully controlled conditions and are meant to merely present some "tentative" data until more rigorous testing is performed.
+Since these experiments were performed in winter, it was easy to cool the test strands to a "low" temperature by placing them outside for an hour or so. The low temperature ranged from -3C. to 0C. (as fate would have it, we were having a warm spell of weather at the time!). The high temperature was achieved by placing the strand inside a box heated with an electric fan-heater, for about 20 minutes. Only a single test strand (KN-Dextrose) was tried at this temperature (40C.), as it was found to be difficult to control the temperature with reasonable accuracy. In fact, the KNSB test strand got a little too warm and "slumped over" after the temperature in the box reached 80C!
+The results of these experiments is presented in Figure 9.
+
+￼
+Figure 9 -- Temperature-Burn rate experimental results
+
+Preliminary Results for Doped KNDX
+Recent investigation has been conducted on the addition of burn rate modifiers to KNDX propellant. It has been found that the inclusion of a small amount of red iron oxide (Fe2O3) effectively modifies the propellant burn rate. Over the full pressure regime tested (ambient to 950 psi), the increase was approximately a constant 20% for the 1% doping. Doping is defined as the addition of a modifier to the base 65/35 mixture (i.e. 1 gram iron oxide added to 100 grams KNDX mixture). As such, the actual ratios are 0.644/0.346/0.010 KN/DX/IO.
+Similarly, the inclusion of a small amount of air-float charcoal modifies the propellant burn rate. The effect is somewhat different than iron oxide. Although the burn rate was increased over the full pressure regime tested, the degree of increase was less and varied with pressure.
+The most interesting effect of doping was the apparent suppression of the plateau effect. As shown in Figure 10, the de St. Robert's equation (r = a Pn) for burn rate modelling actually fits the experimental data quite well (dashed lines in graph), with a single set of a,n values being applicable over the full pressure regime. The reason for the suppression of the plateau effect may be related to increased radiant heat transfer from the flame to the burning surface of the propellant, and its effect upon the combustion mechanisms that influence burn rate.
+￼
+Figure 10 -- Burn rate measurements for doped KNDX
+It should be noted that the results presented here for doping are considered preliminary, due to the limited number of test points, and owing to the use of the c-star apparatus for burn rate measurements, rather than the Strand Burner (see KN-Epoxy formulations).
+
+Conclusions
+The burn rate of KNDX and KNSB propellants over a large pressure range has been experimentally obtained under carefully controlled conditions. The results have been analysed and a reasonable model of the pressure-burn rate behaviour has been presented, describing the burn rate by the usual de Saint Robert's equation within specified pressure regimes, as a set of pressure exponent (n) and pressure coefficient (a) values. The KNDX propellant would appear to be a plateau propellant, and the KNSB would appear to be a mesa propellant. These results have been favourably compared to motor static test data. The results are therefore useful for rocket motor design.
+Fortunately, since rocket motors are typically designed to operate over a fairly narrow pressure range, only a single set of a,n values would be needed for a given motor design. A rather nice feature of both of these propellants is that the burn rate is not particularly sensitive to pressure change at higher pressures (e.g. 800-1600 psi range). This is certainly beneficial, leading to stable burning and reducing the likelihood of catastrophic pressure rises (as may be the case with propellants with high n values).
+Preliminary experimental results have been obtained for the temperature sensitivity of these two propellants. The sensitivity to temperature would appear to be identical for both propellants (having the same slope on the r-T curves). Although these results are of a tentative nature, it is quite apparent that the burn rate for both propellants is not particularly sensitive to grain temperature.This is good news for those AER enthusiasts who operate their rocket motors over a large range of ambient temperatures.
+Preliminary investigation has shown that it is possible to modify the burn rate of KNDX by the addition of small amounts of iron oxide or charcoal. Both modifiers tend to increase the burn rate and have the additional effect of apparently suppressing the plateau behaviour of the burn rate at certain pressure levels.
+
+Download experimental report: Measurement of Burn Rate v.s. Pressure for KN-Dextrose & KN-Sorbitol         ds_burn.pdf
+
+
+
+￼
+Last updated  July 1, 2002
+Return to Top of Page
+Back to Index Page
+
+
+

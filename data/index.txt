@@ -1,0 +1,216 @@
+Richard Nakka's Experimental Rocketry Web Site
+
+￼   ￼   ￼   ￼   ￼   ￼
+￼
+
+￼￼ ￼￼
+  This website is available on a CD
+ NEW ! Now available, Volume 10 (February 2020 creation date) 
+Nakka-Rocketry CD is also available as a downloadable file...  
+Click here for details...
+
+
+ Cd orders listed by country...interesting statistic! 
+What is this Web Site all about?
+This web site is devoted to the exciting activity of Amateur Experimental Rocketry !
+
+My goal in producing this web site is to share experiences, ideas and technical details of Amateur Experimental Rocketry with others around the world who have a similar interest. It is also my dream to help inspire a future generation of rocket engineers and scientists who will some day take us to Mars and beyond...
+
+I launched my very first amateur rocket in 1972. Since that time, so very long ago, I've built, tested and flown many rockets, powered by motors which I've developed. Over the duration of this time, I've kept detailed notes of all my work, carefully logged all the flights and other tests, and have taken countless photographs. In this web site, I am presenting at least a portion of my work. In addition to my own efforts, I am including some remarkable work done by others in pursuit of this exciting and challenging avocation.
+Amateur Experimental Rocketry ?
+Amateur Experimental Rocketry is, in my humble opinion, one of the most challenging, exciting and educational hobbies. Unlike Model Rocketry or High Power Rocketry, experimental rocketry is an activity whereby rockets are designed and constructed entirely from "scratch". Most components -- including motor and propellant-- are self-made. The goal of Amateur Experimental Rocketry (AER), often simply referred to as Amateur Rocketry or Experimental Rocketry, is to design, build, test and launch rockets. In this context, rocket may refer to the motor itself, or to a complete vehicle that consists of motor, fuselage (and stabilizing devices such as fins), nosecone, and payload. One of the greatest challenges is to develop and build such a motor, one that is safe to produce and operate, reliable, and one that provides predictable and consistent performance. A second big challenge is to develop a recovery system, such as parachute deployment, that operates with a high degree of reliability under the demanding conditions of launch followed by high speed or high altitude flight. Striving to achieve these goals (and many others) and to overcome the inevitable obstacles, is what makes this such a challenging (and at times frustrating) and educational pastime, and one that requires diversified skills combined with a good dose of ingenuity. The outcome of all this, more often than not, is that one learns to genuinely comprehend that which is colloquially known as Rocket Science.
+It might be said, then, that Model Rocketry and High Power Rocketry are best suited to those who wish to make and fly rockets, and Experimental Rocketry is perhaps best suited to those who rather wish to make rockets fly.
+
+Contents of this web site are presented for informational purposes only. Author of this web site cannot assume responsibility for the use readers make of the information presented herein or the devices resulting therefrom. Amateur Experimental Rocketry has many inherent hazards that must be fully understood before one can consider becoming actively involved. Safety must always be considered as top priority. Anything less is a disservice to all Amateur Experimental Rocketry enthusiasts. If you do not have first-rate common sense, or if you are willing to take shortcuts that compromise safety, then AER is not for you.
+
+Latest news
+
+November 9, 2020-- Over the past year I have been experimenting with a promising new variant of the classic Potassium Nitrate/Sorbitol (KNSB) propellant. This new propellant, which I've denoted KNPSB, utilizes potassium perchlorate (commonly abbreviated KP) as a supplemental oxidizer. The KP content serves to significantly boost the performance, and as an unexpected bonus, provides for easier casting thanks to a lower melt temperature and free-flowing slurry that readily pours into a casting mould. Full details are presented in my new Potassium Nitrate/Potassium Perchlorate/Sorbitol Propellant web page.
+July 24, 2020-- Commercial rocket altimeters utilize a Standard Atmosphere model to compute altitude based on atmospheric pressure readings taken over the course of a flight. If a launch occurs when the ambient temperature is significantly different than the 15o Celsius assumed in the model, the apogee reported by the altimeter can deviate from the true apogee by several percent. My newest webpage discusses this and provides a means to make the correction. Altimeter Correction to Account for Launch Site Temperature
+April 30, 2020-- I decided to update the webpage on Amateur Experimental Solid Propellants as I realized the information was well out-of-date. Since I originally created that webpage, several new rocket propellants suitable for use by the amateur experimentalist have evolved. I have also been made aware of formulations used with success by other experimentalists. And I have included some interesting professional formulations that may serve as inspiration to the amateur rocket engineer.
+
+
+Quick Access to Web Pages on this Site
+ ￼General ￼
+	•	Safety    Precautions d'usage
+	•	Photo Galleries of My Early Rocketry Work, Years 1972-1986
+	•	Rocket Video Clips
+	•	Who is Richard Nakka?
+	•	How I Got Started in Rocketry       How I Got Started in Rocketry -- PDF format)  ￼
+	•	Early Rocketry Experiments      QUICK LOADING VERSION
+	•	Rocketry related Technical References  ￼ Jun. 16/20
+	•	Rocketry software  ￼ Dec.21/20
+	•	Links to Other Rocketry Resources  ￼ Mar.13/20
+	•	Sneak Preview  ￼ Dec.17/20
+	•	Lecture on Rocketry Presented in Luleå, Sweden
+	•	The Art and Science of Rocketry Photography
+	•	Lecture Notes - Presentation to University of Reykjavik, Iceland, May 2008 ￼Motors ￼
+	•	Impulser Rocket Motor ("I" Class)   ￼ Nov. 17/20
+	•	A-100M Rocket Motor ("G" Class)    Moteur de Fusée d'A-100M
+	•	B-200 Rocket Motor ("H" Class)
+	•	C-400 Rocket Motor ("I" Class)
+	•	A-100 Rocket Motor ("G" Class)
+	•	Kappa Rocket Motor ("K" class)
+	•	Juno Rocket Motor ("J" class) -- Preliminary Design
+	•	Lambda Rocket Motor ("L" class) -- Preliminary Design
+	•	Juno Rocket Motor -- Static Test JDX-001 Report
+	•	Lambda Rocket Motor -- Static Test LDX-001 Report
+	•	PVC Rocket Motors -- Introduction and Performance ("G", "H", & "I" motors)
+	•	PVC Rocket Motors -- Design
+	•	PVC Rocket Motors --Tools
+	•	PVC Rocket Motors --Construction
+	•	PVC Rocket Motors -- Igniters, Mounts & Conclusion
+	•	PVC Rocket Motors -- Introduction & Performance ("J/K" Class motors)
+	•	PVC Rocket Motors - Tools,Construction & Conclusion ("J/K" Class motors)
+	•	K1000 PVC Rocket Motor
+	•	F70 PVC Rocket Motor
+	•	Kappa ("K" class) rocket motor -- preliminary design
+	•	Kappa-DX rocket motor -- Static Test KDX-001 Report  
+	•	Kappa-DX rocket motor -- Static Test KDX-002 Report  
+	•	Kappa-SB rocket motor -- Static Test KSB-001 Report
+	•	Kappa-SB rocket motor -- Static Test KSB-002 Report  
+	•	Epoch rocket motor ("I" Class composite)
+	•	Paradigm rocket motor ("J" Class composite)
+	•	Calculation of Total and Specific Impulse from Test Data
+	•	Igniter Systems  ￼ July 8/20
+	•	Nitrate-based igniters for composite propellant  ￼
+	•	Case-bonding of a High-Modulus Propellant Grain
+	•	Thermal Protection for Rocket Motor Casings
+	•	Rocket Motor Design Charts -- Chamber Pressure
+	•	Thermal Ablative Experimentation
+	•	Machining of Rocket Nozzles
+	•	Reinforcement Method for PVC Motor Casings  ￼
+	•	Thermite Experiments ￼Propellants ￼
+	•	Amateur Experimental Solid Propellants  ￼ July 23/20
+	•	The Potassium Nitrate/Sucrose Propellant (KNSU)
+	•	The Potassium Nitrate/Dextrose Propellant (KNDX)
+	•	The Potassium Nitrate/Sorbitol Propellant (KNSB)
+	•	The Potassium Nitrate/Potassium Perchlorate/Sorbitol Propellant (KNPSB)   ￼
+	•	KNSU Propellant Chemistry and Performance Characteristics
+	•	KNDX Propellant Chemistry and Performance Characteristics
+	•	KNSB Propellant Chemistry and Performance Characteristics
+	•	The Potassium Nitrate/Epoxy Composite Propellant (RNX)
+	•	Propellant Casting and Grain Preparation for the A-100M Motor
+	•	INERT Propellant
+	•	Propellant Burn Rate
+	•	Burn Rate Determination from Static Test Pressure Measurement  ￼ Aug. 24/20
+	•	Strand Burner for Burn Rate Measurements
+	•	KN-Dextrose & KN-Sorbitol Propellants -- Burn Rate Experimentation
+	•	Effect of Potassium Nitrate Grade on Propellant Performance
+	•	The KN-Sucrose Propellant -- A Historical Look Back
+	•	Problems relating to the casting of sleeve-bonded propellant segments for the Kappa-DX rocket motor Static Test KDX-001
+	•	Propellant Igniteability Experiment  
+	•	Propellant Inhibitor Experiment
+	•	Experiments with Potassium Nitrate - Epoxy Formulations  
+	•	Burn Characteristics of Sorbitol Based Propellants
+	•	Experiments with Oxides and other possible Burn Rate Modifiers
+	•	Synthesis of Potassium Nitrate from Other Chemicals  ￼ Sep. 16/20
+	•	Purification of Low-grade Potassium Nitrate 
+	•	Experiments with Ammonium Nitrate / Aluminum based Propellant Formulations    Spanish translation 
+	•	Development of a Metalized Ammonium Nitrate-based Propellant  
+	•	Harvesting Aluminum Powder from Paint   ￼Testing ￼
+	•	Rocket Motor Static Testing   ￼ May 14/20
+	•	Measuring Chamber Pressure and Determining C-Star and Thrust Coefficient  ￼ May 26/20
+	•	STS-5000 Static Test Stand  ￼ May 25/20
+	•	Hydraulic Load Cell for Thrust measurement
+	•	Strain Gage Load Cell for Thrust measurement
+	•	Mounting Strain Gages on a Loadcell  ￼
+	•	Strain Gages available to purchase
+	•	Pressure Transformer  ￼  ￼Rockets ￼
+	•	Xi Series of Rocket Flights  ￼ Dec. 9/20
+	•	Zeta Series of Rocket Flights
+	•	DS Series of Rocket Flights
+	•	Launch Report -Frostfire 3 Rocket
+	•	Launch Report -SkyDart Rocket, Flight SD-1
+	•	Launch Report -SkyDart Rocket, Flight SD-2
+	•	Launch Report -SkyDart Rocket, Flight SD-3
+	•	Launch Report -Frostfire Two Rocket
+	•	Launch Report -Zephyr Rocket, Flight Ze-1
+	•	Launch Report -Zephyr Rocket, Flight Ze-2
+	•	Launch Report -Zephyr Rocket, Flight Ze-3
+	•	Boreas 1 Rocket 
+	•	Launch Report -- Epoch Rocket Motor (unofficial) Inaugural Flight
+	•	Launch Report - Boreas 1 Inaugural Flight
+	•	Launch Report - Boreas 1, Flight #2
+	•	Launch Report - Boreas 1, Flight #3
+	•	Launch Report - Boreas 1, Flight #4
+	•	Launch Report - Boreas 1, Flight #5
+	•	Launch Report - Frostfire One
+	•	Cirrus Project
+	•	Cirrus One Launch Report
+	•	Cirrus TV-1 Launch Report
+	•	Launch Report - Chuck Knight's Photo1 Rocket
+	•	Rocket Construction
+	•	Fins for Rocket Stability
+	•	Construction of a Rocket Body using sheet aluminum
+	•	Rocket Body Structural Strength
+	•	Launch Support System
+	•	Launch Controller Circuit  ￼
+	•	Radio Transmitter
+	•	EMT Tripod Rocket Launcher  ￼
+	•	Simplified Method for Estimating the Flight Performance of a Rocket  ￼
+	•	Smoke Tracking
+	•	Altimeter Correction to Account for Launch Site Temperature   ￼
+	•	Launch Wagon Description  ￼  ￼Recovery system ￼
+	•	DS Rocket Recovery System Description  ￼
+	•	Rocket Parachute Ejection System -- Zephyr, Boreas and Frostfire series (schematic)
+	•	Rocket Recovery System Timer
+	•	Air-Speed Triggering System for Parachute Deployment
+	•	Rocket Altimeter System
+	•	Parachute Design and Construction  ￼ Mar. 6/20
+	•	Parts List (parachute construction)
+	•	Parachute Structural and Drag Testing
+	•	Cross Parachute Construction
+	•	Construction of a 1 metre Cross Parachute  ￼
+	•	Crimson Powder for Parachute Ejection Charge  ￼
+	•	Pyrogen - Delay Ejection Device (Pyro-DED)  ￼  ￼Theory ￼
+	•	Introduction to Solid Rocket Motor Theory
+	•	Basic Assumptions
+	•	Propellant Grain
+	•	Propellant Combustion
+	•	Nozzle Theory
+	•	Motor Thrust
+	•	Motor Impulse
+	•	Chamber Pressure
+	•	Two-Phase Flow
+	•	Corrections for Actual Rocket Motors
+	•	GUIPEP Propellant Performance Software
+	•	Theory Appendices
+	•	Solid Rocket Motor Theory webpages in PDF format  ￼
+	•	Teoría Sobre Motores Cohete De propelente Sólido (Spanish Translation)   ￼
+	•	Teoria de motor-foguete sólido (Portugese Translation)  ￼  ￼
+	•	Théorie des moteurs de fusée à propulseur solide (French Translation)  ￼
+	•	Fundamentos de propulsão sólida de foguetes (Portugese)  ￼10 Mbyte  ￼
+	•	Derivation of Selected Rocket Equations  ￼Miscellaneous ￼
+	•	Numerical Simulation of the Under-expanded Flow in the Experimental Conical Nozzle Helios-X  ￼  ￼
+	•	Simulación Numérica del Flujo Sub-expandido en la Tobera Cónica Experimental Helios-X  ￼  ￼
+	•	Construction of a Balance Scale for precision weighing
+	•	Experimental Reports
+	•	Technical Notepad #1 -- KNSU Ideal Performance Calculations
+	•	Technical Notepad #2 -- KNDX Ideal Performance Calculations
+	•	Technical Notepad #3 -- KNSB Ideal Performance Calculations
+	•	Technical Notepad #4 - Convective Heat Transfer Coefficient Calculation
+	•	Technical Notepad #5 -- KNER Ideal Performance Calculations
+	•	Technical Notepad #6 -- A24 Ideal Performance Calculations
+	•	Technical Notepad #7 -- RNX-71V Ideal Performance Calculations
+	•	Technical Notepad #8 -- RNX-57 Ideal Performance Calculations
+	•	Technical Notepad #9 -- KNPSB Ideal Performance Calculations  ￼
+	•	Downloads
+	•	Spanish translation of several articles featured on my website
+	•	Arabic translation of Solid Propellant Rocket Motor Design and Testing by R.Nakka (translation by Mohamed Elaouni)(PDF format)  ￼
+	•	Links to over 100 NASA Space Vehicle Design (SP8000) Reports
+	•	Links to Selected STINET Reports
+	•	Moonwalk Audio Recording and TV Screen Photos
+
+
+   If you have any questions or comments  feel free to send me e-mail ￼  Include the word "rocketry" in the subject line to ensure your e-mail gets past my spam filter    ￼
+
+Reports of broken links or viewing, graphics, & downloading problems are much appreciated !
+
+This site last updated January 12, 2021
+Originally posted July 1997
+
+
+"A man's reach should exceed his grasp...else, what's the heavens for?"
+￼
+

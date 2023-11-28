@@ -1,0 +1,134 @@
+ 
+Basic Information
+Name
+DS-6
+Launch date:
+7 August, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 30 in. circular parachute
+- fall-away launch guides
+Payload
+- Raven altimeter
+- Backup Apogee Timer
+- BRB900 GPS transmitter
+- Motor initiated Smoke Charge
+Liftoff mass
+2.180 kg.
+Flight objectives
+- To determine performance using fall-away launch guides
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNDX
+Grain mass
+301 grams
+Nominal impulse
+354 N-sec
+Class
+I
+ 
+Additional information
+Two fall-away launch guides (one upper and one lower). Upper guide is newly made, with fiberglass band and steel lugs. Both painted fluorescent orange to aid recovery.
+ 
+ 
+Weather conditions
+Temperature
+25°C
+Wind
+S 8 km/hr
+Wind Chill
+n/a
+Sky
+Sunny with variable clouds
+Other
+RH 45%
+Ceiling
+30k ft (9k metres)
+ 
+Launch Event Description
+Setup for the launch went smoothly with no glitches. For videotaping the flight, I used the hand-held camcorder (with scope tube). A second camera was set up on a tripod a short distance from the pad.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the motor fired and rocket briskly accelerated skyward. Climb was initially straight, then tilted slightly into the wind. Rocket was visible for much of the ascent. Shortly after disappearing from view, an arcing smoke trail was seen to form. The smoke trail burned out after only a few seconds. A “pop” sound of the apogee charge was heard followed by another pop from the backup charge some seconds later, after two smoke clouds appeared. The rocket was seen tumbling downward, made visible by flashes of light as the sun glinted off the reflective tape on the rocket. Rocket tumbled free-fall for approximately one-half minute, then the pyro charge was seen to fire and parachute immediately blossomed at about 500 ft (150m.) altitude. Rocket drifted downward at an unusually brisk pace, landing in a corn field about 500 feet away.
+ 
+We entered the indicated GPS coordinates of the landing site into the hand-held Garmin unit, then headed toward the rocket to retrieve it. The rocket was found exactly where indicated, and the rocket appeared to be in perfect condition. Raven beeped out an apogee of 3453 ft.
+ 
+The fall-away launch guides were both recovered about 40 feet (12m) downwind from the pad.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.4
+3453
+1052
+Separation
+16.3
+3440
+1048
+Main deployment
+56.7
+470
+143
+Touchdown
+64.3
+-
+-
+Range
+-
+428
+130
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+77.3
+23.6
+ 
+Main parachute
+54.2
+16.5
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that all components of the rocket were in perfect condition.
+Based on the video footage, both fall-away launch guides separated cleanly from the rocket shortly after departing the launch rod. Both landed about 40 ft (12m.) downwind from the pad and were readily found despite the tall grass, owing to their fluorescent paint.
+The smoke charge burn time was unusually short (2.5 seconds). Modifications will need to be made to greatly increase burn time of the main charge. The delay element, however, provided for a good delay duration of 12 seconds, igniting the main smoke charge just prior to apogee.
+Once again, during free-fall, the sun glinting off the rocket’s reflective chrome bands greatly aided tracking.
+Examination of the video coverage of the descent, it was apparent that the parachute did not fully inflate. This is also confirmed by the Raven data which showed a descent rate of 54 fps, whereas 29 fps descent rate was expected. This is likely due to the canopy having a “spill hole”, which prevented sufficient pressure from building up in the canopy to provide full inflation. This parachute, which was purchased as “military surplus”, is of particular robust construction. It is likely that it was designed for a much higher-speed opening. The spill-hole will likely be closed-off for future use.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-6\DS-6_Raven_basic.jpg
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-6\DS-6_BRB_mapped.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad                                                                                              DS-6\DSCN0333a.JPG
+                                                                                                                        DS-6\DSCN0334a.JPG
+ 
+Liftoff…!                                                                                                        DS-6\DS-6_sonycapture1.jpg
+                                                                                                                        DS-6\DS-6_nikoncapture1.jpg
+Launch guide seen falling after separation (upper left)                       DS-6\DS-6_nikoncapture2.jpg
+Ascent                                                                                                            DS-6\DS-6_sonycapture2.jpg
+                                                                                                                        DS-6\DS-6_sonycapture3.jpg
+Main smoke charge burning                                                                      DS-6\DS-6_sonycapture4.jpg
+Apogee pyro charge fires                                                                          DS-6\DS-6_sonycapture5.jpg
+Backup apogee pyro fires                                                                          DS-6\DS-6_sonycapture6.jpg
+Sun glints of rocket during free-fall                                                         DS-6\DS-6_sonycapture7.jpg                                                                                                                       
+Rocket sections tumble during free-fall                                                 DS-6\DS-6_sonycapture8.jpg
+Parachute pyro charge fires                                                                      DS-6\DS-6_sonycapture9.jpg
+Descent by parachute                                                                                 DS-6\DS-6_sonycapture10.jpg
+Touchdown site                                                                                           DS-6\DSCN0337a.JPG     
+ 
+Video:                                                                                                           
+Liftoff followed by launch guides falling                                                DS-6\DS-6_Nikon.MP4
+ 
+ 

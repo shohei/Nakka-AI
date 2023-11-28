@@ -1,0 +1,133 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+K1000 PVC Rocket Motor
+￼
+
+Introduction
+Design and Performance
+Construction
+Conclusion
+Appendix
+
+Chuck Knight   of Pennsylvania, U.S.A. has previously developed simple to make "G", "H", "I", & "J/K" Class KN-Sorbitol rocket motors, utilizing PVC (PolyVinyl Chloride) plastic tubing for the casing and requiring no special tools for construction. This webpage features the largest of these, a "K1000"motor, which is the definitive growth version of the well-proven earlier designs.
+
+
+
+INTRODUCTION
+This article describes the design, testing, performance and construction of a K class, KN/Sorbitol propellant PVC rocket motor with a total impulse of 2000Ns and whose thrust curve is flat compared to the characteristic curves achieved with other KN/Sorbitol propellant motors. The design of this motor draws upon the experience gained with the J/K motors, results from other experimenters and the burn rate data for KN/Sorbitol propellant compiled by Richard Nakka. As with the other motors of the PVC series, the motor uses readily available parts to simplify construction. The basic design and construction techniques of the K1000 are similar to the J/K motors with only modifications to the nozzle design and construction. The grain configuration is different, but propellant preparation and grain casting techniques remain the same. Before proceeding, become familiar with the earlier work performed on the "G", "H" and "I" PVC motors.
+
+DESIGN AND PERFORMANCE
+The design of the K1000 was based upon the same Schedule 40 2" PVC pipe and end cap construction as the J/K motor. However, calculations showed that simply enlarging the grain to achieve a total impulse of 2000Ns while maintaining the 9/16" throat diameter of the J/K motor would result in over pressure of the casing. The next size washer that is readily available is a 3/4" USS flat washer who's actual ID is 13/16". Calculations showed that this size washer would keep the pressures within what is thought to be safe limits for Schedule 40 2" PVC pipe while achieving a total impulse of 2000Ns. The 3/4" washer's OD is 2" and fits neatly inside a 2" PVC pipe. This proves useful to locate the washer along the center axis of the casing, but required a new technique to build the nozzle. The next step was to try to achieve a flatter thrust curve than what has already been achieved by other experimenters and earlier PVC motors. From the results achieved by Richard Nakka's KSB motor and matching results of the J/K motor, it was apparent that KN/Sorbitol propellant has some strange, but predictable characteristics. For example, a Bates grain designed to give a flat Kn and thrust response when using the known burn rate data for KN/Sorbitol exhibits a progressive burn characteristic. There is an initial build up of thrust followed by a more gradual increase to a peak until the burn is complete and the thrust tapers to zero. The reason for this characteristic is not fully understood. However, the predictability of this trait suggests that shaping the Kn with a regressive slop might compensate for it. No criteria was known for this compensation, but by adjusting the number of segments and the core diameter, it was possible to a tailor a thrust curve that seemed like it might work. Following are the results of the final configuration and design calculations for the K1000 PVC motor.
+￼
+￼     ￼ K1000 Design Calculations for Estimated Performance
+The calculations show that the burn time for the motor would be 1.59 seconds. However, based upon experience with the J/K motors, it was thought the burn time would be closer to 2 seconds. A motor that has a total impulse of 2000Ns and a burn time of 2 seconds has the designation of K1000.
+Three K1000 motors were built and tested. The first two were strap down tests to see what problems might occur with a motor of this size. The third motor was tested in a test stand to measure the performance of the motor. The test stand was the same test stand that has been used to test all of the previous PVC motors. In all cases there was only minor erosion of the nozzle, no blow-by, no leaks, no deformation, and no erosion of the interior of the casing.
+The new nozzle design has no convergence as the other PVC motor and the inset is exposed directly to the heat of the interior of the combustion chamber. Upon dissection of the motors, the washer was found to have separated from the concrete divergence as a result of the thermal expansion of the insert pushing against the wall of the casing. However, there were no signs of abnormal erosion in the concrete and it is believed this separation occurred after the burn.
+Following is the measured thrust curve for the K1000
+
+￼
+
+K1000 THRUST CURVE
+From this curve it can be said that the goal to achieve a flat thrust curve was achieved. When this curve was first observed it was thought that there had been a problem with the test stand. However, the test stand was carefully disassembled, analyzed and no abnormal operation was found. Further, the analysis of the curve gives a total impulse of 1993Ns, which is within less than 1% of what was predicted. The spike on the leading edge of the curve is the flash of the igniter and ignition initiators. The bumps on the trailing edge are the expulsion of the remains of the lower 4 inhibitor sleeves. This also occurred with the "J" motor, but was not detrimental to the motors.
+￼
+The results achieved with these tests have provided some insight into the burn characteristics of Sorbitol. First, it is possible to shape the Kn of a grain to compensate for the progressive burn nature of Sorbitol. This would suggest that this odd characteristic is not random as might occur if cracks were opening in the grain. Further, the fact that the inhibitor sleeves were expelled late in the burn suggests that the burn process occurred evenly along the core and not in a conical fashion as though burns rates were faster or erosion was occurring nearer the nozzle. This information may prove useful in the development of future motors because it means that motors can be built without pressure spikes that might otherwise limit their performance.
+
+CONSTRUCTION
+The construction of the K1000 is the same as the construction of the J/K motors with the exception of preparation of the nozzle and the grain configuration.
+The nozzle insert is a 3/4" USS flat steel washer and has on OD of 2" that fits neatly inside the casing. It is not possible for concrete to flow around the insert to form a convergence as with the other PVC motors. Therefore, the nozzle was designed without a convergence. Following is a schematic drawing of the nozzle.
+
+￼
+K1000 Nozzle Design
+Four tools are needed to make the nozzle for the K1000. Two of the tools are the divergence cutter and centering fixture used in the construction of the J/K motor. The other two tools are made specifically for the K1000. The first tool is a tapered plug that is inserted into the OD of the nozzle insert to keep the concrete form pouring through when casting the nozzle. The plug is carved from a 3" length of 1" wood dowel. It is tapered from a full 1" diameter at one end to 5/8" at the other end. After rough carving with a knife, it is sanded smooth and given a protective sealant coating to shield it from moisture during the casting process.
+The second tool is an insert support, which supports the nozzle insert when casting the nozzle. It is a 4-foot length of 1-1/2" PVC pipe with masking tape wrapped around one end to provide a snug fit to the ID of the casing. The snug fit keeps concrete from oozing past the insert and sticking to the wall of the casing. Below are a conceptual drawing on how these tools are used and a photo of the tools.
+
+￼
+
+Nozzle forming technique
+￼
+
+TAPERED PLUG, INSERT SUPPORT AND NOZZLE INSERT
+
+A. Nozzle and Casing Preparation
+Material List
+￼
+To start construction, cut a hole in the end cap for the nozzle exit. Use the 2" J/K motor centering tool to locate and drill a 1/8" starter hole. The starter hole guides a 1-5/8" hole saw that cuts a nozzle exit exactly in the center of the end cap. Use sandpaper to smooth the edges of the hole and to rough the surfaces of the end cap just inside the hole.
+
+￼
+END CAP AND HOLE SAW
+Use sand paper to rough 1-1/2" of the inside surface of one end of the 28" length of 2" PVC pipe that will be the casing. Paint this inside surface of the casing, the area around the exit hole in the end cap (not the glue surface) and one side of the 3/4" washer with the latex house paint. Allow the paint to dry thoroughly overnight.
+Once the paint is dry, glue the end cap to the painted end of the casing. It is important to follow the directions supplied with the glue when gluing the end caps to the PVC pipe.
+Lay the nozzle insert, painted side up, on top of the insert support. Slide the casing over the insert holder. Position the casing over the insert support so when the divergence cutter is resting in the ID of the washer the edge of the divergence cutter is also touching the edge of the exit hole in the end cap. Secure the casing so that it cannot slide up or down over the insert support. Remove the divergence cutter and insert the plug into the ID of the nozzle insert.
+
+￼
+NOZZLE READY FOR CASTING
+Pour the concrete through the opening between the plug and the edge of the exit hole in the end cap. Tap the side of the casing to force air bubbles to raise and escape and to settle and compact the concrete.
+
+￼
+CAST NOZZLE
+Once the concrete begins to firm, withdraw the plug. The tapered shape of the plug lets it pull away from the concrete as it is lifted, allowing it to be removed easily.
+
+￼
+PLUG REMOVAL
+Twist the divergence cutter by hand into the soft concrete until it pushes against the nozzle insert. Smooth the walls of the divergence with a wet finger.
+
+￼
+DIVERGENCE CUTTER
+Lift the casing off of the insert support when the concrete becomes firm enough to support itself. Allow the concrete to harden and dry for at least four days.
+This completes the nozzle and casing.
+
+B. Propellant Grain
+The propellant is the same cast 65/35 KN/Sorbitol propellant used in all of the previous PVC motors. The propellant is cast into 9 segments each with a 1" core. The weight of the propellant in each segment is approximately 180 grams. Two segments can easily be cast at one time requiring a batch weight of 390 grams of propellant be prepared for the two segments.
+The technique for casting the propellant is the same as for the J/K motors. A 2-1/2" length of 2" PVC pipe is used for the support tubes. Cut the tubes lengthwise into 2 equal halves and trim one edge of one of the halves so that they form a clamshell that firmly grasps and forms the inhibitor sleeve to the interior of the support tube. Use the J/K motor casting stands to hold the support tube. The same 1" coring rod used for the J/K motor segments can be used for the K1000 segments.
+Roll inhibitor sleeves from 2-13/16" x 12-3/4" strips of tag board cut from file folders (11pts thickness). The strips are cut wider then the design length of the segment to allow for shrinkage of the propellant. Before rolling the sleeves, pull the strips of tag board tightly back-and-forth across a small diameter rod to impart a rounded shape to the tag board at the fold (the fold is the bottom fold of the folder). The pre-formed tag board will help assure that the inhibitor sleeve has an even cylindrical shape. Use the same sleeve form for the K1000 inhibitor sleeves that was used for the J/K motors.
+After the sleeve has been cast, the coring rod may be carefully removed from the segment in about 2 hours or when the propellant has reached room temperature. However, do not remove the segment from the support tube and allow the propellant to cure for at least another 10 or 12 hours. After this time, the segment can be removed from the support tube, but it should be handled carefully. The segments are still relatively soft and squeezing will create cracks in the web. Full curing does not occur for about 36 to 48 hours after which it is hard, but brittle.
+When all of the segments have been cast, label one segment "TOP" and another "BOTTOM". Paint both end surfaces of each segment with an ignition initiator composed of a slurry mix of black powder and isopropyl rubbing alcohol. Paint a thick layer of initiator mix into the top 1" of the core of the segment labeled TOP. This extra initiator will act as a booster to the igniter. The top of any segment is the end in which the propellant was poured and is depressed from the shrinkage of the propellant.
+Allow the initiator to dry thoroughly for at least 48 hours before final assembly of the motor.
+
+C. Final Assembly
+Insert a spacer made from a 1/4" ring cut from 2" PVC pipe into the casing so it fits snug against the nozzle. Cut a section out of the wall of the ring to allow the ring to be squeezed and pushed down the inside of the casing against the nozzle.
+Stacking of the segments and assembly of the motor is the same as with the J/K motors. Before stacking the segments and with the exception of the segment labeled BOTTOM, wrap the top and bottom edge of each segment with masking tape so the segment fits firm, but not with a force fit into the casing. The segments should be snug enough that when the casing is turned open end down, the segments do not fall out. Wrap the segment labeled BOTTOM with tape only around the top of the segment. This prevents the snug fitting segment from getting stuck and binding against concrete that may have oozed into the casing and stuck to the wall when the nozzle was cast.
+Stack the segment labeled BOTTOM first with the top of the segment up. Stack the remaining segments top end up snug against each other in top-to-bottom fashion. Stack the segment labeled TOP last.
+Trim the casing to final length as described in the assembly of the J/K motor. The top of the top segment should be flush with the trimmed casing.
+Make a bulkhead like those for the J/K motor. Insert the bulkhead with the RTV surface facing out, into the end cap that will be the top end closure. Glue the end cap onto the casing. Allow the glue to dry for 12 hours.
+This competes the assembly of the K1000 motor.
+Ignition of the K1000 is by a through the nozzle electric match which is aided by the black powder initiator painted onto the end surfaces of the segments.
+
+CONCLUSION
+The K1000 has shown that it is possible to take advantage of the predictable nature of Sorbitol based propellants to produce a flat thrust curve. The importance of this is that it allows the experimenter to push the envelope when designing high power rocket motors by eliminating pressure spikes that otherwise might limit the performance of a motor. There is much to learn about Sorbitol and the K1000 has added a little more knowledge to that understanding.
+
+APPENDIX
+Internal Retainer versus End Caps
+Internal retainer made by gluing pieces of PVC pipe to the ID of the casing to retain the nozzle and top end closure are not to be used with the "I", "J", and "K" motors and will result in catastrophic failure. Although, internal retainers have been used successfully in the "G" and "H" motors, they are not recommended because they induce stress that weaken the casing.
+During the 4 years of experimentation with PVC/Sorbitol rocket motors, nearly 50 motors have been built, tested and/or launched including 7 successful consecutive test firings of the "J" and "K" series of motors. There has never been a catastrophic failure of any motor when built to the instructions herein. However, failures have occurred with non-conforming motors that were built either as test subjects or to study new design and building techniques. Following is a description of those motors and observations about the failures.
+1. Two "G" motors of the end cap design were built specifically for test purposes to deliberately over pressure and fail. One of these motors was the test subject in the experiment to determine the bursting strength of 1" PVC pipe.
+When these motors failed, the end caps shattered as completely as the casing. Sheer lines extended along the length of the casing and through the end caps.
+2. An "I" motor was built with an epoxy plug top end closure to test this type of closure technique. Although the epoxy plug is not a PVC retainer, it has the same mechanical properties. The motor had the same grain configuration and Kn as the other "I" motors that have been successfully built using end caps.
+This motor failed. The casing failed at the inside edge of the epoxy plug. The casing was completely shattered, but the PVC pipe was still intact around the plug.
+3. A "K" motor was built using internal retainers of PVC pipe glued to the inside diameter of the casing to test this type of design. The motor had the same grain configuration and Kn relationships as the other successful "K" motors that used end caps.
+This motor failed in the same manner as the "I" motor. There was clear line of failure at the inside edge of the retainer. The casing completely shattered, but the casing/retainer remained intact.
+The reason the "I" and "K" motors failed, was the stiffness given to the casing by the epoxy plug and retainer. As pressure builds inside the casing, the casing expands in a radial direction. Because the retainer stiffens the casing, it cannot expand as easily as the rest of the casing. This creates a bend in the wall of the casing at the retainer and if the stress created by the bending is great enough the casing will fail. It is like inflating a long balloon, which is inserted half way into a rigid tube. The portion of the balloon inside the tube will expand only to the inside diameter of the tube while that portion outside the tube will continue to expand unrestricted. As the balloon outside of the tube expands the wall of the balloon at the edge of the tube develops a sharp bend. It is the bending at the edge of the retainer that induces stress that causes the casing to failure. In some cases these stresses may not be great enough to cause failure, but in the larger motors the casings are not strong enough to resist these stresses and the casing fails.
+Commercial reloadable hobby motors are designed so that there is no restriction to the expansion of the casing. The casing has either internal threads to accept a threaded male closure or has a grooved ring to accept a snap ring to retain the closure assembly. In either case, the closure assembly is not "attached" to the casing and is allowed to "float" as the casing expands.
+What is different about the end caps that allow them to be used successfully when retainers cannot? The answer is not clear, but the way the "G" motors failed may offer some suggestions. The shattered remains of the "G" motors had sheer lines that extended along the casing and through the end caps suggesting that the end caps may not be as strong as the pipe. When the pipe failed the fittings also failed. Manufactures of PVC pipe and fittings may have matched the fittings to the pipe to minimize bending stresses. Fittings are made from a softer, lighter and generally weaker plastic than PVC. As the pipe expands the soft fitting may expand along with the pipe keeping the bending stresses to a minimum. The secret to the success of the PVC motors may be end caps that minimize stresses that would otherwise reduce the inherent strength of the PVC casing.
+
+Rocket Motor Operating Pressure versus PVC Pipe Pressure Rating
+The PVC rocket motors that are described in these articles are successfully operating at pressures in excess of the ratings that are printed on the pipe. For example, the 2" J/K motors are operating at pressures in excess of 400 psi, but the rating on the pipe is only 280 psi. How can this be?
+PVC pipe is different from metal pipe and bears its load differently. PVC pipe develops cracks if held under pressure for a long time and a failure even at rated pressures can occur after many years. The rating printed on the pipe has a pressure-temperature-time relationship. That is, the rating indicates that the pipe is designed to sustain a static load, at a given temperature and pressure for a certain period of time, usually tens of years. Thus PVC pipe can have a large difference between a one time quick burst pressure and it's rating. Further the rating on the pipe is based on a static load and not a dynamic load that PVC pipe experiences as a rocket motor casing.
+These factors make it difficult to compute or even measure the burst pressure of PVC pipe as it applies to use as a rocket motor casing. For example, PVC pipe does not hold up well to sudden changes in pressure. It also does not bear up well under high temperatures. A rocket motor casing experiences both of these conditions. An attempt was made to measure the burst pressure of 1" PVC pipe as it applies to use as a rocket motor casing. The results were given in the article on the "G", "H" and "I" motors and extrapolated to larger size pipe. Although, the success of the PVC motors may suggest that there is some validity to these results, the pressures suggested by this single experiment are for information purposes only and should not be considered as a rating for PVC pipe.
+It might also be pointed out that PVC motors using either sucrose or dextrose may be more prone to failure than those motors using Sorbitol. PVC pipe is a visco-elastic material and does not stand up to sudden changes or surges in pressure. Thrust measurements of motors fueled with the various sugar propellants have shown that Sorbitol has a slower pressure build up than either sucrose or dextrose. This may make Sorbitol more suitable for use with PVC pipe than the other sugar based propellants.
+
+
+
+￼         ￼
+
+CHUCK KNIGHT WITH PHOTO 1 ROCKET, POWERED BY "K" MOTOR
+CLICK ON PICTURE FOR LARGER IMAGE
+
+Photo 1 rocket specs
+
+￼
+Last updated June 16, 2004
+Return to Top of Page
+Return to Home Page
+

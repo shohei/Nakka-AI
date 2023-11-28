@@ -1,0 +1,150 @@
+ 
+Basic Information
+Name
+Xi-9
+Launch date:
+17 November, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+Liftoff mass
+2.867 kg.
+Stability Margin (initial)
+2.64
+Flight objectives
+- Flight test of NTM-12 nozzleless motor
+ 
+Motor details
+Motor name
+NTM-12
+Propellant
+KNDX
+Grain mass
+524 grams
+Nominal impulse
+354 N-sec
+Class
+I
+ 
+Additional information
+- NTM-12 is a 38mm nozzleless experimental motor that was successfully static fired on 29 September 2018 (denoted NTM-5). The motor delivered a total impulse of 354 N-s with a delivered Isp of 69 seconds. The main advantage of a nozzleless motor is its eminent simplicity, consisting of a casing, bulkhead and propellant cast directly into the casing with a  central circular core. The drawback is the very low specific impulse and relatively low thrust.
+-Raven backup apogee pyro was excluded for this flight, owing to proven reliability of ET and BREO backups.
+ 
+Weather conditions
+Temperature
+-12°C  (10°F)
+Wind
+SW 15-20 km/hr with gusts to 30
+Sky
+Clear with bright sun
+Other
+R.H. 61%
+Windchill -19°C
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Setup of the rocket went relatively smoothly, with no glitches, despite the cold which made for numb fingers when performing ungloved tasks. Followed checklist as usual. The BRB transmitter and receiver were activated and verified that a good GPS signal was obtained. After installing rocket on pad,  the BREO-N, Eggtimer, and then Raven were activated. Raven beeped nine times for voltage and gave 2 positive indications for the 2 active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, smoke was seen at the base of the rocket. It took a couple of seconds for the thrust to build up, then the rocket rose off the pad fairly quickly, although at a slower rate than typical. The rocket veered somewhat into the wind as it gained altitude. The motor burned for around 3 seconds, emitting a bright white exhaust trail that contrasted starkly against the blue sky. The exhaust trail extended much of the way to apogee. About 10 seconds after liftoff, smoke clouds were spotted from the apogee pyro charges. The rocket was spotted descending, visually aided by the sun glinting off the chrome bands on the rocket body. Shortly after, the main pyro smoke cloud was spotted and shortly after the fully inflated parachute was seen. The rocket descended in a stable manner, drifting with the wind. The backup main pyro charge was then heard firing accompanied by its smoke cloud. The rocket touched down a minute after liftoff in a frozen field some 375 feet from the launch pad.
+ 
+We decided against using the GPS coordinates to locate the rocket, as it was clearly visible in the field and not far away. We headed toward the touchdown site and saw that the parachute had caught the wind as was slowly pulling the rocket along the field. As we approached, we observed that rocket appeared to be in pristine condition. The Raven beeped out a peak altitude of 1386 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+10.1
+1383
+422
+Separation
+11.1
+1369
+417
+Main deployment
+22.3
+601
+183
+Touchdown
+54
+-
+-
+Range
+-
+673
+205
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+74.3
+22.6
+ 
+Main parachute
+19.6
+6.0
+ 
+ 
+Post-flight analysis and comments:
+Although the flight was a successful one, there were a number of minor anomalies. The Raven and Eggtimer performed nominally. Peak altitude reported by the three flight computers agreed to within one percent. The BREO unit was found to have separated from its mounting due to an epoxy bond failure of its attachments. This resulted in a broken main switch which led to the unit shutting down 3 seconds after apogee (this had no bearing on the flight as the BREO unit has successfully fired its apogee pyro).
+ 
+When the BRB GPS data was downloaded, it was discovered that recording of data had ended at the time of the apogee event. Close inspection of the unit revealed that a lead wire had fractured, likely due to the shock loading associated with the apogee separation event.
+ 
+One of the apogee tethers was found to have been severed (there are two, for redundancy). Examination of the cut revealed that it was damaged by contact with a hot object, which must have been the still-hot motor casing when apogee separation occurred.
+ 
+A review of the Raven data indicated that the chute did not fully open until 3.4 seconds after being extracted from the rocket body.
+ 
+It is likely that the avionics anomalies were, in part, a result of the cold ambient temperature which tends to make materials much more brittle.
+ 
+For the next flight, the BREO mounting will be improved and the BRB wiring secured better as to be more resistant to shock loading. Parachute packing method will be reviewed and possibly revised to help ensure rapid unfurling and inflation of the canopy.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-9\Xi-9_raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-9\Xi-9_raven_accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-9\Xi-9_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-9\Xi-9_BREO.gif
+ 
+BRB:
+Flight path, mapped                                                                                Xi-9\BRB_Xi-9_plot.gif
+ 
+Motor:
+NTM-5 thrust and pressure curve                                                         Xi-9\NTM-5_graph.gif
+ 
+Photos:
+Launch setup                                                                                            Xi-9\DSCN0299a.JPG
+Xi-8 rocket on pad prior to launch                                                       Xi-9\DSCN0301a.JPG
+Ignition…!                                                                                                  Xi-9\2018-11-23_12-25-17.jpg
+Ascending skyward                                                                                  Xi-9\2018-11-23_12-26-07.jpg
+                                                                                                                    Xi-9\2018-11-23_12-26-40.jpg
+                                                                                                                    Xi-9\2018-11-23_12-27-08.jpg
+                                                                                                                    Xi-9\2018-11-23_12-27-28.jpg
+                                                                                                                    Xi-9\2018-11-23_12-27-59.jpg
+                                                                                                                    Xi-9\2018-11-23_12-28-39.jpg
+Smoke clouds of apogee pyro charges                                               Xi-9\2018-11-23_12-29-38.jpg
+Smoke cloud of main chute charge                                                     Xi-9\2018-11-26_12-11-10.jpg                                                                                                                   
+Nearing touchdown                                                                                Xi-9\2018-11-26_12-12-46.jpg
+Parachute billows in the wind at the landing site                              Xi-9\2018-11-26_12-14-40.jpg
+                                                                                                                    Xi-9\2018-11-26_12-15-24.jpg
+                                                                                                                    Xi-9\2018-11-26_12-16-56.jpg                                                                                                                       
+Aft body section of rocket                                                                     Xi-9\2018-11-26_12-17-19.jpg
+                                                                                                                    Xi-9\2018-11-26_12-17-46.jpg                                                                                                                   
+Forward body section of rocket                                                           Xi-9\2018-11-26_12-18-01.jpg
+Parachute                                                                                                  Xi-9\2018-11-26_12-18-15.jpg
+Disconnecting parachute from Avbay                                                 Xi-9\2018-11-26_12-19-12.jpg                                                                                                                   
+ 
+Video:                                                                                                           
+Flight Xi-9 (Youtube)                                                                                https://youtu.be/uB3u_yRLjlw

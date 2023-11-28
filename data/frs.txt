@@ -1,0 +1,69 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Radio Transmitter
+
+￼
+Introduction
+Details
+Operation
+Assessment
+,
+
+Introduction
+This web page describes the radio transmitter unit that flew aboard the Cirrus One rocket in April 2001. The intent of including the transmitter as payload was to:
+	•	act as a locator beacon in case the rocket landed out of visual range
+	•	signal the peak altitude achieved in 'real time'
+	•	test the feasibility of such a radio transmitter
+As the Cirrus One rocket was expected to achieve an altitude that would be well out of visual range at 10,000 feet (3 km.), it was felt that there could be recovery difficulties if the wind (if present at launch) would carry the rocket far downrange. Since the altimeter that also flew with the rocket was expected to generate a continous audible "beeping" code once peak altitude was achieved, this sound could be picked up by the transmitter and effectively act as a homing beacon*.
+Although of secondary importance, it was felt that it might be advantageous to receive the altimeter signal of peak altitude while the rocket was still in flight...just in case the recovery system should fail to function properly, or if the rocket was to be otherwise lost.
+This was my first try at having a transmitter as payload, and I felt that an FRS radio might be a practical, simple, and inexpensive solution that could be implemented within the short timeframe that was available prior to the launch event.
+* As it turned out, a software bug dictated last-minute replacement of the altimeter's PIC chip with one with updated software, which, unfortunately, provided for only a one time, rather than continous, audible broadcast of the coded peak altitude.
+
+Details
+The transmitter unit was an essentially unaltered FRS radio transceiver. These inexpensive units, which operate at a frequency band of , 462.5625 MHz to 467.7125 MHz, have an advertised range of 2 miles (3.2 km.). The unit that I used was a Panasonic "Talkabout FR50", with 14 channels, and cost about $30 CAD.
+￼
+
+Figure 1 -- FRS transceiver with case and antenna cover removed
+
+
+
+
+The only modifications to the unit involved stripping away the case and rubber antenna cover. The battery holder (3 AA cells) was retained, however. The only other modification that proved to be necessary was the interfacing of the unit to a simple oscillator circuit. This FRS unit (and others I investigated) had a built-in "power-saver" feature, that would cease transmission if the transmit switch was held on for greater than one minute. This obviously made the unit useless for its intended purpose. So I came up with a simple solution, a 555 timer based oscillator circuit that would continually activate a relay, except that once every minute or so the relay would deactive briefly, just long enough to break the one-minute continuous transmit limitation. The circuit is shown below in Figure 2.
+
+￼
+
+Figure 2 -- Oscillator circuit schematic
+
+The circuit components were mounted on a small 3 cm x 4 cm piece of Veroboard. The values of the resistors and capacitor were R1=1.05 Meg ohm, R2=13.8 k ohm, and C1=47 microF, which provided time constants of approximately t1=34 seconds and t2=0.5 seconds, with the time constants given by t1=0.693 (R1+R2)C1 and t2=0.693 (R2)C1.
+This circuit was powered by the 6V source that provided power for the ejection charge, but in fact can operate off any 5-15V source.
+The two leads from the relay were connected in parallel to the transmit switch of the FRS unit. 
+Note that the antenna was mounted along the rocket longitudinal axis, inside the fuselage. As the fuselage was PVC plastic, no significant signal loss was expected.
+The transmitter unit, mounted in its payload cradle, is shown in Figure 3. The payload cradle, which also served as a mounting platform for the altimeter and oscillator circuit (and associated power supplies), is illustrated in Figure 4.
+
+￼
+
+Figure 3 --Transmitter unit mounted in payload cradle
+
+
+
+￼
+Figure 4 -- Cradle assembly for mounting the altimeter (top compartment), transmitter and oscillator circuit (bottom compartment) in the Cirrus One rocket. Fabricated from 0.063" 5052 aluminum alloy sheet and 1/8" 5356 aluminum alloy (welding) rod. Click for view of assembled payload
+
+Operation
+In order to provide access to the channel select switch and display, a 3/4" diameter port hole was made in the fuselage wall (prior to flight, the hole was covered with a circular piece of aluminum tape). To turn on the transmitter's rotary power switch and also the power switch (DIP) for the oscillator, two 1/8" diameter holes were also drilled through the fuselage wall, to allow a small rod to be inserted.
+Just prior to launch, the transmitter was powered on, and an unoccupied channel selected (out in the desert, all 14 channels were unoccupied!). Two receiver FRS units were switched on, and a test transmission made with the "call" button. The oscillator was then powered, and after confirmation that it was functioning, the port hole was sealed. 
+One receiver unit was placed 0.6 miles (1 km.) from the launch pad, strapped to a tape recorder. A second receiver was clipped to my belt, to allow me to hear the "live" broadcast (I was located several hundred feet from the launch pad).
+
+Assessment
+Due to incorrect sealing of the altimeter compartment (see Launch Report), the altimeter deployed the recovery system prematurely. As a result, transmission of the "beeping" sound was heard about 12 seconds after liftoff while the rocket was still climbing. The rocket at this point was at an altitude of some 8000 feet (2.4 km). The signal was clearly picked up by the receiver clipped to my belt, indicating that reception of the transmitted signal was effective at this range.
+The second receiver unit, however, did not pick up the transmitted signal very well. A great deal of static was heard on the tape recording, although some of the "beeping" tones could be discerned. It is unclear why the reception was poor, as the greater distance should not have had such a detrimental effect. Perhaps because
+	•	this second FRS unit was a cheaper model (Conair FRS250SLV), perhaps not as effective in signal reception
+	•	the antenna may not have been oriented exactly to the vertical
+	•	the receiver was placed on the ground -- perhaps it should have been elevated
+In conclusion, the FRS system would appear to be a viable means of equipping a rocket with audible transmission capability, including functionality as a locator beacon. Time constraints prior to the launch event had prevented in situ testing of the transmitter, transmission distance capability, and receiver arrangement. This sort of testing would be imperative prior to any future use of such a system.
+￼
+Last updated October 19, 2001
+Return to Top of Page
+Return to Home Page
+

@@ -1,0 +1,135 @@
+ 
+Basic Information
+Name
+Z-32
+Launch date:
+30 July, 2017
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, aluminum, increased span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+- ultra-low-power pyros
+Payload
+- Raven3 altimeter
+- BRB900 GPS transmitter
+- Smoke charge (activated by Raven at 2175 ft. level)
+- Apogee Backup Timer
+Liftoff mass
+2.379 kg.
+Stability Margin (initial)
+2.64
+Flight objectives
+Reduce range with larger fins
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+287 grams
+Nominal impulse
+337 N-sec
+Class
+I
+ 
+Additional information
+-New fins, with greater span than previous, were fabricated from sheet aluminum (0.065 inch 2024-T3 Alclad). The purpose is to increase the stability margin (SM) and consequently induce a certain degree of weathercocking. The aim is to reduce downrange drift, by having the rocket cut (moderately) into the wind on ascent. Note the fins were sized for the Impulser-X motor installed, as such, the SM for Impulser installed is higher than optimum.
+-A brand new Raven3 flight computer used on this flight
+ 
+Weather conditions
+Temperature
+30°C
+Wind
+SW <5 km/hr
+Sky
+Clear
+Other
+RH 58%
+Ceiling
+unlimited
+ 
+Launch Event Description
+Setup of the rocket proceeded smoothly with no glitches. Raven checkout beeped nine times for voltage and gave 4 positive indications for the 4 pyros. Backup timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated gracefully off the pad, flying nice and vertical. The motor burned for approximately 2 seconds. Rocket disappeared from sight around 2 seconds after burnout. About 10 seconds later we spotted one smoke cloud, then another, from the apogee charges and heard a ‘pop’ of the pyro firing shortly afterward. A smoke trail was spotted from the Smoke Charge. Owing to the smoke trail and sun glinting off the rocket’s chrome bands as it tumbled, the descent was easy to follow. The smoke charge burned for 25 seconds. The parachute charge was then seen to fire and the chute was seen exiting the rocket body. The chute did not inflate, however, and the tumbling rocket struck the ground about 10 seconds later. It appeared to have landed about 500 feet (150m.) downwind, in a grassy field.
+ 
+We programmed the BRB GPS coordinates of the landing site into the Garmin hand-held GPS unit. The distance was indicated as 350 ft. (107m.) downwind. When we arrived at the landing site, the rocket appeared to be in good condition with the exception of one loosened fin. The chute was out, but still folded. Raven beeped out an apogee of 2520 feet (768 m.).
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+2514
+766
+Separation
+14.2
+2502
+763
+Main deployment
+-
+-
+-
+Touchdown
+52.0
+-
+-
+Range
+-
+359
+109
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+70.6
+21.5
+ 
+Main parachute
+58.6*
+17.9*
+ 
+                                   *Did not inflate
+Post-flight analysis and comments:
+A good video of the entire flight was taken with the hand-held camera, which clearly captured the smoke clouds from all the pyro charges. From the video, the smoke charge was seen to burn for 26 seconds, which matched expectation.
+ 
+No evidence of parachute tangling was found. It simply failed to unfurl. An analysis will be performed to try to determine whether chute packing needs improvement, or if the parachute itself requires modification.
+ 
+Post-flight examination confirmed that the rocket suffered nearly no damage. One fin was loosed at the body attachment joint.
+ 
+Due to the light wind at the time of launch, it was not possible to assess whether the larger fins had helped reduce the flight range.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-32\Z-32_Raven.jpg
+ 
+BRB:                                                                                                              
+GPS path of flight trajectory                                                                     Z-32\Z-32_BRB.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad, with launch wagon and my brother Blair                   Z-32\DSCN0081.JPG
+Liftoff                                                                                                             Z-32\2017-08-03_12-19-00.jpg
+Ascent                                                                                                            Z-32\2017-08-03_12-19-53.jpg
+                                                                                                                        Z-32\2017-08-03_12-20-10.jpg
+Burnout                                                                                                         Z-32\2017-08-03_12-20-47.jpg
+Smoke clouds from pyro charges                                                             Z-32\2017-08-03_12-22-06.jpg                                                                                                                       
+Smoke trail as rocket tumbles earthward                                              Z-32\2017-08-03_12-24-20.jpg
+Parachute pyro fires                                                                                   Z-32\2017-08-03_12-24-44.jpg
+Descending with unfurled parachute                                                      Z-32\2017-08-03_12-25-57.jpg
+                                                                                                                       
+Video:                                                                                                           
+Complete Z-32 flight                                                                                                                        https://youtu.be/UUzaRzYexEg
+Demonstration of our powered spooler for rewinding launch controller lead wires (275 ft. spooled out)                               Z-32\Power_spooler.MP4                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

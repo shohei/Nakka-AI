@@ -1,0 +1,103 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Flight Z-1
+
+ 
+Basic Information
+Name
+Z-1
+Launch date:
+14 October, 2014
+Rocket description
+63.5mm airframe (plastic)
+4 fins, birch plywood
+aluminum conical nosecone
+2 ft. circular parachute
+Payload
+Raven altimeter
+Liftoff mass
+ 
+Flight objectives
+- Conduct first flight of Zeta rocket
+- Test new recovery system
+ 
+Motor details
+Motor name
+A-100M
+Propellant
+KNSB-S (w/surfactant)
+Grain mass
+111 grams
+Nominal impulse
+130 N-sec
+Class
+G
+ 
+Weather conditions
+Temperature
+10°C
+Wind
+S 10 km/hr
+Sky
+mixed sun & cloud
+Other
+-
+ 
+Launch Event Description
+Setup went well with no glitches. Clear sky confirmed, countdown commenced, and shortly after zero count, rocket rose rapidly skyward. After a few seconds, while the rocket was still rapidly coasting skyward, a ‘pop’ heard from ejection charge, followed by a second ‘pop’. Chute deployed and rocket drifted downward, with some oscillation. Upon landing, Raven beeped out apogee at 330 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+unknown
+330
+100
+Separation
+unknown
+-
+-
+Main deployment
+unknown
+-
+-
+Touchdown
+unknown
+-
+-
+Range
+ 
+114
+35
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+unknown
+-
+ 
+Main parachute
+unknown
+-
+ 
+ 
+Post-flight analysis and comments:
+Apogee was significantly lower than expected. The backup apogee charge had not fired. Raven had confirmed, prior to flight, that all 3 charges were connected. Also, there was no Raven data captured. According to Adrian Adamson, who produces the Raven, there was a transient data recording problem. The exact cause of these anomalous events became clearer after flight Z-3.
+ 
+Raven baro and accelerometer graph:  none available
+ 
+Photos:
+Rocket for Flight Z-1 on pad prior to launch                                          Z-1\DSCF3278.JPG
+Liftoff                                                                                                             Z-1\DSCF3284.JPG
+ 
+Videos:  none available
+ 
+
+￼
+Last updated March 2, 2015
+Back to Home Page
+

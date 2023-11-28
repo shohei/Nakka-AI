@@ -1,0 +1,9 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Notes
+
+	1	One of the more interesting reactions of this type is the so-called "water gas" reaction:  CO2 + H2 <-> CO + H2O  The equilibrium constant associated with this equation is such that at lower combustion temperatures the reaction proceeds toward the left. This is the reason why there is a significant amount of H2 produced in the combustion of the KNO3-sucrose propellant (at the 65/35 O/F ratio, the combustion temperature is relatively low, being 1720 K.). Water gas, a mixture of H2 and CO, was used in by-gone days as a household fuel for gas stoves, and was produced by utilities through a process involving passing steam over a bed of hot coke. Since CO (carbon monoxide) is particularly poisonous as well as odourless, deaths were not uncommon as a result of unintended (and sometimes otherwise) exposure. 
+
+Back
+

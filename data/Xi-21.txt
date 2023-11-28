@@ -1,0 +1,156 @@
+Basic Information
+Name
+Xi-21
+Launch date:
+28 November 2020
+Rocket description
+- 76.2 aluminum airframe
+- 4 motor-mounted fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Red Dragon formulation
+Liftoff mass
+2.958 kg.
+Stability Margin (minimum)
+1.07
+Flight objectives
+-Flight test of new APM-G motor powered by KNPSB propellant
+-Test of red smoke trail for tracking
+ 
+Motor details
+Motor name
+APM-G
+Propellant
+KNPSB
+Grain mass
+481 grams
+Nominal impulse
+687 N-sec.
+Class
+J
+ 
+Additional information
+-APM-G is a 76mm experimental motor powered by a single BATES segment of KNPSB propellant. The motor features fins that are mounted directly on the motor casing. The nozzle is fabricated of aluminum alloy and has a steel throat insert. This motor was successfully static fired previously.
+-SIM apogee prediction 4500 feet (1370 m.)
+ 
+Weather conditions
+Temperature
+-1°C  (30°F)
+Wind
+S 5 km/hr
+Sky
+Sunny with scattered cirrus clouds
+Other
+-
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Setup of the launch equipment and rocket went well except for one glitch. The BREO flight computer failed to initiate. The same problem had occurred with the previous launch. The power switch had been replaced in the interim, but clearly that did not solve the problem. Launch rules allow for a launch to proceed with a single backup flight computer. As such, the ET was then powered up and was confirmed to be functioning nominally. The Raven was then activated and nominal functionality confirmed. The nominal functioning of these two flight computers allowed for launch to proceed. Completion of launch checklist items then continued with no further glitches. For videotaping the flight, I used the hand-held Sony camcorder fitted with scope tube.
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the Fusion igniter fired and smoke began to issue from the nozzle. One second later, the rocket leapt off the pad and very rapidly accelerated skyward, too fast for me to follow with the camcorder. The sound produced by the motor was particularly loud. After climbing a hundred feet or so, the rocket made a tilt to the left, then continued at a straight trajectory approximately 20 degrees from the vertical. Burn time of the motor was as expected, about a second. We lost sight of the rocket shortly after burnout. After approximately 20 seconds we heard a faint ‘pop’ sound of the apogee charge. We searched in vain for a smoke trail, which was something of a challenge due to the wispy cirrus clouds overhead. After searching the sky for a minute, we heard a very faint ‘pop’ sound of the parachute pyro charge. Clearly the rocket was quite distant from us. We could not spot a parachute and after a minute, I glanced at the BRB receiver to confirm the rocket had landed.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. The indicated distance from where we were located was 0.7 miles (1.1 km), a lot farther than we’d expected. It was starting to get near sunset, so we immediately headed out on the rather long trek over rather difficult snow-covered terrain. After about ¾ hour, we finally arrived at the touchdown site. The rocket looked to be in great shape, the parachute had deployed and all the rocket components were present. The smoke charge appeared to have fully burnt. The Raven beeped out nominal apogee of 4704 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet*
+metres*
+Apogee
+15.7
+4471
+1363
+Separation
+14.5
+4460
+1359
+Main deployment
+46.0
+456
+139
+Touchdown
+93
+-
+-
+Range
+-
+3521
+ 
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+70.0
+21.3
+ 
+Main parachute
+21.7
+6.6
+ 
+ 
+* Corrected for base temperature
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven and EggTimer was fully nominal.  The BREO unit clearly has a fault and will be replaced prior to the next launch. The Raven and EggTimer each gave apogee readings within 3 feet. The GPS-based altitude obtained from the BRB unit was 4547 feet. This is within 1.7% of the temperature-corrected Raven apogee.
+ 
+Review of the launch video revealed that the rocket climbed fully vertical for the first hundred or so feet, then veered quite significantly, estimated at 17 degrees from the vertical, then continued along this skewed trajectory. This is the reason for unexpectedly large distance that the rocket landed from the launch site. It is not known for certain why the rocket veered after departing the launcher at a fully vertical attitude. Most likely this was related to the minimal stability margin (1.04). CG of the completed rocket was farther aft than expected, and consequently the fins were undersized. For the next flight with this motor, the fins will be replaced with larger ones.
+ 
+ 
+The APM-G rocket motor performed as expected, based on static tests. The shape of the acceleration curve matched the pressure-thrust curve from the static tests. Tear-down of the motor showed it to be in pristine shape. The casing thermal liner and all casting tubes were essentially intact. The aluminum nozzle, used also for the static test, was in pristine condition. The steel throat insert suffered no erosion.
+ 
+Examination of the smoke canister showed that the smoke charge had fully burned. Clearly the rocket was too distant (a combination of height and range) for the smoke trail to be visible so this flight was not a good test of the red-coloured smoke trail.
+ 
+APM-G Motor:
+KNPSB propellant grain                                                                      Xi-21\DSCF6468.JPG
+Grain with ignition primer applied                                                  Xi-21\DSCF6469.JPG
+Motor with unpainted fins and 3D printed fairings                     Xi-21\DSCF6470.JPG
+Motor with fairings (less fins)                                                          Xi-21\DSCF6479.JPG
+Motor with fins installed                                                                   Xi-21\DSCF6483.JPG
+                                                                                                                Xi-21\DSCF6484.JPG
+                                                                                                                Xi-21\DSCF6481.JPG
+Nozzle                                                                                                    Xi-21\APM-G_nozzle.JPG
+                                                                                                                Xi-21\APM-G_nozzle-1.JPG
+Nozzle with steel throat insert                                                         Xi-21\DSCF6437.JPG
+Nozzle with steel throat insert                                                         Xi-21\DSCF6441.JPG
+Steel insert installed in nozzle                                                          Xi-21\DSCF6434.JPG
+Silicone ablator applied onto nozzle                                               Xi-21\DSCF6472.JPG
+ 
+Raven data:                                                                                            
+Barometric and axial acceleration data                                          Xi-21\Raven_Xi-21_basic.jpg
+Acceleration curve, boost phase                                                     Xi-21\Raven_Xi-21_accel.jpg
+ 
+Eggtimer data:                                                                                    
+Altitude versus flight time                                                                 Xi-21\ET_Xi-21.gif
+ 
+Launch photos:
+Rocket prepped for launch                                                               Xi-21\DSCN0532a.JPG
+Rocket on the pad with covid-compliant author                          Xi-21\DSCN0531a.JPG
+Liftoff imminent                                                                                  Xi-21\2020-11-30_12-53-01.jpg
+Smoke cloud forms as motor pressure builds                              Xi-21\2020-11-30_12-56-12.jpg                                                                                 
+Liftoff…!                                                                                                Xi-21\2020-11-30_12-56-49.jpg
+                                                                                                                Xi-21\2020-11-30_12-56-31.jpg
+Too fast for the camera operator to follow                                  Xi-21\2020-11-30_12-57-46.jpg
+Veers to the left                                                                                  Xi-21\2020-11-30_12-58-12.jpg
+                                                                                                                Xi-21\2020-11-30_12-58-28.jpg
+                                                                                                                Xi-21\2020-11-30_12-58-42.jpg
+Burnout at 550 feet traveling at just over 1000 km/hr                Xi-21\2020-11-30_12-58-59.jpg
+Wispy exhaust trail and apogee smoke cloud                              Xi-21\Image1.jpg
+Recovered rocket back at launch site                                             Xi-21\DSCN0533a.JPG
+                                                                                                                Xi-21\DSCN0534a.JPG
+End of a long day                                                                                Xi-21\DSCN0535a.JPG
+                                                                                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

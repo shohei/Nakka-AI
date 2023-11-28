@@ -1,0 +1,92 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+kAPPA-DX  Rocket Motor
+Preliminary Design Concept
+
+Introduction
+Basic dimensions
+Cutaway view
+Nozzle drawing
+Kn data
+Chamber pressure data
+Performance data
+
+Introduction
+The preliminary design data for the kAPPA-DX rocket motor is presented in this web page.  The kAPPA-DX is the KN-Dextrose powered version of the kAPPA solid propellant motor. Projected variants are the kAPPA-SO and the kAPPA-SU motors, powered by KN-Sorbitol and KN-Sucrose, respectively.  The projected total impulse of this motor is 2000 N-sec, which categorizes it as a "K" class motor.
+This objectives of developing this rocket motor are :
+	•	to design an efficient and reliable moderately sized rocket motor of relatively simple construction. Reliability is intended to be achieved by use of free-standing grains, utilizing KN-"sugar" based propellants which have been well-characterized. Efficiency is aimed for by having the motor operate at relatively high pressure in conjunction with a well-contoured, high-expansion nozzle. Light weight is achieved by use of a thin walled aerospace grade aluminum alloy casing (6061-T6511 extrusion). As well, the nozzle and pressure bulkhead are designed for reduced weight. 
+	•	provide comparison of actual performance data with predicted performance. A solid rocket motor design methodology has been developed, currently in the form of an Excel spreadsheet. This motor has been designed using this tool, with predictions of Kn, chamber pressure, thrust and other performance parameters. Comparison with actual static test data is important for verification and, if necessary, modification to the methodology. 
+	•	to test the multiple segment, restricted-burning grain concept. This is the first motor that I have developed that will utilize the BATES grain concept. This concept uses multiple segments with specifically chosen L/Do and Do/Di ratios that produce a neutral (or near-neutral) thrust profile. The propellant segments are free-standing, with burning occurring in the core and at the ends. However, the grain segments have an inhibited outer surface. This will be achieved by casting the segments in a multiple-layered paper sleeve. 
+	•	test the concept of aluminum-alloy casing with ablative (insulator) lining. The melting point of 6061 aluminum alloy is about 600 C., far below the propellant combustion temperature which is greater than 1300 C. As such, it is necessary to protect the thin-walled casing from direct combustion gases. Indeed, an effective insulator is required to prevent appreciable heat transfer to the casing, since this alloy suffers a significant reduction in strength at elevated temperature. This is to be achieved by use of a multiple-layered paper liner, which is expected to provide thermal protection through combined ablative action and thermal resistance. Intimate contact between the liner and the casing wall will be achieved upon pressurization of the motor. 
+	•	develop one motor / multiple propellant concept. For greatest versatility, thekAPPArocket motor is designed to be powered by any of the three "sugar" based propellants. Catering to the specific characteristics of propellants, in particular burn rate, is accomplished by tailoring the geometry of the grain segments to suit the operational characteristics of the motor. 
+	•	characterize erosive burning of the propellants The core diameter for the segments was sized to allow for moderate erosive burning during the initial phase of the burn. In this manner, it is hoped to be able to characterize the erosive burning behaviour from test data. In Figure 10, the predicted initial pressure spike is a result of "guess-timated" values (G*, kv) used to model erosive burning in the design spreadsheet. 
+	•	eventually, to propel a near-sonic or supersonic rocket to the 10 000 foot (3 km.) level. Altitude simulations using the SOAR program predict that the kAPPA rocket motor will boost a 15 lb. (7 kg.) , 2.5 inch (6.35 cm) diameter rocket , with a constant Cd=0.4, to an altitude of 10500 feet (3.2 km.). Maximum mach number would be 0.88. The same rocket designed for minimal drag could achieve Mach 1.05 (initial Cd=0.3, Cd@M1.05=0.497). 
+￼
+
+Figure 1 -- Basic dimensions and data
+
+
+￼
+
+Figure 2 -- Section A-A, cutaway view of motor
+
+
+￼
+
+Figure 3 --Detail of nozzle entrance region
+
+
+￼
+
+Figure 4 --Nozzle
+
+The nozzle has been recently fabricated. Click for photo...
+
+￼
+
+Figure 5 -- Nozzle details
+
+
+￼
+
+Figure 6 -- Details of Pressure Bulkhead
+
+
+The following images are excerpts from the Excel spreadsheet that was utilized in the design of the motor:
+
+￼
+
+Figure 7 -- Basic design data and Kn calculation
+
+
+￼
+
+Figure 8 -- Plot of Kn and web thickness
+
+
+￼
+
+Figure 9 -- Pressure calculation basic data
+
+
+￼
+
+Figure 10 -- Plots of chamber pressure v.s. time
+
+
+￼
+
+Figure 11 --Data for performance calculations
+
+
+￼
+
+Figure 12 --Plots of thrust v.s. time
+
+
+￼
+Last updated January 2, 2000
+Return to Top of Page
+Return to Home Page
+

@@ -1,0 +1,135 @@
+Basic Information
+Name
+Xi-15
+Launch date:
+22 December 2019
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Dual smoke tracker with Red Dragon II/Sublime/Legendary formulations
+Liftoff mass
+3.128 kg.
+Stability Margin (minimum)
+2.05
+Flight objectives
+- 5th flight of JEM rocket motor. Venting added to grain segments to facilitate pressure equalization.
+ 
+Motor details
+Motor name
+JEM
+Propellant
+KNDX
+Grain mass
+483 grams
+Nominal impulse
+614 N-sec
+Class
+I
+ 
+Additional information
+JEM motor modified by adding semicircular cutouts to casting tubes to provide venting of combusting gases. Objective is to aid pressure equalization around the grain segments.
+ 
+A dual-canister smoke tracker is being tested. The main canister contains equal layers of Legendary and Sublime formulation. A smaller piggy-back canister contains Red Dragon II formulation. Separate igniters are used for reliability, both triggered by the Raven shortly after apogee.
+ 
+Weather conditions
+Temperature
+-1°C  (30°F)
+Wind
+NW 20 km/hr
+Sky
+Variable clouds
+Other
+R.H. 80%
+Ceiling
+20k ft.
+ 
+Launch Event Description
+Following our checklist, as usual, setup of the rocket went smoothly without glitches. The BRB receiver was activated and verified that a good GPS signal was obtained. After installing rocket on pad, the BREO-N, Eggtimer, and then Raven were activated. Eggtimer “blinked” its LED indicating ready for launch. Raven beeped eight times for voltage and gave four positive indications for the four active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately ignited with a cloud of smoke appearing at the base of the rocket. The rocket immediately accelerated skyward at a rapid pace, climbing nice and vertical, then slanting off at a slight angle into the wind. Burn time appeared to be close to two seconds. Visual contact was lost shortly after burnout.  After about twenty seconds, we heard a faint ‘pop’ sound of the apogee charge. We searched for sign of a smoke trail, but none could be seen (the grey sky overhead and lack of sun provided for effective camouflage). After approximately one minute, we heard a ‘pop’ of the parachute charge. We scanned the sky for the descending rocket but could not spot it. The white cloud layer and lack of sun made for challenging conditions to visually capture the descending rocket. About a half-minute later I got a glimpse of the rocket as it neared touchdown and immediately trained the video camera on it. The rocket was directly downwind and appeared to be roughly one-half kilometer away from us, coming down gently under a fully inflated parachute. The rocket landed in a generally wooded area however it appeared to touch down in a clearing.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.3 miles (480 metres). We headed out to recover the rocket. When we arrived at the touchdown site, the rocket was seen laying on the ground, having fortunately missed the nearby trees. All the rocket components were present and looked to be in great condition. Both smoke charges had fully burned. Raven beeped out an apogee of 4144 feet (1263m.). I then noticed an anomaly. The three backup pyro charges had not fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.1
+4156
+1267
+Separation
+16.1
+4145
+1263
+Main deployment
+62
+896
+273
+Touchdown
+99
+-
+-
+Range
+-
+1962
+598
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.7
+22.5
+ 
+Main parachute
+22.7
+6.9
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven and BRB was fully nominal. The two backup apogee pyros (EggTimer and BREO activated) and chute backup pyro (EggTimer activated) were confirmed to have not fired. Upon close post-flight examination of the avionics, the reason for the BREO pyro charge failing to fire was immediately apparent. One of the pyro charge leads was not correctly inserted into the terminal block, in fact, it was found “free-hanging”. The screw on the terminal block that normally secures the lead wire was found to be fully tightened, clearly indicating that the wire was not inserted into the hole prior to tightening. This is a known drawback of certain types of terminal blocks where insertion of the wire lead can be done incorrectly. Visually it is not obvious whether the lead is correctly secured. As such, I make it standard practice to give the lead wire a “tug test” following installation in the terminal block to confirm it is installed correctly and is secure. Clearly I failed to do such on this occasion.
+ 
+The reason for the EggTimer failing to fire the two pyros was an odd one. The EggTimer had proven to be highly reliable, having worked flawlessly on all 14 previous flights. Examination of the data file indicated normal operation, or nearly so. Altitude was correctly recorded throughout the flight. However, the data indicated that the two pyro channels had not been triggered. Closer examination revealed that the EggTimer configuration had somehow changed and that both pyro channels had been disabled. This was odd because I had never changed any configuration settings since the unit was built. I contacted Cris Erving (developer of EggTimer) and he was unable to explain this anomaly. Unfortunately, it is not possible to ascertain, prior to launch, whether the pyro channels are enabled or not, so such an anomaly could theoretically repeat itself. Consequently, at some point in the near future, the EggTimer will be replaced with a different backup altimeter.
+ 
+The JEM rocket motor performance was again off-nominal. The rocket acceleration curve provided by the Raven was very similar to the preceding flight. It indicated a burn that suffered significant inhibitor failure. This was confirmed by tear-down of the motor. The aft-most casting tube (which serves as burn inhibitor) was completely burned away along one side. This issue will be further investigated.
+ 
+Both smoke charges were confirmed to have fully burned.
+ 
+The aft 3D printed launch lug was discovered to be broken, having snapped at the ligament connecting the ring to the base. The launch lug design will be strengthened for the next launch to account for cold weather operation.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-15\Xi-15_Raven_basic.png
+Acceleration curve, boost phase                                                          Xi-15\Xi-15_Raven-accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-15\Xi-15_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-15\Xi-15_BREO.gif
+ 
+Miscellaneous photos:
+Dual-smoke canister                                                                               Xi-15\dual-smoke-canisters.JPG
+With insulation jacket                                                                             Xi-15\dual-smoke-canisters insul.JPG
+Aft-most casting tube, post-flight                                                        Xi-15\casting-tube.JPG
+ 
+Launch photos:
+Rocket on the pad                                                                                   Xi-15\DSCN0396.JPG
+Igniter fires and motor begins burning                                                Xi-15\2020-01-17_12-09-23.jpg
+Liftoff…!                                                                                                    Xi-15\2020-01-17_12-10-27.jpg
+Soaring skyward                                                                                       Xi-15\2020-01-17_12-10-50.jpg
+                                                                                                                    Xi-15\2020-01-17_12-11-18.jpg
+                                                                                                                    Xi-15\2020-01-17_12-11-45.jpg
+Burnout of motor and rocket coasts toward apogee                      Xi-15\2020-01-17_12-12-07.jpg
+Final moments of descent                                                                     Xi-15\Xi-15_landing.jpg
+ 
+ 
+ 

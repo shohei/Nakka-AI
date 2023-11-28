@@ -1,0 +1,127 @@
+ 
+Basic Information
+Name
+DS-9
+Launch date:
+7 January, 2017
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 36 in. semi-ellipsoid parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Backup apogee Timer
+Liftoff mass
+2.294 kg.
+Flight objectives
+- First launch of DS rocket powered by Impulser-X motor.
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+377 grams
+Nominal impulse
+444 N-sec
+Class
+I
+ 
+Additional information
+-Due to length of motor, which extended out of rocket body, 3 elongated motor mounts fitted.
+ 
+Weather conditions
+Temperature
+-24°C
+Wind
+SW 5 km/hr
+Wind Chill
+-29
+Sky
+Clear
+Other
+-
+Ceiling
+30k ft
+ 
+Launch Event Description
+Trek to the launch site was rather slow as a result the deep snow making the use of snow-shoes a necessity. The sled was used to transport our supplies. We arrived at the site about ¾ hour before sunset. Setup went well with no glitches despite the cold which limited “bare-hand” activities to no more than half a minute before discomfort and numbness necessitated putting mitts back on. To reduce excessive chilling of the Raven and BRB unit, the Avbay and nosecone had been wrapped with insulating cloth, enclosing a chemical hand-warmer pressed against the rocket body. This assemblage was removed just prior to mounting rocket on launch pad. Raven was powered up and the three pyro charges were verified. Eight beeps indicated the battery voltage was nominal.
+ 
+For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Shortly after ignition switch was closed, the motor came to life and the rocket briskly climbed skyward. After burnout, we lost visual contact. After about 20 seconds a tiny smoke cloud was visible overhead and a few seconds later a “pop” sound of the apogee charge was heard. The rocket was then seen tumbling downward and a smoke trail suddenly appeared after about 10 seconds of descent. The charge continued to burn for about 20 seconds, leaving a distinct trail that greatly aided tracking. Rocket continued tumbling earthward, carried downwind. No chute deployment occurred and rocket landed in a frozen corn field approximately a thousand feet from the pad.
+ 
+I was only able to video-record the ascent of the rocket. Due to the cold, my bare hand which was operating the camera got numb and painful from the cold. I resumed filming during the final descent but it turned out the footage was blank due to the cold affecting the camera electronics.
+ 
+We entered the indicated GPS coordinates of the landing site into the hand-held Garmin unit. The landing site was indicated as 0.23 miles away. We then headed to retrieve the rocket, which was found exactly where indicated. The chute was still inside the rocket. Both sections of the rocket (connected by tether) had impacted into the snow sideways. There was no apparent damage, as the hard-packed snow absorbed the energy of impact. It was noticed that the Raven-initiated apogee backup pyro had not fired. The Timer-initiated apogee backup pyro, however, had fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.3
+4234
+1290
+Separation
+16.2
+4221
+1286
+Main deployment
+Failed to deploy
+ 
+ 
+Touchdown
+75*
+-
+-
+Range
+-
+966
+294
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+69.7*
+21.2
+ 
+Main parachute
+-
+-
+ 
+* determined from BRB GPS data
+Post-flight analysis and comments:
+Post-flight examination indicated that the rocket and all components were undamaged with the exception of the one fin-body joint, which was slightly cracked. The Main chute pyro was found to have not fired. The Raven data was truncated, ending immediately after the apogee pyro charge had fired. Examination of the data indicated that the Raven battery (9V lithium primary) output capacity suffered as a result of the extreme cold. After firing the pyro charge (current draw was 3.5A) the battery voltage dropped low enough to trigger a reset of the Raven. As such, the Raven did not attempt to fire the backup or main pyros.
+A proposed solution is in the works. The standard igniter used for pyro charges will be replaced, for cold-weather launches, with an ultra-low current igniter presently being developed and tested.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-9\DS-9_raven.jpg
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-9\DS-9_BRB.jpg
+ 
+Photos:                                                                                                         
+Smoke charge canister (interfaces to motor)                                        DS-9\2016-09-25_081a.jpg
+Impulser-X motor mounted in DS rocket                                                DS-9\2016-09-25_086a.jpg
+Rocket prior to launch showing insulation sleeves                              DS-9\DSCF4502a.jpg
+Our sled packed with launch support equipment                                  DS-9\DSCF4503a.JPG      
+My brother Blair reading checklist                                                           DS-9\DSCF4505a.JPG
+Rocket on pad awaiting liftoff                                                                  DS-9\DSCF4504a.JPG
+DS-9 a moment before liftoff                                                                   DS-9\DS-9_capture1.jpg
+Clearing the launch rod on its way skyward                                          DS-9\DS-9_capture2.jpg
+Ascending skyward, nearly at burnout                                                    DS-9\DS-9_capture3.jpg
+Walking toward touchdown site                                                              DS-9\DSCF4507a.JPG
+Winter desolation                                                                                       DS-9\DSCF4511b.JPG
+Rocket at recovery site                                                                              DS-9\DSCF4512a.JPG
+                                                                                                                        DS-9\DSCF4513a.JPG
+ 
+Video:                                                                                                           
+Trek to recover landed rocket (5 Mbyte)                                                DS-9\DS-9_trek.MP4
+ 
+ 

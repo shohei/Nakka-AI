@@ -1,0 +1,137 @@
+ 
+Basic Information
+Name
+DS-3
+Launch date:
+13 February, 2016
+Rocket description
+- 58mm glass-epoxy airframe
+- 4 fins, glass-epoxy, clipped
+- maple elliptical nosecone
+- 24 in. circular parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+Liftoff mass
+1.878 kg.
+Flight objectives
+- Test new fall-away launch guides
+- Test new launch pad
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNDX
+Grain mass
+299 grams
+Nominal impulse
+352 N-sec
+Class
+I
+ 
+Additional information
+-        A pair of snow-shoes was brought along, to deal with the deep snow that was anticipated to be encountered during the recovery trek.
+ 
+Weather conditions
+Temperature
+-18°C
+Wind
+NW 20-25 km/hr
+Wind Chill
+-29°C
+Sky
+Mainly clear with scattered cirrus clouds
+Other
+-
+Ceiling
+unlimited
+ 
+Launch Event Description
+The weather differed from that forecasted. Overcast had been predicted, so the smoke charge system was not installed for this flight. And the wind velocity was much greater. This made the trek to the launch site and setup uncomfortable. Nevertheless, setup of the rocket went smoothly (we used a checklist). The new launch pad worked well, and was readily adjusted to near vertical. The fall-away launch guides slid easily over the launch rods, with little friction. I set up a remote camcorder on a tripod, and used the hand-held camcorder (with scope tube) to film the flight.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the rocket soared off the pad, veering somewhat into the wind. The rocket quickly disappeared from sight on its way to apogee. After about 15 seconds, a faint “pop” sound (muffled by the wind) of the apogee charge was heard. The rocket was not sighted at all; no second ‘pop’ was heard, although the wind may have muffled such. After a minute or so, I glanced at the BRB receiver and noticed the GPS readings were unchanging, indicating the rocket had landed. I began entering the GPS coordinates into the hand-held Garmin GPS unit. I had difficulty in doing this, as the frigid wind quickly numbed my hands. It took several minutes before this was accomplished, and to our dismay, the resulting distance reading was clearly in error (4850 miles!). We felt uncomfortably cold at this point in time, so we decided to pack up and head back to the parked car to warm up, and re-enter the GPS coordinates. Before leaving the launch site, I took a quick look around and soon spotted the two launch guides lying on the snow about 50 feet from the pad. I was fortunate to spot them, as the plastic fluorescent strips tied to the guides had shattered (due to cold) and detached during ascent.
+ 
+After warming up ourselves and the Garmin GPS unit, I re-entered the coordinates, which we had diligently marked down on paper. This time, the distance reading seemed ‘spot on’. The indicated distance to landing site was 0.35 miles away. The direction was odd, however, not being down wind as one would expect.
+ 
+We headed out toward the indicated landing site, and eventually reached the rocket at the designation location. I noticed that the parachute had deployed, but was snarled and not inflated. This explained why the chute was not sighted during descent. I noticed one broken-off fin lying in the snow some 10 feet away. Otherwise, the rocket looked to be in perfect condition - the snow had largely cushioned the landing. I activated the Raven to get an altitude call-out, but was unable to ascertain the beeps due to the wind howling in my parka hood.
+ 
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.71
+4467
+1362
+Separation
+16.53
+4454
+1357
+Main deployment
+83.38
+489
+149
+Touchdown
+91.0
+-
+-
+Range
+-
+2415
+736
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+58.9
+18.0
+ 
+Main parachute
+-
+-
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was overall in great shape except for the two detached (not broken) fins. All three pyro charges had fired. The motor looked pristine.
+Examination of the Raven flight data provided for a surprise find. The descent trace (altitude versus time) clearly indicated that the rocket had descended at a constant velocity which was less than typically seen for free-fall, from apogee event, until touchdown. Clearly, the chute had (partially) deployed at the apogee event. Inspection of the other Raven data, such as voltage and current events, showed that operation of the Raven and pyro firing was nominal. Inspection of the rocket showed nothing out of the ordinary.
+Further investigation provided a tentative explanation. From calculations based on Raven acceleration data, it was concluded that the momentum of the rocket forward airframe due to the apogee separation event caused the four shear screws to fail. This would have resulted in the chute being pulled out, or partially so. Subsequent testing of the nylon screw joint strength indicated that this was possible, although marginally so. It is quite likely that this is what caused the premature chute release of DS-2, as well, and that crossed pyro leads were not the cause.
+For future flights, the joint design will be modified to prevent this possibility from occurring.
+The new fully-adjustable launch pad worked perfectly in its first field test.
+The fall-away launch bands appeared to work perfectly. Examination of the flight video showed no indication of rocket flight disturbance during liftoff and during subsequent guide fall-away action. The video shows the two guides cleanly falling away.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 DS-3\DS-3_Raven.jpg
+Acceleration data                                                                                        DS-3\DS-3_Raven_acc.jpg                                                                                                                       
+ 
+Big Red Bee
+Launch and landing locations with flight path                                       DS-3\DS-3_BRB.jpg
+ 
+Photos:                                                                                                         
+Fall-away launch guides                                                                             DS-3\DSCF3993a.JPG
+                                                                                                                        DS-3\DSCF3994a.JPG
+                                                                                                                        DS-3\DSCF3995a.JPG
+New launch pad                                                                                           DS-3\DSCF3988a.JPG
+                                                                                                                        DS-3\DSCF3989a.JPG
+                                                                                                                        DS-3\DSCF3990a.JPG
+Rocket on pad; my brother Blair with checklist                                    DS-3\DSCN0268a.JPG
+                                                                                                                        DS-3\DSCN0269a.JPG
+                                                                                                                        DS-3\DS-3_setting_up.jpg
+Liftoff and ascent, remote camera                                                         DS-3\DS-3_capture1.jpg
+                                                                                                                        DS-3\DS-3_capture3.jpg
+                                                                                                                        DS-3\DS-3_capture2.jpg
+Ascent, hand-held video camera                                                              DS-3\DS-3_capture4.jpg
+Launch guides seen falling away                                                              DS-3\DS-3_launch_bands_falling_away.jpg
+                                                                                                                        DS-3\DS-3_capture5.jpg
+                                                                                                                        DS-3\DS-3_capture6.jpg
+Soaring skyward                                                                                          DS-3\DS-3_capture7.jpg
+Landing site                                                                                                  DS-3\DSCN0274a.JPG
+                                                                                                                        DS-3\DSCN0275a.JPG
+Author with rocket at touchdown site                                                    DS-3\DSCN0276a.JPG
+ 
+Video:                                                                                                           
+Liftoff, remote camcorder                                                                        DS-3\DS-3_Remote_camera.MP4
+ 

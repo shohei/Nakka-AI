@@ -1,0 +1,100 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Zephyr  Rocket -   Flight Ze-2
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of Flight Ze-2, which designates the second flight of the Zephyr experimental rocket.
+Following the successful proving flight of Ze-1, launched earlier in December, the goals of the second flight were related directly to the intended mission of the Zephyr series of flights. The main objectives of Flight Ze-2 were:
+	•	To fly the R-DAS flight computer as a payload package to collect data on the motor & vehicle's flight performance. In particular, the R-DAS unit measures and records rocket acceleration and barometric altitude. Capability also exists for measuring additional sensor data (up to 6 channels) -- it is planned to exploit this feature on future flights. R-DAS is also capable of activating the recovery systems, however, its use in such a role is limited owing to the restricted lower temperature operating limit of 0oC. The Air-Speed/Timer system used for Ze-1 was instead employed to activate recovery (this system has a temperature limit of -20oC.). The R-DAS was flown on the fifth flight of Boreas and was also flown on board Frostfire One. Excellent data was recovered from the latter flight, which suffered from structural break-up of the rocket shortly after launch. The collected data proved to be highly useful in the investigation of that particular flight.  ￼ R-DAS unit & thermally insulated housing  
+	•	Another key objective was to perform a flight test of the Epoch motor outfitted with RNX-73 propellant with a geometric configuration that I've deemed "pseudo-finocyl" (PFC). The PFC grain is similar in appearance to a "star" grain, consisting of a circular central core with eight slots projecting radially outward. The PFC grain used for this flight is illustrated in the photo below:  ￼ Propellant grain for the Ze-2 flight  
+	•	Following the successful first usage of Crimson Powder ejection material for the main charge deployment of Ze-1, for this flight, Crimson Powder was utilized for both the drogue and the main charges. This material has a number of advantages over BP including a lower combustion temperature (which minimizes harm to the rocket components) and much "cleaner" combustion.
+
+Rocket Description
+The rocket airframe for Ze-2 was essentially that of Ze-1, with only a few simple modifications, including mounting provisions for the R-DAS unit. The aft fuselage, which had suffered some cracking upon landing during the first flight, was repaired by splicing in a new section of PVC tubing (visible in photo below). Another modification was the addition of a strip of aluminum foil to the forward fuselage to potentially aid visibility of the rocket in flight.
+
+￼
+Rocket partly unassembled for transport
+The motor for this flight was the Epoch solid rocket motor also used for Ze-1. The performance classification with the PFC grain is I160-2.5 classification providing a total impulse of approximately 400 N-sec. and having a nominal thrust time of 2.5 seconds. This is a somewhat lower impulse than that provided by RNX-57 with the hollow-cylindrical grain, owing to the lower average operating pressure which is inherently less efficient . The total burn time of the motor with the PFC grain is close to 5 seconds owing to the combustion of the propellant "slivers" that remain after the majority of the propellant charge has been consumed. The motor pressure/thrust profile from the static test shows a curious secondary "peak" and extended thrust "tail-off". It was expected that the extended "tail-off" should provide for a nice smoke trail that would be of benefit for visual tracking of the rocket.
+The total propellant mass for this flight was 396 grams (0.872 lb.), and with an initial Kn = 1254. A single "Spitfire" igniter was used for motor ignition.
+
+This firing of the Epoch motor for this flight has the designation ERMS-26 (Epoch Rocket Motor System). This was the first flight of an epoxy composite propellant other than RNX-57 and also hallmarks the first flight of any rocket that I've ever launched that features a grain configuration other than "cylindrical unrestricted" or "BATES".
+
+Fabrication of the PFC grain was relatively simple. After casting and curing a grain in the usual manner (see RNX Packing & Curing ), then marking the radial lines on the grain ends, the central core was drilled using a 9/16" (14 mm) speedbor bit. The slots were then cut using a hacksaw fitted with two coarse (17 tpi) blades bonded together to make a "double width" slot. It was found that cutting was easier when the grain had achieved just the "right" degree of curing. Too soon, and the blade would gum up, too late and the material was hard to cut and the blades tended to dull.
+The PFC grain configuration has certain merits over the unrestricted cylindrical grain. For one thing, it is possible to obtain a very large burning surface area (and thus Kn) as is required by the RNX propellants and RNXS-73 in particular. Pressure buildup to full operating condition is very rapid. This is beneficial in getting the rocket up to speed rapidly off the launch pad. Another good feature is that the inhibitor/casting tube serves as an effective thermal insulator, protecting the motor casing from the severe heating that is seen with both the BATES and, in particular, with the unrestricted cylindrical grain. Post-firing inspection of the motor following the firing of PCM-12 showed that the liner was internally charred but intact, with no burnthrough.
+For vehicle recovery, a total of four identical 70x22 cm. cross-type parachutes were employed for vehicle recovery, consisting of tandem drogue chutes for initial descent, and tandem main parachutes. Descent velocity was predicted to be 41 ft/sec (12.5 m/s) during initial descent, followed by a reduced descent velocity of 29 ft/sec (9 m/s) following main chute deployment. The Air-Speed switch was configured to trigger at a velocity of 65 mph (29 m/s) prior to apogee; the Drogue Timer delay was set at 11 seconds from liftoff, and the Main Timer was set at 35 seconds following liftoff.
+Both the drogue ejection charge and main ejection charge consisted of 0.80 grams of Crimson Powder. The ejection system was otherwise unchanged from that of Ze-1. Pre-launch weight of the rocket was 7.95 lbs (3.61 kg.); total height was 6.40 ft. (1.950 m.). The initial stability margin was 1.45 for this flight.
+
+
+Launch Report
+Sunday, Dec.21, 2003 
+Although the weather report had predicted the winds would begin to diminish, by launch time the conditions were unchanged, with a brisk 25 km/hr. wind out of the southwest. Otherwise, conditions were quite good with a mainly clear sky and temperature of 0oC. (32 oF). The main concern with the wind was the expected tendency of the rocket to weathercock and the consequential possibility that the Air-Speed switch may not trigger, which would be the case if the rocket would not slow sufficiently at apogee. However, there was sufficient confidence that the Drogue Timer would provide a reliable backup in such a case.
+Following the launch setup procedures that have by now become quite standardized, the first step involved setting up the rail launcher. For transport, the launcher has removable braces that allows the launcher legs to fold neatly for storage & transport. As well, the 10 foot (3 m.) long rail assembly breaks into two sections. The ignition system was next laid out and tested to confirm the system was functioning properly. This Ignition System, which was originally built over twenty years ago and recently overhauled, has proven to be a highly reliable system. The rocket was then assembled and loaded onto the launch rail. Following the pre-launch checklist, connections were made to the drogue and main chute ejection charges and continuity confirmed. After arming all three systems and replacing the hatch cover, the R-DAS unit was powered up and confirmed to be functioning. The traditional prelaunch photos were then taken. With the rocket now set for launch, the motor igniter was connected, and igniter continuity confirmed. This accomplished, the observers then headed to safe viewing positions. The final step in launch prepping the rocket was to arm the ignition box.
+
+￼
+Zephyr rocket sitting on launcher prior to second flight.
+Once again, I assumed the task of operating the digital videocamera to capture the launch and flight. Due to the brisk wind, it proved to be a bit of a challenge to keep the videocamera steady, especially under "high zoom".
+When all participants were in safe viewing locations and set, and the FRS radios used for communication checked out, the final "all ready & all clear" signals were announced, and the countdown commenced.
+Shortly after the "zero" count, a cloud of black smoke appeared at the base of the rocket signifying motor ignition. Nearly immediately afterward, the rocket lifted off the pad and accelerated rapidly, leaving a column of thick grey smoke in its wake. The rocket performed a slight tilting motion after clearing the launch rail but then climbed in a straight and vertical manner. The rocket soon began to weathercock, with its trajectory veering into the wind. The motor continued to thrust forcefully for about two seconds, after which smoke continued to issue from the motor leaving a faint smoke trail, which grew in intensity for the next several seconds. The rocket continued to arc into the wind and after nearly ten seconds reached apogee. The horizontal velocity at this point was clearly quite significant. Shortly after arcing over and beginning to descend, the ejection charge was seen to fire and immediately the drogue chutes deployed.
+The rocket then descended, swinging in a back and forth sideways motion for a short while, similar to the first flight. The oscillations dampened about about five seconds and the rocket descended in a stable and vertical attitude, drifting with the wind. A short while later, the main parachutes were seen to eject from the forward section of the rocket. The partly inflated parachutes pulled the full length of the 20 foot (6 m.) tether out of the rocket body and blossomed fully as the tether pulled taut. The complete vehicle, separated into three tethered sections, then drifted gently earthward, under the security of the four parachutes. Touchdown occurred in a frozen grassy field about 500 feet (150 m.) directly downwind from the launch site.
+
+Launch photos:
+1   Liftoff of Zephyr Flight Ze-2 2   Sun glints off rocket as it arcs into the wind  3   Smoke trail continues nearly to apogee 4   Sun glints off rocket as it turns over following apogee 5   Ejection charge fires releasing drogue chutes 6   Zephyr descending by drogue chutes 7   Safe descent by drogue and main parachutes 8   Final moments of successful Flight Ze-2
+Cursory examination of the rocket at the touchdown site showed that all components of the rocket were present and in good condition. No damage was apparent, other than the tip of the nosecone being dented. It was noticed that the R-DAS unit was not emitting any audible tones, as it should have been (the coded tones indicate the maximum altitude achieved). The parachutes and tethers were laid out in an orderly fashion indicating nominal operation of the recovery system.
+
+￼
+Zephyr rocket returned safely after second flight
+
+
+Post-flight Analysis
+From inspection of the video footage, the following times were excerpted:
+	•	Ignition to liftoff --        0.7 sec.
+	•	Liftoff to end of forceful thrust--        2.1 sec. ( based on motor sound)
+	•	Liftoff to burnout --        7.2 sec. (burnout based on absence of visible smoke)
+	•	Liftoff to apogee --       9.6 sec.
+	•	Liftoff to drogue ejection--        11.4 sec.
+	•	Liftoff to main ejection--        35 sec.
+	•	Liftoff to touchdown --       55 sec..
+Post-flight teardown of the rocket revealed :
+	•	the R-DAS unit had functioned well and good data was recorded, despite the CPU being dislodged from its socket at touchdown (hence the absence of audible tones noticed at the recovery site).
+	•	the motor had clearly remained relatively cool as the casing showed no signs of heating. The nozzle was more blackened than usual.
+	•	the motor suffered zero leakage, and there was very little slag (12 grams representing 3% of original grain mass)
+	•	the grain inhibitor/liner was largely intact and only charred on the inside surface
+	•	The aft fuselage suffered some slight heat damage at the motor mount attachment points. This resulted from heat transfer from the nozzle through the aluminum mounts, and was likely a post-landing event
+￼
+Nozzle was well blackened, although motor casing showed no sign of heating
+
+Peak altitude was found to be 1660 feet (506 m.) from the R-DAS altimeter data. This is close to the predicted altitude (1683 feet) based on SOAR simulation.
+The data obtained from the R-DAS flight computer is plotted in the figure below. The acceleration spikes coinciding with parachute deployment and touchdown are clearly seen. From the data:
+	•	drogue deployment occurred at 11.52 seconds, at an altitude of 1640 feet,
+	•	main deployment occurred at 34.64 seconds after liftoff, at an altitude of 590 feet.
+	•	Touchdown occurred at the 54.45 second mark
+These timing values are in agreement with those obtained from video footage.
+
+￼
+Altitude & acceleration data from R-DAS
+The "noisy" barometric altitude data during descent is most likely a result of the brisk wind producing small pressure fluctuations in the compartment holding the R-DAS unit. The average descent velocities may be obtained from the slope of the altitude curve in the regions where the rocket is under stable descent by drogue and/or main chutes:
+	•	Drogue chutes: 39 feet/sec. (11.9 m/s)
+	•	Main & drogue chutes: 31 feet/sec. (9.4 m/s)
+The next chart shows the results of mathematical integration of the accelerometer data to yield rocket velocity and altitude. Note that the calculated altitude deviates from the barometric altitude due to the significant horizontal component of the trajectory, which induces a certain amount of error into the result (the method is most precise for purely vertical flight). The maximum velocity of the rocket was 303 feet/sec or 207 MPH (92 m/s or 331 km/hr) which occurred at the 1.75 second mark.
+
+￼
+Integrated accelerometer data and altimeter data
+
+
+The estimated thrust curve is shown below for the Epoch motor in comparison with estimated thrust data based on the PCM-12 static test, modified for the greater propellant mass used for the flight. The thrust curve was composed from the accelerometer data produced during the motor thrust phase. Note that in order to determine thrust, the aerodynamic drag force and change in rocket mass due to propellant consumption is required to be known. These were estimated using the results of the SOAR simulation for this flight.
+
+￼
+Integrated accelerometer data and altimeter data
+The estimated total impulse was determined to be 88.3 lb-sec (393 N-sec) with an Isp = 101.3 sec, similar to that expected for the PFC grain. Interestingly, however, the motor flight performance differed from that expected, having a higher thrust and shorter thrust time. The flight thrust curve nicely follows the theoretical Kn curve for the PFC grain.
+The three major goals of Flight Ze-2 were achieved. The R-DAS produced excellent flight performance data. The Pseudo-finocyl grain performed well, boosting the rocket quickly into a stable flight trajectory, and producing an excellent smoke trail for over 7 seconds which greatly enhanced the tracking. The trade-off of this grain configuration is the reduced impulse (both total and specific), as the propellant consumed during the coast phase produced little useful thrust. This trade-off is undoubtedly a good one, as the "cost" associated with the reduced performance is not appreciable, at least not for relatively small motors such as the Epoch. The Crimson Powder ejection material once again worked admirably and therefore it is planned to use this material on all future flights. As a final note, the drogue ejection was likely triggered by the Timer, rather than by the Air-Speed switch, as the horizontal component of the rocket's velocity was quite significant, as had been anticipated.
+
+￼
+Last updated January 2, 2004
+Back to Home Page
+

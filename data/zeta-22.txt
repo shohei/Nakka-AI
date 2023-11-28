@@ -1,0 +1,110 @@
+ 
+Basic Information
+Name
+Z-22
+Launch date:
+1 November, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- Minicamcorder (HD)
+- Microcamcorder
+- BRB900 GPS transmitter
+- Strobe Lamp
+- Apogee Backup Timer
+Liftoff mass
+2.467 kg.
+Flight objectives
+- Test effectiveness of Strobe Lamp, chute mounted camcorder, and modified Xylitol-based propellant
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNXY-RIO
+Grain mass
+304 grams
+Nominal impulse
+358 N-sec
+Class
+I
+ 
+Additional information
+Microcamcorder mounted on the parachute line, oriented to face downward during chute descent.
+ 
+Weather conditions
+Temperature
+6°C
+Wind
+S 10 km/hr
+Sky
+Overcast; clouds starting to break up
+Other
+Humidity 86%
+Ceiling
+6700 ft. (2000 m.)
+ 
+Launch Event Description
+Setup of the rocket once again went smoothly with no glitches. A checklist was used to facilitate setup. Raven confirmed all three pyro charges had continuity.  I had planned to use the hand-held camcorder to film the flight. However, got a “memory full” message so filming was abandoned. After verifying the sky was clear, the countdown proceeded. When ignition switch was closed, a ‘pop’ sound was heard from the igniter. However, ignition did not occur and new igniter installed. On the 2nd attempt, motor quickly ignited and rocket soared off pad. Almost immediately, a muffled “boom” sound heard and rocket was seen to rise to only about a hundred feet. Apogee charge fired and rocket separated. Tumbled down without chute deployment and landed in tall grass and alfalfa, about 50 feet from the pad. We then approached the pad and noticed evidence of a motor CATO. The nozzle was spotted on the ground about fifteen feet from the pad, as was the aft fuselage. Both looked to be undamaged. Pad covered with bits of burned debris. We soon found the remaining sections of the rocket. The forward fuselage appeared undamaged, however, the mid-fuselage (which housed the SJ1000 camera and backup timer) was in bad shape. The motor CATO had forcibly pushed the fuselage coupler about half way up the mid-fuselage, crushing the camera and timer.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+3.00
+167
+51
+Separation
+4.39
+157
+48
+Main deployment
+-
+-
+-
+Touchdown
+7.67
+-
+-
+Range
+-
+56
+17
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+-
+-
+ 
+Main parachute
+-
+-
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that a motor over-pressurization event occurred. This resulted in the nozzle being blown off, with the resulting impulsive force shoving the coupler into the mid-fuselage. Both SJ1000 camcorder and backup timer were damaged beyond repair. All other payload components were undamaged.
+The cause of the motor over-pressurization is not totally understood, although it clearly stemmed from the use of KNXY-RIO which was being tried for the first time. A previous flight had successfully flown with KNXY but without the iron oxide additive. It had been noted that during casting of KNXY-RIO grain that the consistency of the molten slurry was “odd”, having a consistency  that reminded me of heavy cream, unlike typical KNSB or KNDX slurry. Also, the measured density of the grains was somewhat lower than expected, suggesting a porosity issue.
+Prior to any future flights with experimental propellant formulations, a static test must be first performed.
+The camera memory issue was discovered to be a quirk of the Sony camcorder. Although previous footage had been deleted following download (using Windows image import software), it turns out that the files remain on the SD card. It is necessary to use the camera’s “format memory card” feature to truly erase all files. This will be done prior to all future flights.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-22\Z-22_raven.jpg
+ 
+ 
+Photos:                                                                                                         
+KNXY-RIO propellant grains                                                                      Z-22\image012a.jpg
+Microcamcorder taped onto chute line                                                  Z-22\image018a.jpg
+Rocket on pad, with wagon nearby                                                         Z-22\DSC00109a.JPG
+Pad and aft fuselage, post-flight                                                              Z-22\DSC00113a.JPG
+Forward fuselage on ground                                                                     Z-22\DSC00115a.JPG
+Mid-fuselage on ground                                                                            Z-22\DSC00116a.JPG
+ 
+ 

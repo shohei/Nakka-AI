@@ -1,0 +1,127 @@
+
+
+Richard Nakka's Experimental Rocketry Web Site
+
+KN-Sorbitol Propellant Chemistry and Performance Characteristics
+
+Standard Composition (65/35 O/F)
+For the KN-Sorbitol propellant, with an oxidizer-fuel (O/F) ratio of 65/35, the theoretical combustion equation is as follows:
+C6H14O6 + 3.345 KNO3 -> 1.870 CO2 + 2.490 CO + 4.828 H2O + 2.145 H2 + 1.672 N2 + 1.644 K2CO3 + 0.057 KOH
+at a pressure of 68 atmospheres, and where the following compounds are symbolized as:
+Sorbitol
+solid
+C6H14O6
+potassium nitrate
+solid
+KNO3
+carbon dioxide
+gas
+CO2
+carbon monoxide
+gas
+CO
+steam
+gas
+H2O
+hydrogen
+gas
+H2
+nitrogen
+gas
+N2
+potassium carbonate
+liquid
+K2CO3
+potassium hydroxide
+gas
+KOH
+
+The mole numbers for each of the products shown above were determined from PROPEP (Propellant Evaluation Program).
+Characteristics of the KN-Sorbitol Propellant (65/35 ratio)
+
+Parameter
+
+Units
+Note
+
+Process method
+Cast
+
+
+Isp
+Specific Impulse, ideal
+164
+sec.
+[1]
+C*
+Characteristic exhaust velocity, theoretical
+3076 (938)
+ft/s (m/sec)
+
+To
+Combustion temperature, theoretical @1000 psia
+1327 (1600)
+deg Celsius (K)
+[2]
+To
+Combustion temperature, measured@1000 psia
+TBD
+deg Celsius
+
+
+Density, ideal
+1.841
+gram/cu.cm.
+
+
+Density, as cast
+1.82
+gram/cu.cm.
+[3]
+X
+Mass fraction of condensed-phase products
+0.436
+-
+
+k
+Ratio of specific heats
+1.042
+-
+[4]
+M
+Effective molecular wt. of exhaust products
+39.9
+g/mole
+[5]
+
+Burn rate behaviour
+inverted-mesa
+ro
+Burn rate @ 1 atm.
+0.102 (2.6)
+in/sec (mm/sec.)
+r
+Burn rate @ 1000 psia
+0.443 (11.3)
+in/sec (mm/sec.)
+Tcr
+Auto-ignition temperature
+> 300
+deg. C.
+
+[1] At 1000 psi pressure; exit pressure one atmosphere [2] PROPEP combustion results [3] Measured (liquid displacement method), typical [4] Effective (2-phase), at chamber conditions [5] System mass /number of gas moles 
+
+￼
+
+Figure 1 -- This chart shows the variation of theoretical specific impulse with O/F (oxidizer/fuel) ratio.
+
+￼
+Figure 2 -- This chart shows the variation of combustion temperature and molecular weight of exhaust products with O/F ratio.
+
+￼
+Figure3 -- This chart shows the variation of theoretical specific impulse with chamber pressure.
+
+￼
+Last updated November. 13, 1999
+Back
+

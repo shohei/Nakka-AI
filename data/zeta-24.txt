@@ -1,0 +1,140 @@
+ 
+Basic Information
+Name
+Z-24
+Launch date:
+19 March, 2016
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Smoke charge (activated by Raven)
+- Apogee Backup Timer
+Liftoff mass
+2.343 kg.
+Flight objectives
+- Test modified parachute deployment method
+ 
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+303 grams
+Nominal impulse
+357 N-sec
+Class
+I
+ 
+Additional information
+To improve reliability of parachute extraction, a disc was installed on the parachute tether. The disc is intended to pull out the parachute directly, rather than extracting chute by pulling out shroud line connection. Also the amount of masking tape retaining the nosecone was increased by 14%. A ground test verified improved operation.
+ 
+Weather conditions
+Temperature
+0°C
+Wind
+WNW 10-15 km/hr
+Sky
+Clear; clouds approaching from west horizon
+Other
+-
+Ceiling
+unlimited
+ 
+Launch Event Description
+When we arrived at the launch location, we noticed quite a lot of water in surrounding fields due to snow melt. Taking the wind speed and direction into account, we chose a launch site to hopefully provide for touchdown on dry (snow covered) ground. There was enough snow remaining on the ground to allow for use of the sled for hauling. Setup of the rocket once again went smoothly. A checklist was used to facilitate setup. Raven confirmed all four pyro charges had continuity. Backup timer was tested and confirmed to be operating nominally. A camcorder was set up on a tripod to capture liftoff.  I used the hand-held Sony camcorder (with scope tube) to attempt to film the complete flight. After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the rocket soared off the pad, veering slightly into the wind. The motor burned for about 2 seconds. The rocket was visible most of the way to apogee, with the bright sun illuminating the fluorescent orange paint, and reflecting in “flashes” off the chrome bands. About five seconds after disappearing from sight, a white smoke cloud appeared, signaling a successful apogee separation event. The rocket was then sighted tumbling down, visually made clear by occasional flashes of the sun glinting off the rocket. A second smoke cloud then appeared, resulting from the backup pyro charge firing. The rocket continued to tumble, with no sign of a smoke trail, for another 20 seconds or so. A smoke cloud suddenly appeared as the parachute charge fired, accompanied by a ‘pop’ sound a second later. The parachute immediately blossomed and the rocket gently drifted earthward, carried downrange by the wind. A thin wisp of smoke suddenly appeared, trailing the rocket on its final descent. Rocket touched down in a snow-covered field. We then programmed the BRB GPS coordinates into the Garmin hand-held GPS unit, which indicated the landing site was 0.15 miles away.
+ 
+When we arrived at the touchdown site, the rocket appeared to be in perfect condition. We noticed the smoke charge had burned, as we’d expected.
+ 
+Before packing up, we used the portable wind vane and anemometer to measure and record the wind direction and speed.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+2776
+846
+Separation
+14.3
+2764
+842
+Main deployment
+41.3
+831
+253
+Touchdown
+80.9
+-
+-
+Range
+-
+484
+148
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+78.1
+23.8
+ 
+Main parachute
+18.1
+5.52
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in great. The improved chute deployment worked well. The Apogee Backup Timer system apparently worked nominally, as pyro charge had fired.
+The reason for the delayed Smoke Charge firing was a result of a setting used for the Raven 4th channel. As this channel is normally intended as a backup for the main chute pyro, the default condition is “altitude less than 700 feet”. For future flights, this condition will be changed to “any altitude”.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-24\Z-24_Raven.jpg
+ 
+Big Red Bee
+Launch and landing locations                                                                   Z-24\Z-24_BRB.jpg
+ 
+Photos:                                                                                                         
+New launch pad                                                                                           Z-24\DSCN0288.JPG
+Z-24 Rocket on pad                                                                                     Z-24\DSCN0291.JPG
+Liftoff (view from tripod camera)                                                            Z-24\nikon_1.jpg
+                                                                                                                        Z-24\nikon_2.jpg
+Liftoff and ascent (hand-held camera)                                                   Z-24\Z-24_sonycapture1.jpg
+                                                                                                                        Z-24\Z-24_sonycapture2.jpg
+                                                                                                                        Z-24\Z-24_sonycapture3.jpg
+                                                                                                                        Z-24\Z-24_sonycapture4.jpg
+Apogee pyro smoke cloud                                                                         Z-24\Z-24_sonycapture5.jpg
+Backup pyro smoke cloud                                                                          Z-24\Z-24_sonycapture6.jpg
+Rocket free-falling                                                                                      Z-24\Z-24_sonycapture7.jpg
+Parachute pyro fires                                                                                   Z-24\Z-24_sonycapture8.jpg
+Chute deploys and opens                                                                           Z-24\Z-24_sonycapture9.jpg
+                                                                                                                        Z-24\Z-24_sonycapture10.jpg
+                                                                                                                        Z-24\Z-24_sonycapture11.jpg
+Gentle descent                                                                                             Z-24\Z-24_sonycapture12.jpg
+Smoke trail is seen                                                                                      Z-24\Z-24_sonycapture13.jpg                                                                                                                       
+Rocket at touchdown site                                                                         Z-24\DSCN0294.JPG
+                                                                                                                        Z-24\DSCN0295.JPG
+                                                                                                                        Z-24\DSCN0296.JPG
+Author with Z-24 at landing site                                                               Z-24\DSCN0298.JPG
+My brother using power screwdriver to reel-up ignition wires          Z-24\DSCN0301.JPG
+ 
+Videos:                                                                                                         
+Liftoff from remote camera                                                                     Z-24\Flight_Z-24_Nikon.MP4
+Rocket free-falling followed by parachute deployment                     Z-24\Z-24_freefall.MP4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

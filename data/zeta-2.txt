@@ -1,0 +1,107 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Flight Z-2
+
+ 
+Basic Information
+Name
+Z-2
+Launch date:
+14 October, 2014
+Rocket description
+63.5mm airframe (plastic)
+4 fins, birch plywood
+aluminum conical nosecone
+2 ft. circular parachute
+Payload
+Raven altimeter
+Liftoff mass
+TBA
+Flight objectives
+- Conduct first flight of Zeta rocket with Impulser motor.
+- Test new recovery system on higher altitude flight
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+230 grams
+Nominal impulse
+271 N-sec
+Class
+H
+ 
+Weather conditions
+Temperature
+7°C
+Wind
+S 10 km/hr
+Sky
+mixed sun & cloud
+Other
+launched at twilight
+ 
+Launch Event Description
+After Flight Z-1, a field repair was needed to mount the motor securely. Otherwise setup went well with no glitches. Clear sky confirmed, countdown commenced, and shortly after zero count, rocket rose skyward at a moderate pace, veering slightly into the wind. After burn-out, visual sight was lost. After several seconds, a ‘pop’ heard from ejection charge, followed by a second ‘pop’ a few seconds later. No visual sighting until the ‘pop’ from the main charge fired. Rocket was sighted descending by parachute at a moderate pace.  Touched down about 10 seconds later. Raven beeped out apogee of 2260 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.1
+2260
+689
+Separation
+13.5
+2240
+683
+Main deployment
+39.2
+335
+102
+Touchdown
+49.6
+-
+-
+Range
+ 
+392
+120
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+79.0
+24.1
+ 
+Main parachute
+27.7
+8.4
+ 
+ 
+Post-flight analysis and comments:
+Flight was fully nominal.
+ 
+Raven baro and accelerometer graph:  Z-2\Z-2_raven.jpg
+ 
+Photos:
+Rocket for Flight Z-2 on pad prior to launch                                          Z-2\DSCF3293.JPG
+Liftoff                                                                                                             Z-2\DSCF3295.JPG
+Soaring skyward                                                                                          Z-2\DSCF3297.JPG
+Descending by parachute                                                                          Z-2\Dscf3306a.jpg
+Landing in field                                                                                             Z-2\DSCF3307.JPG
+                                                                                                                        Z-2\DSCF3308.JPG
+ 
+Videos:  none available
+ 
+
+￼
+Last updated March 2, 2015
+Back to Home Page
+

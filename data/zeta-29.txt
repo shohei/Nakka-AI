@@ -1,0 +1,139 @@
+ 
+Basic Information
+Name
+Z-29
+Launch date:
+15 April, 2017
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+- ultra-low-power pyros
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Smoke charge (activated by Raven at 2500 ft. level)
+- Apogee Backup Timer
+- SJ1000-SC Video camera
+Liftoff mass
+2.400 kg.
+Flight objectives
+Attempted 1st flight of Helios-X rocket motor
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+291 grams
+Nominal impulse
+343 N-sec
+Class
+I
+ 
+Additional information
+-The original plan was to fly the rocket with the I-class Helios-X motor. A faulty igniter prevented this (was not field replaceable), and instead, the Impulser motor was swapped in at the launch site.
+-ultra-low-power pyro charges were used for the 3 Raven charges and for the Backup Timer charge
+ 
+Weather conditions
+Temperature
+18°C
+Wind
+NE 5 km/hr
+Sky
+Mixed sun and cloud
+Other
+-
+Ceiling
+unlimited
+ 
+Launch Event Description
+Setup of the rocket proceeded smoothly with no glitches. Launch rod was tilted 5° from vertical to bias direction of flight. Raven checkout beeped 9V and gave 4 positive indications for the 4 pyros. Backup timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+The first attempt to launch the rocket with the new Helios-X motor (powered by 180 grams A24 ANCP) had to be aborted when the special hot-burning igniter failed to initiate. The Helios-X motor was swapped out for the Impulser which was brought along as a backup.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the rocket accelerated very rapidly off the pad. The motor burned for less than two seconds. Due to the grey sky, the rocket was not visible as it neared apogee.  Around 15 seconds after burnout we heard the ‘pop’ of the apogee separation. The rocket was not sighted as it began its tumbling descent and only after twenty seconds or so, was the smoke trail spotted. The trail was quite faint against the grey sky. The rocket was then spotted tumbling earthward. The parachute did not deploy and the rocket landed about a thousand feet downrange.
+ 
+We programmed the BRB GPS coordinates of the landing site into the Garmin hand-held GPS unit. The distance was indicated as 0.25 miles. When we arrived at the touchdown site, the rocket appeared to be in good condition despite the hard landing. It was noted that neither the main (chute) pyro nor the Raven apogee backup pyro had fired. Both the Raven apogee primary and the timer pyro had fired. Raven beeped out an apogee of 2675 feet (815 m.).
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.4
+2672
+814
+Separation
+14.4
+2661
+811
+Main deployment
+-
+-
+-
+Touchdown
+53.0*
+-
+-
+Range
+-
+1261
+384
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+65.0
+19.8
+ 
+Main parachute
+-
+-
+ 
+·        From BRB data
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket suffered only minor damage (screws sheared at the body coupler). Excellent on-board HD video was obtained. The smoke charge was confirmed to have burned for 22 seconds, which is in line with expectation.
+Examination of the Raven data indicated an anomalous drop in voltage supply level beginning at the 19 second mark. Three seconds later, the voltage was nearly zero. Careful examination of the Raven did not reveal any obvious fault. The 9V lithium cell voltage was measured and found to be nominal.  However, there were two possible defects that could have led to the voltage drop. The 9V battery clip, which is spot-welded in place, was found to have been broken off. It is not known when this part actually broke. Second, there was significant oxidation/corrosion of the power lead leading from the Raven to a terminal block. Either of these anomalies could have resulted in the observed voltage drop.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-29\Z-29_raven_basic.jpg
+Acceleration data during burn                                                                  Z-29\Z-29_raven_accel.jpg
+Raven supply voltage                                                                                  Z-29\Z-29_raven_volts_battery.jpg
+ 
+BRB:                                                                                                              
+GPS path of flight trajectory                                                                     Z-29\Z-29_BRB_plotted.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad just prior to launch                                                           Z-29\DSCN0045a.JPG
+Liftoff                                                                                                             Z-29\2017-04-21_12-21-42.jpg
+                                                                                                                        Z-29\2017-04-21_12-22-00.jpg
+Liftoff view from on-board camera                                                        Z-29\2017-04-21_12-10-33.jpg
+Ascent                                                                                                            Z-29\2017-04-21_12-22-39.jpg
+                                                                                                                        Z-29\2017-04-21_12-23-02.jpg
+                                                                                                                        Z-29\2017-04-21_12-23-53.jpg
+Burnout of motor                                                                                        Z-29\2017-04-21_12-23-25.jpg
+Apogee, on-board view                                                                             Z-29\2017-04-21_12-11-55.jpg                                                                                                                       
+Smoke trail seen emanating from smoke canister                               Z-29\2017-04-21_12-15-41.jpg
+Smoke trail of descending rocket                                                            Z-29\2017-04-21_12-27-22.jpg                                                                                                                       
+Rocket tumbling earthward                                                                      Z-29\2017-04-21_12-27-40.jpg
+                                                                                                                        Z-29\2017-04-21_12-28-25.jpg
+                                                                                                                        Z-29\2017-04-21_12-29-41.jpg                                                                                                                       
+Rocket at landing site                                                                                 Z-29\DSCN0052a.JPG
+ 
+Video:                                                                                                           
+Flight Z-29 launch and initial ascent                                                        Z-29\Z-29_liftoff_and_ascent.MP4
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

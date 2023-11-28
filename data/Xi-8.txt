@@ -1,0 +1,139 @@
+ 
+Basic Information
+Name
+Xi-8
+Launch date:
+21 October, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+-BREO-N flight computer (2nd backup)
+-Gyro module
+Liftoff mass
+3.254 kg.
+Stability Margin (initial)
+3.70
+Flight objectives
+- Test new smoke formulation
+- Test flight of Gyro module
+ 
+Motor details
+Motor name
+Impulser-XX
+Propellant
+KNDX
+Grain mass
+465 grams
+Nominal impulse
+547 N-sec
+Class
+I
+ 
+Additional information
+-Gyro module is an Arduino based unit that measures three Euler angles during initial portion of ascent. The module was built by Rachel Georgianna of  Dana Point, California. The anomaly that resulted in no data being recorded when flown on Xi-7 was diagnosed as being a result of insufficient battery capacity. The “coin” battery was replaced with a CR2 cell which testing indicated was fully adequate.
+-A new smoke composition (Legendary) being tried. This composition includes paraffin to enhance the smoke output. First flown on Xi-7, the result was inconclusive due to cloudy sky
+ 
+Weather conditions
+Temperature
+15°C  (59°F)
+Wind
+W 15 km/hr with gusts to 23.
+Sky
+Clear with bright sun
+Other
+R.H. 36%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Setup of the rocket went smoothly, with no glitches. After installing rocket on pad, the gyro module was activated first, followed by the BREO-N, Eggtimer, and then Raven. Raven beeped eight times for voltage and gave 4 positive indications for the 4 pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, rocket leapt off the pad and accelerated skyward very rapidly. I failed to follow the initial climb with the video camera, as I was caught by surprise at how quickly the rocket soared upward, and was taken aback by the intensity of the roar of the powerful Impulser-XX motor. Rocket climbed mainly vertical,  with some weathercocking. The rocket disappeared from sight on its way to apogee, despite being illuminated by the bright sun. After about 15 seconds we spotted three smoke clouds from the apogee charges and after some seconds, heard the ‘pop’ sound of the apogee pyro charges. Shortly after, we spotted the growing smoke trail, tiny at first due to the high altitude. The trail quickly grew as the rocket tumbled earthward. The white smoke trail, illuminated by the sun and contrasting with the deep blue sky, made it easy to follow the rocket on its downward trajectory. After roughly 40 seconds, with the rocket having descended most of the way down, the parachute ejection charge was heard to fire with a loud “pop”. A puff of white smoke briefly emanated from the falling rocket. However, the chute did not deploy and it was clear that the main separation event (which releases the chute) did not occur. The rocket continued to tumble downward and impacted the ground approximately 700 feet away.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site of the rocket was indicated as 0.15 miles away from where we were located. The rocket had landed in a field of damp, soft earth that alleviated the hard landing. The only visible damage was one loosened fin. Otherwise the rocket appeared to be in pristine condition. It was observed that, as suspected, the AvBay did not separate from the forward body, and the parachute was still packed inside. The Raven beeped out a peak altitude of 3801 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.7
+3801
+1158
+Separation
+16.0
+3789
+1155
+Main deployment
+56.2*
+713*
+217*
+Touchdown
+65
+-
+-
+Range
+-
+673
+205
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+78.7
+24.0
+ 
+Main parachute
+-
+-
+ 
+* main pyro charge fired but chute did not deploy                   
+Post-flight analysis and comments:
+The Raven, Eggtimer and BREO-N units all performed nominally. Peak altitude reported by these three flight computers, and GPS altitude reported by the BRB unit, all agreed to within one percent.
+ 
+The new Legendary smoke tracker worked very well, producing a copious amount of smoke that could be clearly seen at apogee (over 1 km). Additionally, the duration of the smoke emission was longer than the previous, burning for 40 seconds versus a typical burn of 23 seconds for the previous design.
+ 
+The gyro unit failed to record flight data. The cause of the anomaly is not currently known.
+ 
+Reason for the AvBay failing to separate (and release the chute) was a result of a structural failure of the bond attaching the parachute piston “thrust ring” to the rocket body. In operation, the thrust ring serves to react the pressure load acting on the piston when the pyro charge fires. A secondary function of the piston is to isolate the parachute compartment from the hot combustion gases of the pyro charge. The bond attaching the thrust ring most likely suffered hidden damage during a previous hard landing. For the next flight, the bond will be strengthened and made more damage tolerant.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-8\Xi-8_Raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-8\Xi-8_Raven_accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-8\ET_Xi-8_alt.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-8\BREO_Xi-8.gif
+ 
+BRB:
+Flight path, mapped                                                                                Xi-8\Xi-8_BRB_track.jpg
+ 
+Photos:
+Propellant grain segments for Impulser-XX                                        Xi-8\DSCF5464a.JPG
+Xi-8 rocket on pad prior to launch                                                       Xi-8\DSCN0289a.JPG
+Liftoff                                                                                                         Xi-8\2018-10-26_12-30-24.jpg
+Ascending skyward                                                                                  Xi-8\2018-10-26_12-16-26.jpg
+                                                                                                                    Xi-8\2018-10-26_12-16-51.jpg
+Smoke clouds of apogee pyro charges                                               Xi-8\2018-10-26_12-17-36.jpg
+Smoke tracker begins to burn                                                               Xi-8\2018-10-26_12-18-35.jpg
+Smoke trail during descent                                                                    Xi-8\2018-10-26_12-19-14.jpg
+                                                                                                                    Xi-8\2018-10-26_12-19-35.jpg
+Main (chute) charge fires                                                                       Xi-8\2018-10-26_12-20-00.jpg                                                                                                                   
+Touchdown site                                                                                       Xi-8\DSCN0292a.JPG
+Rocket on the ground                                                                             Xi-8\DSCN0293a.JPG
+Parachute piston and thrust ring                                                          Xi-8\thrust-ring-piston.JPG
+ 
+Video:                                                                                                           
+Flight Xi-8 (Youtube)                                                                                https://youtu.be/gLMOkAqs-Hg
+ 

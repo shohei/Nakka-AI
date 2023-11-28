@@ -1,0 +1,122 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼ 
+Smoke Tracking
+Introduction    
+Formulations    
+Canister    
+Tracker Assembly    
+Ignition    
+
+Introduction
+Most of the rockets that I have been flying in the past few years have been equipped with smoke tracking. A smoke charge is activated (usually by the flight computer) at apogee and burns typically for 20-30 seconds. The purpose is self-evident-- to aid visual tracking of the rocket during its free-fall descent. The charge is sized to burn out around the time that the parachute deploys.The swirling smoke trail emitted by the tumbling rocket during its free-fall is strikingly visible and immensely aids tracking. There is a caveat, however. When the sky is blue and sun is shining, the white smoke, illuminated by sunshine, contrasts the sky vividly. If the sky is overcast, or layered by white cirrus clouds, the smoke trail is barely visible. As such, I strive to fly my rockets (equipped with smoke tracking) during clear weather. Considering how helpful smoke tracking is, I do plan to experiment in the near future with coloured smoke which may get around this limitation.
+Figure 1 illustrates a few of the typical smoke trails.
+
+￼
+Figure 1 --Various ground view and on-board views of smoke trails
+
+Formulations
+The original formulation that I used was a modified KNSB formulation. To slow down the burn rate and to provide a more castable slurry, the standard O/F ratio was changed somewhat. Due to problems with the hygroscopic nature of the KNSB formulation (which resulted in the charge failing to ignite on a couple of occasions), I turned to xylitol. The xylitol-based smoke charge formulation remains bone-dry even in high humidity.
+The third smoke formulation that I have used was suggested to me by fellow rocketry experimentalist Nikolai Nielsen. This is a variation of the Legendary smoke mixture. This formulation burns more slowly and produces a dense white smoke. I found this formulation to be superior to the basic sugar mixture for these two reasons. The paraffin contained in this formulation vaporizes and adds to the smoke produced by the potassium nitrate-sugar combination (the smoke is potassium carbonate). Bicarbonate (baking soda) serves as a flame suppressant to prevent the vapourized paraffin from igniting and losing its smoke-producing effectiveness. Iron oxide (can be any type such as red or yellow) serves as a catalyst to stabilize the burn rate.
+The fourth (Sublime) and fifth (Red Dragon) formulations are recently developments by fellow rocketry experimenter Harry Lawrence. Sublime produces copious amount of white smoke by vapourizing ammonium chloride which condenses back into a very fine smoke upon cooling. This is combined with the smoke produced by the reaction of potassium chlorate and sucrose. Red Dragon, as the name implies, generates a deep red colour smoke. This formulation is intended to provide for a smoke trail that is visible against a sky blanketed with white clouds. Professional red smoke dye is used to generate the red colouring of the smoke.
+Smoke formulation #6 (Red Dragon II) is a modified version of Red Dragon. This formulation contains less red smoke dye and includes a flame suppressant (sodium bicarbonate) as assurance against flame-out. The smoke colour is salmon. This video clip demonstrates a test burn of the composition.
+
+￼
+Figure 2 -- Ground test of Red Dragon II
+
+Smoke formulations #1 and #2 shown below are prepared by first grinding the potassium nitrate to a fine powder, then fully blending with the sugar using a rotating tumbler. The dry mixture is then heated in a thermostatically controlled deep-fryer or pan, the poured into the canister. The bottom of the canister is then tapped repeatedly on a table to help drive out any trapped air.
+To prepare Smoke Formulation #3, the potassium nitrate is first ground to a fine powder. It is then combined with the sucrose (in the form of icing or confectioners sugar), baking soda and the iron oxide. This dry mixture is then fully blended together using a rotating tumbler and a few small aquarium stones to help declump the iron oxide. The paraffin is then carefully melted* using a hot water bath (so called double-boiler) then removed from the heat source. The dry mixture is incorporated into the paraffin. The result is a clumpy mixture. Once cooled, this mixture is then tightly compressed into the canister using a wooden dowel tapped lightly with a hammer. Any left over mixture can be saved for future use and stored in a sealed container.
+Smoke formulations #4, #5 and #6 are all prepared in a similar manner. The constituents are very well blended, the packed into a canister. A close-fitting wooden dowel and c-clamp are used to compress the powdered mixture. As these compositions can be a bit hard to ignite, a thin layer (< 1mm) of powdered potassium nitrate-sucrose mixture is then placed on top of the smoke charge and compressed to form a readily ignitable initiator.
+
+* Hot paraffin is highly flammable and has a low flash point, as low as 150 degrees C. (300F.). Never heat paraffin over an open flame. Do not attempt to re-heat the paraffin once the smoke mixture has been added. The hot mixture has a low ignition temperature and burns nearly instantly if accidentally ignited.
+
+Smoke Formulation #1
+Constituent
+Percent (by mass)
+Potassium Nitrate
+58
+Sorbitol
+42
+
+
+Smoke Formulation #2
+Constituent
+Percent (by mass)
+Potassium Nitrate
+66
+Xylitol
+34
+
+
+Smoke Formulation #3 -- LEGENDARY
+Constituent
+Percent (by mass)
+Potassium Nitrate
+48.5
+Sucrose
+26
+Paraffin
+20
+Sodium Bicarbonate
+5
+Iron oxide
+0.5
+
+Smoke Formulation #4 -- SUBLIME
+Constituent
+Percent (by mass)
+Potassium Chlorate
+40
+Ammonium Chloride
+40
+Sucrose
+20
+
+Smoke Formulation #5 -- RED DRAGON
+Constituent
+Percent (by mass)
+Potassium Chlorate
+30.5
+Sucrose
+28
+Red Smoke Dye
+41.5
+
+Smoke Formulation #6 -- RED DRAGON II
+Constituent
+Percent (by mass)
+Potassium Chlorate
+33.5
+Sucrose
+30.5
+Red Smoke Dye
+30
+Sodium Bicarbonate
+6
+
+
+Canister
+The canister that holds the smoke charge is made from a length of Electrical Metallic Tubing (E.M.T.). Being steel, the canister holds up well to the heat of combustion, and as such can be re-used indefinitely. Six exhaust ports provide the venting for the smoke. The vents are sized to prevent pressure build-up, as the smoke compositions burn more rapidly under elevated pressure. The body of the canister is machined thinner to remove unnecessary weight. An aluminum plug at the bottom serves as a closure and as a mounting base. A threaded hole in the plug engages a small machine screw for mounting the smoke canister to the outside end of the AvBay.
+Engineering drawing of canister (pdf)
+
+Tracker Assembly
+The Smoke Tracker Assembly (shown without insulation) is illustrated in Figure 3. The smoke composition is either cast directly into the canister (formulations #1 & #2) or packed into the canister (formulation #3). To achieve maximum capacity (and therefore smoke duration) the fill line is just below the lower row of exhaust ports. The top of the canister is sealed with a heat-resistant material such silicone sealant. To support the cap while still wet, a cardboard disc is installed. This disc is fitted into a groove machined into the wall of the canister. This groove is machined using a snap-ring groove cutter. Its always best to store a loaded canister in a dessicator to keep the smoke charge completely dry. The smoke charge for my rocket is mounted inside the rocket body and come into direct contact with the recovery tether that links the two sections of the rocket during the free-fall phase of recovery. When the smoke charge burns, the canister gets very hot and therefore must not come into direct contact with the nylon tether. The canister is fitted with a thermal insulation wrap comprised of ceramic paper of 1/16 inch (1.5mm). Ceramic paper is available from McMaster-Carr (p/n 93285K26) and from Cotronics (Rescor 300). The ceramic paper is cut to size, wrapped in a single layer around the canister, then held in place with aluminum foil tape. Using a pencil to punch through the foil tape, the six exhaust ports are opened. Figure 4 shows the Smoke Canister assembly with insulation applied.
+
+￼
+Figure 3 -- Drawing of Smoke Tracker assembly
+
+￼
+Figure 4 -- Photo of Smoke Tracker assembly used for Xi rocket
+
+￼
+Figure 5 -- Smoke Tracker assembly mounted on aft end of AvBay (Xi rocket)
+
+Ignition
+To ensure reliable ignition of the smoke charge, a hot-burning pyrolant that is readily lit by a low-power electrical igniter is a requirement. The pyrolant needs to apply sustained heating for at least a second in order to heat up the exposed surface of the smoke charge. I ground-tested a number of candidate igniters, some more successful than others, before I settled on a pyrolant that provides essentially 100% reliability. This pyrolant is a mixture of potassium chlorate and xylitol (75/25). The powdered mixture is enclosed in a short length of plastic tube (drinking straw) together with the nichrome wire initiator. Two small slits are made in the plastic tube to prevent pressure buildup within the igniter. This ensures the mixture will not combust too quickly. The igniter is installed into one of the lower exhaust ports.
+
+￼
+Originally posted  March 30, 2019 Last updated  September 25, 2019
+Back to Home Page
+

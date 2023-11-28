@@ -1,0 +1,22 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Derivation of Selected Rocket Equations
+
+
+Digging through my technical archives recently, I came across the derivation of various rocket related equations that I did some twenty years ago. These step-by-step derivations were performed in order to gain a better understanding of the fundamentals behind these well-known equations. Most are from Sutton's Rocket Propulsion Elements. I decided to scan them and put them on-line, to help others who also would like to gain a better understanding of the development of these important equations. As well, I have included more recent derivations of other important equations.
+Sutton, 4th Ed.
+Equation 3-19, weight flow through a nozzle  ￼
+Equation 3-20, critical pressure at nozzle throat  ￼
+Equation 3-24 , weight flow through critical section of a nozzle  ￼
+Equation 3-25, area ratio to pressure ratio relationship in a nozzle  ￼
+Equation 3-29 , ideal thrust equation  ￼
+Equation 5-32 , energy requirement to place a unit mass into orbit  ￼
+Miscellaneous
+Isentropic exponent modified for 2-phase flow, alternate expression  ￼
+Derivation of equation for rocket thrust using a control volume analogy  ￼
+Conversion of Burn Rate Coefficient "a" from English units to Metric units
+Units conversion of enthalpy of formation for PEP, from kJ/mole to cal/gram
+
+Last updated March 28, 2016
+

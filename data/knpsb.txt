@@ -1,0 +1,160 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+KNPSB Propellant
+
+Introduction
+Propellant Formulation and Chemistry
+Preparation and Mixing
+Casting KNPSB Propellant
+Quality Control
+Effects of Overheating
+Theoretical and Actual Performance
+Burn rate
+Assessment
+
+Introduction
+KNPSB is a newly developed rocket propellant that is an enhanced performance version of the familiar KNSB (Potassium Nitrate-Sorbitol) propellant. KNPSB is basically KNSB propellant formulated with Potassium Perchlorate (KP) as a supplemental oxidizer. I came up the the idea for KNPSB propellant after several unsuccessful attempts to develop a workable propellant that utilizes potassium perchlorate as the sole oxidizer. Potassium Perchlorate is well-known as an oxidizer that is challenging to 'tame' due to the high pressure exponent it imparts upon any propellant it is formulated with. The pressure exponent, as described in my Solid Propellant Burn Rate webpage, is the value of "n" in the St.Robert burn rate expression   r = a P n   where "r" is burn rate (typically in mm/sec), "a" is the burn rate coefficient and "P" is the chamber pressure. A high value of "n" (say n=0.8 or higher) leads to large changes in burning rate with relatively small changes in chamber pressure. Higher burning rate leads to even greater chamber pressure with potentially catastrophic consequences (= CATO).
+It is known that one approach to dealing with the problem of high pressure exponent is to blend such an oxidizer with one that is known to produce a stable burning propellant, such as potassium nitrate. KNSB seemed a natural choice to try with this approach. Sorbitol melts at a low enough temperature that is well below the decomposition point of KP (>400o)C.). Initial trials of melting sorbitol with a blend of KN and KP were sufficiently encouraging that I proceded with the construction of a test motor utilizing a trial formulation. Knowing what percentage of KP to substitute for the original 65% KN was something of a guess (although I prefer to label this as an art!).The static firing of the motor was successful and provided good data which allowed for a starting point for characterizing this new propellant formulation.
+
+Propellant Formulation and Chemistry
+The formulation of KNPSB propellant is:
+	•	35% Potassium Nitrate
+	•	30% Potassium Perchlorate
+	•	35% Sorbitol
+Potassium perchlorate is an inorganic salt with the chemical formula KClO4. For convenience, it is often referred to as KP. Potassium Perchlorate is a strong oxidizer, more so than potassium nitrate. Potassium Perchlorate is usually made by double decomposition of Potassium Chloride and Sodium Perchlorate (whereby Sodium Perchlorate is synthesized by electrolysis of Sodium Chloride). Physical appearance of KP is a white, chalky solid that readily forms a fine powder when lightly ground. KP is nearly insoluble in cold water, and has the lowest solubility of the alkali metal perchlorates (1.7 g in 100 mL of water at 20 °C). KP is non-hygroscopic and has no hydrates, which is a beneficial feature for a rocket propellant component. KP has a particularly high mass density of 2.52 g/cc. For comparision, KN has a density of 2.11 g/cc. The resulting propellant density of KNPSB is 1.923 g/cc. This high mass density is advantageous for a rocket propellant in terms of density (specific) impulse. Density impulse relates the amount of impulse (force × time) delivered by a propellant per unit of volume (i.e. a given motor will hold greater propellant mass).
+The combustion of KNPSB produces both gaseous and condensed-phase products, as is shown in Table 1. The primary products of combustion are hi-lited.
+￼
+Table 1 -- Excerpt from Propep analysis of KNPSB
+The gaseous products are primarily CO and H2O with lesser amounts of CO2, N2 and H2. This is quite similar to standard KNSB. The condensed-phase products of KNPSB are potassium carbonate (K2CO3) and potassium chloride (KCl). This differs from KNSB, which has potassium carbonate as the sole condensed-phase product. Herein lies a key difference between combustion of these two propellants. The condensed-phase products of KNPSB comprise a mass percentage of 25.1%, whereas the mass percentage of condensed-phase products for KNSB is 43.6%. This far lower percentage of condensed-phase products that are produced by the combustion of KNPSB results in a significant performance gain, due to far less two-phase flow losses through the nozzle. Additionally, condensed-phase products do not perform any expansion work. The reason why there are fewer condensed-phase products during combustion is that nearly one-half the KCl produced is gaseous (resulting from the chemical equilibrium condition). As the combustion products cool down during flow through the nozzle bell, all the potassium compounds condense, resulting in a similar amount of smoke produced in the exhaust trail.
+The particular ratio of KN/KP/Sorbitol that was chosen for KNPSB, as mentioned earlier, was something of a guess. This was a tradeoff between the performance enhancing benefit of KP one one hand, and the expected elevated burn rate pressure exponent, on the other hand. Propep analysis indicates that there is not a huge performance difference if somewhat more or less KP is incorporated into the mix. This is apparent from Table 2. Over the range of KP from 26% to 34%, the difference in both combustion temperature (To) and characteristic velocity (c*) is no more than 3%.
+
+￼
+Figure 1 -- Propep results for varying percentage of KP
+As is seen in Table 1, the ideal combustion temperature is 1858 Kelvin, or 1585o Celsius. This is just slightly hotter than the ideal combustion temperature of KNSU, which is 1720 Kelvin. The combustion temperature of KNPSB allows for the use of mild steel for a nozzle. All of the test motors that I have fired employed a steel nozzle (throat). Post-firing measurements confirmed zero throat erosion.
+
+Preparation and Mixing
+
+The preparation of KNPSB is essentially the same as preparation of KNSB. The first step in preparation of the propellant is to lightly mill the potassium nitrate to a fine texture. This may easily be done with the use of an electric coffee grinder. Adding two tablespoons (30ml) to the hopper, the grinder is then run for approximately 10 seconds. Milling as such will reduce the particle size appreciably. Sieve analysis indicates that typically 50% of the resulting particles are in the range of 119-234 microns (passes #60 sieve, retained by #120 sieve). Note that this is a less fine grind than that recommended for KNSB. The KP is also ground to a fine powder, which is readily done using a mortar and pestle (KP is much easier to grind than KN). Sieve analysis indicates that nearly 75% of the resulting particles are less than 74 microns in size. (passes #230 sieve).
+For maximum and consistent performance, the KN should be desiccated after milling to remove all traces of moisture. The sorbitol should also be desiccated. Desiccating is done by placing sifted sorbitol and the milled KN in a shallow pan and putting in a dessicator overnight. A desiccator can be as simple as a tupperware container lined with a few centimetres of fresh calcium chloride. The KP does not need to be desiccated, as it is non-hygroscopic. Nevertheless, it does not hurt to also desiccate the KP as there may be a small amount of moisture present as a result of adsorption.
+
+Following the milling and desiccating, the three constituents are carefully weighed out using an accurate scale. Enough of the powdered mixture should be prepared to take into account the inevitable waste resulting from the casting procedure. Due to the lower viscosity of KNPSB slurry, there is little waste (compared to casting KNSB). Best to prepare an additional 10% for small batches, less for larger batches.
+After individually weighing out the three constituents, these are blended together in a single container. Complete mixing of the constituents is necessary for optimum and consistent performance. An electric tumbler greatly facilitates thorough blending.
+Once the mixing operation has been completed, the powdered mixture is transferred immediately to a closed container for safe storage. At this stage, the mixture is readily combustible amd sensible precautions are observed to keep it away from any possible ignition source.
+
+
+
+Casting KNPSB Propellant
+
+The casting process is the same as for KNSB, and involves heating of the powdered mixture until it becomes molten and fluid, then casting into a mould to produce the propellant grain of the desired shape. The molten mixture is a slurry of solid oxidizer particles suspended in liquid sorbitol medium. Potassium nitrate is somewhat soluble in molten sorbitol. This is one reason why KNSB slurry tends to be fairly viscous and requires a combination of pouring and scooping to load the propellant mould. Potassium perchlorate, on the other hand, is insoluble in sorbitol. As a consequence of this, and noting that potassium nitrate constitutes only about one-half of the total oxidizer mass, the molten slurry of KNPSB is far less viscous than KNSB. In fact, the slurry is readily pourable and as such, makes for easy loading of the propellant mould.
+Heating the mixture is done using a thermostatically controlled electric "deep fryer". A thermostatically controlled skillet may also used for melting KNPSB.
+It is essential, from a long-term safety consideration, that only a thermostatically controlled heating vessel with no exposed elements be used for heating propellant, the critical intent being that no exposed heating surface is of significantly higher temperature than the melting point of the propellant. An electric hot-plate must never be used for casting propellant as the exposed element is hotter than the ignition temperature of KNPSB (this statement is true for all sugar propellants).
+￼
+
+Figure 2 -- Casting setup for KNPSB, employing a "deep fryer" as the heating vessel.
+
+For KNPSB, the casting temperature is in the range of 110o-115oC (230o-240 oF.). This is a lower casting temperature than KNSB. The KNPSB powder begins to melt at 70oC. but needs to be heated to the casting range temperature to ensure full melting and to minimize viscosity. To monitor the temperature of the heated slurry, a dial-type candy thermometer, a digital thermometer equipped with a probe sensor, or an infrared thermometer may be used. I've used all three types and have found the infrared thermometer to be the most convenient.
+The casting procedure involves first preheating the deep fryer or skillet to the required temperature. Then, starting with about half the total amount, the powdered mix is added, and stirred using a silicone spatula to assist melting. Once this has melted, the remaining powdered mix is added. The colour of the melted slurry should be pure white. If any significant discolouration occurs (e.g. yellowing), heating should be stopped and the slurry discarded. This implies that the consistuents may be contaminated. Contamination of potassium nitrate is not uncommon (see note below) , especially fertilizer grade. Only technical grade potassium nitrate should be used for making KNPSB.
+Once all the powdered mixture has been fully incorporated into the melt, it is further heated and stirred, to eliminate any lumps that may be present. An additional few minutes of heating will bring the slurry up to casting temperature. Note that the slurry will become fluid enough to pour into the mould. Once the mould has been loaded, I typically pick up the mould then firmly tap it downward against a hard surface repeatedly. This serves to force any trapped air to rise to the surface. Immediately after loading, the coring rod is inserted into the mould, making certain it is fully inserted all the way down. This completes the casting operation. The mixture is then allowed to cool and harden.
+KNPSB propellant remains pliable after cooling, similar to KNSB, and as such, a freshly-cast grain may become deformed if not carefully handled. It is necessary for KNPSB propellant to "cure" for one or two days prior to demoulding, depending on the size of the grain. If it is demoulded too soon, the grain may become distorted when extracting the coring rod. After complete curing, however, the material becomes hard and relatively strong.
+
+A cast KNPSB grain segment is illustrated in Figure 3 below:
+
+￼
+
+Figure 3 -- KNPSB BATES grain for 76mm motor
+[Note -- if the colour of the heated slurry turns an amber colour, this is most likely due to impurities such as anti-caking material in the potassium nitrate. One test of potassium nitrate purity is to prepare a small saturated solution of the potassium nitrate and distilled water (3 parts water to 1 part potassium nitrate) and measure the pH when the solution is at room temperature. The pH should be neutral or slightly acidic (6 - 7); impurities tend to make the potassium nitrate significantly alkaline (>8), which makes it unsuitable for making KNPSB. Such a contaminated product may be purified by the process of recrystallization.
+KNPSB is hygroscopic, similar to KNSB, and as such, grains should be stored in a sealed bag or container. Placing the grains in a desiccator for a day will dry up any exposed propellant that has gotten damp.
+Curing KNPSB under Pressure
+Curing propellant under pressure eliminates risk of disbonding, dispels all trapped air, shapes the grain with flat top and bottom surfaces, and results in a consistent propellant grain that has a near-ideal density. Curing under pressure is achieved by use of a casting mould apparatus that utilizes a compression spring to apply a force to the top surface of the propellant. This force generates a hydrostatic pressure in the body of the molten propellant, that forces it against its enclosures, consisting of a top cap, a bottom cap and the casting tube (held within a Support Tube if needed). Initially, when the propellant is still hot, only light spring pressure is applied, to squeeze out any trapped air. After the propellant has largely cooled, full spring pressure is applied and left until the propellant has fully cured. Based on my experience, the spring should be chosen to deliver a force, when fully compressed, that develops a pressure in the range of 25-40 pounds per square inch (psi) or 170-275 kPa [1].
+
+CLICK for photo of 76mm KNPSB grain curing under pressure using spring and C-clamp arrangement.
+Propellants such as KNSB and KNDX benefit significantly from curing under pressure, due to the high viscosity of the melted slurry. KNPSB slurry has a lower viscosity, and it has been found that curing under pressure is not as necessary, as long as the mould is repeatedly rapped against a hard surface immediately after loading with the propellant slurry. This rapping action causes any trapped air to rise to the surface as bubbles. Casting without pressure results in a propellant density in the range of 95-96%, based on my (limited) experience with KNPSB. Casting under pressure typically yields 96-98% of theoretical density.
+  [1] Recall that pressure equals force divided by area, where area is taken as the cap area acting on the propellant A = 1/4 x 3.14 x (D2 - d2 ) where D=Cap diameter, d=Cap hole diameter
+
+
+Quality Control
+As with the other sugar propellants, after the casting and demoulding operation has been completed, there are two checks to be made to assess grain quality:
+1) Density Check 2) Tap Test
+The first check determines how well compacted the cast propellant is. If a grain segment is solidly compacted, the grain volume consists entirely of propellant. Often, however, there is a small amount of air, in the form of tiny bubbles, that make up part of the volume. Such air inclusion, if no more than a few percent, has negligible effect on the overall performance of the KNPSB propellant when fired in a rocket motor.
+If there are sizeable bubbles, or great many of them, or voids caused by trapped air, the result on motor performance can be significant and detrimental. The increased surface area provides for greater burning area than expected, which can lead to overpressurization (or even CATO) of the motor. A Density Check serves to measure the actual density of the grain to determine how well compacted it is. This is then compared to the ideal density of the propellant. To perform a Density Check, the grain segment is weighed and the volume measured. Density, which is mass divided by volume, is then calculated. This is compared to the ideal density for KNPSB which is 1.923 grams/cubic centimetre (g/cc) or 0.0694 lbs per cubic inch. The ratio of actual to ideal density provides a key benchmark of quality, as shown in Table 2.
+
+￼
+Table 2 --Propellant density assessment
+Volume of a grain can be measured using an accurate ruler, although using calipers is a more accurate means.
+Grain core diameter typically does not need to be explicitly measured, as it is the same diameter as the coring rod. If a grain is integral with the casting tube, it is necessary to know both the mass and the thickness of the casting tube, which are subtracted from the measured grain mass and diameter.
+For convenience, an MS Excel spreadsheet is available as an aid for performing a Density Check: Graindensity.xls
+The Tap Test (also known as Coin Tap Test in aerospace industry) applies solely to a grain with an integral casting tube as inhibitor. The Tap Test gives an indication of how well the casting tube is bonded to the propellant. Is is imperative that the inhibitor be intimately bonded to the propellant to be effective, there must be no disbonding or gap. Such disbonding could allow hot combustion gases to seep in between the inhibitor and the propellant, greatly increasing the burning area of the propellant. The Tap Test assesses this bond by indicating areas of disbonding.
+The test is performed by taking a coin (larger coin works better) and gently tapping the inhibitor at points all around the grain segment, and noting the sound that the tapping makes. The sound (and feel) should be a solid tap as opposed to a "dull" tap. The tap sound is, of course, difficult to explain in words, it actually takes experience to recognize what is a good tap sound and what is a bad tap sound. I have found that the best technique is to listen to the relative tap sounds at the various tapping points. Each tap should sound identical. Any locations where the tap sound is distinctly different (usually more dull, like tapping on hard rubber versus tapping on hard plastic, for example) signals a possible disbonding. If this occurs only at a single location, its generally not a problem. I have found, for example, that at the seam of a rolled casting tube, a different tap sound is heard. I consider this normal and not a problem.
+What we particularly need to be on the lookout for is a different tap response between grains segments of the same batch. If one of the grain segments of a batch sounds distinctly different, and less solid, that grain's inhibitor may have a flawed bond. When I encounter this, I reject the grain segment and do an examination. The inhibitor is slit lengthwise and carefully peeled away, examining the bond. A flawed bond is usually apparent, as it is easy to peel and there is little or no propellant residue on the inhibitor surface.
+It is important to note that the Tap Test should only be performed after a propellant grain has fully cured or else indications of disbonding may be false. As well, I have on occasion noticed that a grain segment may fail a tap test due to residual moisture at the bondline. Placing the segment in a dessicator for a few days often results in a "pass" when the test is redone. On a final note, for grains that are cured under pressure, failing a Tap Test is very rare.
+
+
+Effects of Overheating KNPSB during Casting
+Since the casting process of KNPSB propellant involves operation at an elevated temperature, it is important to know how much of a "safety margin" one has, with regard to possible hazards associated with inadvertent overheating.
+To determine the effects of overheating during the casting process, an experiment was performed in which a sample of KNPSB propellant was overheated. This involved placing a representative sample (200 grams) of KNPSB powdered mixture into a stainless steel pot immersed in granulated salt. The salt was contained in a shallow stainless steel pan, placed on an electric hot-plate. The purpose of utilizing a salt buffer was to provide for a more gentle heating of the propellant without any "hot spots". To mitigate risk associated with using a hot-plate (with exposed heating element) for this experiment , an aluminum plate was placed between the heating element and the pan. A J-type thermocouple (iron-constantan) was inserted into the mixture to monitor temperature. The thermocouple was interfaced to a DATAQ DI-718B data acquisition unit connected to a laptop to store temperature readings over the duration of the experiment. The setup for this experiment is illustrated in Figure 4.
+
+￼
+Figure 4 -- Setup for propellant "overheating" experiment
+Heating of the pot was commenced, and when the thermocouple read 50oC., the powdered KNPSB was added. Melting of the powdered mixture was noticed to begin at a temperature of 60oC. The sensor temperature continued to rise, and after 20 minutes when the indicated temperature was 125oC., the powdered mixture was partially melted. Using a spoon attached to a long stick (and while wearing protective gear), the sample was gently stirred. The sensor reading jumped to 190oC. and it was noticed that the mixture in contact with the pot bottom was greyish colour. The mixture was stirred three more times over the next six minutes. The temperature varied from about 170oC. to 195oC. The mixture was largely grey colour at this point in time. Heating was continued for another 15 minutes, then given one final stirring. The temperature peaked at 212oC. (414oF.), and heating was then ceased. The pot was then carefully removed from the heat source and allowed to cool down. The mixture was seen to be streaked with black, and puffs of smoke emanated from the pot. A strong smell of burnt caramel was noticed. Figure 5 presents a graph of sensor temperature versus time for this experiment.
+
+￼
+Figure 5 -- Setup for propellant "overheating" experiment
+Examination of the cooled mixture showed large amounts of grey and black carbonaceous material that was full of tiny bubbles. Figure 6 shows snapshots of the melt taken during the overheating experiment. Photo at left shows beginning of melting. Photo at right is the result at end of overheating experiment, after the mixture had cooled down.
+
+￼ ￼ ￼ ￼ ￼ 
+Figure 6 -- Appearance of melt over duration of overheating experiment
+This experiment indicates that it is improbable that accidental ignition during casting would occur due to overheating, given the obvious indicators of overheating, in particular, the colour change from white to greyish-black, bubbling combined with smoke, and the strong burning caramel odour. As well, auto-ignition of KNPSB clearly occurs at a temperature greater than 212oC. (the highest temperature recorded in the experiment), whereby the normal casting temperature in the range of 110o-115oC.,
+Nevertheless, appropriate safety precautions must always be taken when casting the propellant. Inadvertent ignition due to other unforeseen causes (e.g. electrical short, static electricity, distraction, etc.) must be considered as a possibility. Appropriate apparel must be worn when casting the propellant, such as face & hand protection as a minimum. The fact that the KNPSB propellant is highly tolerant of overheating must not lead to complacency or lax standards of safety, rather, this characteristic should only be considered to be a valuable margin of safety.
+
+
+Theoretical and Actual Performance
+Calculation of the theoretical performance parameters of KNPSB is presented in the Technical Notepad #9 -- KNPSB Ideal Performance Calculations web page. A summary of these parameters (for standard conditions) is shown below:
+	•	Specific Impulse, ideal (Ispi) = 175.5 seconds (@1000 psi)
+	•	Characteristic Velocity, ideal (c*i) = 1004 metres/second Combustion products (chamber condition) parameters: 
+	•	Molecular weight, effective (MW) = 37.17 grams/mole
+	•	Mass fraction of condensed phase (X) = 0.250
+	•	Ratio of Specific Heats, mixture (kmix) = 1.162
+	•	Ratio of Specific Heats, 2-phase (k) = 1.088
+Both specific impulse and characteristic velocity vary with chamber pressure. As chamber pressure rises, both increase. Characteristic velocity rises slightly. Specific impulse increases to a greater extent. This trend is shown in Figure 7.
+￼
+Figure 7 -- Variation of c* and Isp with chamber pressure
+Limited static testing of motors powered by KNPSB has been done to date. Five static tests were conducted whereby chamber pressure and/or thrust was measured. For those tests where both parameters were measured, delivered Isp and c* were determined. For those tests where solely chamber pressure was measured, c* was solely determined. A summary of the five test results is shown in Table 3.
+
+￼
+Table 3 -- Static test results
+[1] The tentative value for static test APM-C-ST1 was an estimate due to load cell bottoming out near range of peak thrust.
+The delivered performance parameters are consistent with expected rise with increasing chamber pressure.
+In order to obtain optimum performance from KNPSB, it is important that all initial burning surfaces be coated with combustion primer and to provide adequate inter-segment spacing of BATES grain segments in a motor. This is a consequence of bare KNPSB being hesistant to ignite, a trait it shares with the conventional KNSB.
+
+Burn Rate
+The burn rate of a propellant, and how it varies under pressure, is a key parameter for rocket motor design. This is explained in detail on another web page (Details). Briefly, burn rate will vary dependant upon chamber pressure and, to a lesser extent, upon temperature.
+KNPSB is a fast burning propellant. At 1000 psi, the burn rate is 22mm/second. Burn rate as a function of chamber pressure was determined by motor static test. Chamber pressure was measured during the burn and burn rate derived by using the method described in the Burn Rate Determination from Static Test Pressure Measurement web page. The result is shown in Figure 9. The burn rate coefficient (a) and pressure exponent (n) are given in Table 4. As can be seen, KNPSB has a moderately high pressure exponent. The burn rate parameters are considered to be provisional, as the values are based on a single set of measurements. The resulting burn rate parameters, however, were subsequently used to design a 76mm motor which performed as expected. Further testing will be performed in the future to firm up the burn rate parameters.
+
+￼
+Figure 9 -Measured burn rate as a function of chamber pressure
+CLICK for metric units...
+
+￼
+Figure 10 -Derived burn rate coefficients
+The burn rate sensitivity to temperature has not been investigated, to date.
+
+
+Assessment
+KNPSB is a fast burning sugar propellant that delivers premium performance. To date, seven experimental motor firings (38mm, 51mm & 76mm motors) utilizing a KNPSB propellant load have been conducted. All have exhibited stable and consistent performance. Additionally, a KNPSB grain segment has been used in a motor in conjuction with standard KNSB. The Impulser-B rocket motor features 3 segments of KNSB and a single segment of KNPSB. The fast-burning KNPSB grain provides an initial boost of thrust off the pad, while the slower-burning KNSB grains provide for sustained thrust (click for rocket acceleration plot). The Impulser-B motor has been both static fired and flown, lofting the Xi-18 rocket to 2394 feet (730 m.).
+Preparation of KNPSB is very similar to KNSB, yet, has the advantages of slightly lower casting temperature and lower viscosity slurry, which eases the casting operation. Safety of casting has been demonstrated to have a good safety margin with respect to ignition due to inadvertent overheating.
+Due to its rapid burn rate, KNPSB may be a interesting candidate for end burning and nozzleless motors.
+Motor design (cylindrical or BATES configuration) can be performed using SRM.XLS. For convenience, the required propellant parameters are tabulated below.
+
+￼
+
+￼
+
+
+￼
+Originally posted November 9, 2020
+Return to Top of Page
+Back to Home Page
+

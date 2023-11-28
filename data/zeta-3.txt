@@ -1,0 +1,103 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flights Z-3
+
+ 
+Basic Information
+Name
+Z-3
+Launch date:
+25 October, 2014
+Rocket description
+63.5mm airframe (plastic)
+4 fins, birch plywood
+aluminum conical nosecone
+2 ft. circular parachute
+Payload
+Raven altimeter
+Liftoff mass
+3.84 lb (1.74 kg)
+Flight objectives
+- Conduct repeat flight of Zeta rocket with A-100M motor.
+ 
+Motor details
+Motor name
+A-100M
+Propellant
+KNSB-RIO
+Grain mass
+122 grams
+Nominal impulse
+144 N-sec
+Class
+G
+ 
+Weather conditions
+Temperature
+10°C
+Wind
+W 15 km/hr
+Sky
+Clear
+Other
+launched 40 min. prior to sunset
+ 
+Launch Event Description
+Setup went well with no glitches. Clear sky confirmed, countdown commenced, and shortly after zero count, smoke seen at base of rocket, then rapidly rose skyward. Shortly after burn-out, parachute was seen to eject and blossom. Raven beep-out of apogee not noted.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+-
+-
+-
+Separation
+-
+-
+-
+Main deployment
+-
+-
+-
+Touchdown
+15.1
+-
+-
+Range
+ 
+300
+90
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+-
+-
+ 
+Main parachute
+-
+-
+ 
+ 
+Post-flight analysis and comments:
+Parachute deployed prematurely. Backup apogee charge did not fire. Raven baro data exhibited highly anomalous pattern. Discussion of anomaly with Adrian Adamson solved the mystery of premature deployment of Z-1 and Z-3, and explained the anomalous baro data. The source of the anomaly was a result of the rocket basic design, utilizing a common compartment for the Raven and for the parachute. Under sufficiently high acceleration, the parachute will slide “downward” and act like a piston, generating a positive pressure spike in the “avbay” containing the Raven. The Raven interprets this increase in pressure as beginning of descent, and thereby triggers apogee deployment. A simple fix was implemented for the next flight. A two second time delay was added to the required condition of apogee deployment. This problem presumably did not manifest itself with Z-2 because the Impulser motor generates a more gentle acceleration than the A-100M.
+ 
+Raven baro and accelerometer graph:                                                   Z-3\Z-3_raven.jpg
+ 
+Photos:
+Rocket for Flight Z-3 on pad prior to launch                                          Z-3\DSC00010.JPG
+Eric Nickel examining Zeta-3 after touchdown                                     Z-3\DSC00013.JPG
+ 
+Videos:                                                                                                          Z-3\Flight Z-3.mp4
+ 
+
+￼
+Last updated March 3, 2015
+Back to Home Page
+

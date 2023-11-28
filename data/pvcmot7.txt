@@ -1,0 +1,289 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+PVC Rocket Motors Construction
+
+Chuck Knight   of Pennsylvania, U.S.A. has developed simple to make "G", "H" & "I" Class KN-Sorbitol rocket motors, utilizing PVC (PolyVinyl Chloride) plastic tubing for the casing and requiring no special tools for construction. These motors incorporates a time delay and ejection charge for parachute deployment.
+
+
+The instructions how to build the PVC motors are generic for all three motor sizes. The techniques applied to one size are applied to the other sizes. The basic construction consists of preparation of the casing and nozzle, the propellant grain, the top end closure, and completing the motor in a final assembly.
+
+A. Casing and Nozzle
+1. Prepare motor casing
+Materials List
+1" and 1-1/4" Schedule 40 PVC pipe
+1" and 1-1/4" PVC end caps
+Centering Fixture
+PVC pipe cement and cleaner
+1/8" x 6" drill bit and electric drill
+3/4" and 7/8" Speedbor drill bits
+Latex house paint, low luster or flat
+120 grit sand paper
+Choose the size motor you wish to build and select and cut the PVC pipe to length.
+
+G Motor
+H Motor
+I Motor
+Pipe Size
+1" Schedule 40
+1-1/4" Schedule 40
+1-1/4" Schedule 40
+Casing Length
+8-1/4"
+9-1/4"
+17"
+Use sand paper to rough the inside surface at one end of the PVC pipe to a depth of 1-1/2". Paint this surface with latex house paint. Allow drying over night.
+Drill a 1/8" starter hole into the end cap using the centering fixture and the 1/8" drill bit. Use the appropriate Speedbor drill bit to drill a larger hole through the end cap using the starter hole as a guide.
+
+G Motor
+H & I Motor
+Speedbor Bit Size
+3/4"
+7/8"
+Caution should be used when using Speedbor drill bits with PVC. The drill bit tends to grab the soft PVC and can catch and wrench the drill from your hands. Grip the end cap in a vise when performing these drilling operations.
+After the paint has dried, use the PVC pipe cleaner and cement to glue the end cap onto the painted end of the casing.
+
+2. Prepare throat insert and nozzle mold
+
+Materials List
+Nozzle Mold and Throat Bushings
+washers for throat insert
+CA glue, hobby grade
+Axle grease
+Select 3 washers for the throat insert according to the size of the motor.
+
+G Motor
+H Motor
+I Motor
+USS Flat Steel Washer - Bolt Size
+3/16"
+1/4"
+3/8"
+Glue the washers together to form the throat insert. Select the throat bushing for the appropriate washer size and coat one end of the bushing with grease. The grease helps to prevent the washers from adhering to the bushing. Stack the washers on the throat bushing over the greased end. Apply one drop of the CA glue to the edge of the washers so the glue runs between them. Wait 1 second and remove the washers from the bushing. Clean the grease and any dried glue from the bushing.
+
+￼
+PREPARING THROAT INSERT
+Allow the glue on the washers to thoroughly dry. Remove any dried glue from the ID of the insert with a Xacto knife. The throat insert should slide smoothly over the bushing.
+Complete the preparation of the nozzle mold by sliding the throat bushings over the support rod of the nozzle mold and sliding the throat insert over the bushings. The insert should rest against the nozzle mold at the convergence surface.
+
+￼
+NOZZLE MOLD AND INSERT
+
+3. Cast the nozzle
+Materials List
+Fast Plug or Anchoring Cement
+3 oz. paper drinking cups and craft (Popsicle) sticks
+Divergence cutter and nozzle exit patterns
+Insert the assembled nozzle mold through the top end of the motor casing so that the mark scribed on the throat bushing is even with the outside surface of the end cap. This mark sets the length of the nozzle inside the motor casing. The nozzle mold should not wobble side-to-side inside the casing. If it does, remove the mold and wrap a layer or two of masking tape around the mold below the convergence section. The mold should fit snugly within the casing without allowing any back-and-forth movement. Hold the nozzle mold in a vise and allow the casing to rest on top of the vise jaws.
+
+￼
+NOZZLE MOLD IN CASING
+Mix the concrete in the paper cup. The mixture should not be runny, but it should be thin enough that the concrete can be worked around and under the insert into the convergence area. Ladle the concrete into the space between the bushing and end cap and push the concrete into the convergence area with a small stick or wood dowel. It is important that the convergence area be completely filled with concrete. The "I" motor is especially difficult because the large OD of the throat insert leaves little room for pushing the concrete around the insert. Completely fill the volume for the nozzle to the top of the end cap.
+
+￼
+PACKING CONCRETE INTO THE CASING
+If you use Fast Plug, work quickly to avoid the concrete from setting before it is fully packed within the nozzle. This is especially true in summer where the warm temperatures shorten the setting times of the concrete. If the concrete sets before it has had a chance to adhere to the paint primer, it may create a void that can develop into a nozzle blow-by. If you find that Fast Plug sets too quickly, use Anchoring Cement, which has a longer setting time.
+When the concrete begins to set and becomes firm remove the throat bushing. Use the smallest exit pattern that will slip over the throat bushing. Press against the concrete to prevent the insert from being pulled up through the soft concrete should the insert stick to the bushing. With the throat bushing removed, use a slight twisting motion and lift the motor casing off the mold.
+
+￼
+REMOVING THROAT BUSHING
+While the concrete is still relatively soft, secure the casing in a vise with the nozzle up. Center the appropriate exit pattern over the hole in the concrete left by the throat bushing. Twist the divergence cutter into the concrete by hand until it is stopped from going deeper into the concrete by the exit pattern.
+
+G Motor
+H Motor
+I Motor
+Exit Pattern Size
+1/2"
+5/8"
+3/4"
+Use a flashlight to shine a beam of light down through the top of the casing and observe that the insert is covered with concrete. It is OK if some of the insert is exposed around its ID. However, if you can see shinny metal towards the OD of the insert, this is an indication that you did not get the concrete completely packed around the insert. This can lead to nozzle blow-by and the casing should not be used. It may take several attempts to perfect your nozzle making techniques.
+Allow the concrete to harden and dry for at least four days.
+
+B. Propellant Grain
+The following procedure is only one way that the propellant and propellant gain may be prepared. You may have your own technique for preparing propellant. However, it is suggested that once you have a technique for preparing the propellant, you perform strand burn tests to measure how well you are preparing the propellant. Cast a strand or rod of propellant in a 1/4" x 1/4" x 3" trough-like mold made from thin strips of wood nailed to a wood base. After the propellant has had a chance to harden, remove the strand from the mold. When the propellant is fully cured, place two marks on the strand about 1/2" from each end. Ignite one end with a blowtorch and use a stopwatch to measure the burn time between the two marks. From this you can calculate burn rate. KN/Sorbitol propellant should have a minimum burn rate of 0.102 inches / second in open air.
+
+1. Prepare the inhibitor sleeve, casting stand, and coring rod
+Materials List
+Coring Rods
+Sleeve Forms
+Wax paper
+Axle grease
+3M Super 77 Spray Adhesive
+Tag board and letter paper
+Roll the inhibitor sleeve using the same technique as described when making the sleeve forms. Cut the sheets of tag board or letter paper to the following sizes depending on the grain to be cast. Manila file folders available at most stationery stores is an alternative to regular tag board.
+G Motor
+H & I Motor
+7-1/4" x 11" letter paper
+7-3/4" x 10" tag board
+Center the sleeve form across the narrow dimension of the paper or tag board. Bring the edge of the paper up, over and under the form until the edge of the paper just begins to catch under the form. The paper should be tight against the form so that the finished sleeve does not taper and the finished ID of the sleeve is even end-to-end. Try a few "dry rolls" to be sure that sleeve form is properly positioned on the paper. When the paper is completely rolled up on the form, the layers of paper on the end of the sleeve should be even one with the other. Unroll the sleeve back to the starting position where the edge of the paper just catches under the form. Spray adhesive over the flat surface of the paper being sure to spray back under the form and around the edges and corners of the paper. The form is narrower than the paper is wide so that the paper acts as a mask to prevent adhesive from getting on the inside of the sleeve. Use only enough adhesive to moisten the paper. Allow the adhesive to dry for 15 - 20 seconds before rolling and finishing the sleeve.
+Allow the adhesive to dry a few minutes before removing the form. Use this time to work out any wrinkles or bubbles and make sure the edge is tight. After removing the form, allow the sleeve to dry for several hours.
+Lay wax paper over the mounting bracket on the support stand. Push the support tube into the mounting bracket. The wax paper will cover the hole in the casting stand that is used to support the coring rod. Insert the inhibitor sleeve into the support tube. The sleeve should extend 1/4" above the support tube.
+
+￼
+CASTING STAND
+Apply grease to the coring rod. This will prevent the propellant from sticking to the coring rod. Set the coring rod aside. It will be used after the propellant has been poured into the sleeve.
+
+2. Prepare the dry ingredients
+Materials List
+Potassium Nitrate
+Sorbitol
+Coffee grinder
+Scales accurate to 0.1 gram
+Closed Tupper Ware bowl
+The potassium nitrate used in these motors is a prilled grade of fertilizer. It is ground to a fine powder in a coffee grinder and sifted through a wire kitchen strainer. The potassium nitrate is processed through the coffee grinder several times to achieve a complete reduction of the prills into a fine powder.
+The Sorbitol is purchased from a local natural foods store. However, if you cannot find Sorbitol locally, it is available off the Internet. The Sorbitol is used as it comes from the bag with no pre-processing.
+The potassium nitrate and Sorbitol are measured 65/35 to the following weights.
+
+G Motor
+H & I Motor
+Potassium Nitrate
+97.5 grams
+162.5 grams
+Sorbitol
+52.5 grams
+87.5 grams
+The potassium nitrate and Sorbitol are placed in a Tupper Ware bowl and shaken together by hand for at least 5 minutes. Do not grind or mix the potassium nitrate and Sorbitol together in the coffee grinder.
+3. Cast the propellant grain
+Materials List
+Electric hot plate
+3 quart and 1 quart sauce pan in a double boiler arrangement
+Canning wax
+Cooking or candy thermometer good to at least 300o F
+Teaspoon and craft sticks
+Grain storage case
+The KN/Sorbitol mixture is melted and blended in a double boiler arrangement of two pans heated on a hot plate. The heat transfer medium is wax. The temperature of the wax is carefully monitored with a candy thermometer and maintained at 250oF during the melting process. The tip of the thermometer is positioned to the same depth in the wax as the bottom of the small top pan.
+Once the wax has reached a temperature of 250o F, the KN/Sorbitol mixture is poured into the top pan. The mixture is continuously stirred with a 1/2" wood dowel until all of the Sorbitol has melted and the mixture has a homogenous consistency. Continue to stir for a few minutes to make sure that the potassium nitrate and molten Sorbitol are well blended.
+The molten mass of KN/Sorbitol is thick and sticky. The best way of transferring the molten propellant into the sleeve is by ladling with a teaspoon. Use the craft stick to push the propellant off of the spoon into the sleeve. The stick is also used to pack the propellant into the bottom of the sleeve and to work out air bubbles. Work quickly, but do not rush. One of the advantages of Sorbitol is its extended working time.
+Once all of the propellant has been ladled and packed into the sleeve push the coring rod, pointed end first, down through the center of the sleeve to form the core of the grain. Lay a craft stick across a corner of the top edge of the sleeve and push down to prevent the sleeve from riding up as the coring rod is pushed through the molten propellant. Push the rod slowly so that air bubbles may rise up as the rod displaces the propellant. Once the tip of the coring rod reaches the bottom of the sleeve, push the rod through the wax paper and into the hole. This hole will center and support the coring rod during the initial curing of the grain. Since you will be unable to see the hole, you may have to hunt for it by moving the coring rod side-to-side across the bottom of the sleeve, pushing lightly until you feel the rod pierce the wax paper. The tapered tip of the rod will guide the rod into the hole. Center the coring rod within the grain at the top end of the grain.
+Allow the grain to cool and cure for at least one hour or until the grain has reached room temperature. Remove the coring rod and the support tube containing the grain from the mounting bracket. Remove the wax paper. Push the grain from the support tube. You may have to push on the grain with the flat end of the nozzle mold to break any adhesions that may have formed between the support tube and sleeve by the molten propellant. Handle the grain lightly since it will be relatively soft. Clean any propellant from the support tube and re-insert the grain back into the support tube. Place the grain and support tube in the desiccator storage case and allow the grain to cure and harden for at least another 24 to 48 hours. The desiccator will also remove moisture from the grain.
+Once the propellant has hardened, trim the top end of grain with a hack saw to the correct length depending on the motor size.
+G Motor Grain Length
+H & I Motor Grain Length
+7"
+7-1/2"
+The finished grains should be stored in the desiccator grain storage case until final assembly of the motor.
+
+C. Top End Closure with Delay Grain
+1. Prepare the delay grain
+Materials List
+1/2" PVC pipe
+Devcon 5-Minute Epoxy in double syringe dispenser
+Potassium Nitrate
+10X Confectionary Powdered Sugar
+2 oz. paper drinking cup and craft stick
+Scales accurate to 0.1 grams
+Coffee grinder
+120 grit sand paper
+Wax paper
+1/8" drill bit
+Masking tape
+7/16" x 6" wood dowel
+#64 Rubber bands
+Pan of boiling water
+Use the coffee grinder to grind the potassium nitrate into fine powder. Combine 70 grams of the potassium nitrate with 30 grams of the powder sugar in a capped container and shake for at least 5 minutes to get a good mix of the two ingredients. This will produce 100 grams of the powder mix, which will be more than enough to make 15 or 16 delay grains. Since this mixture will be mixed with a rapid setting epoxy, the delay grains are made one at a time. Whatever powder is not used to meet your immediate needs should be stored in the desiccator storage case. The desiccant will keep the powder dry and keep it from caking.
+Cut a 1-1/2" length of the 1/2" PVC pipe. The pipe has to be squeezed to form a 7/16" restriction at its center. The restriction will keep the delay grain from being expelled by the pressure of the combustion gasses. To perform this operation, wrap a #64 rubber band around the center of the pipe at least 7 times. Almost any rubber band will do, but it must be wrapped very tight. Place the pipe with the rubber band into boiling water. Within about 30 seconds the pipe will begin to squeeze under the tension of the rubber band. After about 1-1/2 minutes remove the pipe from the boiling water and test the size of the restriction. Use the 7/16" dowel as a NO GO gauge. The dowel should not be able to be pushed through the pipe indicating that the restriction has been squeezed to less than 7/16". If the dowel fits through the pipe, place the pipe back into the boiling water for a few more seconds, remove, and re-test. If after 2 minutes the pipe has not squeezed to less than 7/16", remove and re-wrap the pipe more tightly with the rubber band and place it back into the boiling water. After the pipe has been squeezed to the proper size, let the pipe cool, remove the rubber band, and stand the pipe upright on a flat surface over wax paper in preparation of packing the delay grain. This squeezing operation may be performed on many pieces of pipe at the same time time.
+
+￼
+SQUEEZED PIPE
+The KN/sugar mix is mixed 3 parts by weight with 1 part 5-Minute epoxy. This mixing is done in small quantities and requires an accurate set of scales. The following instructions are for a beam balance scale. If you are using another type of scale, you will need to adjust your procedures accordingly.
+Measure 6 grams of the dry KN/sugar mix and set it aside. Set a paper cup on the scales and adjust the counter weight to balance the scales. Add 2 grams to the indicated weight for the cup and adjust the counter weight to that number. Pour enough epoxy into the cup to rebalance the scale. The cup should now contain 2 grams of epoxy. The double syringe dispenser in which 5-Minute epoxy is sold is a convenient means of dispensing the epoxy since it dispenses both the "A" and "B" portions of the epoxy in the correct proportion at the same time.
+Combine the dry KN/sugar mix with the epoxy. Mix until all of the dry mix has been thoroughly blended into the epoxy. Pack this mix into the PVC pipe up to the small diameter of the restriction, but at least to a depth of 3/4". Use a 1/4" dowel to pack the mix tightly into the pipe to eliminate air bubbles. Allow the delay grain to cure for at least 15 minutes.
+
+￼
+PREPARING DELAY MIX
+Drilling a 1/8" timing hole into the top of the delay grain sets the delay time. The delay time is determined by the distance between the bottom of the hole and the bottom surface of the delay gain. The following table provides some correlation between the length of the delay grain and the delay time to the nearest second for the motors and delay mix described herein.
+Delay Grain Length
+Delay Time From Ignition
+1/4"
+9 seconds
+3/8"
+11 seconds
+1/2"
+13 seconds
+Drilling the timing hole requires a certain degree of accuracy. A 1/8" error can result in a 2-3 second difference in delay. To drill the timing hole place a pencil mark on the PVC pipe measured from the bottom of the pipe for the desired length of the delay grain, i.e. 1/4" for a 9 second delay, etc. Lay the 1/8" drill bit along the pipe so that the tip of the drill bit aligns with the pencil mark and the shank of the drill bit lies toward the top of the pipe. Wrap masking tape around the drill bit so that the bottom edge of the tape matches the top edge of the pipe. Use this marked drill bit to drill a hole into the center of the delay grain to a depth so that the bottom edge of the tape aligns with the top of the pipe.
+
+2. Assemble the delay grain assembly
+Materials List
+1/2" PVC pipe coupler
+PVC pipe cement and cleaner
+Wax paper
+2 each 1 cent coins
+Cut a 3/8" long ring from of one end of the 1/2" pipe coupler. This will be a catch ring that will retain the delay grain within the casing. Stack the two coins, one on top of the other, on a piece of wax paper. These coins will set the depth to which the delay grain will be pushed into the catch ring. Clean and apply cement to the ID of the catch ring and lay the catch ring over the coins with the cut edge down. Clean and apply cement to the bottom end of the 1/2" PVC pipe delay grain. While holding the catch ring so it does not slip, insert the PVC pipe delay grain into the catch ring and push until it bottoms against the coins. Wipe excess glue from around the top edge of the catch ring. It is important that this surface be clean since it will form a seal with the end cap. Remove the coins and allow the cement to dry.
+
+￼
+1/2" COUPLER AND RING, DELAY GRAIN, AND DELAY GRAIN ASSEMBLY
+3. Complete top end closure
+The completion of the top end assembly is the same for all three motor types with the exception of the end cap size.
+Materials List
+1" or 1-1/4" PVC end caps
+7/16" USS flat steel washer
+1/2" x 1-1/2" fender washer
+RED high temperature RTV silicon gasket sealant or equivalent
+Centering Fixture
+1/8" x 6" drill bit
+13/16" Speedbor drill bit
+Q-Tips
+Drill a 1/8" starter hole into the center of the end cap using the 1/8" drill bit and centering fixture. Enlarge this hole using the 13/16" Speedbor drill bit. This hole must accept the delay grain assembly. If it is too small, ream out the hole with a Xacto knife. Insert the delay grain assembly into the hole from the inside of the end cap. Draw a pencil line around the delay grain assembly at the top surface of the end cap. Remove the delay grain assembly and apply a generous bead of high temperature RED silicon sealant to the PVC pipe between the pencil line and the top pf the catch ring. Re-insert the delay grain assembly through the hole in the end cap and press until the delay grain assembly seats firmly against the end cap. Use the blade of a flat blade screwdriver to remove any sealant that may have squeezed above the rim of the catch ring. Do not disturb the sealant below the rim. Clean any sealant that may have smeared the inside wall of the end cap. This surface must remain clean to provide a good gluing surface in the final assembly of the motor. Allow the sealant to cure for 24 hours.
+Note: RED RTV sealant is available at automobile parts stores as a gasket sealant.
+
+￼
+APPLYING SEALANT TO DELAY GRAIN ASSEMBLY
+￼
+DELAY GRAIN SEATED AGAINST END CAP
+Select a washer depending on the motor size.
+G Motor
+H & I Motor
+7/16" USS flat steel washer
+1/2" x 1-1/2" fender washer
+Apply a generous bead of RED sealant around the ID on the flat surface of the washer. Press the surface of the washer with the sealant against the delay grain assembly until it seats firmly against the catch ring. Center the washer within the ID of the end cap. Use a Q-Tip to remove and clean the sealant from the ID of the washer to expose the surface of the delay grain to the full ID of the washer. Try to keep from scooping sealant out from under the washer. Clean any sealant that may have smeared the inside walls of the end cap. Allow the sealant to cure for another 24 hours.
+
+￼
+APPLYING SEALANT TO DELAY GRAIN ASSEMBLY
+This completes the top end closure with delay grain. Several top end closures can be made at one time. The delay grain is not hygroscopic so they may be store in open air without degradation.
+
+￼  ￼
+COMPLETED TOP END CLOSURE
+
+D. Motor Final Assembly
+Materials List
+Casing and nozzle assembly
+Propellant grain
+Top end closure
+PVC cement and cleaner
+3/4" Schedule 40 PVC pipe
+1" Schedule 40 PVC pipe
+
+1.    G & H Motor
+Cut a 1/8" long ring from the PVC pipe for a spacer between the propellant grain and washer of the top end closure. This will keep the top end surface of the propellant grain exposed as a burn surface. The OD of the spacer depends on the motor size.
+G Motor
+H & I Motor
+3/4" PVC pipe
+1" PVC pipe
+You will need to cut a section from the wall of the 3/4" pipe spacer for the "G" motor so that it can be squeezed to fit inside the 1" casing.
+The casing must be trimmed to its final length. The casing was deliberately cut longer than necessary to allow for a tolerance build up. Remember the saying "measure twice, cut once" during the following instructions. Insert the grain into the casing tight against the nozzle and lay the spacer on top of the grain. To mark where to make the final cut, lay a small dowel or stick on the inside surface of the casing so that it rests against on top of the spacer. With a sharp pencil, place a mark on the dowel at the top edge of the casing. Remove the dowel and lay the dowel against the outside length of the casing so the end of the dowel matches the top edge of the casing. Place a mark on the casing at the mark on the dowel. Do this several times to get an average. Since the saw blade has a finite width, cut the casing to the outside of the mark. It is also important that this cut be square with the casing to provide a good seat for the washer in the top end closure.
+Clean and apply PVC cement to the casing and the inside of the end cap. With the nozzle pointing down, install the end cap onto the casing. Hold the end cap tightly in place until the cement has had a chance to grip the surfaces. Do not push on the top of the delay grain assembly as this might break the seal between the delay grain assembly and the end cap. Allow the glue to cure for at least 12 hours.
+
+2.    I Motor
+The only difference between the "G" and "H" motor and the "I" motor final assembly is the preparation of the 2 segment propellant grain. Cut a second spacer from the 1" PVC pipe for a spacer between the 2 segments of the grain. Apply a narrow ribbon of RED sealant around the outside edge of one end surface of each of the 2 propellant grain segments. Press a spacer over the sealant on one of the segments. Insert the segment into the casing with the spacer up. Slide the second segment with the sealant end down into the casing. Press the 2 segments together. This will form a seal that will prevent gases from the top portion of the motor from flowing around and over the outside surface of the lower segment. The whole grain should be pressed tight against the nozzle.
+
+￼
+"I" MOTOR ASSEMBLY
+The "I" motor is finished by placing a spacer on top of the grain, trimming the casing to final length, and gluing on the top end closure as described above.
+
+3. Ejection charge
+The ejection charge is commercial grade FFFF (4F) black powder. It is sold at sporting stores for use with black powder rifles. You may want to defer charging the delay grain assembly with the black powder until you are at the launch site and preparing to launch the rocket. This will prevent any of the black powder from leaking from the delay grain assembly during storage, handling, and transport.
+The amount of black powder depends on the size of the rocket and the type of parachute ejection system. Too much black powder and you may damage the rocket body or tear the parachute tethers. Too little black powder and the parachute may not deploy. Also if you are using a piston type deployment system, you will only need about half as much powder than you would need with a wadding type system. A long rocket with a large diameter airframe will need more black powder than short rockets having a narrow airframe.
+One gram to 1-1/2 grams should be adequate. A 1/8-teaspoon measure is equal to 0.75 grams of black powder. Use 1 each 1/8-teaspoon plus a little more depending on the particular rocket. After the black powder as been poured into the delay grain cavity, "ball up" some wading and stuff it into the delay grain assembly to fill the rest of the cavity. This will keep the black powder in place during the negative gravity portions of the flight. Place with a single piece of masking tape over the end of the delay grain assembly to hold the wadding in place.
+
+4. PVC motor storage
+Sugar based propellants like KN/Sorbitol are hygroscopic. That is, they absorb moisture form the air. KN/Sorbitol, in particular, gets soft and mushy. If you are not going to use a propellant grain within a few days after it has been prepared, it should be stored in the propellant desiccator storage case. The desiccant will keep the propellant grain dry.
+However, once a motor is assembled, there is no reason why the motor cannot be stored for a long time without special storage. The PVC casing is impervious to moisture and the delay grain is not hygroscopic. Seal the nozzle with duct tape and the motor will become it's own best storage container.  Store your motors in a safe place.
+
+
+Next -- Ignition, Mounting & Conclusion...
+
+￼
+Last updated March 25, 2002
+Return to Top of Page
+Return to Home Page
+

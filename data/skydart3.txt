@@ -1,0 +1,69 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- SkyDart Rocket Flight SD-3
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of Flight SD-3, the third flight of the SkyDart rocket. The SkyDart is a small, simple to construct, and inexpensive sounding rocket that is powered by the A-100M solid rocket motor. The third flight of the SkyDart rocket had two goals. The first, to test the reliability of the Pyrogen - Delay Ejection Device following the successful usage of this device for Flight SD-2. The second goal was for flight testing of a Smoke Tracer. The Smoke Tracer is a device containing a pyrotechnic composition that produces white smoke. The smoke is intended to aid tracking of a rocket primarily during the descent and landing phases of a flight. Such a tracking aid, if successful, could prove useful for high altitude flights, such as the upcoming Frostfire Three flight.
+
+SkyDart Details
+
+	•	The rocket for Flight SD-3 was the same rocket used for SD-2, with the addition of a module that housed the smoke charge. The module location is between the nosecone and the existing fuselage. 
+	•	The motor was once again the A-100M with KNDX (dextrose based) propellant. The propellant mass was 116 grams, including the combustion primer which was painted on all initial burning surfaces (including the core). 
+	•	The Pyrogen-Delay Ejection Device (Pyrogen-DED) was again used for parachute deployment, and was identical to that used for Flight SD-2. The time delay, determined by the depth of the timing hole, was set to 8 seconds. 
+	•	Silica sand ballast (340 grams) was added to the rocket to reduce maximum altitude and downrange drift, as launch conditions were calling for a brisk wind. The total prelaunch mass of the rocket was 3.483 lbs. (1.580 kg.). 
+	•	The Smoke Tracer consisted of 26 grams of a packed powder composition of 50/50 potassium nitrate and sulfur. This formulation, developed by Peter Lee Ericksson (of Crimson Powder fame), had been ground tested earlier to assess its potential effectiveness, and to determine the burning rate. Burning rate of this composition was found to typically be 0.35 mm/sec. The composition was prepared by first thoroughly blending the two constituents, then packing the composition into a cardboard tube of 0.785" (2 mm) inner diameter. To start combustion of the composition, 1 gram of Ignition Powder was packed at the head of the smoke charge. One end of the tube was sealed with a closure made from quick-set anchoring cement. At the other end, a choke was formed also using anchoring cement. A choke is similar to a nozzle, but the throat is a simple hole. The purpose of the choke is to restrict the flow and in doing so, produce a slightly elevated internal pressure which aids stable combustion. The Kn (ratio of grain end area to choke throat area) was 8. The cardboard tube was set into a thin walled steel tube to act as a fire barrier. This assembly was then installed into an additional section of fuselage just aft of the nosecone. Ignition of the smoke charge was done using an electrical igniter. Expected burn duration was 2 minutes. The Smoke Tracer module is illustrated below. 
+￼
+. Smoke Tracer Device as installed in the rocket
+
+Launch Report
+Sunday, December 19, 2004 
+The weather was particularly cold on this day, with a brisk wind out of the north at 25 km/hr. The thermometer read -17oC. (1oF.). We were initially hesitant to brave the -30 windchill condition, but since we had three important static motor tests to perform in addition to the flight, we decided to "go for launch". The sky was mainly clear with scattered clouds, and the bright sun made for good viewing conditions.
+The static tests were conducted first. Two of these tests featured experimental PVC motors loaded with a promising new AN-based formulation, and the third was Rob's "L" class KNDX motor slotted for an upcoming winter launch . All three were particularly successful, setting a positive tempo for the third SkyDart flight.
+I set up the tripod launch pad and Rob rolled out the 500 foot ignition system cable to about half it's length. While installing the lower launch rail, it was noticed that the I-section curtain rail had partly disbonded from the EMT tube to which it had been epoxied. This was undoubtedly a result of the cold. A temporary repair was performed using a strong elastic band. The launch rail was then adjusted to a vertical orientation. The rocket was then slid into position onto the lower launch rail, then the upper rail installed. The motor ignition system was then tested to confirm that it was functioning properly.
+The igniter was then inserted into the rocket motor, attached to the leads of the ignition box, and igniter continuity confirmed. The observers headed to safe viewing locations, and the ignition system was then armed.
+
+￼
+. Author posing with the SkyDart rocket . 
+Click for larger image
+I positioned myself to film the flight with the videocamera, while Rob won the assignment of igniting the Smoke Tracer. A separate electrical ignition system was used for this purpose.
+Rob then hurried to the launch box, did the "all clear" check, and commenced countdown... 5-4-3-2-1-Ignition!
+The now-familiar cloud of smoke appeared at the base of the rocket, then a half second later, SkyDart cleared the launch rail and Flight SD-3 was underway.The acceleration was very rapid -- notably more so than for the preceding flight which was powered by the KNSB propellant. As with the two earlier flights, SkyDart climbed in a very straight and stable manner despite the wind. Following the rocket through the viewfinder was particularly challenging, especially trying to use the zoom buttons with rapidly numbing fingers resulting from the windchill. The rocket began to pitch over as it slowed down near apogee. Just then the ejection charge fired and the parachute deployed and blossomed. The smoke cloud from the ejection charge appeared smaller and more faint, compared to the second flight, owing the the greater altitude (expected to be 920 feet). The rocket then drifted downward. As soon as I attempted to zoom in on the gently descending rocket, the videocamera began to malfunction, with the image become distorted at first, then became completely "snowy". Obviously, the cold windchill took its toll on a device meant for warmer climes. SkyDart touched down after about 40 seconds in an open, grass covered frozen field about 800 feet (250 metres) from the launch pad.
+
+Inspection of the rocket at the landing site indicated that it was in perfect condition and with no apparent damage.
+
+￼
+. Successful conclusion of the third SkyDart flight. 
+Click for larger image
+
+
+Flight SD-2 launch photos:
+1   Rob backs away after electrically igniting Smoke Tracer.
+2   SkyDart on pad prior to liftoff. Smoke can be seen issuing from Smoke Module.
+3   SkyDart begins ascent off the pad.
+4   Liftoff of SkyDart Flight SD-3.
+5   Smoke cloud signalling successful firing of ejection charge, separating rocket into two sections.
+6   Rocket begins to drift down and away from ejection charge smoke cloud. 
+Post-flight Analysis
+Post-flight inspection of the rocket and motor showed that all components were in nearly perfect condition, and that the P-DED once again functioned as designed. The only damage was partial melting of the P-DED aluminum body, which was expected.
+From inspection of the video footage & soundtrack, the following times were excerpted:
+	•	Ignition to liftoff--        0.5 sec.
+	•	Liftoff to burnout --        0.45 sec.
+	•	Liftoff to "pop" sound of ejection charge --       8.5 sec. (est.)
+	•	Liftoff to touchdown --       41 sec. .
+Flight simulation performed using SOAR based on static test data of the A-100M motor with KNDX had indicated that the rocket would reach a peak altitude of approximately 920 feet (280 m.) at 7.5 seconds into the flight. This is consistent with the estimated altitude.
+The actual duration of the DED delay may be calculated from the above data:
+Delay time = 0.45 + 8.5 - 920/1100 = 8.1 seconds (which takes into account sonic lapse time) which is close to the predicted delay of 8.5 seconds.
+Descent rate of the rocket was also calculated from the above data, and determined to be 38 feet/sec. (11.6 m/sec.). This is consistent with the expected descent rate of 38 feet/sec. based on the rocket's mass and the parachute's aerodynamic properties (70 x 22 cm. cross-chute, Cd=0.6).
+The smoke trail produced by the Smoke Tracer device proved to be too faint to be of much value for tracking during descent. The Smoke Tracer may be more suitable as a "post-landing" locating aid. If it were configured to be ignited at touchdown, the smoke produced could conceivably be of benefit in locating the rocket on the ground. For descent tracking, a faster burning composition will be considered, such as the 56/44 KN/Dextrose composition used for the Frostfire One smoke charge.
+For the second time in as many flights, the Pyrogen-DED and associated parachute deployment system proved to work exactly as designed.
+
+￼
+Last updated January 3, 2005
+Back to Home Page
+

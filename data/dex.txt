@@ -1,0 +1,265 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+KN - Dextrose (KNDX) Propellant
+
+Introduction
+Properties of some Sugars
+Effects of Heating Dextrose
+Propellant Formulation
+Preparation and Mixing
+Casting Dextrose-based Propellant
+Quality Control
+Effects of Overheating
+Water Content & Hygroscopicity
+Theoretical Performance
+Propellant Burn Rate
+Assessment
+
+Introduction
+This web page describes the KN-Dextrose rocket propellant, referred to by the acronym KNDX. This propellant is formulated as a heat-fused mixture of potassium nitrate (KN), and dextrose. This propellant was developed as an alternative to the traditional "sugar-based" propellant, KN-Sucrose (KNSU), and the more contemporary KN-Sorbitol (KNSB). Although the sucrose-based propellant is, in many ways, an excellent amateur propellant, there are a number of drawbacks when using sucrose as the fuel/binder, as described on the KNSU web page. With this in mind, several years ago (early 1998) I began to search for an alternative to using sucrose as the rocket fuel. Since sucrose is a carbohydrate (interestingly, carbohydrates are the primary sources of energy of foods), I decided to investigate other forms of similar compounds, starting with other kinds of sugars. Sucrose, often referred to as table sugar, is the most common sugar. Other naturally occurring sugars are:
+	•	Fructose (fruit sugar)
+	•	Lactose (milk sugar)
+	•	Galactose
+	•	Mannose
+	•	Maltose (malt sugar)
+	•	Dextrose (also known as D-glucose)
+Of these, the latter is commonly available commercially. It is sold in the hydrated form as corn sugar, and is typically used in the making of home-brewed beer, and as such, it is available at retail shops that sell such supplies, where it sells for about $3 CAD (=$2 USD) per kg., bulk. It is also available at some pharmacies, sold as an alternative sweetener, however it is more costly (a 500 gram jar costs $4 CAD). This hydrated form of dextrose is known as dextrose monohydrate, which is 91 percent dextrose by weight, with the remainder present as molecular bound water. Dextrose monohydrate can be converted to anhydrous dextrose by dehydration at an elevated temperature, above 50 degrees C, as all the bound water is driven off
+Dextrose monohydrate, as obtained in the white granular form, is essentially identical in appearance to sucrose. It is easily ground to a fine powder by use of a coffee grinder.
+It is interesting to note that dextrose, in the form of blood sugar, is the main energy source for most living organisms.
+￼
+The dextrose molecule is much smaller than the sucrose molecule, in fact, its molecular weight is nearly one half that of sucrose. The chemical formula for sucrose is C12H22O11, and for dextrose, it is C6H12O6. Smaller organic molecules often have a lower melting point (a sought after trait), and also have less tendency to decompose upon heating (also a sought after trait), which is a result of the molecule having less tendency to break up as it "thrashs around" due to thermal agitation.
+As can be seen in Figure 1, the sucrose molecule actually consists as a bound pair of simpler sugars, the dextrose (or alpha glucose) molecule, and the beta fructose molecule. In fact, testing that was performed on dextrose/potassium nitrate mixtures confirmed that the melting point is significantly lower than sucrose-based, and indeed, very little caramelization (decomposition) occurs as a result of normal heating. As far as hygroscopicity is concerned, there is some definite improvement over sucrose-based. The mechanical properties (such as Elastic Modulus) of KNDX propellant are similar to KNSU propellant. 
+Details of the results of testing that was conducted during the development of KNDX, as well as theoretical performance of the KNDX propellant, are presented in this web page.
+
+Properties of some Sugar compounds
+The following is a brief comparison of some physical and thermodynamic properties of Sucrose, Dextrose Monohydrate, and Anhydrous Dextrose sugars:
+Table 1 -- Sugar properties
+
+Sucrose
+Dextrose Monohydrate
+Dextrose (anhydrous)
+Chemical Formula
+C12H22O11
+C6H12O6 . H2O
+C6H12O6
+Molecular Weight (g/mole)
+342.3
+198.18
+180.16
+Melting Point (C.)
+185 (d)
+86 (in its water of hydration)
+146 (d)
+Density (g/cm3)
+1.581
+1.542
+1.562
+Enthalpy of Formation (kJ/mol)
+-2221.2
+
+-1274.5
+Enthalpy of Formation (cal/gram)
+-1549.9
+
+-1689.7
+Appearance
+white granular or
+cohesive powder
+white granular or 
+cohesive powder
+dry white powder
+ d = decomposition initiates upon melting
+
+Effects of Heating Dextrose
+To investigate the potential usefulness of dextrose-based propellant, I conducted a series of experiments, on dextrose alone, as well as on dextrose-based propellent. The first of the series of experiments that were performed was to determine the effects of elevated temperature on dextrose monohydrate (alone). This was done by slowly heating a 250 gram batch of dextrose monohydrate in a stainless steel bowl, over an electric element. The effects of heating were noted (qualitatively, such as appearance, colour change, smell, texture, etc) as well as quantitative changes such as mass and temperature, as a function of time. Some results of this experimentation are summarized in Figure 2.
+
+￼
+
+Figure 2 -- - Effects of elevated temperature on Dextrose Monohydrate
+Note that the anhydrous mass of the sample was calculated to be 180.16/198.18 * 250 = 227 grams. From the graph, the following observations may be made:
+	1	"Melting" of the sample began after 14 minutes of heating, at a temperature of 87 C. deg. It is important to note that this is not melting in the strict sense, rather, the dextrose actually begins to dissolve in it's water of hydration that is liberated. 
+	2	Sample is fully "melted" after about 24 minutes, at a temperature of 125 C. deg. At this point, there is still some water present in the melted sample, the mass of which stays essentially constant until the temperature of the sample reaches the point where decomposition begins (around 167 C. deg.) 
+	3	After all the water of hydration is driven off, and only anhydrous dextrose remains, decomposition occurs more rapidly and mass reduction rapidly occurs, as the dextrose breaks down, which is observed as active bubbling and colour change, beginning with a hint of yellow, progressing eventually to dark amber. 
+	4	The temperature rise of the sample is approximately linear until the point where decomposition begins, then rises at a slower rate. It appears that at this point, thermal energy goes mainly into breaking up the dextrose molecule, rather than raising the thermal energy of the sample. 
+	5	Most of the water of hydration is evaporated during the early phase when the sample is not yet fully melted. This is made apparent by the rapid rate of mass decrease which continues until the sample is largely melted, then a "plateau" is reached, where the mass remains constant for an appreciable period of time. Apparently, once fully melted, the reduced surface area of the liquid sample (compared to powder form) results in a much slower rate of evaporation.
+Click for details of experiment and results...
+
+
+Propellant Formulation
+The standard formulation of KNDX propellant is 65% potassium nitrate (KN) which serves as the oxidizer and 35% Dextrose (SB) which serves as the fuel and binder. This ratio of oxidizer to fuel mass represents a practical upper limit for "solids" loading of a sugar binder, while maintaining good performance and burn rate characteristics. A higher O/F ratio, and thus higher "solids" loading, may give slightly enhanced performance, but leads to a thicker consistency of the melted mixture (slurry). This makes casting more difficult. The effect of using a lower O/F ratio is reduced performance and a slower burning rate. However, the slurry has a thinner consistency, which makes casting a bit easier.
+Potassium nitrate, also known as saltpetre, is a commonly used chemical (used, for example, for pickling meats, and in toothpaste for "sensitive teeth"). I’ve purchased potassium nitrate in 2 kg. lots at a veterinary chemical supply store. Potassium nitrate is also sold as 14-0-45 fertilizer at farm supply stores, typically 98-99% pure. This is by far the most economical form, and the performance is generally no different that purer grades. Sadly, nowadays the sale of potassium nitrate has had restrictions placed on it, making it more challenging for prospective rocket engineers to carry on their calling. Good fortune does shine on those who deserve it, however. It turns out that it is not difficult to synthesize potassium nitrate from a commonly available, non-regulated fertilizer (click for more information).
+It is important to note that 9% of the mass of dextrose monohydrate is bound water. As such, the ratio of potassium nitrate to dextrose monohydrate must be adjusted to achieve a given oxidizer/fuel (O/F) ratio. In other words, the required amount of dextrose monohydrate required in the mixture must be multiplied by 1.1, which is the ratio of Molecular Weights (198.18/180.16). For example, if 100 grams of KNDX propellant of 65/35 O/F ratio is required, the quantity of dextrose monohydrate required is 0.35 * 100 * 1.1 = 38.5 grams. Instead of using dextrose monohydrate, it has been found to be more expedient to use the dessicated form: anhydrous dextrose. Dessicating serves to drives out the water, allowing the unaltered fraction of 35% dextrose to be used. Dessicating is readily done by spreading dextrose monohydrate onto a cooking sheet, to a maximum depth of 2 cm, then placing this into a preheated oven set at 80oC (175 oF.) for between 1 and 1.5 hours. Once cooled, the resulting caked lumps may be reduced to a fine powder by using a flour sifter or by rubbing inside a strainer.
+
+Preparation and Mixing
+
+The first step in preparation of the propellant is to grind, or mill, the potassium nitrate to a fine texture. This may easily be done with the use of an electric coffee grinder, such as that shown in Figure 3. Adding two tablespoons (30ml) to the hopper, the grinder is then run about 15-30 seconds, depending on how finely the KN is to be milled. To facilitate milling, the grinder is slowly "gyrated" about its base. Milling as such will reduce the particle size appreciably. A sieve analysis that was done on three samples of milled KN prills indicated that 50% of the resulting particles are smaller than 74 microns, with most of the remainder being less than 234 microns in size.
+It should be noted that the viscosity of the melted propellant slurry is highly dependant upon how finely of the potassium nitrate is milled. When prepared as described above, the slurry will not be fluid enough to cast, and as such it is necessary to scoop the propellant into the casting mould. The slurry will be more fluid and easier to cast if the potassium nitrate is milled for a shorter time, such as 10 seconds or less. Or if the potassium nitrate is obtained as a fine granular form (similar to table salt), it can be used "as is". The drawback is reduced performance due to less efficient combustion, lower chamber pressure, combined with a slightly longer burn time compared to propellant made with fine-grind oxidizer.
+
+Following the milling process, the two constituents are carefully weighed out using an accurate scale. Enough of the powdered mixture of potassium nitrate and sorbitol has to be prepared to take into account the inevitable waste resulting from the casting procedure, typically 20-25% additional for small batches, less for larger batches.
+After individually weighing out the two constituents, the two are blended together in a single container. Complete mixing of the two is necessary for optimum and consistent performance. I built an electric tumbler for this purpose (Figure 4). The powdered mixture is loaded into a tupperware container, then secured to the rotating drum with rubber bands, then tumbled for several hours. The tumbler rotates at 30 RPM. As a guideline, I allow one hour per hundred grams of powdered mixture. Videoclip of tumbler in action
+Once the mixing operation has been completed, the powdered mixture is transferred immediately to a closed container for safe storage. At this stage, the mixture is readily combustible amd sensible precautions are observed to keep it away from any possible ignition sources.
+
+
+￼
+Figure 3 -- This $15 coffee grinder does a superb job of pulverizing the potassium nitrate to a fine texture.
+
+￼
+Figure 4 --Propellant "dry" mixer
+Casting Dextrose-based Propellant
+
+The casting process involves heating of the powdered mixture until it becomes molten, then casting into a mould to produce the propellant grain of the desired shape. The required temperature that the mixture must attain is just above the melting point of dextrose. The potassium nitrate, which has a much higher melting point, remains as solid particles that partly dissolve in the dextrose. The result is a slurry of solid oxidizer particles suspended in liquid dextrose medium.
+Heating the mixture is done using a thermostatically controlled electric "deep fryer". A thermostatically controlled skillet may also used for heating KNDX.
+It is essential, from a long-term safety consideration, that only a thermostatically controlled heating vessel with no exposed elements be used for heating propellant, the critical intent being that no exposed heating surface is of significantly higher temperature than the melting point of the propellant.
+￼
+
+Figure 5 -- Casting setup for KNDX, employing 'tilt-table' for the heating vessel.
+(click for larger image)
+
+For Dextrose monohydrate-based, the casting temperature should be in the range of 125-135oC., and for anhydrous Dextrose-based, it should be in the range of 135-145 oC. To monitor the temperature of the heated slurry, a dial-type candy thermometer, a digital thermometer equipped with a probe sensor, or an infrared thermometer may be used. I've used all three types and have found the infrared thermometer to be the most convenient.
+The casting procedure involves first preheating the deep fryer or skillet to the required temperature, and maintaining this temperature +/- 5 degrees. Then, starting with about half the total amount, the powdered mix is added, and stirred often to assist melting. Once this has melted, the remaining powdered mix is added. Stirring helps facilitate melting. The initial colour of the melted slurry is nearly colourless, but begins to turn off-white colour as slight caramelization commences. Eventually, the colour will become that of ivory, as the whole mixture becomes fully molten, and is ready to be cast. A colour darker than this implies that the mixture has been heated too long, as caramelization is a function of time as well as temperature. Once all the powdered mixture has been incorporated into the melt, it is further heated and stirred, to eliminate any lumps that may be present. An additional five to ten minutes of heating will bring the slurry up to the casting temperature. Note that the slurry will not become fluid enough to pour. The consistency will remain quite thick, and must be simultaneously poured and scooped with a spoon or spatula onto the funnel, and allowed to flow into the mould. Immediately after loading, the coring tool is inserted into the mould, making certain it is fully inserted all the way down. This completes the casting operation. The mixture is then allowed to cool and harden.
+ Note -- if the colour of the slurry becomes a "peanut butter" or amber colour, this is most likely due to impurities such as anti-caking material in the potassium nitrate. The pH of a saturated aqueous solution of potassium nitrate[1] must be neutral (6.5 - 7.0); impurities tend to make the potassium nitrate strongly alkaline, which leads to this discolourization.
+
+￼
+A silicone spatula is ideal for mixing and scooping
+The KNDX propellant should be removed from the casting mould and the bore rod extracted as soon as the material has fully solidified and cooled (typically an hour or so). It is not necessary for the cast propellant to "cure" for an extended period of time, as is required with KNSB.
+[1] Dissolve 33 grams KN in 100 ml water, bring to room temperature
+
+Casting Dextrose monohydrate-based propellant
+The heating experiments that were conducted on samples of dextrose monohydrate clearly showed that water of hydration which was released upon heating required appreciable time to fully evaporate. The implication is that propellant prepared with dextrose monohydrate will have some moisture remaining in the cast propellant unless it is heated long enough to ensure that all the moisture has been driven off. Otherwise, exactly how much water remains once the propellant has been cast cannot be known for certain. The presence of moisture in the propellant affects certain characteristics. It has been demonstrated by experiments, and by theoretical analysis, that moisture affects the following:
+	•	Physical properties--propellant that was cast immediately after the sample reached the fully melted stage was, when cooled, pliable and could readily be deformed in shape. Oddly though, if the propellant is subjected to a blow, it would crack or even fracture, in a brittle manner. This was discovered when a newly cast grain was accidently dropped onto the floor--several cracks resulted.
+	•	burn rate--significantly affected; the greater the degree of moisture, the slower the burn rate.
+	•	Performance--the theoretical specific impulse is slightly reduced by the presence of water    e.g.  by less than 1%, for 1% water present.
+On the plus side, casting the propellant requires less heating than anhydrous dextrose-based propellant. The mixture melts quickly and forms a slurry that is fairly fluid (with fluidity depending on solids loading, i.e. percentage of potassium nitrate), which may be readily poured and/or scooped.
+The following temperatures were measured during the casting process, utilizing a thermocouple, and are compared to sucrose-based:
+
+Table 2 -- Measured casting temperatures, 65/35 O/F propellant
+
+Dextrose monohydrate-based
+Sucrose-based
+Initial melting
+98 C.
+174 C.
+Fully melted
+123 C.
+184-187 C.
+1st sign of caramelization
+157 C.
+176 C.
+In order to eliminate all residual water from the dextrose monohydrate, it is necessary to heat the melted propellant for a sufficiently long period of time. But how long a heating period? Fortunately, there does seem to be an indicator of the dessicated condition. In Figure 2, it is seen that when all the moisture has been eliminated (mass=anhydrous mass), decomposition commences. At this point, it was observed during the investigation that the colour of the sample showed a tinge of yellow, which soon became more pronounced as the sample was heated further. Therefore, if the propellant is heated until this colour change commences, it is assured that nearly all the moisture has been driven off.
+Casting Anhydrous Dextrose-based propellant
+Certainly the best way to ensure that the cast propellant has minimal residual moisture is to eliminate all the water beforehand. This is done by preparing the propellant mixture using anhydrous dextrose, rather than dextrose monohydrate. Another advantage is that no adjustment to the O/F ratio is required in weighing out the constituents, as is required with the monohydrate.
+When casting the propellant, somewhat greater heating is required before melting will commence. In fact, melting initiates at the known melting point of dextrose (not surprisingly). The following temperatures have been measured during the casting process:
+
+Table 3 -- Measured casting temperatures, 65/35 O/F propellant
+
+Anhydrous Dextrose-based
+Initial melting
+145 C.
+Fully melted
+147 C.
+1st sign of caramelization
+157 C.
+
+When casting propellant prepared with anhydrous dextrose, it is not necessary to continue heating until caramelization commences, indicated by ivory coloured slurry; it may be poured into the mould as soon as the mixture is fully melted and blended.
+Notes on casting dextrose propellant
+	•	The fully melted slurry is fairly thick, and further heating will result in only marginally reduced viscocity. 
+	•	The slurry should be poured & scooped simultaneously into the mould. A spoon with an insulated handle, or better yet a silicone spatual, works well to direct the slurry into the mould. 
+	•	Once all the mixture has been loaded into the mould, a plunger is used to press & compact the mixture and to squeeze out any trapped air. The plunger can be a steel or aluminum rod, of approximately 90% of the diameter of the mould. To prevent the propellant from sticking to the plunger, the plunger is pre-cooled in a freezer for several hours. An alternative plunger design is a hollow metal tube, closed & sealed at one end (see Figure 5). Prior to casting, a couple of ice cubes are dropped into the plunger to chill it.  Compacting the propellant in this manner is very effective in eliminating air bubbles, and the resulting grains typically have a density of 95-97% theoretical. 
+	•	To allow for ease of removal of the coring tool, it is lightly coated with silicon grease (plumbers lubricant works very well). The most effective means to remove the coring tool after the propellant has solidified is to clamp the end of the coring tool in a work vise. The grain is then given a forceful rotational twist. The coring tool will then snap free and can be subsequently withdrawn with mininal effort. 
+The cast propellant should be in the colour range between ivory (#FFFFF0) and beige (#F5F5DC), as illustrrated in Figure 6 below:
+
+￼  ￼
+Figure 6 -- Cast Lambda (left) and Impulser KNDX grains
+Using a Casting Tube
+A casting tube serves as a sleeve into which molten propellant is poured. I typically use a sleeve made from posterboard, rolled into a cylindrical shape. If the grain is to be uninihibited (burning occurs on the grain outer surface) such as for the A-100M Rocket Motor, the casting tube is coated with grease to allow it to be peeled off after the grain has cured. This is also the case when an inhibiting material (such as polyester soaked fabric) is to be applied to the grain after casting.
+Generally, for BATES or other configurations whereby the outer grain surface needs to be inhibited, the casting tube serves an additional function as an inhibitor. In this case, the casting tube intimately bonds to the propellant and becomes a permanent part of the grain. To serve as an effective inhibitor, a paper casting tube must have sufficient thickness. For small motors such as the F70 PVC Rocket Motor 3 or 4 layers of letter paper are sufficient. For larger motors such as the "I-class" Impulser Rocket Motor, two plies of 0.013 inch (0.3mm) posterboard are used. Prior to rolling, the posterboard is made more heat resistant by applying one or two coats of oil-based (not water-based) polyurethane varnish and allowed to fully dry. To form the tube, the posterboard is cut to size, adhesive applied to overlapping region, then rolled firmly around a mandrel of suitable diameter.
+As a paper or posterboard casting tube lacks the rigidity to hold its own shape when loaded with propellant, a Support Tube, into which the casting tube is inserted, is used. The Support Tube can be metal or PVC of a suitable size that snuggly holds the casting tube. As is often the case, finding a tube that is exactly the right fit is unlikely. A tube that fits loosely can be made to work by using a spacer, made from posterboard, that wraps around the casting tube with enough layers to provide a good fit within the Support Tube.
+Photo of Grain Segments for Impulser Motor with Casting Tube Inhibitor
+Curing KNDX under Pressure
+It is important that the casting tube, serving as an inhibitor, bonds completely and intimately to the propellant. As hot propellant shrinks when it cools, under certain circumstances the casting tube may partly disbond from the propellant. I have experienced this anomaly when there is too much residual moisture in the propellant, or when the casting tube material lacks the necessary porosity to adhere fully to the propellant. In the first case, the hot residual moisture in the freshly cast propellant migrates to the grain boundaries, when it encounters the casting tube. There it tends to condense, forming a sticky layer. This tends to be more of a problem with KNDX as compared to KNSB which remains pliable after cooling. As the propellant body cools, it shrinks and slightly pulls away from the casting tube, leading to disbonding in some places. In the second case, an inhibitor material that is not sufficiently porous will not allow the propellant to 'grab' hold. Certain cardboard materials have one side that is particulary smooth and shiny, and propellant does not bond well. I always make sure that this smooth surface forms the outside of the casting tube.
+Another important consideration when casting a propellant grain is that there be no trapped air bubbles or voids. Lifting then tapping the casting mould repeatedly against a table surface (prior to insertion of the coring rod) after filling with propellant helps dispel air, but this remedy is not infallible.
+A very effective solution to avoiding both of these issues is to cure the propellant under pressure. This method eliminates the risk of disbonding, eliminates all trapped air, and results in a consistent propellant grain that has a near-ideal density. I use this method exclusively[1] for. Curing under pressure is achieved by use of a casting mould apparatus that utilizes a compression spring to apply a force to the top surface of the propellant. This force generates a hydrostatic pressure in the body of the propellant, that forces it against its enclosures, consisting of a top cap, a bottom cap and the casting tube (held within the Support Tube). Initially, when the propellant is still hot, only light spring pressure is applied, to squeeze out any trapped air (if overly tightened, hot propellant will ooze out through gaps). After the propellant has largely cooled, full spring pressure is applied and left until the propellant has fully cured.
+Based on my experience, the spring should be chosen to deliver a force, when fully compressed, that develops a pressure in the range of 25-40 pounds per square inch (psi) or 170-275 kPa [2]. Using higher pressure could result in difficulty in removing the grain from the mould.
+Diagram of Pressure Casting Mould Setup Photo of Pressure Casting Mould Setup for Impulser Motor
+  [1] An exception is when using surfactant. Early trials of this method suggest that casting tube bonding is enhanced and trapped air content is minimal.   [2] Recall that pressure equals force divided by area, where area is the cap area acting on the propellant A = 1/4 x 3.14 x (D2 - d2) where D=Cap diameter, d=Cap hole diameter
+
+
+
+Water Content and Hygroscopicity
+After casting, once the grain has cooled, the propellant surfaces may be sticky due to moisture deposition, depending on the relative humidity. The propellant will dry out typically after 24 hours, if placed within a dessicator. A simple dessicator can be made from a tupperware container with a layer of calcium chloride pellets or flakes spread over the bottom pan. Calcium chloride is readily available as an ice & snow melter or as a drying agent for damp environment.
+It would appear that there is a relative humidity (R.H.) threshold that determines whether or not the propellant will be hygroscopic. As with the KNSU propellant, the KNDX propellant is hygroscopic (absorbs moisture from the air). However, the hygroscopic nature of the dextrose propellant is far less severe than sucrose-based. As an ad-hoc experiment, I'd exposed a grain cast from KNDX monohydrate to the open air, and after about two months, it was still bone dry. The R.H. over this duration ranged from 55-60%. At high R.H. levels (around 90%), however, this propellant is indeed very hygroscopic. Interestingly, experimentation has suggested that the resistance to moisture absorption is better if cast as dextrose monohydrate based rather than anhydrous-dextrose based. Perhaps this is a consequence of the lower casting temperature.
+
+Results of hygroscopicity experiment...
+
+Quality Control
+After the casting and demoulding operation has been completed, and a visual examination of the resulting grain segment suggests all is well, how can we know for sure whether the grain is acceptable for firing in a rocket motor? Does it contain hidden flaws such as empty voids or air bubbles? How well is the casting tube (inhibitor) bonded to the propellant? Fortunately, there are two checks we can make to assess the grain quality, checks that I always perform:
+1) Density Check 2) Tap Test
+The first check determines how well packed the cast propellant is. If a grain segment is solidly packed, the segment volume consists entirely of propellant. Often, however, there is a small amount of air, in the form of tiny bubbles, that make up part of the volume. Such air inclusion, if no more than a few percent, has negligible effect on the overall performance of the propellant when fired in a rocket motor.
+On the other hand, if there are sizeable bubbles, or great many of therm, or voids caused by trapped air, the result on motor performance can be significant and detrimental. The increased surface area provides for greater burning area than expected, which can lead to overpressurization (or even CATO) of the motor.
+Fortunately, a simple and effective check can be made to assess how solid a grain segment is. Presence of air results in a lower density of the propellant compared to the ideal case of solidly packed propellant. A Density Check serves to measure the actual density of the segment and compare it to the ideal case. To perform a Density Check, the grain segment is weighed and the volume measured. Density, which is mass divided by volume, is then calculated. This is compared to the ideal density for KNDX which is 1.879 grams/cubic centimetre (g/cc) or 0.0678 lbs per cubic inch. The ratio of actual to ideal density provides a benchmark of quality, as shown in Table 3.
+
+￼
+Table 3 --Propellant density assessment
+Volume of a grain can be measured using an accurate ruler, although using calipers is a more accurate means.
+Grain core diameter typically does not need to be explicitly measured, as it is the same diameter as the coring rod. If a grain is integral with the casting tube, it is necessary to know both the mass and the thickness of the casting tube, which are subtracted from the measured grain mass and diameter.
+For convenience, an MS Excel spreadsheet is available for doing a Density Check: Graindensity.xls
+The Tap Test (also known as Coin Tap Test in aerospace industry) only applies to a grain with an integral casting tube as inhibitor. Is is imperative that the inhibitor be intimately bonded to the propellant to be effective, there must be no disbonding or gap. Such disbonding could allow hot combustion gases to seep in between the inhibitor and the propellant body, increasing the burning area of the propellant. The Tap Test assesses this bond by indicating areas of disbonding.
+The test is performed by taking a coin (larger coin works better) and gently tapping the inhibitor at points all around the grain segment, and noting the sound that the tapping makes. The sound (and feel) should be a solid tap as opposed to a "dull" tap. The tap sound is, of course, difficult to explain in words, it actually takes experience to recognize what is a good tap sound and what is a bad tap sound. I have found that the best technique is to listen to the relative tap sounds at the various tapping points. Each tap should sound identical. Any locations where the tap sound is distinctly different (usually more dull, like tapping on hard rubber versus tapping on hard plastic, for example) signals a possible disbonding. If this occurs only at a single location, its generally not a problem. I have found, for example, that at the seam of a rolled casting tube, a different tap sound is heard. I consider this normal and not a problem.
+What we particularly need to be on the lookout for is a different tap response between grains segments of the same batch. If one of the grain segments of a batch sounds distinctly different, and less solid, that grain's inhibitor may have a flawed bond. When I encounter this, I reject the grain segment and do an examination. The inhibitor is slit lengthwise and carefully peeled away, examining the bond. A flawed bond is usually apparent, as it is easy to peel and there is little or no propellant residue on the inhibitor surface.
+I have, on occasion, noticed that a grain segment may fail a tap test due to residual moisture in the bondline. Placing the segment in a dessicator for a few days often results in a "pass" when the test is redone. On a final note, for grains that are cured under pressure, failing a Tap Test is very rare. Out of perhaps two hundred grain segments that I have produced using this method, only a few have failed a Tap Test due to flawed inhibitor bonding.
+
+Theoretical Performance
+The theoretical performance of the KNDX propellant is essentially the same as that of the KNSU and KNSB propellants. For example, the specific impulse (65/35 O/F) is less than 1% lower than KNSU, the combustion temperature is nearly identical, and the products of combustion are very similar, including the mass fraction of particles in the exhaust. The ideal density of the cast propellant is also nearly identical (1.879 compared to 1.888 g./cu.cm.). Details are given in the KN-Dextrose Chemistry & Performance Characteristics web page.
+
+Effects of Overheating during Casting
+Since the casting process of this propellant involves operation at an elevated temperature, it is important to know how much of a "safety margin" one has, with regard to possible hazards associated with inadvertent overheating.
+To determine the effects of overheating during the casting process, an experiment was performed in which a sample of KNDX (anhydrous) propellant, of 65/35 O/F ratio, was overheated. This involved placing a small sample (approx. 10 grams) of the KNDX powdered mixture into an aluminum pan, and heating the sample with a forced-air heat gun (1400 watt; 1100 deg.F max. rating). A type-K thermocouple (chromel-alumel) was inserted into the mixture to monitor temperature. The setup for this experiment is illustrated in Figure 7.
+
+￼￼
+
+Figure 7 - Setup for propellant "overheating" experiment (left); Remains after conclusion of experiment (right)
+
+Melting of the mixture was rapid, owing to the high output of the heat gun, and brown coloured regions soon appeared in the melted mixture, as rapid decomposition of the dextrose began. The sample soon fully caramelized, with the temperature recorded at 167 C. (333 F.). Interestingly, the temperature of the propellant reached a "plateau" at this point, and would not rise until after several minutes of further heating, after which the propellant was highly decomposed with much charring. Only then did the temperature start to climb, eventually reaching a recorded maximum of 300 C. (572 F.). Heating was stopped at this point, with the propellant failing to ignite (the charred appearance of the remaining propellant after this experiment is shown in Figure 7).
+It would seem that, once decomposition of the dextrose initiates, that the added thermal energy of heating goes solely into decomposing the dextrose, rather than raising the thermal energy (temperature) of the propellant, an rather nice characteristic. As such, it would seem improbable that accidental ignition during casting would occur due to overheating, provided that the proper heating method is employed as described above in the Casting section, given the obvious indicators of overheating, such as severe caramelizing, burnt sugar odour and the fact that auto-ignition occurs at a temperature greater than 300o C.
+
+Suitable protective gear must be worn during the casting operation. These include leather gloves, flame-proof jacket, and complete face shield. Other sensible precautions should also be taken, such as having a fire extinguisher nearby (although it may not extinguish burning propellant, anything else that catches on fire can be extinquished) and keeping anything at all flammable away from the casting operation. I always had a large pail of water nearby. Water can extinguish burning propellant by means of heat absorption and it helps prevent any unburnt propellant from igniting.
+
+Discard any left-over, unused or unsuitable KNSU by dissolving in hot water. Hot water also works extremely well to clean the casting equipment and utenzils. The resulting solution is not harmful to persons or to the environment.
+
+In all the years of my rocketry propellant making, I never had an accident that resulted in injury. Mishaps, and the unexpected, certainly occurred, but because I always took sensible precautionary measures, and considered safety as the number one priority, no harm resulted.
+
+Burn rate
+The burn rate of a propellant is a key parameter used in rocket motor design. This is explained in detail on another web page (Details). Briefly, burn rate will vary dependant upon pressure and temperature. The effect of pressure is far more pronounced. As such, a rather extensive experimental investigation was conducted to determine the effect of pressure upon the burn rate by utilizing a Strand Burner apparatus. Details of this investigation are presented on another web page, but results are summarized in Figure 8. Interestingly, KNDX was found to be exhibit a plateau burn rate behaviour, as can be seen in Figure 8, where the burn rate curve flattens off in the regime between about 800 and 1200 psi. Figure 9 presents the pressure exponent n and burn rate coefficient a at various chamber pressure regimes. The effect of temperature upon burn rate has also been explored, although less extensively. Details are found on the same web page.
+￼
+Figure 8 - Experimental results of the effect of pressure on burn rate
+
+￼
+Figure 9 - Burn rate parameters for KNDX
+Experimentation was conducted on KNDX made with two different burn rate modifiers . The modifiers were red iron oxide and air-float charcoal. It was found that the burn rate was increased by about 20% with the addition of 1% iron oxide, over the full pressure regime explored. The effect of doping the propellant with 1% charcoal was an increase in burn rate throughout the lower pressure regime. Perhaps the most significant effect of these modifiers was to dampen the plateau effect. The details on this experimentation are given in the Burn Rate Experimentation web page.
+Burn rate as a function of Oxidizer/ Fuel (O/F) ratio
+Motor Design Charts for KNDX propellant
+
+Assessment
+Over the past decade and a half, I have developed and successfully fired a number of successful motors which utilize KNDX propellant, including:
+	•	Impulser motor ("I" class)
+	•	Kappa motor ("K" class)
+	•	Juno motor ("J" class)
+	•	A-100M motor ("G" class)
+	•	B-200 motor ("H" class) Designated B-200DX, this motor has been fired a number of times with KNDX propellant
+The delivered performance of the KNDX propellant is essentially identical to that of the KNSU and better than that of the KNSB propellant. Operating in the Kappa motor, the propellant was found to deliver a respectable specific impulse of 137 seconds. More typically, delivered performance is in the 130-133 second range.
+The burn rate of this propellant (at elevated pressure) was found to be somewhat lower than sucrose-based propellant. This allows for the design of a rocket motor with a greater burn time. One drawback of KNDX propellant is the "plateau" burn rate behaviour, which tends to complicate the design process to some degree. However, recent experimentation has shown that the "plateau" behaviour can be suppressed by doping the formulation with charcoal pigment. Iron oxide provides a similar effect, and results in a greater burn rate.
+The KNDX propellant has a considerable advantage over the sucrose-based propellant with regard to ease of casting. The temperature of the melted mixture is significantly lower, which results in an improved safety margin with regard to overheating. Lower casting temperature also leads to the noteworthy advantage of less rapid "freeze-up" of the melted mixture, which results in a better cast product with fewer voids or air bubbles. Decomposition (caramelization) of the propellant due to heating is minimal, and pot life of the melted slurry is superior to that of KNSU (although less than that of KNSB).
+The mechanical properties of cast dextrose-based propellant are very similar to both KNSU and KNSBpropellants, that is, rigid and brittle, whether prepared using monohydrate or anhydrous form of dextrose. However, the strength of dextrose-based propellant (and of the KNSU & KNSB) is appreciable, and does not appear to pose any practical limitations on grain size or geometry.
+The hygroscopic nature of this propellant appears to be less problematic than that of KNSU or KNSB propellants, particularly if cast in the monohydrate form. As well, the ambient relative humidity (R.H.) seems to play a significant role. It would appear that there is a R.H. threshold that determines whether or not the propellant is hygroscopic. It has been determined by experience that if the R.H. is maintained less than approximately 60%, the propellant will remain completely dry to the touch when exposed to the open air.
+
+Download complete report of the dextrose heating experiments  Investigation into use of Dextrose Monohydrate as a Rocket Fuel/Binder
+Download complete report of the burn rate experiments  Measurement of Burn rate versus Pressure for KNDX & KN-Sorbitol
+
+￼
+Last updated June 26, 2018
+Return to Top of Page
+Back to Home Page
+

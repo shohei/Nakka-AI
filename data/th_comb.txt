@@ -1,0 +1,93 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Solid Rocket Motor Theory -- Combustion
+
+Propellant Combustion
+A rocket motor operates on the basic principle of converting heat energy, from chemical reactions, to kinetic energy. In other words, the heat liberated by the combustion of propellant supplies the heat energy; the high velocity exhaust products exiting the motor have gained kinetic energy. This is why the exhaust experiences a significant drop in temperature as it flows through the nozzle (as is shown later), a requirement of the thermodynamics law of "conservation of energy".
+Combustion is "simply" an exothermic chemical reaction. To get the 'ball rolling', an external heat source is required (igniter) to supply the necessary energy to a threshold level. This combustion is represented by a chemical equation. For example, for 65/35 O/F KN/Sucrose propellant, the combustion equation is given by (reactants -> products):
+C12H22O11 + 6.29 KNO3    ->    3.80 CO2 + 5.21 CO + 7.79 H2O + 3.07 H2 + 3.14 N2 + 3.00 K2CO3 + 0.27 KOH
+
+where the following compounds are symbolized as:
+
+sucrose
+solid
+C12H22O11
+potassium nitrate
+solid
+KNO3
+carbon dioxide
+gas
+CO2
+carbon monoxide
+gas
+CO
+steam
+gas
+H2O
+hydrogen
+gas
+H2
+nitrogen
+gas
+N2
+potassium carbonate
+liquid
+K2CO3
+potassium hydroxide
+liquid
+KOH
+Trace quantities of other compounds form, such as KH, and CH4, but these can be ignored with little consequence.
+Derivation of the complete combustion equation is potentially the most complex step in the analysis of a rocket motor. The propellant is burned, at (assumed) constant pressure, and forms a set of molecular products that are in thermal and chemical equilibrium with each other. The first step is to assume what the products of combustion might be. For propellants containing only carbon, oxygen, hydrogen, and nitrogen (C,H,O & N) there are (at least) twelve possible products -- carbon, carbon dioxide, carbon monoxide, hydrogen, steam, oxygen, nitrogen, nitric oxide as well as the dissociation products H, O, N and OH. If the propellant contains metallic elements such as potassium (K), sodium (Na), or aluminum (Al), or contains Chlorine (Cl) , this will result in condensed (liquid or solid) products of combustion, such as potassium carbonate, (or sodium equivalents), aluminum oxide or potassium chloride (KCl).
+Once a set of possible products has been arrived at, the next step is to determine the mole numbers (or fractions) that will result. The mole numbers are the coefficients in the chemical equation. For the example above, the mole numbers are 3.67, 5.19, 7.91, 3.09, 3.14 and 3.14 for CO2, CO, H2O, H2, N2 and K2CO3, respectively, for the combustion of the reactants, being 1 mole sucrose and 6.29 moles of KNO3.
+Determining the mole numbers is accomplished by simultaneously solving a set of equations relating the reactants and products with respect to the conditions of :
+	•	Mass balance
+	•	Chemical equilibrium conditions
+	•	Energy balance
+Mass balance is straightforward, and refers to the principal of conservation of mass. The number of moles of any given element (e.g. C,H,O,N) before a chemical reaction must be equal to that after a chemical reaction. In the example above, the number of moles of atoms in the reactants are:
+12 C atoms, 22 H atoms, 3*6.29=29.87 O atoms, 6.29 K atoms, and 6.29 N atoms,
+and in the products:
+3.67+5.19+3.14=12 C atoms, 2*7.91+2*3.09=22 H atoms, 3*6.29=29.87 O atoms, and 2*3.14=6.29 (rounded) K & N atoms. The requirement of mass balance is met.
+Many reactants, when mixed in definite quantities, react to form products only, in a so-called irreversible reaction. An example is the burning of a propellant (hence the "->" symbol in the equation). In a reversible reaction, however, the process goes both ways. Reactants form into products at the same rate that products form into the original reactants. This is the type of reaction with which chemical equilibrium conditions of hot combustion products are concerned. For example, the reaction
+
+2 H2 + O2 <-> 2 H2O         is a reversible reaction       see Note 1
+
+But what determines the relative concentration of these constituents (i.e. whether the reaction will proceed more to the left or to the right in this equation)? For each equation like this, there is an equilibrium constant (Kp) associated with it that determines this. This constant is a function of the temperature at which the reaction is occurring, and is essentially independent of other physical conditions, such as pressure. Values for various Kp can be found in thermochemical tables, such as the JANAF tables.
+For the general reversible reaction:
+￼
+the chemical equilibrium equation is of the form:
+￼
+where y is the equilibrium mole fraction of the A,B,C and D constituents, ￼ is the coefficient for each constituent (2,1, and 2 in the above example for the constituents H2, O2, and H2O).
+The term P/Po represents the ratio of pressure at which the reaction occurs, and the reference (standard state) pressure. It should be noted that the equilibrium of the combustion gases is very sensitive to temperature. Products existing at a high combustion temperature are very different from those existing at a lower combustion temperature. At high temperatures (above 3000 K), dissociation of the products occurs, as thermal energy causes the products to break up into simpler and monatomic constituents, such as
+
+H2O <-> HO + 1/2 H2
+O2 <-> 2 O
+H2 <-> 2 H
+At lower combustion temperatures, negligible quantities of these constituents form (e.g. for KN/Sucrose combustion). Dissociation consumes energy that would otherwise be available for conversion to kinetic energy of the exhaust, and tends to limit the combustion temperature.
+With the stated assumption of adiabatic combustion (no heat is lost to the surroundings) and well as the assumption of no changes in potential or kinetic energy, the law of conservation of energy states that the enthalpy of the reactants is equal to the enthalpy of the products:
+HR = H P
+Enthalpy can be looked upon as the heat involved in a chemical reaction. Put in another way, consider a reaction involving n moles of each reactant (represented by subscript i), and n moles of each product (subscript e)
+
+￼
+
+The above equation states that the sum of the enthalpy of formation (hf ) plus the change of enthalpy (￼), times the number of moles (n) for each constituent, is equal for both the reactants and the products. Note that ￼ represents the change in enthalpy from a reference temperature, typically 298K (25C). For this reason, ￼ is equal to zero for the reactants if the initial temperature of the propellant is assumed to be at this temperature. 
+Both, hf and ￼ for reactants and products may be found in thermochemical tables, for example, the JANAF tables or the NIST Chemistry WebBook.
+The above equation is particularly useful, as it allows us the means to calculate the combustion temperature, which is usually referred to as the adiabatic flame temperature (AFT). Also, from this equation, it can be seen that a larger heat of formation of the reactants (per unit mass) is desirable, as is a smaller heat of formation of the products, since this will result in greater ￼ available for the products (thus higher AFT). Indeed, the presence of diatomic gases (e.g. H2, N2) in the products is generally desirable simply because the heat of formation of these gases is zero.
+A worked example of calculating the combustion temperature for KN/Sucrose, 65/35 O/F ratio, is given in Appendix A
+
+The above describes a complete set of information that is necessary in order to determine the complete combustion process. We now have a series of unknowns parameters, and equations that will allow for solution of the unknowns. In summary, the unknown parameters are:
+	1	The mole numbers (coefficients) in the mass balance equation
+	2	The mole fractions in the chemical equilibrium equations
+	3	The Adiabatic Flame Temperature
+	4	￼ values, these being a function of temperature
+	5	The (chamber) pressure at which the reaction occurs
+
+Needless to say, this is not a simple task. The only practical way to solve the combustion problem is a computer solution, that is, to utilize an iterative procedure. This involves first assuming a chamber pressure at which the combustion occurs (the results are only weakly dependant upon pressure). The iterations of solving the equations begin at an assumed combustion temperature (AFT). These two assumptions allow the mole numbers and mole fractions to be determined for those initial conditions. Based on these determined values, a new AFT is computed using the energy equation. This value of AFT is then used in the next iteration to compute mole numbers and mole fraction, and so on. Eventually, convergence is (hopefully) reached and the final solution obtained. In fact, several years ago I wrote such a computer program tailored to analyze the combustion of the KN/Sucrose propellant, at varying O/F ratios. Indeed, it was not a small undertaking, but worked out well in the end.
+Fortunately, it is no longer necessary for the interested amateur rocketry enthusiast to have to write such a program for the combustion analysis of a particular propellant, as there is software available that will do this job admirably and with great flexibility -- such as PROPEP, GUIPEP, or CET, which will be discussed later.
+Next -- Nozzle Theory
+
+￼
+Last updated  July 5, 2001
+Back to Theory Index Page Back to Index Page
+

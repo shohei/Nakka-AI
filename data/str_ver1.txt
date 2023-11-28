@@ -1,0 +1,26 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Strain gage Load Cell -- FEM Verification Models
+
+A number of Finite Element Method (FEM) models were created to verify the design methodology for the strain gage based load cell. The stress plot for two of these models is given below. Both load cells are identical except for the hole size.
+
+
+￼
+Load cell data and design prediction::
+￼
+
+
+￼
+Load cell data and design prediction::
+￼
+
+The comparisons indicate that the predictions become more accurate as the hole size approaches the body width. With a relatively small hole, the design methodology tends to over-predict the stress (and thus strain) levels.
+
+￼
+Last updated April 2, 2000
+Return to Top of Page
+
+Back to Home Page
+

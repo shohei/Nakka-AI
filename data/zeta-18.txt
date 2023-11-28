@@ -1,0 +1,120 @@
+ 
+Basic Information
+Name
+Z-18
+Launch date:
+25 July, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- aluminum nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+- Side-facing microcamcorder
+Liftoff mass
+2.011 kg.
+Flight objectives
+- Low altitude flight with A-100M motor
+- Assess Raven reconfiguration with incorporation of time-delay
+- Assess side-facing camera
+ 
+Motor details
+Motor name
+A-100M
+Propellant
+KNSB-RIO
+Grain mass
+129 grams
+Nominal impulse
+152 N-sec
+Class
+G
+ 
+Additional information
+Due to premature deployment of chute for Flight Z-17, a 2.5 second time delay was added to the pyro activation criteria for main deployment, as well as apogee backup.
+The number of Avbay static ports was increased from 4 to 8 (1.5mm diameter).
+Minicamcorder was not flown; instead placed about 15 feet (4.5m) from pad to capture lift off.
+ 
+Weather conditions
+Temperature
+30°C
+Wind
+SSW 5 km/hr
+Sky
+Sunny with scattered clouds
+Other
+Humidity 47%
+ 
+Launch Event Description
+ Setup of the rocket once gain went smoothly with no glitches. Raven confirmed all three pyro charges had continuity. A video camera was set up about 15 feet from the pad to capture liftoff from up close. After verifying the sky was clear, the countdown proceeded and at “zero” the rocket immediately came to life, rapidly accelerating skyward, with a very short, powerful burn. The rocket ascended straight as an arrow, reached apogee and shortly after, the apogee pyro charge fired, as indicated by a bright smoke cloud. The rocket then free fell, making something of a whining sound.  A short while later the main pyro charge fired and the parachute immediately deployed and fully blossomed. Rocket slowly drifted down to earth in a very stable manner, landing about a half minute later in a grass/alfalfa covered field, not far from launch pad. Tracker was used to record direction of touchdown site. The rocket was soon recovered and appeared to be in great shape.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+6.6
+661
+201
+Separation
+7.9
+652
+199
+Main deployment
+12.5
+375
+114
+Touchdown
+30.9
+ 
+ 
+Range
+ 
+356
+109
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.4
+22.4
+ 
+Main parachute
+17.3
+5.3
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in nearly perfect shape after landing (exception was one launch lug that broke off). The Raven data was good, and indicated nominal functioning of the pyro channels. Maximum acceleration of 37 Gs was experienced by the rocket.  The side-facing on-board video footage was quite good, despite a fair roll-rate of the rocket during ascent.
+The hand-held video footage was particularly good, as I captured the rocket during the entire ascent including the apogee separation event (the scope tube was of great help in tracking), as well as most of the descent.
+The one anomaly of Flight Z-18 was the large difference between recorded apogee (661 ft.) and predicted altitude (890 ft.). The motor performed better than expected, based on thrust data derived from Raven axial acceleration. The rocket flew very stable and essentially straight vertical. No reason for the discrepancy has been found, to date.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-18\Z-18_Raven.jpg
+ 
+Photos:                                                                                                         
+My brother Blair setting up launch rods                                                 Z-18\DSCF3665a.JPG
+Launch wagon worked great for hauling supplies                                Z-18\DSCF3666a.JPG
+Using weather vane to determine wind direction                                Z-18\DSCF3672a.JPG
+Moment of liftoff                                                                                        Z-18\Z-18_capture6.jpg 
+Z-18 roars off the pad…!                                                                            Z-18\Z-18_capture1.jpg
+Coasting straight as an arrow following burnout                                 Z-18\Z-18_capture2.jpg
+Apogee separation event                                                                          Z-18\Z-18_capture3.jpg
+Stable descent                                                                                              Z-18\Z-18_capture4.jpg
+Nearly down                                                                                                 Z-18\Z-18_capture5.jpg
+Rocket landing site                                                                                      Z-18\DSCF3670a.JPG
+                                                                                                                       
+Videos:                                                                                                         
+Flight Z-18 (hand-held camera)                                                                 Z-18\Flight_Z-18.mp4
+Liftoff (pad camera)                                                                                    Z-18\Flight_Z-18_pad_camera.mp4
+ 
+Misc:
+A-100M motor performance                                                                    Z-18\Z-18_A-100M_performance.jpg
+ 
+ 
+ 
+ 
+ 

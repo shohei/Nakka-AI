@@ -1,0 +1,139 @@
+ 
+Basic Information
+Name
+Z-16
+Launch date:
+26 June, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+- Boat-tail added
+Payload
+-Raven altimeter
+- Smoke charge (initiated by purpose-made module at apogee)
+- Out-board microcamcorder
+- BRB900 GPS transmitter
+Liftoff mass
+2.364 kg.
+Flight objectives
+- Higher altitude flight with Impulser-X motor
+- Test activation module for Smoke Tracking charge.
+- Track landing using BRB transmitter beacon
+- Assess side-facing camera
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+367 grams
+Nominal impulse
+432 N-sec
+Class
+I
+ 
+Additional information
+Due to the additional length of the Impulser-X motor, a boat-tail was added to the aft end of the rocket body. The minicamcorder was not flown, as the CG would have been too far aft to have an acceptable aerodynamic stability margin. The minicamcorder was instead placed about 10 feet (3m.) from the launch pad, facing skyward, to capture liftoff from a different vantage point. A newly made “launch wagon” was tested for the first time. This was used to facilitate transport of launch support equipment to the launch site.
+ 
+Weather conditions
+Temperature
+25°C
+Wind
+SSW 5 km/hr
+Sky
+Sky thin haze with broken nimbus clouds; sun partially obscured by haze.
+Other
+Launched about 1 hour prior to sunset
+ 
+Launch Event Description
+The new launch wagon worked quite well. A number of “product improvement” ideas were made note of. When we arrived at the launch site, setup of the rocket went smoothly. Raven confirmed all four pyro charges had continuity. Flashing LED verified that Smoke Charge module was set. After verifying the sky was clear, the countdown proceeded and at “zero” the rocket immediately came to life, rapidly accelerating skyward, at a quicker pace than previously. The rocket quickly disappeared from sight. We anticipated a 20 delay before we’d hear the ‘pop’ of the apogee ejection charge, based on a SIM that was done prior to the flight. After about that time, a faint ‘pop’ was heard. No sign of smoke trail was apparent. Another 45 seconds passed before the rocket was sighted, free-falling. At that point, it was about 1000 feet altitude. The rocket continued to free-fall, the two sections connected by a tether. It was soon apparent that the chute was not going to deploy. The rocket landed in an area thick with tall grass and alfalfa, not far from the launch pad.
+ 
+We entered the BRB GPS coordinates into the hand-held GPS unit, which pointed toward the downed rocket and indicated a range of 250 feet (75 m.) from where we were situated. We proceeded to head toward the landing site. The grass was so tall it was impossible to see the rocket sections until we were right upon them. They were found within 11 feet of where the GPS coordinates had indicated. Each section of the rocket fortuitously landed on a thatch of alfalfa and appeared undamaged. The nosecone was still secured to the forward section.
+ 
+The Raven was beeping once every 2 seconds, which seemed odd as this indicated the Raven was waiting for launch. The unit was then switched off as a precaution.  The BRB, SCSL module and microcamcorder were also powered down.
+ 
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.77
+3993
+1217
+Separation
+16.80
+3979
+1213
+Main deployment
+-
+-
+-
+Touchdown
+75 *
+ 
+ 
+Range
+ 
+130
+40
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+71.5*
+21.8
+ 
+Main parachute
+-
+-
+ 
+* from BRB data
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket suffered no damage from the hard landing. The Raven data was anomalous. Downloaded as two files, the first contained flight data which abruptly ended shortly after the apogee separation event. The voltage trace indicated a voltage drop leading up to the moment of shutdown. Post-flight examination of the Raven revealed that a terminal block connection from the battery lead was loose. All terminal block connections are normally checked and verified before flight. An oversight on this occasion meant that this was not carried out, with subsequent consequence that the loose connection resulted in an interruption in voltage supply, likely a result of the jarring action of the apogee separation event. The second file contained meaningless data, clearly generated when the Raven re-started post-landing.
+Good BRB tracking data was obtained. The GPS data definitely helped facilitate recovery of the rocket due to the nature of the landing area. The GPS data was also useful in determining total flight time as well as descent rate, which are normally extracted from Raven data.
+The “collapsible tether anchor” worked as intended and successfully fired the smoke charge igniter. However, this had failed to initiate the smoke charge. Post-flight examination of the smoke charge material indicated significant residual moisture, which likely inhibited ignition.
+The side-facing video footage was very “foggy” and consequently of no value. Examination of the camera revealed a small piece of foreign matter on the lens opening (which is very tiny). This was removed and the camera tested. Footage showed that the problem was resolved.
+The Impulser-X motor performed well, boosting the rocket to within 3% of SIM prediction. The motor was in pristine condition when opened up for examination and cleaning.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-16\Z-16_Raven.jpg
+Axial acceleration during motor boost                                                   Z-16\Z-16_Raven_acc.jpg
+ 
+BRB GPS data:
+Track of rocket projected onto launch site map                                   Z-16\Z-16_BRB_track.jpg
+ 
+Photos:                                                                                                         
+Boat-tail                                                                                                        Z-16\DSCF3634.JPG
+Impulser-X motor                                                                                        Z-16\DSCF3629.JPG
+                                                                                                                        Z-16\DSCF3632.JPG
+Launch wagon                                                                                              Z-16\DSC00095.JPG
+                                                                                                                        Z-16\DSC00096.JPG
+Liftoff…!                                                                                                        Z-16\capture1.jpg
+                                                                                                                        Z-16\capture2.jpg
+                                                                                                                        Z-16\capture3.jpg
+                                                                                                                        Z-16\capture4.jpg
+Rocket free-falling                                                                                      Z-16\capture5.jpg
+                                                                                                                        Z-16\capture6.jpg
+View from launch pad camera                                                                  Z-16\capture_pad1.jpg
+                                                                                                                        Z-16\capture_pad2.jpg
+ 
+Videos:                                                                                                         
+Launch (hand-held camera)                                                                       Z-16\Z-16_launch.mp4
+Launch (pad camera)                                                                                  Z-16\Z-16_Pad_Camera.mp4
+ 
+Misc:
+SOAR SIM file                                                                                               Z-16\SOAR_Z-16.txt
+New & improved scope tube mount                                                       Z-16\DSC00100.JPG
+ 
+ 
+ 
+ 
+ 
+ 
+ 

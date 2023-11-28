@@ -1,0 +1,42 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Propellant Combustion Chemistry
+PROPEP Analysis
+Design Parameters 
+PROPEP Analysis
+Knowledge of the combustion chemistry for the RNX propellants is necessasry to be able to design a rocket motor and to predict its performance. Propellant combustion analysis is performed through the use of GUIPEP Propellant Performance Software. GUIPEP is basically PROPEP (Propellant Evaluation Program) software with a Graphical User Interface (GUI) added to simplify usage of the program (thanks to Arthur J. Lekstutis). This highly useful thermochemical software allows the user to evaluate the theoretical performance of a rocket propellant based upon thermochemical characteristics of its ingredients and how they interact during combustion to generate gaseous (and condensed phase) products. GUIPEP has an extensive ingredients list from which to choose and additional ingredients can be readily added to the pepcoded.daf input file. It is only necessary to know the chemical formula and heat of formation for a new ingredient entry. For the RNX propellants, West Systems and East System epoxy (used to make RNX-71V and RNX-57, respectively) are not present in the list of reactants. If the required input data for these two epoxies were available, such could be added to the GUIPEP input file. However, being proprietary, such information is not available. Fortuitously, there is in the list of ingredients an epoxy, deemed Epoxy 201.
+
+￼
+The entry line indicates a chemical formula with 24 hydrogen atoms, 16 carbon atoms and 4 oxygen atoms, with a heat of formation of -661 calories/gram. The value of 0.0404 represents mass density in pounds per cubic inch. Note that the density entry is not required for the thermochemical analysis of a propellant, it is merely used to calculate propellant density. Although it is not known how closely Epoxy 201 represents the chemistry of West or East epoxies, it will be assumed that it provides a reasonably close match.
+Figures 1 and 2 show the combustion results of the PROPEP analyses for the RNX propellants at 1000 psi chamber pressure.
+
+￼
+Figure 1 -- PROPEP results for RNX-71V
+
+
+￼
+Figure 2 -- PROPEP results for RNX-57
+
+
+Design Parameters
+GUIPEP combustion results provide certain useful parameters, such as a table of combustion products, the number of moles of each, and whether these are gas or condensed. As well, chamber adiabatic combustion temperature is given, which is very important, not only for calculating theoretical performance, but also for the choice of the nozzle material and assessing the need for motor chamber insulation. Note that the molar mass of products cannot be used without modifying the results to take into account the effects of two-phase flow that occurs in a rocket motor. This is important for RNX propellant which contains a prodigious amount of condensed phase product. We can calculate the amount of condensed-phase as such:
+The mass fraction of condensed-phase, X, is given by the mass of the condensed phase (K2CO3, Fe and FeO) divided by the system mass. Knowing the molar mass of the condensed phase products allows the mass fraction to be calculated. For RNX-71V:
+M(K2CO3) = 138.21 g/mole M(Fe) = 55.85 g/mole M(FeO) = 71.844 g/mole
+Thus        ￼
+The percentage of condensed phase in the exhaust is 52.4%, no wonder there's so much smoke! Clearly the combustion analysis needs to account for the condensed phase. As explained in the Introduction to Solid Rocket Motor Theory web page on Two-Phase Flow, the properties that need to be modified to account for two-phase flow are the Molecular Weight (molar mass) and the Isentropic Exponent of the exhaust products. The latter is also referred to as the ratio of specific heats, symbolized by the letter k.
+The effective Molecular Weight is given by dividing the number of GAS moles into the system mass. Since the system mass in the GUIPEP run is 100 grams:
+￼
+A similar analysis for RNX-57 gives the following:
+X = 0.539 MW(effective) = 45.19 g/mole
+The modified isentropic exponent takes two forms, one for conditions where flow velocity (or actually, acceleration) is low, and the other for conditions of flow with high acceleration. Where flow acceleration is low, such as in the combustion chamber, a value for the combustion product mixture is calculated. This parameter is deemed kmix. This is the form of k that is applicable when calculating chamber pressure and characteristic velocity.
+Where flow velocity and acceleration are high, such as in the nozzle, and condensed-phase exists, the condition of two-phase flow exists. A modified isentropic exponent is used to account for this condition. This parameter is deemed k2ph and is applicable to the calculation of parameters such as exhaust velocity, thrust and specific impulse.
+The calculation of kmix and k2ph for RNX-71V is given in Technical Notepad #7 -- RNX-71V Ideal Performance Calculations and for RNX-57 is provided in Technical Notepad #8 -- RNX-57 Ideal Performance Calculations.
+Next -- RNX Performance and Motor Design
+
+￼
+Last updated  July 4, 2018
+Back to RNX Index Page
+Back to Home Page
+

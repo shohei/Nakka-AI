@@ -1,0 +1,88 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Lecture on Rocketry Presented in Luleå, Sweden
+
+￼
+
+The possibility of presenting a lecture on the topic of Amateur Experimental Rocketry (AER) was first discussed with Peter Lee Ericksson early last year. Peter, a chemistry major who maintains a keen interest in pyrotechnics and rocketry, and who resides in the town of Luleå in northern Sweden, made the suggestion. I indicated to him that I was keen to participate, as this sounded like an exciting and rewarding opportunity. This would certainly be a new challenge for me. Not only because I had not made such a presentation before, but also because it meant preparing a suitable lecture that would be interesting and at the same time informative and reasonably concise.
+The plan took time to coalesce, but it all came together late this summer. I received the airline tickets in the mail in late August, with my departure date set for the 29th of September, with return on the 5th of October. The plan was to present two lectures, one at Teknikens Hus, and a repeat lecture at the Physics Department at the Luleå University of Technology two days later. Teknikens Hus is a science center, or "house of technology" dedicated to the dissemination of knowledge and appreciation of technology to the general public.As well, there would be two sessions held at Teknikens Hus where Peter and I would oversee a display on rocketry, which would be open to the general public.
+I began work on the lecture material in early September. Using PowerPoint software, I compiled what seemed to be suitable presentation material, enhanced by the inclusion of both photographs and video clips. There was so much information that I would have liked to include, but I had to "put it through a sieve" such that the duration of the lecture was kept within the allotted hour and a half timeframe. This proved to be something of a challenge, as there were several topics that I wished to cover for the sake of completeness. Additionally, I wanted to balance the technical material between general concepts and "necessary" details. This was perhaps the greatest challenge. I eventually trimmed the lecture down to 155 slides, and trials indicated that I was (barely) within the slotted time duration of 90 minutes, as long as no unforseen circumstances should arise during the presentation!
+The final cut of the presentation contained the following topics:
+	•	What is AER ?
+	•	History of AER
+	•	My early experiences with rocketry
+	•	Types of rocket motors
+	•	Rocket motor performance basics
+	•	Rocket motor classification
+	•	Solid rocket motors
+	•	The rocket nozzle
+	•	Rocket motor chamber pressure
+	•	Amateur experimental propellants
+	•	Solid rocket motor construction
+	•	Rocket motor structural design
+	•	Rocket motor testing
+	•	Hybrid rocket motor design
+	•	Rocket recovery systems
+	•	Payloads
+	•	Current projects
+
+Wednesday, Sept. 29, 2004 - Departure day
+I thought then to myself that surely the "travel gods" must have been trying to even the score. I've done a fair amount of travelling in my days, and have rarely had any problems with flights or connections. On this day, however, misfortunate began nearly as soon as I left the house to head to the airport. I ended up getting caught in the worst traffic gridlock on the 401 expressway that I've experienced in my 16 years of daily commute in Toronto. An accident (overturned semi) closed down the express lanes, and all traffic was channelled into the collector lanes. As fate would have it, construction narrowed the flow (normally 10 lanes) down to a single lane. Despite losing nearly two hours due to this calamity, I arrived at the departure gate on time, stressed but thankful that I've always made it a habit of going to the airport well ahead of time. As it turns out, departure of my flight to Newark was delayed an hour. Great. This would provide me a mere ½ hour to make my connection in Newark for the flight to Stockholm.
+When I arrived at Newark Liberty Airport, I made a mad dash for the gate, located in another terminal, and surprisingly managed to get there more or less on time, despite enduring the usual queue at the security checkpoint and having to find my way around an airport I'd never before been to. But then another blow -- my flight was not posted. I checked with the SAS attendant, who informed me that my flight overseas had been cancelled. She was surprised that I'd gotten through security, as my boarding pass was apparently invalid due to the flight cancellation. At least this way I ended up receiving 1st rate personalized service, as I was the only passenger wanna-be on defunct flight SK904 to have gotten as far as the gate. Empathically, she duly rebooked my flights, putting me on another flight (leaving six hours later, at midnight, to Copenhagen), went with me to locate and redirect my luggage, and topped it off by obtaining a meal voucher for me (thanks, Jove, for everything). I enjoyed a tasty steak dinner at "TGI Friday" restaurant and had a chance to unwind a bit in the interim.
+The flight to Copenhagen, on a new Airbus A340-300, was a relaxing one and I even slept for several hours. The rest of the journey, from Copenhagen to Stockholm, then on to Luleå went basically well, although the connection time in Stockholm was just barely sufficient, resulting in another frenzied rush to the domestic terminal and then to the waiting airplane. Thankfully, my seatmate on the flight to Stockholm, a Finnish girl, was also flying on to Luleå, and knew her way around the airport. As such, precious time was conserved (thanks, Anu). As a final affront, my seat on that final leg, aboard an aging MD-80, was at the very rear of the airplane right next to the fuselage-mounted engine (not only noisy, but smack in the rotorburst zone). I finally arrived in Luleå, tired and seven hours late, but thankful that Peter was there to meet me and that he'd been resourceful in finding out my revised travel route and arrival time. It was now past seven in the evening, local time. Despite all, I felt sufficiently refreshed that Peter, his girlfriend Sofia, and I went out for supper at the "Waldorf" restaurant, before calling it a long day's night.
+
+Friday, Oct. 1st, 2004 - 1st full day in Luleå
+My one day to dispense of jet-lag.. After a restful night's sleep and a good breakfast, Peter and I discussed rocketry as he showed me his impressive collection of rocket related hardware. We experimented with nitrate-based igniters, testing some promising formulations. This was a subject that we'd discussed and experimented with earlier quite extensively, albeit on a "long distance" basis. We, naturally, found it far more effective to work together on a real-time, same-site basis. Testing went well. The rest of the afternoon and early evening was devoted to a bit of sightseeing, shopping and photo-taking in downtown Luleå, which is a very pretty, technology-oriented town of about 60,000 situated on the Gulf of Bothnia. The distinctive Swedish architecture was a treat to photograph.
+Later in the evening, Peter, his friend Samuel, and Sofia hosted a fabulous supper of crawfish, shrimp, exotic fruit and delectable Lindt chocolates as a fine finishing touch to the meal. A very nice evening of getting acquainted, perhaps highlighted by Peter's dazzling rendition of Jerry Lee Lewis's "Great Balls of Fire" on his piano.
+￼   Central Luleå   ￼   Beautiful architecture
+￼   Luleå harbour   ￼   Author  
+
+Saturday, Oct. 2nd, 2004 - Display and Lecture at Teknikens Hus
+The rocketry display and "Ask Peter & Richard" session at Teknikens Hus was held between 11:30-2:00PM. We arrived early with plenty of Peter's rocketry paraphernalia to set up on the display table. Teknikens Hus ("house of technology"), is a science centre with themes such as geology, mining technology, energy and steel production, forestry, wood and paper technology, water technology, aerospace, household technology and other technologies that play an important role in Sweden's economy. Many of the exhibits are "hands on" (I enjoyed making a sheet of paper from pulp, and of course, taking the controls of a Saab 340 aircraft). After the display session, Peter performed a couple of demonstration launches of model rockets on the grounds outside the facility.
+After attending the launches, I set up my laptop computer in the auditorium in preparation for the lecture. About 25 visitors were in attendance, and once started, the presentation proceeded smoothly. I enjoyed discussing topics that were close to my heart, and I sensed the audience knew and appreciated this. All went well until about 2/3 ways through, at which point in time I clumsily spilled a glass of water onto the desk that held my laptop. As fate would have it, some of the water found its way into the connectors at the back of the computer, and shortly thereafter, the projection screen went blank. With the help of an audience member and a hairdryer, the show was luckily back on the road after a brief delay (thanks, Stefan!). But the luck was short-lived, as the computer display gave out, apparently victimized by residual moisture. Helena Lilja, director of Teknikens Hus, promptly found a replacement laptop, allowing the lecture to finish without further technical glitches. A question period followed, and judging by the number and content of the questions that the lecture had sparked, the affair appeared to have been a success. Celebration was in order, and as such, we went out for supper to "Old Brodies" a very nice restaurant conveniently located less than a kilometre from Peter's apartment.
+￼   Teknikens Hus  
+￼   "Ask Peter & Richard"  
+￼   1st Lecture
+
+** CLICK  ON  IMAGES  FOR  LARGER  PHOTO **
+
+Sunday, Oct. 3rd, 2004 - Display at Teknikens Hus
+Once again, Peter and I participated in the rocketry display and "Ask Peter & Richard" session at Teknikens Hus, again held between 11:30-2:00PM. Attendance was even better than the previous day, and several visitors dropped by our booth to ask questions about rocketry. Peter had his version of the "B-200" rocket motor on display, which drew particular interest, contrasting markedly with the commercial model rocket motors also on display. After the session, Peter once again performed a launch of a Estes "D" powered model rocket, which drew applause from the appreciative crowd after a flawless flight.
+Afterward, on the way back to Peter's apartment, we stopped at a grocery store and picked up provisions for supper that I'd promised to make that evening. I decided on a fare of chicken breast in sweet mustard sauce, fresh broccoli with balsamic vinegar, and jasmine rice, with a garden salad on the side. Turned out well except for the rice, which was kind of sticky (I'll blame it on the 240V.). Peter and I then conducted some more "after dinner" experiments, including preparation of a potassium nitrate and sulfur based "smoke tracer" intended to aid rocket recovery.
+￼   Peter & rocket demonstration   ￼   Chef Richard
+￼   Questions from Martin   ￼   Liftoff!
+
+** CLICK  ON  IMAGES  FOR  LARGER  PHOTO **
+
+Monday, Oct. 4th, 2004 - Lecture at Luleå University
+Did some more experimenting in the morning, field-testing the "smoke tracer" with excellent results. In the afternoon, I got ready for the lecture, which was set for 4:30-6:00PM. I test-drove my laptop and found it to be working properly; apparently the moisture-laden connectors had fully dried. We decided to walk to the university campus, which was located perhaps a kilometre from Peter's apartment. At 3:50, we met with Johan Hansson, a teacher in the Physics department, at which point I briefed him on my presentation. I began setting up at 4:15. My laptop was once again connected to the overhead projector, and additionally the volume (for the video clips) was piped through a loudspeaker system. I was all ready to begin on time at 4:30. By then, about 90 students had filed into the lecture room. Considering the rather late hour of the lecture, we were pleased with the attendance.
+In addition to the students, Johan and Physics Professor Sverker Fredriksson were present. The lecture proceeded very well, with those in attendance seeming to be riveted to the information being screened. When I played the first video clip, of my Cirrus One launch, which had occurred in New Mexico in 2001, the shriek of the Kappa motor sending the rocket slicing through the air echoed throughout the room, and brought about a buzz of excitement from the audience.
+The remainder of the lecture went smoothly with no mishaps on this occasion, thankfully. Questions were then asked, perhaps a dozen in total. The presentation seemed to have been very well received. Nearly all of the audience stayed right to the end, including the question period. Prof. Fredriksson posed several noteworthy questions and provided suggestions for further research. Following the event, Peter and I walked back to his place in the refreshingly cool, autumn evening air. I think we both felt the same exhilarating sense of  fait accompli. Time to celebrate, pyrotechnics anyone?!
+￼   Peter's Great Smoke Experiment   ￼   My turn!
+￼   Monday Lecture   ￼   Rocketry education
+
+** CLICK  ON  IMAGES  FOR  LARGER  PHOTO **
+
+Tuesday, Oct. 5th, 2004 - Return flight home
+My flight back home was scheduled to depart Luleå at 7:15 in the morning, so it meant an early rise. Fortunately, the "travel gods" must have felt sufficiently appeased, as this flight, and the connections that followed, all went without a hitch. I drove into my garage that evening after an 18-hour journey, bringing the adventure to a tiring, but fully satisfying end. Next, a good night's rest, then back to the austere world.
+
+
+Deserving credits
+Special heartfelt thanks to Peter Lee Ericksson for being the driving force behind this endeavour, and to Helena Lilja for the travel arrangements that made this event a reality.
+Links
+Luleå Information
+Teknikens Hus Science Centre
+Luleå University of Technology
+
+Epilogue
+Congratulations, Richard, on a very successful lecture! It really was a well-composed presentation in one of the most exciting rocket related hobby -- experimental rocketry -- and by one of the major private persons most responsible for the increasing interest in it. I would like to think that you will continue to give your lecture, to other people interested in the field of AER. If the lecture in Luleå, in the northern part of Sweden, can act as a catalyst in this process it will have fulfilled its purpose completely.
+Plus, I think it is an ideal and comprehensive introductory lecture in the subject for chemistry/physics educators, teachers, technicians as well as other kind of scientists.
+Sincerely - Peter Lee Ericksson
+
+
+￼
+Last updated October 25, 2004
+Return to Top of Page
+Return to Index Page
+

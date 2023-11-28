@@ -1,0 +1,76 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Altimeter Correction to Account for Launch Site Temperature
+
+Introduction
+Error due to Base Temperature Assumption 
+Method of Temperature Correction 
+Downloads
+Appendix
+References
+Introduction
+Over the past 5 years, all my rocket flights have been fitted with a barometric-based commercial altimeter to activate the recovery system. The altimeter continually measures and records the rocket's altitude throughout the duration of the flight, and triggers the recovery system at the apogee of the rocket's trajectory. Barometric-based method of measuring altitude works by sensing the atmospheric pressure, which decreases with altitude. A built-in algorithm converts the atmospheric pressure values to altitude, usually reported in feet (or metres) above ground level (AGL). This algorithm utilizes a Standard Atmosphere model to do the conversion. There are a number of models that exist, such as U.S. Standard Atmosphere and International Standard Atmosphere. All are very similar and relate altitude to atmospheric pressure, based on a set of assumptions. These assumptions include a ground level temperature of 15 degrees Celsius combined with an assumed linear temperature lapse rate of 1.98 degrees Celsius per 1000 feet. The following equation is one means to convert air pressure to altitude and is precise (matches the Standard Atmosphere value) to an altitude of around 10 km.(33k ft).
+￼
+where: z = altitude in terms of atmospheric pressure (metres) To = base temperature (at zero altitude) (K.) L = temperature lapse rate (= 0.0065 K/metre) P = pressure at altitude (Pa) Po = pressure at zero altitude (Pa) R = gas constant for air (= 287.05 J/Kg-K) g = acceleration due to gravity (= 9.8067 m/s^2)
+A barometric altimeter uses this equation (or similar) to calculate altitude. In this equation, L, R and g are all constants, as shown. The pressure at zero altitude, Po, is sensed by the altimeter, as is the pressure, P, during the flight. The base temperature (temperature at zero altitude), To, is not measured, rather the assumption of To = 15o Celsius as the base temperature is used in the altitude calculation. Why is this so? It would seem simple enough to have an on-board temperature sensor that would record the ambient temperature prior to liftoff (or have it manually entered by the user). I posed this question to the manufacturer of a popular altimeter. His response was that this was his original intention, however, the idea got shot down by the HPR community because they preferred for all rocketry altimeters to use the same standard atmosphere model for consistency between manufacturers when it comes to competitions, altitude records, etc. No doubt there is validity to this argument, at least for the HPR community. For those of us AER types, who would prefer to know more accurately the true altitude our rocket has achieved, this argument holds less value. Knowing exactly how high a rocket flies is important for comparison of actual apogee achieved in comparison to that prediced by sims. This takes on particular importance when assessing motor performance (comparing to static test results) or for assessing aerodynamic performance (e.g measuring drag coefficient).
+
+
+Error due to Base Temperature Assumption
+It wasn't long before I got tired of searching for my rockets after landing (and more importantly got really concerned about not finding them) that I purchased a Big Red Bee BRB900 GPS transmitter unit for my rockets. This greatly faciliated finding the rockets, in fact, it was like the difference between night and day. A bonus was that the GPS system allowed for altitude to be recorded over the duration of the flight. The method of altitude calculation is completely different than the barometric system that altimeters such as Raven (my primary altimeter) utilize. GPS determines altitude by the principle of trilateration (measuring distances) assuming four or more satellite signals are received. After several flights with both altimeter and GPS unit, I did a comparison of apogees.
+Table of Flights Comparing Altimeter and GSP Apogees
+I was a bit disappointed to find out that there was a fair discrepancy between the reported apogee values, as much as 14%. Why the discrepancy? The BRB unit records the number of satellites that it picks up. A review of the flights data indicated that the number of satellites was never less than eight, which is a lot more than the minimum of four, so that did not explain things. A bit of research suggested that GPS may not be a reliable means of measuring altitude. I found that kind of hard to believe, but left things at that. A closer review of the comparison between barometric and GPS apogees did provide some insight. It was noticed that the discrepances tended to relate to launch temperatures. At low ambient temperatures, the barometic apogees tended to be greater than GPS apogees. And during the warmer launch days, the opposite was generally true. This is shown in Figure 1, which shows the percent deviation of GPS (BRB) altitude with respect to barometric (Raven) apogee. Interestingly, the overall average, at -3.5%, is not that far off.
+
+￼
+Figure 1 -- Comparison between barometric and GPS altitude with regard to base temperature
+A question that naturally arises is "how accurate is the Raven?". My Xi series of rockets were equipped with a second altimeter as a backup, and then starting with Xi-6, a third altimeter was added. The second altimeter is the EggTimer Classic and the third altimeter is BREO-N. The purpose of having redundant altimeters is to ensure a high degree of reliability for the overall recovery system. A bonus of having multiple altimeters is that each independantly records apogee, allowing for a comparison of the altimeter units. It turns out that the apogee values reported by the three altimeters are very close, deviating by 0.5% on average. There is no apparent base temperature influence regarding consistency of the apogee readings between units. The altimeter apogee comparison is shown in Figure 2.
+￼
+Figure 2 -- Comparison between apogee values for Raven, EggTimer and BREO-N
+
+Around this time, a discussion on the topic of altimeter versus GPS altitude matching came up with fellow AER enthusiast Steve Peterson. This discussion rekindled my curiosity as to why there was this discrepancy. By this time, I had well over forty flights under my belt that had both barometric and GPS apogees logged, a pretty good database to work from. Although we were unable to ascertain whether or not GPS can be relied upon as an accurate altitude measurement method for rockets, it brought to light the issue of altimeter reliance on the standard atmosphere model and what that implied. The one glaring thing that was immediately obvious was base temperature. My launches had taken place over a huge range of ambient temperatures, from a low of -25oC to a high of +30oC. These temperatures were a lot different than the assumed 15oC of a standard atmosphere. Clearly a temperature correction was needed to be made to the reported apogee. This could at least partly explain the discrepancy.
+
+
+Method of Temperature Correction
+A bit of research soon made me aware that in the field of aviation it is well known that non-standard air temperatures as well as non-standard sea-level pressures have a direct impact on the accuracy of indicated altitude as reported by a barometric altimeter aboard an airplane. For aircraft approach and landing operations, the accepted practice for cold temperature altimeter correction is based on surface temperature measurements combined with an assumed linear altitude-temperature profile. This is exactly what I was looking for in my quest to apply a temperature correction to my apogee readings. Reference 2 provides an equation that can be used to make this correction (see also Ref.3):
+￼
+where: C = altitude temperature correction (feet) H = reported altitude (feet) Hbase = base altitude (feet) L = temperature lapse rate (= 1.98 K/kft) To = corresponding sea level temperature, which can be approximated as: ￼ where: Tbase = base temperature (C.)
+The temperature corrected apogee, hcorr, is then given by: Hcorr = H - Hbase
+Using this method, temperature correction was made to the apogee values for the 43 flights, based on ambient temperature and known elevation of the launch site. The corrected apogees are tablulated in Figure 3, together with the non-corrected values for comparison. The figure also shows the percent deviation between reported GPS apogee and corrected barometric apogee.
+￼
+Figure 3 -- Comparison between temperature corrected barometric apogee and GPS apogee
+The average deviation is seen to be quite small, less than one percent, a marked improvement over the non-corrected (base temperature) values. In fact, if the two outliers are neglected (Z-21 & DS-4, whereby other factors may have come into play) the deviation is 5% or less for all flights and the average deviation changes from -0.7% to -0.2%. The fact that the average deviation is such a small value clearly demonstrates that both barometric altitude and GPS altitude measurements are both quite consistent (at least for the apogee range studied) and that the deviations appear to be random, likely as a result of the assumptions inherent with the Standard Atmosphere model, as well as the assumption of a linear temperature decrease with respect to altitude relative to the base temperature. It may be possible to get a better temperature correction by utilizing data from atmospheric soundings (for example http://weather.uwyo.edu/upperair/sounding.html). But as a relatively simple method, applying this temperature correction is convenient and seems to provide a marked improvement in determination of true apogee.
+
+
+Downloads
+Barometric Altitude Correction (Excel file, U.S. units)
+Barometric Altitude Correction m (Excel file, metric units)
+
+
+Appendix
+1) An example calculation is performed for temperature corrected apogee. For Flight Xi-6:
+Reported GPS apogee: 1834 ft. Reported barometric apogee: 1738 ft. Base temperature: 30oC. Launch site elevation: 780 ft. ASL
+Using the nomenclature in the equation and consistent units of measure:
+H = 1738 ft. Hbase = 780 ft. L = 1.98 K/kft = 0.00198 K/ft. Tbase = 30 C. To = 30 + (0.00198 x 780) = 31.5 C.
+￼
+Therefore: hcorr = 1738 - (-95) = 1833 ft.
+
+2) A second example calculation is performed for temperature corrected apogee. For Flight DS-2:
+Reported GPS apogee: 2822 ft. Reported barometric apogee: 3286 ft. Base temperature: -25oC. Launch site elevation: 780 ft. ASL
+Using the nomenclature in the equation and consistent units of measure:
+H = 3286 ft. Hbase = 780 ft. L = 1.98 K/kft = 0.00198 K/ft. Tbase = -25 C. To = (-25) + (0.00198 x 780) = = -23.5 C.
+￼
+Therefore: hcorr = 3286 - 515 = 2771 ft.
+
+
+References
+1.  A Quick Derivation Relating Altitude to Air Pressure, V1.03, Portland State Aerospace Society (http://www.psas/pdx.edu)
+2.  Transport Canada-- Aeronautical Information Manual (TC AIM), March 26, 2020 (Chapter 9.17.1) (TP 14371E)
+3.  Numerical Model Derived Altimeter Correction Maps for Non- Standard Atmospheric Temperature and Pressure, Thomas A. Guinn & Frederick R. Mosher, International Journal of Aviation, Aeronautics, and Aerospace, Embry-Riddle Aeronautical University (http://commons.erau.edu/)
+
+
+￼
+Originally posted  July 24, 2020
+Last updated  November 26, 2020
+Return to Top of Page
+Return to Home Page
+

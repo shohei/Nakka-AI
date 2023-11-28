@@ -1,0 +1,94 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+PVC Rocket Motors Ignition, Mounting and Conclusion
+
+Chuck Knight   of Pennsylvania, U.S.A. has developed simple to make "G", "H" & "I" Class KN-Sorbitol rocket motors, utilizing PVC (PolyVinyl Chloride) plastic tubing for the casing and requiring no special tools for construction. These motors incorporates a time delay and ejection charge for parachute deployment.
+
+
+The igniters used with these PVC motors are through the nozzle, electric match type igniters. This is a "soft start" type of igniter that produces copious amounts of hot flame and sparks to ignite as large of surface of the propellant grain as possible. The hotter the flame of the igniter, the faster the grain will catch and the faster the flame will spread. The igniter is positioned in the top of the motor so upon ignition, hot gasses flow down the length of the propellant grain to ignite the entire burn surface.
+There are several commercial igniters on the market that would be an excellent choice for these motors. One such igniter is the AeroTech FirstFire. This is not an endorsement, but good, reliable igniters can be tricky to make. Two characteristics of a good igniter are; (1) sensitivity to heat to assure rapid and reliable ignition from a heat source, and (2) produce hot flames and sparks. This requires the use of "chlorates", "perchlorates" and powdered metals. Extreme caution must be used when working with these materials since in combination they are highly incendiary.
+Richard Nakka's article Rocket Motor Ignition Systems provides descriptions how to make several types of igniters. Following is a description for yet another type. Unlike traditional igniters that use a hot wire as the heat source to ignite a pyrogen, these igniters use graphite. The igniters are made by dipping a pair of wires into a slurry mix of graphite powder and binder to form a resistance bridge and then into a pyrogen paste. The igniter described herein has been used successfully with composite propellants.
+
+Materials List
+Graphite powder (dry lubricant)
+PVC pipe cement
+PVC pipe cleaner (not primer)
+Potassium Perchlorate
+Aluminum Powder
+Powdered charcoal
+Concentrated liquid laundry starch
+End cap for 3/4" copper pipe
+35 mm film canister
+Liquid dish soap
+Water based Polycrylic protective finish
+Twist two lengths of #26 wire together to make a pair. One source for this wire is multi-paired telephone cable. Strip the outside insulation off the cable and remove the pairs already twisted together. Cut the pairs into 2-foot lengths and strip 1/4" of insulation off one end of each wire. Twist the wires very tightly for a length of 1/2" behind the bare wire. The tight twisting is intended to reduce relative movement between the wires that could create stress on the graphite bridge and degrade its resistance. When this preparation work is complete, the bare ends of the wire should lie side-by-side with only a 1/32" or less between them. Hold the pair up to a light to be sure the bare wires do not touch one another.
+If the igniters are to be used in "H" size motors or larger fold the wire back on itself about 1" from the stripped end to provide a large surface for the pyrogen dip to cling. The bending or folding of the wire should be done prior to the formation of the graphite bridge to eliminate stress on the graphite bridge that might be caused by the bending of the wire. Leave this fold open slightly to provide for a convenient hook for hanging the igniters during the drying of the graphite bridge. If the igniter is to be used with a smaller motor leave as a single pair, but fold the wire about 6" from the end to form a hook for hanging purposes.
+In a small glass vial or other container, thin some PVC cement by mixing 50/50 with . The pipe cleaner contains MEK (methyl ethyl ketone) and other solvents and will thin the cement.
+The following operation must be performed quickly so make up as many pairs as you want to make igniters. Pour a small amount of thinned PVC cement into the 3/4" copper end cap. Using a craft stick, mix graphite powder into this solution. The trick is to make a thick slurry from the graphite powder, but not so thick that when the pair is dipped into the slurry, a heavy blob forms on the end of the pair. The greater the content of graphite powder in the slurry, the lower the bridge resistance, which is a desirable feature of these igniters. Getting the proper mix will require some experimentation. Eventually you will be able to judge the correct consistency of the slurry by observing how the slurry clings to the craft stick.
+Dip the bare ends of the pair into the PVC cement/graphite slurry so only the bare wire is covered. Hang the igniter over a stiff wire or small dowel suspended from a tabletop by the hook that was formed above. Dipping all of the prepared wires must be performed quickly since the PVC cement/graphite slurry in the end cap will thicken quickly. Allow the graphite bridge to cure for 2 hours. Once the graphite bridge is thoroughly dry, close the hook on those igniters for the larger motors so that the pair is doubled back on itself to form a double pair. The resistance of the graphite bridge should be no more than 30 ohms. Resistance as low as 3 ohms can be easily achieved.
+The graphite bridge is dipped into a paste of pyrogen, which dries into a hard capsule. Make the pyrogen by grinding the potassium perchlorate, charcoal, and aluminum powder into fine powders in SEPARATE batches. DO NOT GRIND THESE CHEMICALS ONCE THEY ARE MIXED TOGETHER. Weigh the chemicals to the following proportions. Keep the batches small.
+Potassium Perchlorate (oxidizer)
+14 grams
+Charcoal (fuel)
+4 grams
+Aluminum Powder (thermic fuel)
+2 grams
+Place the ingredients in the film canister and shake to achieve a homogenous mixture. Add liquid starch and stir with a craft stick. Add just enough starch to make a paste so that when you remove the craft stick, the paste is thick enough to cling to the stick, but not too thick that it is lumpy. Add a few drops of the liquid dish soap to the paste to break the surface tension of the water in the starch to improve the "spread" of the paste. Dip the bridged end of the pair into the paste. When the pair is removed from the paste there should be an even layer of pyrogen around the end of the pair. As above, bend the pair about 6" from the end to form a hook so it can be hung to allow the pyrogen to dry overnight. This whole process may require several attempts to get right.
+To give the igniter protection from mechanical stress and abrasion, dip the igniter into water based Polycrylic protective finish. Do not use other finishes with other type solvents since many solvents will attach the graphite bridge and degrade its resistance.
+These graphite igniters require a high-energy power source such as a 12-volt storage battery for reliable operation.
+As an alternative to the potassium perchlorate pyrogen above, black powder can be used. Use the commercial grade of black powder and liquid starch to make the pyrogen paste. However, black powder does not produce a flame as hot as what can be achieved with powdered metals.
+Note: It is not a good practice to mix powdered metals with water since water can react with the metal to generate hydrogen gas and heat. Several alternative non-aqueous binders were tried, but these other binders contained volatile solvents that attack the PVC cement in the graphite bridge and degraded the resistance of the bridge. Liquid starch was chosen after a search of a pyrotechniques handbook revealed several fireworks formulas that used water-based binders with aluminum. There has never been a problem, but keep your batches small. If you feel the mixture getting warm, dispose of it immediately in a large bucket of water. Do not use magnesium or iron powders as an alternative to aluminum with the starch binder.
+
+MOTOR MOUNTS AND MOTOR RETENTION
+The PVC motors are mounted in the rocket airframe in motor mounts using the same techniques as the kit rockets. This is where experience from building kit rockets comes in handy. Once you build a few kits it will become obvious how to mount these motors.
+A sheet of tag board rolled into a tube can make a motor mount. Motor mount forms for rolling the tagboard can be made by cutting the tops off of end caps to make collars that slide over a piece of pipe. Cut enough collars to place the collars 1-1/2" on center along the pipe. Cap each end of the pipe with a whole end cap.
+
+￼
+MOTOR MOUNT FORMS
+
+G Motor
+H & I Motor
+Form Length
+8-1/2"
+22"
+Tagboard Sheet
+10" x 21"
+24" x 36"
+The tagboard is rolled onto the form in the same manner as the inhibitor sleeve. Center the motor mount form across the narrow dimension of one end of the tagboard sheet. Roll one edge of the tagboard up, over, under the form until it just begins to catch under the form. Spray the tagboard with 3M Super 77 Spray Adhesive, making sure that the entire exposed flat surface including the corners and edges are covered. Use only enough adhesive to moisten the paper. Allow the glue to dry for 15 - 20 seconds before completing the roll. Allow the glue to dry for several minutes before removing the form. Trim the tube to the desired length.
+Strips of paper tape rolled around the motor mount can make a centering ring. Cut 1/4" x 18" strips from kraft wrapping tape. Moisten the adhesive and roll the strips around the motor mount. Roll layer-after-layer of the paper strips until the OD of the ring fits the ID of rocket body tube. Once the tape has dried, saturate the tape with CA glue. This will produce a strong centering ring that aligns the motor mount within the center of the body tube.
+A thrust ring can be glued to the nozzle end cap of the "H" and "I" motors to permit either motor to be used in the same rocket. The thrust ring catches the lower rim of the motor mount and transfers the force of the thrust of motor to the rocket body. The thrust ring also provides a means for a hook, mounted to the motor mount, to grab behind the thrust ring for positive retention of the motor.
+The thrust ring is a 1/4" long ring is cut from a 1-1/2" PVC coupler. A 3/4" section is cut from the wall of the thrust ring to provide a gap through which a hook can pass as the motor is inserted into the motor mount. Once the thrust ring is tight against the motor mount, the motor is given a twist so the hook can slip behind the thrust ring and catch the ring.
+The hook is a 90o bend, 1/2" in length in a 6" long piece of 1/16" wire. The shank end of the hook is glued along the length of the motor mount with epoxy so that the hook extends about 1/4" or the thickness of the thrust ring beyond the end of motor mount.
+
+￼
+"H" & "I" MOTOR THRUST RING AND MOTOR RETENTION
+The "G" motor does not need a thrust ring attached to the motor since it is one of a kind. Rather, a thrust ring cut from a 1" PVC end cap can be glued to the inside of the motor mount to catch the motor. The thrust ring is positioned in the motor mount so that the motor protrudes 1/2" from the end of the motor mount. The motor is retained in the motor mount by wrapping masking tape around both the nozzle end cap and motor mount.
+
+CONCLUSION
+It is possible to make reliable, high power rocket motors using PVC pipe and other low cost, readily available materials. The performance of the PVC motors are somewhat reduced owing to the limited strength of the PVC pipe. However, for the Sunday Flyer who enjoys launching rockets for the fun and enjoyment, this is a cost effective approach to the hobby.
+For those who want to maximize the power of these motors, the nozzle is an area, which could stand some improvement. One such approach might be a plastic nozzle similar to those used in the commercial re-loadable motors.
+The design presented in this article is but one approach to PVC rocket motors. There are other designs that are currently in use that may be as effective or more effective than the motors describe herein.
+Be safe, enjoy and have fun.
+Acknowledgement: The author wishes to thank all of those who take the time to write me about their suggestions, successes and failures. I would especially wish to thank Richard Nakka, whom without his professional expertise, assistance, and research into sugar propellants and rocket motor design, this effort would not have been possible.
+
+
+Altitude prediction of a rocket propelled by these motors may be estimated by use of the ROCCAD software. A data file containing the thrust profile of the "G" and "H" PVC motors is included with this software.
+
+￼      ￼
+Launch of rocket powered by "G" motor (left); Chuck Knight with recovered rocket
+
+
+￼      ￼
+Launch of rocket powered by "I" motor (left); Chuck Knight with recovered rocket & "I" motor
+Rocket is 4" (10 cm) diameter, 54" (1.4 m.) tall, and 4.6 lb (2 kg). mass
+Below: Picture perfect descent
+
+￼
+
+
+￼
+Last updated June 16, 2002
+Return to Top of Page
+Return to Home Page
+

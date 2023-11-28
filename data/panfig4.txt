@@ -1,0 +1,13 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+
+￼
+Alternatively, an Excel spreadsheet which generates this table may be downloaded.
+PARAPAT.XLS    33 k     EXCEL 97  
+
+The coordinates for the panel are obtained by simply multiplying the basic x and y coordinates by the diameter of the parachute required, in centimetres, as shown in the example. The resulting curve is for the left edge of the panel. Since the panel is symmetric, the right edge is the mirror image of the left. After right edge curve is plotted, fold the paper pattern along the centreline of the panel, then cut out the complete panel, adding 2 cm. allowance along both edges and the bottom, for the hem (see pattern for 1 metre parachute).
+
+Back
+

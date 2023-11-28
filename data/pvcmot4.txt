@@ -1,0 +1,70 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+PVC Rocket Motors
+with Time Delay and Ejection Charge
+￼ ￼ ￼ ￼
+
+Introduction
+Performance
+Design
+Tools
+Construction
+Igniters
+Motor Mounts
+Conclusion
+
+Chuck Knight   of Pennsylvania, U.S.A. has developed simple to make "G", "H" & "I" Class KN-Sorbitol rocket motors, utilizing PVC (PolyVinyl Chloride) plastic tubing for the casing and requiring no special tools for construction. These motors incorporates a time delay and ejection charge for parachute deployment.
+
+
+
+INTRODUCTION
+This article describes how to build, inexpensive, "G", "H", and "I" size expendable rocket motors using common material and simple hand tools. The materials to build the motors can be purchased from most well stocked hardware stores or home centers. The tools necessary to assemble these motors can be found in most modestly equipped workshops.
+The structural material for these motors is PVC pipe and PVC pipe fittings. PVC pipe is inexpensive, readily available, comes in a multitude of sizes, is easily worked, and has fittings that can be glued onto the pipe without special tooling. There are, however, drawbacks to this convenience. PVC pipe does not have the strength and wear resistance of metal and PVC melts at a relatively low temperature. As a result, the performance of these motors is not what could be expected if they were made from more traditional rocket motor materials. PVC also has the disadvantage that few adhesives adhere well to it. Designs and techniques had to be developed to workaround this problem.
+The propellant is a cast form of Potassium Nitrate (KN) and Sorbitol. Richard Nakka has performed a considerable amount of work to characterize this and other sugar based propellants. For a review of the Sorbitol based propellant refer to Richard Nakka's article on KN-Sorbitol Propellant.
+The motors were developed through the process of trial and error, based upon a fundamental knowledge of rocket motor theory, and information and data compiled by Richard Nakka. Many experiments were performed to test fabrication techniques for PVC as well as to determine the grain and nozzle dimensions that provided the best performance and reliability. The "G" motor was designed first. The "H" and "I" motors are scaled versions of the "G" motor where Kn (the ratio of the area of the burn surface to the cross section area of the throat) is the common parameter.
+These PVC rocket motors can be easily integrated into a rocket airframe. However, it is not the intention of this article to go beyond the motor design and into the dynamics of rocket flight. It is assumed that those who wish to build these motors have some working knowledge and experience with amateur rocketry. If not, it is suggested that building and launching a few kit rockets using commercial hobby motors will provide valuable experience needed to successfully build and fly these motor. A little experience with the kit rockets will go a long way to understanding the principals of rocket motors and rocket flight.
+
+
+
+MOTOR PERFORMANCE AND EVALUATION
+A. Performance Characteristics
+
+￼
+B. Physical Characteristics
+
+￼
+To explain the performance that was achieved, the motors were modeled using the simplest of the motor design equations. Using a spreadsheet format, the propellant grain was divided into 10 sections as would occur as the grain burns. That is, from the end surfaces inward and from the core outward until the outside dimension of the core was reached. At each progressive interval the Kn, pressure, Cf, thrust, burn time, and impulse were computed and the thrust plotted on a graph. For simplicity, thrust build-up and trail off were ignored. From this information, the total and specific impulse for each motor was computed.
+The propellant burn rate data compiled by Richard Nakka was used in these calculations. To validate that the burn rate for the propellant used for the PVC motors was consistent with Richard's data, a strand burn test was performed on propellant prepared in the same manner that all propellant was prepared for these motors. Since equipment was not available to perform burn rate tests at elevated pressures, the data was taken at only one point in open air at atmospheric pressure. The strand burn test was performed by placing two marks at a measured distance on a cast strand of propellant. One end of the strand was ignited and a stopwatch was used to measure the burn time between the two marks. Two tests were performed showing that the propellant burned at 0.114 inches/second and 0.112 inches/second respectively. These burn rates compare favorably to 0.102 inches/second reported by Richard Nakka for the burn rate of KN/Sorbitol in open air. It was therefore concluded that the burn rate over all pressures for the propellant used in the PVC motors was comparable to what Richard had determined for KN/Sorbitol. The propellant mass density (r)was determined from propellant grain dimension and weight measurements and computing the density to be 0.00207 slugs/cu. in. This is very close to the ideal density of 0.00206 slugs/cu. in.
+Other values that were used in these calculations were:
+
+Ratio of specific heat (k) = 1.042 Characteristic exhaust velocity (c*) = 2999 ft./sec.
+The calculations assume that the PVC motors are ideal, however, ideal rocket motors do not exist. In order to correct for the less than ideal conditions under which these motors perform, a correction factor was applied to the coefficient of thrust. The single correction factor in these calculations not only takes into consideration the chamber conditions, but also nozzle anomalies. Correction factors are discussed in Richard Nakka's article on Solid Rocket Motor Theory - Conditions for Actual Rocket Motors. To determine the correction factor for these PVC motors, the value for correction factor in the calculation was adjusted until a value for initial thrust was returned that matched the value for initial thrust at the "knee" on the measured curve. This initial point is the only time during the burn that the actual Kn can be matched to the computed Kn with any certainty. This is thought to be true since the sharp bend of the "knee" suggested the flames spreading across the burn surface had reached a limit of progression and the entire uninhibited surface of the grain was burning. When the correction factor was set at 0.71 there was good correlation between the predicted and measured values for initial thrust, Cf, total impulse, and specific impulse for the "G" and "H" motors. However, there was a big surprise when the "I" motor was tested
+C. Predicted and Measured Performance Curves
+￼
+Predicted Performance                                      Measured Performance
+G105 THRUST CURVE
+
+￼
+Predicted Performance                                     Measured Performance
+H178 THRUST CURVES
+
+￼
+Predicted Performance                                     Measured Performance
+I440 THRUST CURVES
+Despite good correlation between certain values of these curves, there are two things that become obvious when comparing them. The measured peak thrust never reaches the predicted value for peak thrust and the actual burn time is considerably longer than predicted. The reason for these differences is not fully understood. However, the extended burn time would suggest that the burn rate decreases after reaching a maximum value. The most probable explanation for a decrease in burn rate is negative erosive burning. For a detailed explanation of this phenomenon, refer to the article Propellant Burn Rate written by Richard Nakka. Despite the lower than predicted peak thrust, the predicted and measured total impulse for the "G" and "H" motors show good correlation. This is significant since total impulse or the total amount of energy that the motor imparts to the rocket is the main factor that determines what altitude the rocket will reach.
+Another critical difference is that the "I" motor produces 20% more total impulse than predicted. The "I" motor uses two of the same propellant grains that are used in the "H" motor. To keep Kn equal so as to maintain equal pressures for the two motors, the area of the throat was doubled to compensate for the doubling of the burn surface. It would, therefore, be expected that the total impulse of the "I" motor would be twice that of the "H" motor, which is what was predicted.
+It is not clear why the "I" motor had enhanced performance. However, there is some thought that the length or L/D of the propellant gain might be a factor. First, in a long grain, there is a pressure gradient along the length of the core. This pressure is greatest at the top end of the grain and may help to accelerate the burn process in that region. Anyone who has ever assembled any of the commercial high average thrust re-loadable motors is familiar with the fiber sleeve and metal top end closure, which are used to seal and strengthen the motor case. Second, the long grain allows for a more complete burn of the propellant, thus enhancing the impulse of the propellant.
+Not every one who builds these motors may get the same results as above. Personal preferences, workmanship and substitution of a material will have an affect on performance and reliability.
+
+
+￼
+"I" , "H", and "G" PVC motors (left to right)
+
+Next -- Design...
+
+￼
+Last updated March 25, 2002
+Return to Top of Page
+Return to Home Page
+

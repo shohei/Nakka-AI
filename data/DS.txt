@@ -1,0 +1,243 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+DS Series of Rocket Launches
+
+Introduction
+Basic Description
+Recovery System
+Rocket Motors
+Flights Summary
+Launch Reports
+Introduction
+The DS rocket got its designation from the name of a rocket kit upon which this rocket was based. A friend and avid rocketry supporter by the name of Cliff Bates offered to send me a gift of a "Dark Star" high-power rocket kit. Cliff had originally planned to build the rocket kit himself. Due to circumstances, he was unable to, and so thought it appropriate that a rocket that was meant to venture skyward should do just that. I gladly accepted the offer, as I had been anyway planning on building a new rocket to complement my Zeta. However due to strange turn of events, the kit arrived with parts missing. Taking what there was, combined with my own parts and vision, the abbreviated Dark Star rocket kit morphed into the DS rocket.
+My initial goals of the DS rocket project are as follows:
+	•	development and flight proving of an improved recovery system
+	•	comparison of flight performance with simulations
+	•	experiment with improved aerodynamic efficiency
+	•	serve as flight test platform for new motors and propellants (such as A24 composite based).
+
+Basic Description
+The airframe and fins are both stock parts, fabricated from high strength glass-epoxy. The Av-bay, which also serves as an airframe coupler, is made from thin-wall glass-epoxy tubing that is a sliding fit within the 58 mm airframe. I turned the nosecone from maple hardwood, hollowed-out to house the BRB recovery beacon. The paint scheme of the DS rocket combines jet black paint with firecracker red. Strips of chrome tape add reflective visibility to the rocket. The overall height of the rocket is just over 1 metre.
+DS rocket for Flight DS-1  Drawing of DS rocket for Flight DS-1 Cutaway view of DS rocket AeroLab drawing of DS rocket for Flight DS-1
+
+Recovery System
+As with the Zeta rocket, a commercial altimeter was chosen to provide for reliable triggering of the pyro charges for the deployment system. Owing to its excellent performance record with the Zeta rocket, a Featherweight Raven3 unit was chosen for the DS rocket. Dual-deployment is used for recovery, in order to minimize down-range drift of the rocket. At apogee, a pyro charge is fired which separates the rocket into two sections. The two sections, connected by a tether, then free-fall. When a predetermined altitude is reached (typically 500 feet, or 150m.), a pyro charge is triggered which blows off the Av-bay compartment. The momentum pulls the recovery parachute out of the forward airframe. A third pyro charge is typically employed which fires a few seconds after apogee, as a backup in case the primary apogee charge fails to perform the separation action. The pyro charges typically employ 1 gram of Crimson Powder, contained within a polyethylene tube.
+The Av-bay is secured to the airframe with two joints featuring nylon shear screws. The aft joint, which separates at the apogee event, is secured with four #4-40 flush-head nylon screws. The forward joint, which separates at the main deployment event (to pull out chute) is secured with four #6-32 flush-head nylon screws. This was later changed to six screws
+
+Ground testing of the recovery system was carried out prior to flight.
+Drawing of DS rocket (post DS-3) Detailed description of recovery system Raven mounted on support structure Machined avionics support Av-bay (post-flight)
+
+Rocket Motors
+The 38mm Impulser (I class) motor was used for the initial flights. The Impulser-X motor, which holds 5 KNDX grains segments (versus 4 segments for the Impulser) is slated to be used on future flights.
+Impulser and Impulser-X motors
+
+Flights Summary
+
+DS FLIGHT SUMMARY
+ 
+ 
+ 
+ 
+Nominal
+ 
+Apogee
+Range
+ 
+ 
+Flight no.
+Launch Date
+Motor
+Propellant
+impulse (N-s)*
+Class
+ft. (m.)  [1]
+ft. (m.)
+Payload  [2]
+Note
+DS-1
+Nov.28, 2015
+Impulser
+KNSB
+316
+H
+2681 (817)
+1102 (336)
+Ra, mC, BRB
+Maiden flight
+DS-2
+Jan.16, 2016
+Impulser
+KNSB
+349
+I
+3286 (1002)
+3205 (977)
+Ra, SC, BRB
+Parachute deployed at apogee
+DS-3
+Feb.13, 2016
+Impulser
+KNDX
+352
+I
+4467 (1362)
+2415 (736)
+Ra, BRB
+Parachute deployed at apogee
+DS-4
+June 2, 2016
+Impulser
+KNDX
+359
+I
+3236 (986)
+1406 (428)
+Ra, mC, SC, BRB, ABT
+Connect tether broke at chute deploy
+DS-5
+July 1, 2016
+Impulser
+KNDX
+353
+I
+3265 (995)
+883 (269)
+Ra, SC, BRB, ABT
+ 
+DS-6
+Aug.7, 2016
+Impulser
+KNDX
+354
+I
+3453 (1052)
+428 (130)
+Ra, SC, BRB, ABT
+Parachute partly inflated
+DS-7
+Sept.11, 2016
+Impulser
+KNDX
+357
+I
+3512 (1070)
+345 (105)
+Ra, SC, BRB, ABT
+ 
+DS-8
+Oct.8, 2016
+Helios
+A24
+224
+H
+1397 (426)
+1139 (347)
+Ra, BRB, mC
+First-ever flight powered by A24 ANCP
+DS-9
+Jan.7, 2017
+Impulser-X
+KNDX
+444
+I
+4234 (1290)
+966 (295)
+Ra, SC, BRB, ABT
+First Impulser-X powered DS flight
+Notes
+
+
+
+
+Table 1
+
+
+
+[1] per Raven
+
+
+
+
+
+
+
+
+[2] Payload definitions:
+
+
+
+
+
+
+
+
+Ra = Raven flight computer
+
+
+
+
+
+
+
+
+MC = mini camcorder (on-board)
+
+
+
+
+
+
+
+mC = micro camcorder (out-board)
+
+
+
+
+
+
+
+SC = Smoke Charge
+
+
+
+
+
+
+
+
+BRB = BRB900 GPS transmitter
+
+
+
+
+
+
+
+ABT = Apogee Backup Timer
+
+
+
+
+
+
+
+
+Launch Reports
+	•	Flight DS-1
+	•	Flight DS-2
+	•	Flight DS-3
+	•	Flight DS-4
+	•	Flight DS-5
+	•	Flight DS-6
+	•	Flight DS-7
+	•	Flight DS-8
+	•	Flight DS-9
+
+￼
+Original posting March 21, 2016
+Last updated January 20, 2017
+Back to Home Page
+

@@ -1,0 +1,20 @@
+
+
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+
+Comments on DSC static test results
+	1	The suggested hypothesis for the relatively slow chamber pressure build-up was lack of complete ignition of the grain during start-up. The pyrotechnic igniter (a black powder filled tube) was attached to one side of the grain, near the top of the motor, and it was felt that burning initially occurred on (only) one side of the grain.  I speculate, however, that the grain would have been almost immediately engulfed. To illustrate this, consider a chamber pressure of 1.0 Mpa. This is equivalent to about 10 atmospheres pressure. This means that the original volume of "cold" air in the motor would have been reduced to 1/10th its original volume, with the remaining 9/10th the motor volume being filled with hot combustion gases. Under this condition, it would seem probable that combustion would occur on all surfaces exposed to this influx. And this order of pressure was reached very quickly after ignition.  The more likely reason for the delayed pressure build-up was a combination of an insufficiently effective pyrotechnic igniter*, combined with an unusually large chamber duct (free) volume due to the rectangular grain geometry. With the igniter failing to generate significant pressure within the motor (perhaps by not burning quickly enough), the propellant burn rate would have been initially minimal. Thus generation of combustion gases and resulting pressure build-up would have been delayed, as indicated on the pressure-time curves. Note that an initial pressure spike, which can be attributed to the igniter charge, is not seen on any of the curves. This scenario of delayed pressure build-up is, in fact, similar to what I had experienced with my rocket motors prior to my using pyrotechnic igniters. *The igniter consisted on a blackpowder-filled cardboard tube, 16mm (0.63 in.) diameter by 35mm (1.38 in.) in length. 
+	2	In any rocket motor, at the moment the grain web has burned through, the combustion chamber remains momentarily filled with high pressure gases. This pressure decays rapidly, as the gases escape through the nozzle. However, since this does not occur instantaneously, the actual point in time when web burnthrough occurs is not obvious by looking at the pressure-time trace. There are various analytical methods that have been devised to estimate the actual burn time. The simplest method, which has been used in this analysis, is to consider the total burn time as "the time interval between the instant that pressure was first developed and the instant that pressure falls to half its value at the turnover point". 
+	3	Note that erosive burning would almost certainly not have occured, due to the large port area-to-throat area ratio. As a result, the gas velocity in the port (white area in Figure 7) would be low enough to be below the threshold level required for erosive burning to occur, and thus, no augmentation of the burning rate need be considered. The initial ratio was 15, for Grains 1 & 2, and 26 for Grains 3 to 7 (generally, if the ratio is greater than 6, erosive burning does not occur). Of course, the ratio would've increased continually as the grain burned away.
+
+
+
+￼
+Last updated  Apr. 14, 1999
+Back
+
+
+

@@ -1,0 +1,46 @@
+
+Richard Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+Propellant Packing & Curing
+Propellant Packing
+Drilled out core
+Cast-in-place core
+Control Strand
+Curing
+Propellant Packing
+The RNX propellant was specifically developed to have a putty-like consistency that is well suited to packing into a casting mould. Packing is a casting technique that involves loading the grain mould with small pieces of propellant mixture, one piece at at time, and using a rod or dowel to tamp the material down firmly into the mould. This serves to bind and compress the mixture and forces out any trapped air. The packing process is performed after the propellant mixture has been thoroughly mixed and degassed (as required) as explained in the preceding sections. This is a simple process that has proven to work well for producing consistent and relatively flaw-free grains. Satisfactory mass density is typically obtained, being 94% to 95% of TMD for the RNX propellants.
+
+The following sections explain the packing process for producing hollow-cylindrical grains (including BATES and Rod & Tube configurations) and differentiates between those that have drilled-out cores and cast-in-place cores. Either method may be used. Grains that have a drilled-out core are initially cast as a solid cylinder, then after curing, the core is made by drilling using a Speedbor or similar drill bit. This is the simpler of the two methods. A cast-in-place core utilizes a coring rod as part of the casting apparatus, and as such, the setup is somewhat more complicated. This method is best suited to grains that have a larger diameter core, and has the advantages that no material is wasted and that a grain is ready for use as soon as it has cured.
+Pot life of the propellant mixture is dependant upon ambient temperature. At 20oC. (70oF.), working time of the mixture is approximately one hour from the time the epoxy resin & curative are combined. Since the mixing process typically takes 1/2 hour or less, this leaves plenty of time for propellant packing. As such, and considering that packing is a crucial step in obtaining a satisfactory final product, particular care should be taken to pack the propellant well and to minimize inclusion of air bubbles or other voids.
+It is important to note that the methods described below should be considered as a guide and are not necessary the best or most applicable means of propellant packing, depending on one's available resources. These methods are based solely on my own rather limited experience and as such, I've found that these methods have continually evolved based on personal experience and from the advice of others who have worked with other composite propellants (typically AP based). These packing methods will undoubtedly continue to evolve. As such, one should feel free to experiment with other or modified methods. For example, vibration of the mould during or following packing has been briefly experimented with and may prove to be a useful means of augmenting the packing process. Any suggestions for improvements are welcome!
+Drilled-out Core
+After preparing the propellant mixture as described in the previous sections, a small amount of propellant mixture is taken from the bowl using a teaspoon (or tablespoon) and, using gloved hands, the propellant is briefly rolled into an oblong ball. Rolling helps to remove any trapped air. It has been reported that rolling the propellant mixture into a "snake" form is a particularly effective means of minimizing trapped air, although I have not yet tried this technique. The ball (or "snake") is then dropped into the mould (as shown in Figure 1), and the tamping rod is used to compress and flatten it. This process is then repeated. If an end inhibitor disc is present, it is important to be careful when packing the first layers of propellant that the disc does not get displaced.
+Every third time or so, the packing tool may be used to help flatten and bind the accumulated mixture in the mould. A light pounding action is an effective means of achieving this. Also, "scrape down" any mixture that may be adhering to the mould walls. As explained earlier, the tamping rod is a wooden or aluminum dowel that is approximately 1/3 to 1/2 the diameter of the mould. The packing tool is similar, but should be approximately 3/4 of the mould inside diameter. Use of the packing tool may not be essential, however, I have found this to be a useful means of fully binding the mixture and forcing it down to the bottom of the mould. This is not so easily accomplished using the smaller diameter tamping rod.  As the mixture is quite sticky, it tends to accumulate on the end of the tamping rod and packing tool. This material should be scraped off every so often.
+After the required amount of propellant has been packed, the end inhibitor disc (if required) may be dropped into the mould, and carefully pressed tightly against the packed propellant ensuring that no trapped air is present. If the outside surface of the mould (motor casing) has gotten smeared with propellant, it should be cleaned off using lacquer thinner.
+
+
+￼
+Figure 1 -- Loading propellant pieces into the mould
+
+Cast-in-place Core
+The method of packing a grain mould fitted with a coring rod in place is essentially the same as that described for the drilled-core. The significant difference is with regard to the tamping rod and packing tool. The tamping rod should be of a diameter that allows it to fit freely between the coring rod and the mould wall. If the coring rod is a particularly large diameter relative to the mould diameter, the tamping rod may not be required, and only the packing tool will be needed to pack the propellant. The packing tool, illustrated in Figure 2, consists of an appropriate length of metal tubing with a steel washer epoxy-bonded onto the lower end. The tubing should be of a diameter that slides freely over the coring rod. The washer should be chosen to have an outside diameter that is approximately 90% of the diameter of the mould, and having a hole that is a small amount larger than the coring rod. The hole should be large enough, however, that when the tool is moved "side-to-side" within the mould that the edges of the washer contact the mould sides (such that accumulated propellant mixture can be scraped off).
+The epoxy joint experiences significant stress during the packing operation and as such, only structural grade epoxy (such as J-B Weld) should be used (not 5-minute epoxy!). The joining surfaces must be well cleaned using lacquer thinner, acetone, or isopropanol prior to bonding.
+
+￼
+Figure 2 -- Packing tool construction & detail
+
+Control Strand
+A quality-control strand should be made from each batch of propellant. This strand, used for ambient burn rate testing, is typically made just prior to packing the grain mould. A plastic soda straw is cut to half-length, and packed with propellant mixture. The straw should ideally be 3/16" (4.8 mm) diameter. A smaller diameter strand will be hard to pack, and a larger diameter strand may tend to burn in an uneven manner. Packing is done by repeatedly dipping the straw end into the mixture. It will slowly fill up, and dipping should continue until the filled length is about an inch or two (3-5 cm.). The strand is allowed to cure together with the propellant grain.
+
+Curing
+Once the propellant has been fully packed into the mould, the grain is allowed to cure approximately 12 hours before removal from the mould. Curing should take place at a temperature between 25oC. and 35oC. (77oF. and 95oF.). During the initial curing period, self-heating of the epoxy & curative will raise the temperature such that the mould will feel markedly warm to the touch. This is normal, and serves to aid the curing process. After removal from the mould, the grain will feel completely hardened, however, the material will remain slightly visco-elastic until complete curing is achieved. As such, to avoid the possibility of slight sagging, the grain should be stored on a flat surface. Complete curing takes approximately one week or more at room temperature. However, complete curing is not a requirement for firing the grain. Rather, a full cure, which typically takes three days at room temperature, is the condition that must be met.
+To speed up the final curing process, the mould may be placed in a warmer environment at a temperature no higher than 50oC. (125oF.). However, this may be done only after the grain has completely hardened, typically 12 hours. If this is done too soon, thermal expansion of the not-fully-cured propellant can generate cracks in the grain. If this accelerated curing is done, the grain will be ready for firing in about 14 hours after casting. Firing a grain prior to full curing will result in a slower burn rate and thus a lower than expected thrust will be generated by the motor.
+
+Next -- Completion
+
+￼
+Last updated  January 1, 2018
+Back to RNX Index Page Back to Home Page
+

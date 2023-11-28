@@ -1,0 +1,127 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Introduction
+Cirrus One
+Cirrus Two
+    Update Nov.14/01
+    Update Nov.25/01
+    Update Dec.1/01
+    Update Dec.7/01
+    Update Dec.16/01
+    Update Jan.1/02
+    Update Jan.16/02
+    Update Jan.28/02
+    Update Feb.7/02
+    Update Feb.17/02
+
+The Cirrus Project was conceived at the beginning of 2001, coincidentally (or perhaps not) tying in with the launch of the new millennium. The goal of the Cirrus project is to launch a series of rockets to moderate altitudes, or more exactly, beyond the confines of the troposphere and into the lower reaches of the stratosphere (beyond 10 km). This goal will be an progressive one, beginning with a more modest target of about 3 km for the inaugural flight. As confidence is gained with both the rockets and recovery systems, higher altitudes will be eventually targeted.
+The name Cirrus is closely tied to the project goal. Cirrus is named for the type of feathery, high altitude clouds comprised of fine ice particles. These clouds, often seen embellished with whimsical-looking "mares' tails", are signs of fair weather, usually seen on sunny days accompanied by blue skies. These clouds inhabit the lofty heights of between 6000 and 20 000 metres. Often, in my childhood, I would glance up at the sky, with my attention focused on the far-off cirrus clouds, and imagine one day launching a rocket that would soar to such great heights. I was reared on the prairies, where the land is unimaginably flat and featureless. However, seemingly to compensate for this, the sky is immense. Coupled with the pure air frequently swept by northern winds, the cobalt-blue prairie sky provides an ideal canvas upon which one's imagination may paint abstract dreams of future endevours....
+
+
+Cirrus One       Launched April 7, 2001 near White Sands, New Mexico, USA.
+
+Cirrus Two
+November 14, 2001
+The second rocket of the Cirrus Project has been in the planning stage for some months now, however, I've wanted to finalize some of the basic details before putting them 'down on paper'. Now that this preliminary task has been completed, here are the basic details:
+	•	The altitude goal is 20,000 feet (6 km). This goal was set immediately following the successful achievement of the 10,000 foot goal of the Cirrus One rocket. 
+	•	The rocket will be a two-stage vehicle. It is felt that the rocket that will eventually be flown to the project goal of 10 km will need to have two stages, in order to achieve this goal with a moderate performance propellant (e.g. KN/Dextrose), without having to resort to a higher performance composite propellant, or an excessively large motor. As such, the flight of Cirrus Two will serve to validate the concept. 
+	•	The booster stage will be powered by a J-Class Juno rocket motor, currently in the design phase. This motor, powered by 650 grams of KN/Dextrose propellant, will have a rapid, high thrust burn, to boost the rocket off the launch pad and into a stable attitude for second stage ignition. 
+	•	The second stage will be propelled to a max velocity of nearly Mach 1.8 by a larger L-Class Lambda motor, also powered by KN/Dextrose (2.8 kg/6.2 lb). The burn time of this motor, which is also currently in the design phase, will be about 2 seconds, with ignition occurring soon after burnout of the first stage, at an altitude of approximately 80 feet (24 m.). 
+	•	A safety cut-out system will be incorporated to abort second stage ignition in case of booster malfunction. 
+	•	The recovery system will consist of a 70 cm. cross parachute for the booster stage, deployed upon stage separation, and the second stage recovery will be a dual-stage deployment system. Primary deployment will occur at apogee, with release of an identical 70 cm. cross parachute serving as a drogue. This will allow for a moderate decent rate, until deployment of the primary recovery device nearer the ground, which will consist of a 1 metre ellipsoidal parachute, identical to that used on Cirrus One. 
+	•	The specific type of system that will be used to trigger the dual-stage deployment system is still being investigated. 
+	•	Payload will consist of an altimeter to measure altitude (likely integral with the deployment system), a transmitter for recovery aid, and a yet-to-be-determined payload package.
+
+View SOAR altitude simulation program output file for Cirrus Two:  soar052.txt
+
+
+November 25, 2001
+Progress to date:
+	•	The 1 metre main parachute was fabricated in July.
+	•	The smaller cross parachutes were procured (govt. surplus) over the past year.
+	•	More recently, I 've just finished machining the nozzle and bulkhead (see photos below). The casing will soon be completed, and the assembled motor will by hydrostatic pressure tested to 140% design pressure, or 1400 psi.
+	•	Preparations for casting the first propellant grain have begun, which will be used for the upcoming static test firing (JDX-001).
+	•	A plan is being developed to flight test the Juno motor with a dummy second stage in order to validate the staging process.
+￼ ￼
+
+Figure 1 -- Nozzle and bulkhead
+
+December 1, 2001
+
+	•	The completed and assembled Juno rocket motor was successfully hydrostatic pressure tested to 1500 psi (150% design pressure). It was felt that an increase in the test pressure to 150% was prudent, to test the integrity of the casing welded seam. No measurable permanent deformation resulted.
+	•	It was decided to cast the grain as two segments, to facilitate the casting process, and subsequently bond the ends together with silicone adhesive. This was completed, and the resulting segments and assembled grain is shown in Figure 2. Complete grain mass is 700 grams.
+	•	The motor has been completed, and is shown in Figure 3 below. Despite its 'all steel' construction, the empty motor weighs only 725 grams (1.6 lbs).
+	•	The pyrogen unit has been built and prepped for the upcoming static test, and is shown in Figure 4. The charge is KN/sucrose, coated with KN/charcoal slurry, to aid ignition. The static test configuration is somewhat different than the flight version, owing to the inclusion of the chamber pressure sense port. As such, the screw-in initiator is replaced with a micro-igniter (3mm), with the leads fed through the (hollow) deflector plate standoff. To prevent blockage of the port by combustion residue, a ball of coarse steel wool is installed as an inlet filter.
+￼ ￼ ￼
+
+Figure 2 -- Propellant segments, assembled grain and Juno rocket motor.
+
+￼      ￼
+
+Figure 3 -- Pyrogen/bulkhead components and assembly.
+
+December 7, 2001
+
+	•	The Juno rocket motor was successfully test fired (see test report JDX-001). 
+	•	The fuselage tubing has been procured: 70 mm (2.8 inch) s-glass/epoxy. This will be used for the upper fuselage (housing the recovery system and payload), as well as the booster fuselage. The second stage Lambda motor will not be enclosed, and will serve as the airframe connecting the booster stage to the upper fuselage. 
+	•	The recovery system will be activated by an R-DAS recovery and data acquisition unit, currently on order. I decided to go with a commercial unit in order to help achieve a reliable recovery. The R-DAS unit appears to be an extremely well-engineered package. 
+	•	The two-stage test rocket, Cirrus TV-1, is currently being designed. This will be used mainly to test the staging operation, but will also study the stability of the Cirrus Two rocket vehicle design. Roll inducement, to be achieved by tabbed fins on the booster stage, will be compared to analytical prediction.
+
+December 16, 2001
+
+	•	The basic design of the Cirrus TV-1 test vehicle is shown in Figure 4. Ballast consisting of 4.2 kg (9.3 lbs) of silica sand will be loaded into the upper stage to simulate the loaded weight of the Cirrus Two vehicle.
+￼
+Figure 4 -- Cirrus TV-1 dimensional and stability parameters.
+(image excerpted from AEROLAB software).
+
+	•	The booster section has been completed, and is shown in Figure 5 (together with the upper section, currently under construction). Both fuselages are fabricated from 3.25 inch (83mm) OD PVC drain pipe.  ￼  Figure 5 -- Cirrus TV-1 booster and upper stage (under construction). 
+	•	As is seen in Figure 5, the booster fins have integral 'tabs' deflected at an angle of 15 degrees. These are intended to induce roll of the rocket vehicle. The calculated roll rate at time of booster burnout is 4 rev/sec. One goal of this test flight is to compare measured roll rate to that predicted.
+	•	The booster motor for TV-1 will be the Juno. The upper stage, however, will only have a small KN-Dextrose motor, modified to produce minimal impulse.
+
+January 1, 2002
+
+	•	
+
+￼
+Construction of the Cirrus TV-1 rocket system is nearly complete, and is shown in Figure 6, at left (click here for larger image). The rocket stands 6.2 feet (1.9 m.) high, and the expected lift-off mass is just under 20 lbs. (9 kg), of which nearly half is ballast. Predicted peak altitude is just over 2000 ft. (622 metres) (view SOAR altitude simulation program output file for Cirrus TV-1:  soar053.txt).
+
+To the immediate left is the Juno booster, and to the far left is the Cirrus TM-1 (Test Motor), being utilized to propel the upper stage. This is a G-class motor with a single grain consisting of 91 grams of KN-Dextrose propellant, cast into an inhibitor liner. Performance is deliberately minimized by operating at relatively low chamber pressure (460 psi max. design) and by use of a sonic (non-divergent) nozzle. This flight will be the maiden firing of this motor.
+
+The rocket paint scheme includes "roll markings" and fins with alternating colours, intended to allow the vehicle roll rate to be ascertained (from video footage).
+Upper stage ignition will be triggered by deceleration after booster burnout by use of a mercury bulb switch. This switch is wired in series with a mechanical inertial switch which triggers at liftoff (3g acceleration). The purpose of having the inertial switch is for added security to prevent inadvertent second stage firing while the rocket is on the pad.
+
+The upper stage is interfaced to the booster stage by a "sliding fit" circular coupler (see Fig.5). Positive jointing is achieved by use of four 6-32 nylon machine screws which have a tested shear strength of 65 lbs. each. Ignition of the upper stage motor will pressurize the interstage compartment, with subsequent separation requiring an interstage pressure level of 35 psi.
+
+Recovery of the booster will be via a 27" cross parachute, passively ejected (utilizing compressed polyfoam) upon separation of the upper stage. Upper stage recovery will be via tandem 27" cross parachutes, ejected from the fuselage by a pyro charge and piston system. Triggering of the pyro charge will be based on an "air-speed" switch system, similar to that used on board earlier rockets. The complete parachute ejection system was recently static tested with success.
+
+January 16, 2002
+The Cirrus TV-1 rocket was recently launched. The details are given in the Launch Report.
+
+January 28, 2002
+The design of the Lambda upper stage rocket motor has been completed, and is detailed in the Lambda Preliminary Design web page. I've just recently finished machining the nozzle and bulkhead, and am currently fabricating the casing. To thermally insulate the casing, 0.032" (0.81 mm) sheet PVC will be used, roll formed at an elevated temperature to fit closely against the walls within the casing.
+
+￼  ￼
+
+Figure 7 -- Lambda nozzle and bulkhead
+
+
+February 7, 2002
+Construction of the Lambda rocket motor has been completed, and is shown in Figure 8 below. Empty weight of the motor is 1.45 kg (3.2 lb), including the PVC thermal liner. All four propellant segments have been cast for the first static test of the motor, expected to be soon, and are also shown in Figure 8. Total propellant mass is 2.900 kg. (6.39 lbs.). Inhibiting the outer surfaces of the segments has also been completed, using thin cotton fabric impregnated with neoprene contact cement. This is the first time that this particular type of inhibitor will be utilized.
+
+￼  ￼
+
+Figure 8 -- Lambda motor ; Propellant segments, "as cast", prior to trimming & inhibiting.
+
+
+February 17, 2002
+
+	•	The Lambda rocket motor suffered a catastrophic failure during its initial static test firing (see test report LDX-001). Propellant inhibitor failure is the likely cause. 
+
+￼
+Last updated  February 7, 2002
+
+Return to Top of Page
+Back to Home Page
+

@@ -1,0 +1,390 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Links to Selected STINET Reports
+
+The following is a listing of 120 reports relating to rocketry and space technology. This listing is somewhat arbitrary in the sense that it reflects my own particular interests. I've only had the opportunity to read a few of these articles, to date, and the choices were based largely on individual title and/or abstract. There are undoubtedly many more articles worthy of consideration, as the STINET collection contains around a million documents! All reports shown here are available for downloading in PDF format by clicking on the links. File sizes range from a few hundred kilobytes to tens of megabytes. Exceptionally large files are flagged as such.
+
+Public STINET (Scientific & Technical Information Network) is available to the general public, free of charge. It provides access to citations of unclassified unlimited documents that have been entered into DTIC's Technical Reports Collection, as well as the electronic full-text of many of these documents.
+
+ 
+1. Title: DEVELOPMENT OF HIGH PERFORMANCE ROCKET MOTOR CASE   AD Number: AD0415932   Corporate Author: BUDD CO PHILADELPHIA PA   Personal Author:           Dethloff, R. C.   Report Date: November 30, 1962
+AD=AD0415932
+ 
+2. Title: EVOLUTION OF ULTRA-HIGH STRENGTH STEELS, AND RESEARCH ON MATERIALS AND VARIOUS NOVEL TECHNIQUES OF FABRICATION OF HIGH PERFORMANCE ROCKET MOTOR CASES   AD Number: AD0266053   Corporate Author: CARNEGIE-MELLON UNIV PITTSBURGH PA MELLON INST OF SCIENCE   Personal Author:           Bhat, B. K.   Report Date: October 01, 1961   Media: 93 Pages(s)  
+AD=AD0266053
+ 
+3. Title: RESEARCH AND DEVELOPMENT OF TITANIUM ROCKET MOTOR CASE   AD Number: AD0260042   Corporate Author: PRATT AND WHITNEY AIRCRAFT GROUP EAST HARTFORD CT   Personal Author:           Brody, R. P.           Crosby,Jr, Frank C.   Report Date: January 31, 1961   Media: 112 Pages(s)  
+AD=AD0260042
+ 
+4. Title: Determination of the Combustion Mechanisms of Aluminized Propellants   AD Number: ADA109058   Corporate Author: PURDUE UNIV LAFAYETTE IN SCHOOL OF AERONAUTICS AND ASTRONAUTICS   Personal Author:           Renie, J. P.           Pressley, H. M.       Lilley, J. S.           Osborn, J. R.   Report Date: October 26, 1981   Media: 11 Pages(s)  
+AD=ADA109058
+ 
+5. Title: Preliminary Solid Rocket Motor Design Techniques   AD Number: ADA063474   Corporate Author: NAVAL WEAPONS CENTER CHINA LAKE CA   Personal Author:           Platzek, H.   Report Date: December 01, 1975   Media: 50 Pages(s)  
+AD=ADA063474
+ 
+6. Title: Ballistic Missile Propellant Evaluation Test Motor System (Super BATES)   AD Number: ADA004218   Corporate Author: UNITED TECHNOLOGY CENTER SUNNYVALE CA   Personal Author:           Stephen, W. A.           Warren, T. C.           Humphrey, J. M.           Levy, Samuel      Kroll, Wilhelmina D.   Report Date: November 25, 1974   Media: 213 Pages(s)  
+AD=ADA004218
+ 
+7. Title: Manufacture and Delivery of Composite Motor Cases. Volume 1   AD Number: AD0760566   Corporate Author: HERCULES INC CUMBERLAND MD ALLEGANY BALLISTICS LAB   Personal Author:           Dale, Roger J.   Report Date: April 01, 1973   Media: 232 Pages(s)
+AD=AD0760566
+ 
+8. Title: Manufacture and Delivery of Composite Motor Cases. Volume 2   AD Number: AD0760569   Corporate Author: HERCULES INC CUMBERLAND MD ALLEGANY BALLISTICS LAB   Personal Author:           Dale, Roger J.   Report Date: April 01, 1973   Media: 157 Pages(s)  
+AD=AD0760569
+ 
+9. Title: Nondestructive Testing of Scout Rocket Motors.   AD Number: ADA304580   Corporate Author: GENERAL ELECTRIC CO PHILADELPHIA PA   Personal Author:           Oaks, Arthur E.   Report Date: April 01, 1972   Media: 288 Pages(s)
+AD=ADA304580
+ 
+10. Title: The Design of a Stand to Measure Thrust Alignment in Solid Propellent Rocket Motors.   AD Number: AD0742473   Corporate Author: ROCKET PROPULSION ESTABLISHMENT WESTCOTT (ENGLAND)   Personal Author:           Dean,D. S.           Lyons,E. A.           Norman,D. R.   Report Date: August 01, 1971   Media: 29 Pages(s)  
+AD=AD0742473
+ 
+11. Title: Evaluation of a Platform Vertical Single-Component Thrust Stand   AD Number: AD0862053   Corporate Author: AIR FORCE ROCKET PROPULSION LAB EDWARDS AFB CA   Personal Author:           Strome, Richard K.   Report Date: September 01, 1969   Media: 23 Pages(s)  
+AD=AD0862053
+ 
+12. Title: Carbon Fibre Composites in Rocket Motor Systems,   AD Number: ADA309751   Corporate Author: BRISTOL AEROJET LTD BANWELL (UNITED KINGDOM)   Personal Author:           Trigg, T. A.           Jones, M. W.   Report Date: March 01, 1969   Media: 25 Pages(s)
+AD=ADA309751
+ 
+13. Title: AN INVESTIGATION AND FEASIBILITY DEMONSTRATION OF NOZZLES FOR RESTARTABLE SOLID ROCKET MOTORS   AD Number: AD0373861   Corporate Author: PHILCO NEWPORT BEACH CA AERONUTRONIC DIV   Personal Author:           Armour, W. H.           Edmiston, R. M.           Moody, H. L.           Baetz, J. G.           Kane, E. L.   Report Date: March 31, 1966   Media: 417 Pages(s)  
+AD=AD0373861
+ 
+14. Title: DUAL-CHAMBER CONTROLLABLE SOLID PROPELLANT ROCKET MOTOR. VOLUME 2 -- ANALYTICAL STUDY   AD Number: AD0374200   Corporate Author: NORTHROP CAROLINA INC ASHEVILLE NC   Personal Author: (Not Available).   Report Date: November 01, 1965   Media: 158 Pages(s)  
+AD=AD0374200
+ 
+15. Title: Flight-Test Temperature Data for an Altair-IIC1 Rocket Motor.   AD Number: ADA307603   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION HAMPTON VA LANGLEY RESEARCH CEN TER   Personal Author:           Rapter, James L.   Report Date: August 01, 1965   Media: 29 Pages(s)  
+AD=ADA307603
+ 
+16. Title: TRANSIENT CHAMBER PRESSURE AND THRUST IN SOLID ROCKET MOTORS   AD Number: AD0613962   Corporate Author: BROWN ENGINEERING CO INC HUNTSVILLE AL RESEARCH LABS   Personal Author:           Seidel, Hans H.   Report Date: March 01, 1965   Media: 37 Pages(s)  
+AD=AD0613962
+ 
+17. Title: ROUGH COMBUSTION IN LIQUID FUEL ROCKET MOTORS   AD Number: AD0619526   Corporate Author: TRINITY COLL DUBLIN (IRELAND) SCHOOL OF ENGINEERING   Personal Author:           McCormack, P. D.           Birch, S.           Crane, L.   Report Date: January 01, 1965   Media: 75 Pages(s)  
+AD=AD0619526
+ 
+18. Title: Description and Performance of Three Trailblazer II Reentry Research Vehicles   AD Number: ADA393930   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION HAMPTON VA LANGLEY RESEARCH CENTER   Personal Author:           Lundstrom, Reginald R.           Henning, Allen B.           Hook, W. Ray   Report Date: December 01, 1964   Media: 65 Pages(s)  
+AD=ADA393930
+ 
+19. Title: A REVIEW AND COMPARISON OF ALLOYS FOR FUTURE SOLID-PROPELLANT ROCKET-MOTOR CASES   AD Number: AD0430165   Corporate Author: BATTELLE MEMORIAL INST COLUMBUS OH DEFENSE METALS INFORMATION CENTER   Personal Author: (Not Available).   Report Date: November 15, 1963   Media: 44 Pages(s)  
+AD=AD0430165
+ 
+20. Title: STATIC TEST SAFETY MANUAL   AD Number: AD0424764   Corporate Author: CHEMICAL PROPULSION INFORMATION AGENCY LAUREL MD   Personal Author: (Not Available).   Report Date: December 01, 1962   Media: 47 Pages(s) AD=AD0424764
+ 
+21. Title: Particle Behavior in Solid Propellant Rocket Motors and Plumes   AD Number: ADA260900   Corporate Author: NAVAL POSTGRADUATE SCHOOL MONTEREY CA   Personal Author:           McCrorie, John D., II   Report Date: December 01, 1992   Media: 57 Pages(s)  
+AD=ADA260900
+ 
+22. Title: Burn Rate Mechanisms. Volume 2. A Model for Ammonium Nitrate Propellant Combustion   AD Number: ADA419811   Corporate Author: BRIGHAM YOUNG UNIV PROVO UT DEPT OF CHEMICAL ENGINEERING   Personal Author:           Beckstead, M. W.   Report Date: February 01, 1990   Media: 129 Pages(s)
+AD=ADA419811
+ 
+23. Title: Design Methods in Solid Rocket Motors. Revised Version 1988   AD Number: ADA199356   Corporate Author: ADVISORY GROUP FOR AEROSPACE RESEARCH AND DEVELOPMENT NEUILLY-SUR-SEINE (FRANCE)   Personal Author: (Not Available).   Report Date: April 01, 1988   Media: 242 Pages
+AD=ADA199356
+ 
+24. Title: A Solid Propellant Charge Design with Negative Effective Pressure Exponent Using Forced Cone Burning   AD Number: ADA180085   Corporate Author: WEAPONS SYSTEMS RESEARCH LAB ADELAIDE (AUSTRALIA)   Personal Author:           Irvine, R. D.           Winch, P. C.   Report Date: October 01, 1986   Media: 25 Pages(s)  
+AD=ADA180085
+ 
+25. Title: Static Thrust Augmentation of Rocket Motors by Air Entrainment   AD Number: ADA143179   Corporate Author: WEAPONS SYSTEMS RESEARCH LAB ADELAIDE (AUSTRALIA)   Personal Author:           Irvine, R. D.   Report Date: September 01, 1983   Media: 27 Pages(s)
+AD=ADA143179
+ 
+26. Title: Firing Data and Result from XM815/X-Rod Fin Slug Test.   AD Number: ADA317942   Corporate Author: ARMY RESEARCH LAB ABERDEEN PROVING GROUND MD   Personal Author:           Lyon, David H.           DiFucci, John   Report Date: October 01, 1996   Media: 55 Pages(s)  
+AD=ADA317942
+ 
+27. Title: Single Column Pyrotechnic Delay.   AD Number: ADA307593   Corporate Author: ARMY ARMAMENT RESEARCH DEVELOPMENT AND ENGINEERING CENTER PICATINNY ARSENAL N J FIRE SUPPORT ARMAMENT CENTER   Personal Author:           Smith, Wayne W.   Report Date: March 01, 1996   Media: 39 Pages(s)  
+AD=ADA307593
+ 
+28. Title: Reuse of Ammonium Nitrate - Wet Air Oxidation   AD Number: ADA374134   Corporate Author: CONSTRUCTION ENGINEERING RESEARCH LAB (ARMY) CHAMPAIGN IL   Personal Author:           Maloney, Stephen W.   Report Date: September 01, 1999   Media: 96 Pages(s)  
+AD=ADA374134
+ 
+ 
+29. Title: A MACROSCOPIC THEORY OF TWO-PHASE FLOW WITH MASS, MOMENTUM AND ENERGY EXCHANGE   AD Number: AD0277975   Corporate Author: BROWN UNIV PROVIDENCE RI   Personal Author:           Chu, Boa-Teh           Parlange, J. Y.   Report Date: June 01, 1962   Media: 24 Pages(s)  
+AD=AD0277975
+ 
+30. Title: Behavior of Aluminum in Solid Propellant Combustion   AD Number: ADA118128   Corporate Author: GEORGIA INST OF TECH ATLANTA SCHOOL OFAEROSPACE ENGINEERING   Personal Author:           Price, E. W.           Sigman, R. K.           Sambamurthi, J. K.           Park, C. J.   Report Date: June 01, 1982   Media: 99 Pages(s)  
+AD=ADA118128
+ 
+31. Title: Summary of Nitrous Oxide Investigations   AD Number: ADA027884   Corporate Author: AIR FORCE WEAPONS LAB KIRTLAND AFB NM   Personal Author:           Cawthra, James K.           Eisenstadt, M.   Report Date: July 01, 1976   Media: 30 Pages(s)  
+AD=ADA027884
+ 
+32. Title: Status of Advanced Two-Phase Flow Model Development for SRM Chamber Flow Field and Combustion Modeling   AD Number: ADA427829   Corporate Author: AEROJET SACRAMENTO CA   Personal Author:           Luke, Gary           Eagar, Mark           Sears, Michael           Felt, Scott           Prozan, Bob   Report Date: January 01, 2004   Media: 28 Pages(s)  
+AD=ADA427829
+ 
+33. Title: PHYSICAL PROPERTIES AND THERMODYNAMIC FUNCTIONS OF FUELS, OXIDIZERS, AND PRODUCTS OF COMBUSTION. VOLUME 2, OXIDIZERS   AD Number: AD0605966   Corporate Author: RAND CORP SANTA MONICA CA   Personal Author: (Not Available).   Report Date: February 01, 1949   Media: 99 Pages(s)  
+AD=AD0605966
+ 
+34. Title: GERMAN LIQUID ROCKET FUELS   AD Number: AD0122495   Corporate Author: AIR MINISTRY LONDON (UNITED KINGDOM) DIRECTORATE OF INTELLIGENCE   Personal Author:           HEATH, G.M.   Report Date: April 01, 1945   Media: 14 Pages(s)  
+AD=AD0122495
+ 
+35. Title: Burning Rate Control Factors in Solid Propellants   AD Number: ADA952071   Corporate Author: PRINCETON UNIV NJ DEPT OF AERONAUTICAL ENGINEERING   Personal Author:           Hall, Kimball P.           Bastress, E. C.   Report Date: August 01, 1961   Media: 14 Pages(s)
+AD=ADA952071
+ 
+36. Title: MINUTES OF THE SECOND EXPLOSIVES SAFETY SEMINAR ON HIGH-ENERGY SOLID PROPELLANTS, HELD AT THE REDSTONE ARSENAL, HUNTSVILLE, ALABAMA, ON 12-14 JULY 1960(U)   AD Number: AD0332709   Corporate Author: DEPARTMENT OF DEFENSE EXPLOSIVES SAFETYBOARD ALEXANDRIA VA   Personal Author: (Not Available).   Report Date: December 01, 1960   Media: 207 Pages(s)  
+AD=AD0332709
+ 
+37. Title: GLOSSARY OF MISSILE TERMINOLOGY   AD Number: AD0833341   Corporate Author: GENERAL DYNAMICS/ASTRONAUTICS SAN DIEGO CA   Personal Author: (Not Available).   Report Date: May 08, 1959   Media: 57 Pages(s)  
+AD=AD0833341
+ 
+38. Title: MANUAL FOR HANDLING MISSILE PROPELLANTS   AD Number: AD0710179   Corporate Author: PAN AMERICAN WORLD AIRWAYS INC PATRICK AFB FL GUIDED MISSILES RANGE DIV   Personal Author: (Not Available).   Report Date: September 15, 1958   Media: 465 Pages(s)  
+AD=AD0710179
+ 
+39. Title: Chemical Kinetics Phenomena in Rocket Engines   AD Number: ADA076053   Corporate Author: AEROJET ENGINEERING CORP AZUSA CA   Personal Author:           Burket, S. C.           Moe, G.           Nicholson, J. L.   Report Date: June 01, 1952   Media: 52 Pages(s)
+AD=ADA076053
+ 
+40. Title: PROPELLANT HANDBOOK   AD Number: AD0370870   Corporate Author: AIR FORCE ROCKET PROPULSION LAB EDWARDSAFB CA   Personal Author:           Von Doehren, Paul J.   Report Date: January 01, 1966   Media: 147 Pages(s)  
+AD=AD0370870
+ 
+41. Title: High-Temperature Solid Propellant   AD Number: ADA021298   Corporate Author: IIT RESEARCH INST CHICAGO IL   Personal Author:           Gaynor, Allan J.   Report Date: August 24, 1965   Media: 30 Pages(s)  
+AD=ADA021298
+ 
+43. Title: EXPLORATORY EVALUATION OF FILAMENT-WOUND COMPOSITES FOR TANKAGE OF ROCKET OXIDIZERS AND FUELS   AD Number: AD0479938   Corporate Author: AEROJET-GENERAL CORP AZUSA CA   Personal Author:           Sanger, M. J.           Darms, F. J.           Buxton, R. W.           Kocher, R. L.           Segimoto, M.   Report Date: September 01, 1964   Media: 26 Pages(s)  
+AD=AD0479938
+ 
+44. Title: LIQUID ROCKET PROPELLANTS (Zhidkiye raketnyye topliva)   AD Number: AD0405726   Corporate Author: FOREIGN TECHNOLOGY DIV WRIGHT-PATTERSON AFB OH   Personal Author:           Seregin, A. V.   Report Date: April 23, 1963   Media: 121 Pages(s)  
+AD=AD0405726
+ 
+45. Title: MOTOR, JET, AND ROCKET FUELS   AD Number: AD0406864   Corporate Author: FOREIGN TECHNOLOGY DIV WRIGHT-PATTERSON AFB OH   Personal Author:           Papok, K. K.           Semenido, Ye G.   Report Date: April 16, 1963  
+AD=AD0406864
+ 
+46. Title: Proceedings of the NASA-University Conference on the Science and Technology of Space Exploration, Volume 2   AD Number: ADA396443   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION WASHINGTON DC   Personal Author: (Not Available).   Report Date: November 01, 1962   Media: 523 Pages(s)
+AD=ADA396443
+(38 megByte!)
+ 
+47. Title: ADVANCED COMPOSITE CARBIDE NOZZLES   AD Number: AD0841194   Corporate Author: AEROJET-GENERAL CORP SACRAMENTO CA   Personal Author:           Radtke, R. P.           Swope, L. M.   Report Date: August 01, 1968   Media: 263 Pages(s)   Distribution
+AD=AD0841194
+(15 megByte!)
+ 
+48. Title: DEVELOPMENT OF A MANUFACTURING PROCESS AND ASSOCIATED EQUIPMENT TO IMPROVE INTERNAL CORE FORMING IN SOLID PROPELLANT ROCKET MOTORS   AD Number: AD0833366   Corporate Author: MORTON THIOKOL INC HUNTSVILLE AL HUNTSVILLE DIV   Personal Author:           Gualillo, S. P.           Dale, Jr, W. I.   Report Date: May 01, 1968   Media: 297 Pages(s)
+AD=AD0833366
+ 
+49. Title: HYBRID MOTOR CONCEPTS III. STATIC TESTING OF BLADDER AND PISTON EXPULSION SYSTEMS FOR A TANDEM SOLID-HYBRID MOTOR   AD Number: AD0385867   Corporate Author: ROHM AND HAAS CO HUNTSVILLE AL REDSTONE RESEARCH LABS   Personal Author:           Stone, William C.   Report Date: October 01, 1967   Media: 43 Pages(s)  
+AD=AD0385867
+ 
+50. Title: HYDROGEN PEROXIDE HANDBOOK   AD Number: AD0819081   Corporate Author: ROCKETDYNE CANOGA PARK CA CHEMICAL ANDMATERIAL SCIENCES DEPT   Personal Author:           Constantine, M. T.           Cain, E. F. C.   Report Date: July 01, 1967   Media: 488 Pages(s)  
+AD=AD0819081
+(21 MegByte!)
+ 
+51. Title: MECHANICAL PROPERTIES OF HIGHLY FILLED ELASTOMERS VI. INFLUENCE OF FILLER CONTENT AND TEMPERATURE ON ULTIMATE TENSILE PROPERTIES   AD Number: AD0655634   Corporate Author: CENTRAL LAB TNO DELFT (NETHERLANDS)   Personal Author:           Nederveen, C. J.           Bree, H. W.   Report Date: May 01, 1967   Media: 47 Pages(s)  
+AD=AD0655634
+ 
+ 
+52. Title: QUALIFICATION TESTS OF THE APOLLO BLOCK II SERVICE MODULE ENGINE (AJ10- 137)   AD Number: AD0813868   Corporate Author: ARNOLD ENGINEERING DEVELOPMENT CENTER ARNOLD AFS TN   Personal Author:           Gall, E. S.           McIlveen, M. W.           Berg, A. L.   Report Date: May 01, 1967   Media: 105 Pages
+AD=AD0813868
+ 
+53. Title: Experimental Evaluation of Throat Inserts in a Storable-Propellant Rocket Engine.   AD Number: ADA307817   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION CLEVELAND OH LEWIS RESEARCH CEN TER   Personal Author:           Winter, Jerry M.           Plews, Larry D.           Johnston, James R.   Report Date: October 01, 1966   Media: 99 Pages(s)  
+AD=ADA307817
+(16 MegByte!)
+ 
+54. Title: Investigation of Resin Systems for Improved Ablative Materials.   AD Number: ADA307899   Corporate Author: TRW SYSTEMS GROUP REDONDO BEACH CA   Personal Author:           Burns, E. A.           Lubowitz, H. R.           Jones, J. F.           Nordberg, R. C.   Report Date: July 25, 1966   Media: 129 Pages(s)  
+AD=ADA307899
+ 
+55. Title: ENGINEERING PROPERTIES OF ROCKET PROPELLANTS   AD Number: AD0373662   Corporate Author: ROCKETDYNE CANOGA PARK CA RESEARCH DIV   Personal Author:           Constantine, M. T.   Report Date: July 01, 1966   Media: 114 Pages(s)
+AD=AD0373662
+ 
+56. Title: Carborane Burning Rate Catalysts   AD Number: AD0528810   Corporate Author: AEROJET SOLID PROPULSION CO SACRAMENTO CA PROPELLANT DEVELOPMENT DEPT   Personal Author:           Fitzgerald, Ross           Rosen, Leonard J.           Lou, Richard L.   Report Date: November 01, 1973   Media: 56 Pages(s)
+AD=AD0528810
+ 
+57. Title: Expansion-Deflection Nozzle   AD Number: AD0902890   Corporate Author: AEROJET LIQUID ROCKET CO SACRAMENTO CA   Personal Author:           Schindler, R. C.           Mercer, S. D.   Report Date: July 12, 1972   Media: 224 Pages(s)  
+AD=AD0902890
+(15 MegaByte!)
+ 
+58. Title: Solid Propellant Structural Test Vehicle. Techniques for Measuring Stress, Strain and Temperature in Solid Propellant Motors   AD Number: AD0890778   Corporate Author: LOCKHEED PROPULSION CO REDLANDS CA   Personal Author:           Leeming, Harold   Report Date: November 01, 1971   Media: 134 Pages(s)
+AD=AD0890778
+(13 MegaByte!)
+ 
+59. Title: Thermally Stable Burning Rate Accelerators   AD Number: AD0517835   Corporate Author: MORTON THIOKOL INC HUNTSVILLE AL HUNTSVILLE DIV   Personal Author:           Flanigan, D. A.           Stephens, W. D.   Report Date: October 01, 1971   Media: 28 Pages(s)
+AD=AD0517835
+ 
+60. Title: Altitude Ignition Studies   AD Number: AD0885564   Corporate Author: AIR FORCE ROCKET PROPULSION LAB EDWARDS AFB CA   Personal Author:           Mastromonico, Charles R.   Report Date: July 01, 1971   Media: 28 Pages(s)
+AD=AD0885564
+ 
+61. Title: Engineering Property Determination on Rocket Propellants   AD Number: AD0512947   Corporate Author: ROCKETDYNE CANOGA PARK CA   Personal Author:           Constantine, M. T.   Report Date: November 01, 1970   Media: 347 Pages(s)  
+AD=AD0512947
+(20 MegaByte!)
+ 
+62. Title: Recent Advances in Parachute Technology   AD Number: ADA134367   Corporate Author: ROYAL AIRCRAFT ESTABLISHMENT FARNBOROUGH (UNITED KINGDOM)   Personal Author:           Dennis, D. R.   Report Date: May 18, 1983   Media: 28 Pages(s)  
+AD=ADA134367
+ 
+63. Title: THEORETICAL Computations of Equilibrium Compositions, Thermodynamic Properties, and Performance Characteristics of Propellant Systems   AD Number: ADA069832   Corporate Author: NAVAL WEAPONS CENTER CHINA LAKE CA   Personal Author:           Cruise, D. R.   Report Date: April 01, 1979   Media: 103 Pages(s)
+AD=ADA069832
+ 
+64. Title: Amine Fuels via the Urea Process   AD Number: ADA065046   Corporate Author: IIT RESEARCH INST CHICAGO IL   Personal Author:           Gray, Allan           Fochtman, Edward   Report Date: May 01, 1978   Media: 235 Pages(s)
+AD=ADA065046
+ 
+65. Title: Analysis of Nitromethane   AD Number: ADA237511   Corporate Author: SOUTHWEST RESEARCH INST SAN ANTONIO TX   Personal Author:           Herrera, William R.           Seals, William O.   Report Date: June 01, 1991   Media: 44 Pages(s)
+AD=ADA237511
+ 
+66. Title: Liquid Rocket Booster (LRB) for the Space Transportation System (STS) Systems Study; Volume 1 - Executive Summary.   AD Number: ADA338617   Corporate Author: MARTIN MARIETTA MANNED SPACE SYSTEMS NEW ORLEANS LA   Personal Author:           Ware, Larry           Mobley, Thomas   Report Date: March 01, 1989   Media: 56 Pages(s)
+AD=ADA338617
+ 
+67. Title: Discussion and Explanation of Unplanned Ignition Incident: Ignition Caused by Rapid Pressurization of a Propellant Containing Bubbles   AD Number: ADA198419   Corporate Author: ARMY ARMAMENT RESEARCH DEVELOPMENT AND ENGINEERING CENTER WATERVLIET NY BENET LABS   Personal Author:           Frankel, Julius   Report Date: July 01, 1988   Media: 17 Pages(s)  
+AD=ADA198419
+ 
+68. Title: Force Distribution in the Suspension Lines of Cross Parachutes   AD Number: ADA262414   Corporate Author: NAVAL SURFACE WARFARE CENTER SILVER SPRING MD   Personal Author:           Ludtke, W. P.   Report Date: December 01, 1989   Media: 56 Pages(s)
+AD=ADA262414
+ 
+69. Title: Characterization Standards for Solid Propellant Rocket Motors   AD Number: ADA150250   Corporate Author: ARMY MISSILE COMMAND REDSTONE ARSENAL AL PROPULSION DIRECTORATE   Personal Author:           Stephens, W. D.   Report Date: October 01, 1984   Media: 106 Pages(s)  
+AD=ADA150250
+ 
+70. Title: Solid Propellant Combustion Phenomena   AD Number: ADA215042   Corporate Author: BRIGHAM YOUNG UNIV PROVO UT DEPT OF CHEMICAL ENGINEERING   Personal Author:           Beckstead, Merrill W.   Report Date: June 01, 1983   Media: 17 Pages(s)  
+AD=ADA215042
+ 
+71. Title: A Parametric Study of Ramrocket Performance   AD Number: ADA142043   Corporate Author: AERONAUTICAL RESEARCH LABS MELBOURNE (AUSTRALIA)   Personal Author:           Erm, Lincoln   Report Date: April 01, 1983   Media: 28 Pages(s)  
+AD=ADA142043
+ 
+72. Title: Investigation of Rocket Motors 3 in. Number 1 MK 4   AD Number: ADA284278   Corporate Author: DEFENCE SCIENCE AND TECHNOLOGY ORGANISATION CANBERRA (AUSTRALIA)   Personal Author:           Barrington, L. M.   Report Date: May 01, 1994   Media: 18 Pages(s)  
+AD=ADA284278
+ 
+73. Title: Condensed-Phase Processes during Solid Propellant Combustion. 3. Preliminary Depth-Profiling Studies on XM39, JA2, M9, M30, and HMX2   AD Number: ADA276595   Corporate Author: ARMY RESEARCH LAB ABERDEEN PROVING GROUND MD   Personal Author:           Schroeder, Michael A.           Fifer, Robert A.           Miller, Martin S.           Pesce-Rodriguez, Rose A.           Selawski, Claire J.           Singh, Gurbax   Report Date: January 01, 1994   Media: 34 Pages(s)  
+AD=ADA276595
+ 
+74. Title: Chemistry of the Burning Surface   AD Number: ADA272725   Corporate Author: DELAWARE UNIV NEWARK DEPT OF CHEMISTRY   Personal Author:           Brill, Thomas B.   Report Date: October 12, 1993   Media: 205 Pages(s)  
+AD=ADA272725
+(13 MegaByte!)
+ 
+75. Title: Combustion Mechanisms of Solid Propellants.   AD Number: ADA   Corporate Author: GEORGIA INST OF TECH ATLANTA SCHOOL OF AEROSPACE ENGINEERING   Personal Author:           Price, E. W.           Sigman, R. K.   Report Date: September 08, 1993   Media: 609 Pages(s)  
+AD=ADA324359
+(34 MegaByte!)
+ 
+76. Title: New Test Method to Determine Modulus of Elasticity of Rocket Grain Material AD Number: ADA269758   Corporate Author: AEROSPACE CORP EL SEGUNDO CA ENGINEERING AND TECHNOLOGY GROUP   Personal Author:           Chang, Dick J.           Gross, Rolf W.           Baban, Farzad   Report Date: January 15, 1993   Media: 20 Pages(s)  
+AD=ADA269758
+ 
+77. Title: The Effect of Solid Propellant Binder on the Formation and Evolution of Aluminum Combustion Products.   AD Number: ADA311150   Corporate Author: BRIGHAM YOUNG UNIV PROVO UT   Personal Author:           Zarko, V. E.           Glotov, O. G.           Karasev, V. V.           Beckstead, M. V.   Report Date: June 01, 1996   Media: 84 Pages(s
+AD=ADA311150
+ 
+78. Title: Chemical Mechanisms at the Burning Surface.   AD Number: ADA308866   Corporate Author: DELAWARE UNIV NEWARK DEPT OF CHEMISTRY   Personal Author:           Brill, Thomas B.   Report Date: March 15, 1996   Media: 127 Pages(s)  
+AD=ADA308866
+(9 MegaByte!)
+ 
+79. Title: Continuous Processing of Solid Propellants in Co-Rotating Twin Screw Extruders.  AD Number: ADA311920   Corporate Author: STEVENS INST OF TECHNOLOGY HOBOKEN NJ HIGHLY FILLED MATERIALS INST   Personal Author:           Kalyon, Dilhan M.   Report Date: October 05, 1995   Media: 65 Pages(s)  
+AD=ADA311920
+ 
+80. Title: Combustion Mechanisms of Very High Burn Rate (VHBR) Propellant. Phase II.   AD Number: ADA299478   Corporate Author: VERITAY TECHNOLOGY INC EAST AMHERST NY   Personal Author:           Barnes, James T.           Fisher, Edward B.   Report Date: September 01, 1995   Media: 125 Pages(s)  
+AD=ADA299478
+ 
+ 
+81. Title: Ablation Modeling for Dynamic Simulation of Reentry Vehicles (Preprint)   AD Number: ADA444565   Corporate Author: AIR FORCE RESEARCH LAB (AFRL/VACA) WRIGHT-PATTERSON AFB OH CONTROL THEORY OPTIMIZATION BRANCH   Personal Author:           Doman, David B.   Report Date: December 01, 2005   Media: 8 Pages(s)  
+AD=ADA444565
+ 
+82. Title: A Free-Flight Investigation of Ablation of a Blunt Body to a Mach Number of 13.1   AD Number: ADA397587   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION HAMPTON VA LANGLEY RESEARCH CENTER   Personal Author:           Winters, Clyde W.           Witte, William G.           Rashis, Bernard           Hopko, Russell N.   Report Date: December 01, 1962   Media: 24 Pages
+AD=ADA397587
+ 
+83. Title: EFFECT OF ROUGHNESS ON HEATING AT THE FORWARD SURFACE OF A SPHERE AT MACH 5   AD Number: AD0708471   Corporate Author: AEROSPACE CORP EL SEGUNDO CA LAB OPERATIONS   Personal Author:           Varwig, Robert L.   Report Date: April 15, 1970   Media: 28 Pages(s)
+AD=AD0708471
+ 
+84. Title: Erosion Resistance and Failure Mechanisms of Several Nozzle Materials in a Small Solid-Propellant Rocket Engine   AD Number: ADA396915   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION CLEVELAND OH LEWIS RESEARCH CENTER   Personal Author:           Signorelli, Robert A.           Johnston, James R.   Report Date: February 01, 1963   Media: 50 Pages(s) AD=ADA396915
+ 
+85. Title: Steerable Parachutes   AD Number: AD0905223   Corporate Author: NORTHROP CORP VAN NUYS CA VENTURA DIV   Personal Author:           Knacke, T. W.   Report Date: September 01, 1969   Media: 29 Pages(s)
+AD=AD0905223
+ 
+86. Title: Thrust Coefficients of Low-Thrust Nozzles   AD Number: ADA400724   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION CLEVELAND OH LEWIS RESEARCH CENTER   Personal Author:           Spisz, Ernie W.           Brinich, Paul F.           Jack, John R.   Report Date: October 01, 1965   Media: 30 Pages(s)
+AD=ADA400724
+ 
+87. Title: Reefing of Parachutes - Drag Area Ratios vs Reefing Ratios   AD Number: ADA036497   Corporate Author: AERONAUTICAL SYSTEMS DIV WRIGHT-PATTERSON AFB OH   Personal Author:           Knacke, Theodore W.   Report Date: July 01, 1976   Media: 61 Pages(s)
+AD=ADA036497
+ 
+88. Title: THEORY OF SHOCK WAVES AND INTRODUCTION TO GAS DYNAMICS   AD Number: AD0669272   Corporate Author: FOREIGN TECHNOLOGY DIV WRIGHT-PATTERSON AFB OH   Personal Author:           Zeldovich, Ya. B.   Report Date: August 29, 1967   Media: 237 Pages(s)
+AD=AD0669272
+ 
+89. Title: 156-INCH DIAMETER MARAGING STEEL CASE HYDROBURST AND MATERIALS EVALUATION   AD Number: AD0813906   Corporate Author: LOCKHEED PROPULSION CO REDLANDS CA   Personal Author:           Coverdale, J. S.           Wells, Norbert           Skopp, Gilbert           Broeker, George   Report Date: January 01, 1967   Media: 176 Pages(s)  
+AD=AD0813906
+(9 MegaByte!)
+ 
+90. Title: INVESTIGATION AND RECOVERY PROGRAM FOR NOZZLE PORT FLANGE SNAP RING GROOVE CRACKING PROBLEM OF THE MINUTEMAN STAGE III MOTOR. WEAPON SYSTEM 133A   AD Number: AD0484720   Corporate Author: HERCULES POWDER CO MAGNA UT CHEMICAL PROPULSION DIV   Personal Author: (Not Available).   Report Date: June 20, 1966   Media: 106 Pages(s)
+AD=AD0484720
+ 
+91. Title: Performance of Rocket Nozzle Materials with Several Solid Propellants.   AD Number: ADA307287   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION CLEVELAND OH LEWIS RESEARCH CEN TER   Personal Author:           Johnston, James R.           Signorelli, Robert A.           Freche, John C.   Report Date: May 01, 1966   Media: 28 Pages(s)  
+AD=ADA307287
+ 
+92. Title: Study of Ammonium Nitrate Materials   AD Number: AD0786334   Corporate Author: LITTLE (ARTHUR D) INC CAMBRIDGE MA   Personal Author: (Not Available).   Report Date: September 26, 1952   Media: 49 Pages(s)  
+AD=AD0786334
+ 
+93. Title: STUDIES ON THE DECOMPOSITION OF NITROUS OXIDE   AD Number: AD0418744   Corporate Author: OHIO STATE UNIV COLUMBUS   Personal Author:           Fishburne, E. S.           Nicholson, J. R.           Edse, R.   Report Date: August 01, 1963   Media: 29 Pages(s)  
+AD=AD0418744
+ 
+94. Title: Fuming Nitric Acid Oxidizers for Liquid Propellant Rocket Engines   AD Number: AD0503241   Corporate Author: WRIGHT AIR DEVELOPMENT CENTER WRIGHT-PATTERSON AFB OH   Personal Author:           Carnes, J. L.   Report Date: February 01, 1956   Media: 13 Pages(s)  
+AD=AD0503241
+ 
+95. Title: Thermodynamic and Thermophysical Properties of Combustion Products (Selected Pages)   AD Number: ADA093379   Corporate Author: FOREIGN TECHNOLOGY DIV WRIGHT-PATTERSONAFB OH   Personal Author:           Alemasov, V. Ye.           Dregalin, A. F.           Tishin, A. P.           Khudyakov, V. A.           Kostin, V. N.   Report Date: November 26, 1980   Media: 115 Pages(s)
+AD=ADA093379
+ 
+96. Title: Substitution of Aluminum for Magnesium as a Fuel in Flares   AD Number: ADA013360   Corporate Author: PICATINNY ARSENAL DOVER NJ   Personal Author:           Jackson, B., Jr.           Taylor, F. R.           Motto, R.           Kaye, S. M.   Report Date: January 01, 1975   Media: 48 Pages(s)  
+AD=ADA013360
+ 
+97. Title: Closed Vessel Combustion of Stick Propellant.   AD Number: ADA147802   Corporate Author: ARMY ARMAMENT RESEARCH AND DEVELOPMENT CENTER DOVER NJ LARGE CALIBER WEAPONSYSTEMS LAB   Personal Author:           Chiu, Donald           Grabowsky, Aaron           Downs, David   Report Date: October 01, 1984   Media: 29 Pages(s)  
+AD=ADA147802
+ 
+98. Title: A Versatile User-Oriented Closed Bomb Data Reduction Program (CBRED)   AD Number: ADA049465   Corporate Author: ARMY BALLISTIC RESEARCH LAB ABERDEEN PROVING GROUND MD   Personal Author:           Price, C.           Juhasz, A.   Report Date: September 01, 1977   Media: 165 Pages(s)  
+AD=ADA049465
+ 
+99. Title: Relationship of Combustion Characteristics and Physical Properties of Black Powder   AD Number: ADA122264   Corporate Author: ARMY BALLISTIC RESEARCH LAB ABERDEEN PROVING GROUND MD   Personal Author:           White, Kevin J.           Sasse', Ronald A.   Report Date: November 01, 1982   Media: 39 Pages(s)
+AD=ADA122264
+ 
+100. Title: Investigation of Titanium Combustion Characteristics and Suppression Techniques   AD Number: ADB010507   Corporate Author: AIR FORCE AERO PROPULSION LAB WRIGHT-PATTERSON AFB OH   Personal Author:           Fox, Duane G.   Report Date: February 01, 1976   Media: 68 Pages(s)
+AD=ADB010507
+ 
+101. Title: FEASIBILITY DEMONSTRATION OF PYROLYTIC GRAPHITE COATED NOZZLES   AD Number: AD0601347   Corporate Author: ATLANTIC RESEARCH CORP ALEXANDRIA VA   Personal Author:           Batchelor, James D.   Report Date: May 20, 1964   Media: 47 Pages(s)  
+AD=AD0601347
+ 
+102. Title: ANODIC DISSOLUTION OF ZINC IN POTASSIUM NITRATE   AD Number: AD0608955   Corporate Author: MISSOURI UNIV-ROLLA DEPT OF METALLURGICAL ENGINEERING   Personal Author:           James, W. J.           Straumanis, M. E.           Reed, J. L.   Report Date: November 01, 1964   Media: 16 Pages(s)
+AD=AD0608955
+ 
+103. Title: Investigation of Burst Pressures Prediction of Slit Aluminum Cylinders Subjected to Localized Heating   AD Number: ADA440210   Corporate Author: BALL AEROSPACE AND TECHNOLOGIES CORP ALBUQUERQUE NM   Personal Author:           Sun, C. T.           Tanner, T.           Deitemeyer, A.           Nakaima, D.           Bruno, N.           Doering, D.           Tham, C.           Ulibarri, R.           Chen, J. K.   Report Date: May 01, 2005   Media: 36 Pages(s)  
+AD=ADA440210
+ 
+104. Title: Prediction of Ductile Fracture ofThin-Walled Cylinders Subjected to Localized Intense Heat   AD Number: ADA430473   Corporate Author: PURDUE UNIV LAFAYETTE IN   Personal Author:           Sun, C. T.           Jin, Z.           Kalyanam, S.           Bruno, Nick           Deitemeyer, Adam   Report Date: November 30, 2004   Media: 77 Pages(s)
+AD=ADA430473
+ 
+105. Title: Burst Testing of Filament-Wound Graphite-Epoxy Composite Cylindrical Tubes   AD Number: ADA410130   Corporate Author: AEROSPACE CORP EL SEGUNDO CA LAB OPERATIONS   Personal Author:           Chang, D. J.           Katzman, H. A.           Nokes, J. P.           Adams, P. M.           Amimoto, S. T.   Report Date: November 01, 2002   Media: 80 Pages(s)
+AD=ADA410130
+ 
+106. Title: Design and Analysis of a Pressurized Composite Fuel Tank   AD Number: ADA356203   Corporate Author: AIR FORCE INST OF TECH WRIGHT-PATTERSONAFB OH   Personal Author:           Martin, Andrew L.   Report Date: March 25, 1998   Media: 72 Pages(s)  
+AD=ADA356203
+ 
+107. Title: THE CHURCHILL RESEARCH RANGE. A HISTORY OF ITS ACQUISITION AND MANAGEMENT BY THE AIR FORCE   AD Number: AD0464886   Corporate Author: OFFICE OF AEROSPACE RESEARCH ARLINGTON VA   Personal Author:           Phillips, Robert F.   Report Date: January 01, 1964   Media: 93 Pages(s)  
+AD=AD0464886
+ 
+108. Title: Upper Atmosphere Research Report Number 2   AD Number: ADB955538   Corporate Author: NAVAL RESEARCH LAB WASHINGTON DC   Personal Author:           Newell, H. E., Jr.           Siry, J. W.   Report Date: December 30, 1946   Media: 168 Pages(s)  
+AD=ADB955538
+(8 MegaByte!)
+ 
+109. Title: Upper Atmosphere Research Report Number III. Part 2   AD Number: ADB956424   Corporate Author: NAVAL RESEARCH LAB WASHINGTON DC   Personal Author:           Newell, H. E.           Siry, J. W.   Report Date: April 01, 1947   Media: 44 Pages(s)  
+AD=ADB956424
+ 
+110. Title: Upper Atmosphere Research Report Number 4.   AD Number: ADB955509   Corporate Author: NAVAL RESEARCH LAB WASHINGTON DC   Personal Author:           Newell, H. E., Jr.           Siry, J. W.   Report Date: April 01, 1947   Media: 184 Pages(s)
+AD=ADB955509
+(11 MegaByte!)
+ 
+111. Title: Analytic Solutions to the Closed Bomb   AD Number: ADA194691   Corporate Author: ARMY BALLISTIC RESEARCH LAB ABERDEEN PROVING GROUND MD   Personal Author:           Robbins, Frederick W.           Lynn, Franz R.   Report Date: March 01, 1988   Media: 85 Pages(s)  
+AD=ADA194691
+ 
+ 
+112. Title: Combustion of Solid Propellants   AD Number: ADA425264   Corporate Author: OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES CHATILLON (FRANCE) ENERGETICS DEPT   Personal Author:           Lengelle, G.           Duterque, J.           Trubert, J. F.   Report Date: May 01, 2002   Media: 63 Pages(s)
+AD=ADA425264
+ 
+113. Title: Burning Rates of Standard Army Propellants in Strand Burner and Closed Chamber Tests   AD Number: ADA043778   Corporate Author: ARMY BALLISTIC RESEARCH LAB ABERDEEN PROVING GROUND MD   Personal Author:           Grollman, Bertram B.           Nelson, Carl W.   Report Date: August 01, 1977   Media: 37 Pages(s)  
+AD=ADA043778
+ 
+114. Title: A RESEARCH STUDY TO ADVANCE THE STATE-OF-THE-ART OF SOLID PROPELLANT GRAIN DESIGN   AD Number: AD0420826   Corporate Author: THIOKOL CHEMICAL CORP ELKTON MD   Personal Author:           Andrews, W. G.           Frederick, D. H.           Moore, F E.           Saylak, D.           Stornelli, A.           Thomas, D. D.           Thompson, R. H.   Report Date: October 15, 1963   Media: 270 Pages(s)  
+AD=AD0420826
+ 
+115. Title: Recovery Systems Design Guide   AD Number: ADA070251   Corporate Author: IRVIN INDUSTRIES INC GARDENA CA   Personal Author:           Ewing, E. G.           Bixby, H. W.           Knacke, T. W.   Report Date: December 01, 1978   Media: 493 Pages(s)
+AD=ADA070251
+(29 MegaByte!)
+ 
+116. Title: Analysis of Surveyor III Television Cable After Residence on the Moon.   AD Number: ADA304560   Corporate Author: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION GREENBELT MD GODDARD SPACE FLIG HT CENTER   Personal Author:           Gross, Frederick C.           Park, John J.   Report Date: March 01, 1972   Media: 14 Pages(s)  
+AD=ADA304560
+ 
+117. Title: Ringsail Parachute Design   AD Number: AD0745335   Corporate Author: NORTHROP CORP NEWBURY PARK CA VENTURA DIV   Personal Author:           Ewing, Edgar G.           Vickers, Jack R.   Report Date: January 01, 1972   Media: 380 Pages(s)
+AD=AD0745335
+ 
+118. Title: The Missile Design Bureaux and Soviet Manned Space Policy: 1953-1970.   AD Number: ADA319845   Corporate Author: AIR FORCE INST OF TECH WRIGHT-PATTERSON AFB OH   Personal Author:           Barry, William P.   Report Date: January 09, 1997   Media: 415 Pages(s)  
+AD=ADA319845
+(26 MegaByte!)
+ 
+119. Title: Determination of the Rates of Descent of a Falling Man and of a Parachute Test Weight   AD Number: ADA355497   Corporate Author: CHIEF OF THE AIR CORPS WASHINGTON DC   Personal Author: (Not Available).   Report Date: November 24, 1928   Media: 9 Pages(s)  
+AD=ADA355497
+ 
+120. Title: Problems of Parachute Design and Their Relation to Textiles   AD Number: ADA452674   Corporate Author: WRIGHT AIR DEVELOPMENT CENTER WRIGHT-PATTERSON AFB OH   Personal Author:           Shepardson, W. P.   Report Date: January 01, 1954   Media: 15 Pages(s)
+AD=ADA452674
+
+
+￼
+Last updated October 30, 2015
+Return to Top of Page
+Return to Index Page
+

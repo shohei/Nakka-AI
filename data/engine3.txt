@@ -1,0 +1,64 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+A-100 Rocket motor 
+￼
+History of the A-100 motor
+Motor Performance
+Nozzle
+Casing
+Head
+Head Gaskets
+Safety Shear Pin Assembly
+Propellant Grain
+
+History
+The A-100 rocket motor was developed in late November of 1972. The intended purpose was for testing propellant variations, such as different fuel-oxidizer ratios, grain shapes and additives. As well, it was planned that different nozzle shapes would be tested. It was decided that a relatively small motor would be sufficient to achieve these goals, one with a propellant capacity of about 100 grams (compared with the only other operational motor at the time, the D-II motor, with a propellant capacity of about 450 grams). The first static test of the motor took place on December 4th (my log shows that the temperature at the time was -15 deg.F (-26 C) , a "typical" winter day in Winnipeg!). As a precautionary measure for the first firing, the motor was loaded with a grain that filled the chamber to 75% of capacity. The test was conducted on an earlier static test stand (a device which I deemed a "thrustograph"; the motor was mounted horizontally on a sled retained by stiff springs. A moving sheet of paper recorded the deflection during firing, from which the time-thrust curve was obtained). The firing was successful, as was the second test, conducted a few weeks later, loaded with the maximum size propellant grain. It was at this time that I had been working on the "air-speed" switch concept for triggering the rocket's parachute recovery system, and so I decided to use the A-100 motor for propelling the rockets to test the concept. The first flight with this motor occurred on January 13, 1973 (Flight PT-1), and went on to be used in the following two flights in the PT (parachute testing) series of flights.  The A-100 motor was then mothballed for over 3 years, until April 1976, when static testing resumed. The purpose of the four static tests that were conducted at this time was to experiment with various grain casting methods. This series of testing led to the method that was to become the de facto standard grain casting process, which is detailed in the Propellant web page. The final of these static tests, on April 18, 1976, turned out to be the last firing of this motor. It was subsequently decided that the more versatile B-200 motor would be used in its place for all further static testing.
+Total number of static firings:
+6
+Total number of flights:
+3
+Total firings:
+9
+Successful firings:
+9
+A-100 Performance record:
+100%
+
+￼
+
+Motor Performance
+The A-100 motor was one of the first motors I developed, and as such, the only thrust function I have of the motor performance was that obtained from a static test on the "thrustograph" device. Figure 1 (below) is a scanned image of the actual thrust-time curve produced by this motor during a static test on the thrustograph. This curve was traced by a pen mounted on an arm attached to the motor sled. As the motor sled moved during firing (against the force of strong springs) , the trace of the deflection was recorded on moving paper. It is in this manner that the thrust-time curve was produced.  The maximum thrust indicated is 88 lbs (390 N.), and the total thrust time is 0.33 seconds. The total impulse was 21 lb-sec (93 N-s), which fits it into a " G " class designation, and specific impulse was 110 sec. It should be noted that the motor grain was prepared using a (less potent) 61/39 O/F ratio, rather than by using the later standard 65/35 ratio. As well, the measured specific impulse would have suffered because of "cruder" propellant preparation (eg dry mixing time was short) and the fact that the motor was ignited using a simple filament igniter, rather than by a pyrotechnic igniter which was developed later. It was noted in my log that the motor, after ignition, burned for about 2-3 seconds before thrusting. With this in mind, if this motor was to be powered instead by a 65/35 grain prepared by "standard" methods, together with a charged igniter, the performance would certainly be enhanced. It should be noted, however, than an adjustment to the throat size may then be required.
+
+
+￼
+Figure 1 -- A-100 Thrustograph plot (That's the original colour of the paper, it hasn't yellowed that much!)
+
+Nozzle
+The A-100 nozzle is a conical profile, convergent-divergent, supersonic type. It has a 30 degree convergence angle, and a 12 degree divergence angle, and has an area expansion ratio of 16. It is machined from a single piece of cold-rolled (CR) steel bar stock, with polished inside flow surfaces. Of particular importance is the throat region, being the most critical with regard to motor performance. The nozzle contour is rounded at the throat to avoid sharp discontinuities in profile. The nozzle has a groove machined around the outer perimeter of the convergent section, to provide a recess for the nozzle retention screws. Six 3/16 inch hi-strength set screws, which engage into threaded holes in the casing, retain the nozzle. The nozzle is not normally removed once installed (propellant is loaded at the head end). To reduce leakage between the nozzle and casing, the casing is “rolled” around its circumference (after insertion of the nozzle) utilizing a customized tool which effectively reduces the casing diameter locally, providing a nearly gas-tight seal. This tool is essentially the same as a constictor tool, as used in HVAC applications. Filling the nozzle groove with silicone RTV will further reduce the likelihood of gas leakage. The nozzle is shown in Figure2 below.
+
+￼
+Figure 2 -- Details of A-100 nozzle
+
+Casing
+The casing is made from seam welded steel tubing, specifically 1" Electrical Metallic Tubing (EMT). Otherwise, it is identical to that of the B-200 motor, except for the diameter and length. The casing is detailed in Figure 3.
+￼
+Figure 3 -- A-100 motor casing dimensions
+
+Motor Head
+The A-100 motor head is similar to that of the B-200 motor. The head is shown in detail in Figure 4.
+￼
+Figure 4 -- Details of A-100 head
+
+Gaskets
+The number and type of gaskets is identical to that of the B-200 motor, except being of a lesser diameter. The addition of silicone RTV sealant around the perimeter of the gaskets will further reduce the likelihood of gas leakage.
+Safety Shear Pin Assembly
+The safety shear pins consist of two Grade 2 (40 ksi shear strength) 3/16 inch diameter machine screws which connect at a threaded aluminum coupler. The arrangement is similar to that of the B-200 motor.
+Propellant grain
+The A-100 motor had been powered with KNO3-Sucrose propellant with an O/F ratio of 61/39. It had not been fired with the standard 65/35 O/F ratio. The grain was, however, cast in the usual configuration--as a hollow cylindrical, free-standing grain, with unrestricted burning (ie all surfaces of the grain burn). The hollow core is 5/16 inch (0.79 cm) diameter. The maximum grain capacity is 95 grams. The grain is cast to size such that it is a slightly loose fit, and is loaded into the motor from the head end. Typical grain diameter is 1.0 inch (2.54 cm), and typical length of the cylindrical portion is 4.2 inch (10.6 cm). The steady-state burn profile is slightly regressive, with the (ideal) burning surface area initially 20 in2 decaying to 17 in2 prior to web burnthrough. This gives a Kn range of 320 (initial) and 270 (final).
+
+￼
+Last updated October 23, 1999
+Return to Top of Page
+Return to Home Page
+

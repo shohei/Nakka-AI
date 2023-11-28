@@ -1,0 +1,23 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Propellant Mass Density Calculation
+
+
+￼
+
+
+￼
+References:
+	1	Merck Index, 7th Ed.
+	2	CRC Hdbk . of Chemistry and Physics, 54th Ed.
+	3	Sutton, Rocket Propulsion Elements, 5th Ed.
+	4	www.matweb.com
+Example: Calculate the ideal density of 65/35 O/F KN-sucrose propellant:
+
+￼
+
+This compares to an actual (measured) value of 1.80 gram/cm3.
+
+Back
+

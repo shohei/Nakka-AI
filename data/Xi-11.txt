@@ -1,0 +1,143 @@
+ 
+Basic Information
+Name
+Xi-11
+Launch date:
+16 February 2019
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker
+Liftoff mass
+3.230 kg.
+Stability Margin (initial)
+1.98
+Flight objectives
+- First flight test of JEM rocket motor
+ 
+Motor details
+Motor name
+JEM
+Propellant
+KNDX
+Grain mass
+508 grams
+Nominal impulse
+645 N-sec
+Class
+J
+ 
+Additional information
+A newly developed rocket motor is being flown for the first time. Deemed “JEM”, this is a J-class motor (just barely) that was designed to provide a longer burn with a more gentle acceleration. This motor was static fired for the first time on 5 January 2019. The test firing was fully successful with performance close to predicted. The flight motor is loaded with 9% more propellant than was fired in the static test.
+ 
+Weather conditions
+Temperature
+-16°C  (3°F)
+Wind
+N 15 km/hr with gusts to 25
+Sky
+Sunny with scattered cirrus clouds
+Other
+R.H. 66%
+Windchill -24°C
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Due to the abundant snowcover, we needed to use our snowshoes for portions of the trek to the launch site. We used our sled to haul the supplies. Once we arrived at the site, setup of the rocket went smoothly, with no glitches. The AvBay and Nosecone (which houses the BRB transmitter) had been fitted with chemical handwarmers taped to the outside and wrapped with insulating cloth. This was to keep the electronics warm for the duration of the trek to the launch site. Followed checklist as usual. The BRB transmitter and receiver were activated and verified that a good GPS signal was obtained. After installing rocket on pad,  the BREO-N, Eggtimer, and then Raven were activated. Raven beeped nine times for voltage and gave 3 positive indications for the 3 active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately fired and less than a second later the rocket soared skyward. Ascent was more rapid than expected and the rocket veered roughly 10 degrees from vertical. Burn time was shorter than expected. Visual contact was lost shortly after burnout.  After the rocket had ascended to apogee, we expected to hear the faint ‘pop’ sound of the apogee charge but heard nothing. We scanned the sky for sign of the apogee smoke clouds or smoke trail but due to the scattered white cirrus clouds, sighting was problematic. As such, I switched my attention to monitoring  the BRB GPS display, which indicates altitude of the rocket (I had set the receiver to display altitude in feet above ground level, or AGL).  I read out the readings…3900….3500…..2095. I could tell by the relatively slow descent rate that the rocket appeared to be tumbling downward nominally. 1700…1300…”chute should be coming out”. A few seconds later we heard a faint ‘pop’ sound of the parachute pyro charge. We craned our necks trying to spot the parachute but nothing was seen. We figured the descending rocket must be a fair distance downrange. About a half minute later I noticed the reading on the BRB receiver indicated 50 feet and was unchanging, so we concluded that the rocket had landed safely.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.45 miles. We donned our snowshoes and headed to the landing site. Traversing the deep snow made for slow going. The sun was setting and the temperature dropping as we neared the indicated landing site. I then spotted the rocket in the middle of an open field. We noticed that the parachute had indeed deployed and closer inspection showed that the rocket was in pristine condition. Raven beeped out a peak altitude of 4413 feet. We noted that all the pyros had fired and that that smoke charge had burned.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.4
+4414
+1345
+Separation
+16.5
+4402
+1342
+Main deployment
+61.3
+889
+271
+Touchdown
+98
+-
+-
+Range
+-
+2224
+678
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+80.9
+24.7
+ 
+Main parachute
+23.4
+7.1
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data confirmed that the flight was fully successful. The operation of the Raven, EggTimer, BREO and BRB were fully nominal. The peak altitude readings reported by the Raven, EggTimer and BREO agreed to within 0.3%.
+ 
+The JEM rocket motor performance was off-nominal. The rocket acceleration curve provided by the Raven indicated a much higher acceleration and shorter burn time than expected. The shape of the acceleration curve (which is closely related to the thrust curve) was significantly different than design and the static test result. Tear-down of the motor revealed that the grain casting tubes, which serve as burn inhibitors, suffered severe heat damage along one side. Normally the casting tubes are well-charred but remain largely intact. The damage along the sides indicated significant flow of combustion products in this region. This is indicative of the core diameter being too small, forcing the voluminous flow of combustion gases to be choked and forces the flow around the outside of the grain. The resulting destruction of the casting tube/inhibitor along one side led to burning occurring on this area of the propellant grain, increasing the overall burning area with consequentially higher chamber pressure and shorter burning time. The reason this anomaly did not occur in the static test firing is likely a consequence of having 9% less propellant. For the next flight, this issue will be addressed by increasing the grain core diameter from 7/16” (11mm) to ½” (13mm).
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-11\Xi-11_Raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-11\Xi-11_Raven_accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-11\Xi-11_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-11\Xi-11_BREO.gif
+ 
+BRB:
+Flight path, mapped                                                                                Xi-11\Xi-11_BRB__track.gif
+ 
+JEM motor:
+JEM rocket motor for Flight Xi-11                                                        Xi-11\DSCF5617.JPG
+JEM nozzle                                                                                                Xi-11\DSCF5552.JPG
+                                                                                                                    Xi-11\DSCF5554.JPG
+Propellant grain segments                                                                     Xi-11\DSCF5614.JPG
+Grain segments, primed                                                                         Xi-11\DSCF5615.JPG
+Comparison of acceleration curve and static thrust curve             Xi-11\Xi-11_accel_vs_static.gif
+ 
+Photos:
+Setting up the rocket; my brother manning the checklist               Xi-11\DSCN0323a.JPG
+                                                                                                                    Xi-11\DSCN0324a.JPG
+Rocket on pad with liftoff imminent                                                   Xi-11\2019-02-21_12-09-23.jpg
+Liftoff…!                                                                                                    Xi-11\2019-02-21_12-09-52.jpg
+                                                                                                                    Xi-11\2019-02-21_12-10-10.jpg
+Ascending skyward                                                                                  Xi-11\2019-02-21_12-10-28.jpg
+                                                                                                                    Xi-11\2019-02-21_12-10-48.jpg
+                                                                                                                    Xi-11\2019-02-21_12-11-05.jpg
+                                                                                                                    Xi-11\2019-02-21_12-11-15.jpg
+Rocket at landing site                                                                             Xi-11\DSCN0326a.JPG
+                                                                                                                    Xi-11\2019-02-21_12-13-57.jpg
+Forward body section of rocket                                                           Xi-11\2019-02-21_12-13-11.jpg
+Aft body section of rocket                                                                     Xi-11\2019-02-21_12-14-26.jpg
+Parachute and AvBay                                                                              Xi-11\2019-02-21_12-14-49.jpg
+My brother ready to load recovered rocket onto sled                    Xi-11\2019-02-21_12-15-10.jpg                                                                                                                   
+ 
+Video:                                                                                                           
+Flight Xi-11 recovery (7.3 Meg MP4)                                                   Xi-11\Xi-11_landing_site.MP4
+ 

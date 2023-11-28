@@ -1,0 +1,106 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Chuck Knight's Photo1 Rocket
+Introduction
+Description
+Flight Simulations
+Launch
+Conclusion
+Introduction
+This report describes the attempt to launch a rocket to over a mile in altitude, take photos of the flight from inside the rocket and recover the rocket, camera and film intact. Photo rockets are not new and as you will see this rocket is not very sophisticated. What makes Photo1 different is the use of the self made K1000 PVC motor, which reduces the cost while increasing the satisfaction of the accomplishment. This launch was also a test of the K1000 motor since data collected about the flight could verify the motor's performance.
+
+Description
+￼
+Length: 77.5 in. 
+Diameter: 4.0 in. 
+Body Material: Phenolic tubing 
+Fins (4): G10 attached through the body wall
+     Root Length: 8 in.
+      Semi Span: 3.5 in.
+      Tip Length: 5.63 in. 
+Nose Cone: 13 in Ogive, molded plastic, commercial 
+Motor: K1000 PVC motor, 65/35 KN/Sorbitol, 1996 Ns 
+Rocket Weight w/o Motor: 71 oz
+Total Launch Weight: 168 oz 
+Recovery: Drogue & Main Parachute, PerfectFlite minAlt/WD altimeter
+Stability Factor (Barrowman): 2.5 Calibers
+Camera / Film: Olympus Stylus Epic 35 mm / Kodak ASA 400 Color Print Film
+Photo Frame Rate: Approximately 1 frame every 1.7 seconds 
+Camera Trigger: Quad comparator trigger / pulser with relay for shutter activation 
+Launch Rail: 10 ft. EMT / curtain rod rail
+Photo1 is not unlike many kit rockets. It has an airframe, fins, motor mount, recovery system and a payload, which in this case is a film camera. A feature of this rocket is the side launched drogue chute, which is deployed from a mortar pointing out of the side of the rocket mid way along the rocket's body near the Center of Gravity. This scheme allows the rocket to hang horizontal from the drogue chute so that a camera pointed out the side of the rocket will be pointed down
+
+The rocket is built in three sections. The bottom section consists of the motor mount and fins. The center section houses the drogue mortar, camera, and altimeter. The top most section of the rocket is the compartment for the main parachute and nose cone. The three sections are tied together by two 1/4" threaded tie rods, which carries the load of the main parachute that is attached to the topmost bulkhead.
+The body of Photo1 is made from 4" phenolic tubing available from a variety of sources for use as rocket body airframe. It is light and strong and there are nose cones, piston systems and body tube couplers made to fit these tubes. The motor mount is tagboard rolled into a tube to fit the K1000 motor. Centering rings for the motor mount are strips of craft wrapping tape wrapped around the motor mount until they are layered sufficiently to fit the inside diameter of the body tube. The body tube is slotted so that the fins can be glued to both the motor mount and body tube for added strength and rigidity.
+The compartments containing the drogue mortar, camera and associated electronics, and altimeter are housed in coupling tubes and placed in the center of the rocket near the Center of Gravity. Plywood bulkheads separate the compartments and two tie rods hold the whole section together. The bottom bulkhead of the bottom compartment containing the drogue mortar is attached securely to the bottom section of the rocket, which also anchors the tie rods. The final assembly of the rocket takes place at the launch site. After assembly of the center section the upper section containing the ejection piston, compartment for the main parachute and nose cone is attached to the center section. There are no load forces on the top section of the rocket except for drag.
+Recovery is a dual deployment system with deployment of a drogue at apogee and a main parachute nearer to the ground. The deployment system uses a PerfectFlite minAlt/WD altimeter with dual deployment. The altimeter is equipped with sonic delay, which prevents deployment of the chutes should the rocket go supersonic and barometric pressures around the rocket trick the altimeter into thinking that it has achieved apogee. It also has a settable altitude for main parachute deployment. For Photo1, the sonic delay was set at 6 seconds with main parachute deployment at 500 feet. The minAlt/WD altimeter also has an attribute, which proved invaluable for this flight. The flight is recorded in terms of time of flight and altitude. The information is stored in a non-volatile EEPROM memory so even if the altimeter is not recovered for a long time and the battery dies the flight information is preserved.
+The main parachute is a commercial 54-inch, nylon parachute deployed by a piston propelled by a black powder charge. A short length of fire retardant shock cord is attached between the upper most bulkhead and piston. A longer shock cord is attached to the piston, main parachute and nose cone. The length of the shock cord is 40 feet so if the rocket comes down in a wooded area the rocket body would penetrate the canopy of the trees to the ground even though the parachute might catch in the top of the trees.
+To help track the rocket during the ascent, a smoke grain is added to the motor. This is a 3/4" thick wood block cut into a 2" disc to fit the inside of the motor casing. A 1 1/4" hole is drilled through the block and the hole is packed with KN/sugar/epoxy delay mix. The smoke grain sits on top of the propellant grain and the motor casing is made longer to accommodate the smoke grain.
+To aid in recovery an audible beeper as described at Rocketry Online is used to help locate the rocket. The beeper produces a 120 dB screeching sound that can be heard over a considerable distance. The beeper is taped to the main parachute shock cord. It is equipped with a pull switch attached through a lanyard to a location above the beeper on the shock cord. When the main parachute is deployed, the lanyard pulls the pull switch activating the beeper.
+￼
+The drogue mortar is a length of 2" PVC pipe. It is cut square on one end and covered with plywood. The other end is cut in an arc to conform to the inside of the rocket body. A catch rod is epoxied to the back of the mortar and extends either side of the pipe. The catch rod fits into holes in bulkheads that are secured above and below the mortar by the tie rods. A hole is cut in the rocket body to the inside diameter of the PVC pipe through which the drogue chute is deployed.
+The shock cord for the drogue is 1/8" nylon parachute cord attached to the mortar by a knot through the plywood backing. This does not sound strong, but when the drogue is deployed the rocket is at apogee and moving relatively slow. With the rocket weighting only 7.0 pounds without propellant the parachute cord is more than adequate to carry the load.
+
+A soda straw/Christmas light squib filled with black powder is used to eject the drogue chute. Because the mortar is a small volume and the flammable nylon drogue chute is in close proximity to the burning black powder, extra protection is given to the drogue chute and shock cord to keep them from burning. The shock cord is covered in an aluminum foil sheath along its length inside the mortar. The remaining shock cord and drogue chute are folded tightly and wrapped in several layers of fire retardant cloth to give them protection from the burning black powder.
+The squib is laid in the bottom of the mortar with the leads protruding out the front. A cardboard disc is placed over the squib. The wrapped drogue chute and shock cord are placed in the mortar over the cardboard disc. To prevent the drogue chute from being sucked out by aerodynamic forces during flight, the mortar is sealed with paper that is folded over the mouth of the mortar and taped around its edges. The paper cover is also given extra security by being pinched between the body tube and mortar when assembled into the rocket. However, the paper cover is not so strong that it is torn open during the deployment of the drogue.
+The camera is a 35 mm Olympus Stylus Epic. It has a 35mm lens with automatic film advance, aperture setting, focus, and auto rewind. The advantage of the Olympus camera is that it has the fastest shutter speed, depending on lighting conditions and film speed, of any similarly priced camera. The fast shutter speed helps reduce fuzzy pictures as a result of motion of the camera. The camera is positioned with the view straight out from the rocket as opposed to looking rearward. The rocket is designed so the rocket hangs horizontal from the drogue chute during descent so the camera looks down. Film is Kodak 35mm ASA 400 Color Print Film.
+A circuit based upon an LM339 quad comparator IC activates the camera shutter. It senses the electrical pulse to the igniter and turns on a pulser that activates the shutter by closing a relay every 1.7 seconds. An umbilical lead is connected in parallel to the igniter and to the circuit through alligator clips. When the rocket is launched the alligator clips break away from the rocket. When the film reaches the end of the roll the camera automatically rewinds the film. Below is the circuit used for Photo1. It is necessary to open the camera and solder leads to the shutter contacts for connection to the relay.
+
+￼
+Flight Simulations
+AEROLAB and WINROC4.5 are used to determine Photo1's flight characteristics. AEROLAB is used to determine the Center of Pressure and Coefficient of Drag. WINROC4.5 is used to predict altitude and velocity.
+
+￼
+Shown is the Center of Pressure (CP) for supersonic flight. Barrowman is 58.43 inches from the tip of the nose. Center of Gravity (CG) is 10 inches forward of Barrowman or 2.5 calibers. The K1000 is 29 inches long and its weight is evenly distributed along its length. This places the CG of the motor 14 inches from the bottom of the rocket, well above the fins. The weight distribution of the long motor makes it easy to achieve a good offset between the CG and CP.
+
+￼
+For the altitude prediction AEROLAB determined the Coefficient of Drag to be 0.45. WINROC4.5 uses this number and takes into account powered, unpowered and supersonic drag. Coefficient of Drag and the other factors of weight, body diameter and motor performance are used to compute acceleration, drag forces, velocity and altitude.
+
+￼
+With a predicted altitude of nearly 7000 feet, Photo1 more than satisfies the goal of achieving a mile altitude. This calculation also shows that the rocket has the potential of going supersonic which is a bonus for this rocket.
+Photo1 is not at its optimum weight. Additional calculations show that by adding weight to the rocket it would achieve a greater altitude. This is not surprising, because the added weight gives the rocket better "penetration" through the air. For example, given the same effort a golf ball can be thrown further than a Ping-Pong ball. But by adding weight, the rocket would not go supersonic.
+
+￼
+
+Launch of Photo1
+The launch of Photo1 was made in late April when the leaves were off the trees and there was no ground foliage. This open visibility would help to locate the rocket if it came down in a wooded area. Photo1 was painted a bright yellow for optimum visibility and contrast. The morning was bright with no clouds or wind. I called a buddy who volunteered to help with the launch and we drove to the site. When we arrived the air was still calm with a bright blue sky. The setup took longer than expected and by the time we were ready for launch, there was a slight breeze. The concern was not that the breeze would cause a problem with the stability of the rocket more than the slightest breeze would cause a rocket descending from a high altitude by parachute to drift a long distance.
+Finally, we were ready. Five...four...three...two...one...launch! Immediately, there was a slight hint of smoke and then Photo1 was off the rail. There was a pillar of smoke and then a "pop" was heard, which was thought to be the sonic boom predicted by the simulations.
+That was the last I saw of Photo1!
+My friend was able to follow the smoke trail and observed the rocket hanging from the drogue chute. However, during its descent the rocket passed in front of the sun and he lost sight of it. He searched the horizon, but could not relocate it. We searched by ground in the general direction of where the rocket was last seen, but without luck. I continued the search off-and-on for over two weeks. I even had a private pilot friend fly me over the area and with no leaves on the trees and clear visibility to the ground Photo1 could not be located. Finally all hope was given up. In a desperate move that it might be accidentally found I notified adjacent landowners of the lost rocket.
+Photos:
+
+	1	Me and Photo1
+	2	Launch at 0+
+	3	Launch at 0++
+	4	Launch at 0+++
+	5	Camera shutter electronics package
+	6	Drogue mortar
+The Rest of the Story & Conclusion
+In late September six months after the launch I received a call from a man who said he had found a yellow rocket. He was fascinated and excited about the find and would not accept a reward. The rocket had drifted 3100 feet from the launch point and landed about 30 yards off of a hard top road. I actually had driven by the rocket several times during my search.
+The rocket had made it to the ground in good shape. Both the drogue and the main parachute had deployed, but the long shock cord had tangled and did not fully extend. The beeper was not with the rocket and I don't know if it tore loose from the shock cord during descent or if wet weather caused the tape to weaken and separate from the shock cord.
+I immediately disassembled the rocket. The camera compartment contained a small amount of mud as a result of lying on the ground. Although the outside of the camera had water damage the inside of the camera was dry. The film cartridge was also dry and the film had rewound indicating the camera had performed as expected. I thought I was in luck. However, when the film was developed the operator said the film was wet. The film had absorbed moisture and the emulsion had blistered. The film was a complete lost.
+The camera was also a complete loss. The camera shutter activation electronics are still operable, but further tests are needed to confirm its reliability if it is to be used again.
+I next examined the altimeter. The altimeter was in perfect condition except for a small amount of rust on one of the connectors. The rust was removed and the connectors cleaned. When turned on the altimeter functioned as expected. It beeped out the sonic delay and then the main chute deployment altitude. The altimeter then beeped out an altitude of 6920 feet! Since this recorded altitude was very close to the simulation, which also predicted that to achieve this altitude the rocket would have gone supersonic confirmed that the "pop" I heard at launch was a sonic boom. Photo1 had gone supersonic!
+Following is a plot of the download data from minAlt/WD altimeter. There is a clear indication of the deployment of the main parachute at 500 feet at about 100 seconds of flight. The plot also shows that the rocket landed in a ravine about 300 feet lower in altitude from where it was launched.
+
+￼
+Expanded view of the first few seconds of flight showing the rocket going in and out of supersonic flight.
+
+￼
+There is a sudden discontinuity in the flight at 2.7 seconds and again at 5.0 seconds. Obviously, the rocket did no reverse itself in flight; rather the discontinuities are believed to be the result of the barometric altitude sensor reacting to the affects of supersonic flight. At about 0.8 Mach 1, the rocket begins to transition from subsonic to supersonic flight. The air on the leading surfaces of the rocket begins to compress producing an increasingly stronger pressure wave. At Mach 1 velocity the pressure wave forms a shock wave, which is heard as the familiar sonic boom. How this compression interacts with the dynamics of the rocket and the altimeter is not clear, but the affects are clearly seen. Once the rocket transitions back to subsonic flight, the normal recording of the altimeter resumes.
+
+￼
+Above is a plot of the velocity using the data from the altimeter by dividing the change in altitude by the sampling rate of 0.05 seconds. At about 1.75 seconds where the rocket is traveling about 900 fps, we begin to see the affects of the transition into supersonic flight and the data from the altimeter can no longer be relied upon to give a true presentation of the flight of the rocket. However, if the curve is extrapolated to the burn out of the motor at 2.0 seconds, we can see that the rocket could have achieved a velocity of 1200 fps. At this point in the flight, the total altitude of the rocket above sea level (ground MSL plus rocket AGL) is about 2200 feet. At this altitude, Mach 1 velocity is 1106 fps.
+Although Photo1 failed to return pictures, I consider the launch a great success. Among the accomplishments are:
+	1	Verification that the K1000 PVC motor performed as predicted.
+	2	Achieved supersonic flight with a sugar motor.
+	3	Validation of the flight simulations.
+	4	Validation of the side launched drogue mortar.
+I am pleased and at the same time disappointed. I designed and scratch built a rocket that achieved supersonic flight and a respectable altitude. I did not get the pictures I wanted, but the failure to do so gives reason to try again.
+
+￼
+Last updated November 27, 2004
+Back to Home Page
+

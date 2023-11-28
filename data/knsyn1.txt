@@ -1,0 +1,145 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Synthesis of Potassium Nitrate from Other Chemicals
+Introduction
+Synthesis Description
+Synthesis Process
+Apparatus
+Procedure
+Photos
+Other Means of Potassium Nitrate Synthesis ￼
+Discussion
+Safety
+Update, May 2008
+References
+
+Introduction
+In some parts of the world, potassium nitrate can be hard to find, at least in economical quantities. The most economical form of potassium nitrate is 13-0-46 fertilizer. However, since this is a "specialized" fertilizer, its availability can be limited. On the other hand, ammonium nitrate (AN) is a common, inexpensive fertilizer (admittedly, AN is becoming less available due to restrictions on it sale). Annual global consumption is around 20 million tonnes [1], and is found in most parts of the world for a wide variety of crops. Although ammonium nitrate is potentially a very effective oxidizer, it is challenging to harness its capacity for a rocket propellant oxidizer due to its low combustion temperature and tendency to self-extinguish, drowning it its own water produced as the main product of combustion. Ammonium nitrate cannot be used as a direct replacement for potassium nitrate in sugar propellant due to rapid decomposition that occurs at elevated temperature when in contact with organic materials such as sugars.
+As such, it is indeed fortuitous that potassium nitrate can be readily synthesized using ammonium nitrate as a base material. This webpage describes a process that is a relatively simple and safe way to make synthetic potassium nitrate that is quite pure and is perfectly suitable for use as a rocket propellant oxidizer.
+
+Synthesis Description
+The synthesis process described here involves a reaction between ammonium nitrate and potassium hydroxide (KOH) that occurs in an aqueous solution. Potassium hydroxide is also known as "caustic potash" and is a commonly used and relatively inexpensive chemical widely used in industry [2] [3]. KOH is available in pellet form typically with a purity of 98% (potassium carbonate is the usual impurity). KOH is highly hygroscopic and the commercial product typically contains 10-15% water.
+The reaction between ammonium nitrate (NH4NO3) and potassium hydroxide produces ammonia (NH3), water and potassium nitrate according to the following chemical equation:
+NH4NO3+ KOH -> NH3+ H2O+ KNO3
+One mole of ammonium nitrate reacted with one mole of KOH produces one mole each of NH3, H2O and KNO3.
+This can be put in terms of mass knowing the molecular weights of the various reactants and products:
+NH4NO3
+80
+grams/mole
+KOH
+56.1
+grams/mole
+NH3
+17
+grams mole
+H2O
+18
+grams/mole
+KNO3
+101.1
+grams/mole
+80grams NH4NO3 + 56.1grams KOH -> 17grams NH3 + 18grams H2O + 101.1grams KNO3
+It can be seen that "mass is conserved", that is, the total mass of the reactants (136.1g) is equal to the total mass of the products (136.1g). Since commercial KOH contains up to 15% water, the mass of KOH pellets needs to be increased by 15%. This has been experimentally confirmed.
+The two by-products of the synthesis process are water and ammonia. Ammonia is a pungent, sharp smelling gas and is commonly used as a household cleaner dissolved in water to a strength of 5-10 weight percent ammonia.
+
+
+Synthesis Process
+The process described here will produce approximately 100 grams of KNO3. The process can be directly scaled up or down as needed. Since a large volume of ammonia gas is produced, this procedure must be performed outdoors in a well-ventilated area. Read over the safety section before proceeding.
+The process involves reacting the ammonium nitrate and potassium hydroxide in an aqueous solution. The products of this reaction are water, ammonia gas, and potassium nitrate. The ammonia gas that is produced is highly soluble in cold water, and is driven out of solution by heating. The solubility of NH3is a strong function of temperature, as is seen in Figure 1, decreasing with increasing temperature. Upon cooling, the potassium nitrate, which is highly soluble in hot water, crystallizes out. The solubility of potassium nitrate is a strong function of temperature, decreasing with decreasing temperature, as shown in Figure 2. The crystals of potassium nitrate are then recovered by further cooling followed by mechanical separation of the crystals from the saturated solution.
+
+￼
+
+Figure 1-- Solubility of ammonia in water with respect to temperature [4]
+
+￼
+
+Figure 2-- Solubility of potassium nitrate in water with respect to temperature
+The process of dissolving ammonium nitrate in water is endothermic, that is, heat is absorbed resulting in a significant drop in solution temperature. The opposite is true for KOH. The process is highly exothermic, resulting is a significant increase in solution temperature. The heats of solution (change in enthalpy in kcal/mol in water) are shown below [5]:
+ammonium nitrate   +6.14 kcal/mol =   77 cal/gram heat absorbed potassium hydroxide   -13.77 kcal/mol =   245 cal/gram heat released
+If the synthetic potassium nitrate is to be used for sugar propellant, it is important that
+	•	the ammonium nitrate is completely consumed
+	•	no residual KOH remains
+If trace amounts of either reactant remain, a reaction will occur when heat-casting sugar propellant, leading to some degree of decomposition of the sugar similar to caramelization. To eliminate this, an excess amount of KOH is used (to ensure full consumption of the ammonium nitrate), then any remaining KOH that remains is neutralized with a weak acid. Vinegar (5% acetic acid) has been used with good success, although other acids may be used instead.
+
+Apparatus
+	•	two glass or plastic containers, 150 ml
+	•	electric hot plate for heating
+	•	pot (stainless steel or Pyrex glass)
+	•	thermometer (range at least 0oC to 105oC)
+	•	spoon or other utensil for stirring solution
+	•	accurate weighing scale (resolution 1 gram or better)
+	•	pH indicator paper
+	•	white vinegar (approximately 10-20 ml)
+	•	eyedropper
+	•	piece of polyester or nylon fabric (1 foot or 30cm square)
+	•	plastic or glass shallow bowl, ½ litre capacity
+	•	100 ml ice-cold water
+Procedure
+	1	Weigh out 250 grams cool water (should be no more than 20oC) and place into pot.
+	2	Weigh out 92 grams of ammonium nitrate and 72 grams of KOH pellets into separate containers.
+	3	Add ammonium nitrate to the pot and stir well to fully dissolve. Thermometer will indicate a temperature drop of about 15-20 degrees Celsius.
+	4	Slowly add some KOH to the pot, roughly 10 pellets at a time, and stir to fully dissolve. Do not add more KOH until those pellets present are fully dissolved. Continue until all KOH has been added. Thermometer will indicate a temperature rise of about 25-30 degrees Celsius. Ammonia gas will evolve from the solution.
+	5	Begin gently heating the solution. Stir often to aid in the release of the dissolved ammonia from solution.
+	6	Continue gentle heating until the thermometer reads 105oC. This will take around 20 minutes. At this point, all the ammonia should be driven out of solution.
+	7	Remove pot from hot plate and allow to cool to room temperature. Crystals of potassium nitrate will begin to form.
+	8	When the solution has reached room temperature, use indicator paper to measure pH of the solution. The pH should be in the range of pH7 to pH8. If alkalinity is greater than this (>pH8), ammonia is likely still present (the solution should not have an ammonia smell), and the solution should be reheated and allowed to boil for several more minutes, then allowed to cool.
+	9	Using eyedropper, add 10-20 drops vinegar to solution, stir well, then measure pH. Continue this step until solution is slightly acidic, having a pH6. This is to ensure that all excess KOH has been neutralized.
+	10	Place pot in freezer and allow to cool for approximately one hour. The potassium nitrate will crystallize.
+	11	Remove pot from freezer and immediately scoop contents onto fabric sheet placed over bowl.
+	12	Gather corners of fabric sheet and compress crystals by hand into a "ball" until most of the "liquor" has been squeezed out.
+	13	Open fabric sheet and scrape contents into shallow plastic bowl. Add 100 ml ice-cold water and stir well, trying not to break up the crystals (see note).
+	14	Place contents back into fabric sheet and once again compress into a ball until most of the water has been squeezed out. Additional water can be removed by compressing between a few sheets of paper toweling.
+	15	Open fabric sheet and scrape contents into shallow plastic bowl, and allow to dry overnight. Occasional stirring will facilitate drying.
+	16	Using a fork, break up dried granules and spread onto a cookie sheet lined with aluminum foil, and place in preheated oven at 200F. Allow to fully dry in oven for at least one hour. Dried granules, once cooled, may be pulverized using an electric coffee grinder.
+Note
+	•	The purpose of this step is to rinse off the impurities that were dissolved in the liquor. This step is particularly important if sugar propellant is to be made by the heat-cast method.
+Photos
+	•	[ 1 ] Ammonium nitrate prills and potassium hydroxide pellets
+	•	[ 2 ] Crystals of KNO3 formed upon cooling
+	•	[ 3] Wet KNO3 extracted from saturated solution
+	•	[ 4 ] Dried, granular synthetic KNO3
+	•	[ 5 ] Milled synthetic KNO3
+	•	[ 6 ] Videoclip of burning sample of KNSU powder (MOV, 2.5 Meg)
+Other Means to Synthesis KNO3
+There are other ways that potassium nitrate can be synthesized. Here are three examples:
+From calcium nitrate and potassium carbonate: Ca(NO3)2 + K2CO3 --> 2KNO3 + CaCO3
+From calcium nitrate and potassium chloride: Ca(NO3)2 + KCl --> 2KNO3 + CaCl2
+From ammonium-calcium nitrate decahydrate and potassium chloride: NH4(NO3)*5Ca(NO3)2 *10H2 O + 11KCl --> 11KNO3 + 5CaCl2 + 10H2 O
+Ammonium-calcium nitrate decahydrate is a commonly available fertilizer that is replacing ammonium nitrate in the agricultural marketplace. Potassium Chloride is readily available as a sodium-free water softener salt. These three synthesis methods are actually simple to perform, whereby the reagants are dissolved in hot water, mixed, whereby an ion exchange reaction occurs, followed by a chill-down of the solution to obtain the desired product (KNO3) which will crystallize in the reaction vessel since KNO3 has much lower solubility than the other products at sub-zero temperature. The latter method, which produces a fine product, is described in fellow rocketry experimenter Dyanko Chernev's webpage.
+
+
+Discussion
+There are various ways for the rocketry enthusiast to synthsize potassium nitrate if it is not readily available. The method presented here, using ammonium nitrate and potassium hydroxide as the base chemicals, is a relatively simple method and is safe if done according the the method described here with adherence to the safety tips provided. The resulting product will be of very good quality, well suited to hot-cast sugar propellants or cold-cast propellant such as the RNX variety. The product will also be well suited to making igniter pyrolant or ejection charge material.
+
+￼
+
+Figure 3-- Synthetic potassium nitrate-dextrose propellant grain (SKNDX) made using synthetic potassium nitrate
+
+Safety
+	•	A facemask with organic vapour filter is necessary to be worn, as ammonia gas is a respiratory irritant (example: 3M Model 5101, approx. $15 USD)
+	•	Ammonia also causes irritation of the eyes, so eye protection such as full goggles are required
+	•	Always add acid to water, never the other way around, otherwise a violent reaction could occur as heat is rapidly released and water is vapourized as steam.
+	•	Potassium hydroxide is caustic; handle with care (wear vinyl gloves when handling)
+Update, May 2008
+On May 25, 2008, I test fired my A-100M motor with the synthetic potassium nitrate-dextrose grain (SKNDX) shown in Figure 3. This was the first "conclusive" test of synthetic potassium nitrate, and the firing was a success. The motor fired very well, in a manner typical of the A-100M motor. A photo of the firing is shown in Figure 4. The only notable difference was a shorter burn time. The delivered specific impulse was 116 seconds, which compares well with a similar sized KNDX grain made with commercial potassiuim nitrate.
+
+￼
+
+Figure 4 -- Static firing of A-100M motor with SKNDX propellant grain
+Thrust and chamber pressure curves: Metric units   English units
+
+
+References
+[1] A Review of the Global Fertilizer Use by Product, K.G. Soh, International Fertilizer Industry Association, Paris
+[2] http://en.wikipedia.org/wiki/Potassium_hydroxide
+[3] http://www.oxy.com/oxychem/Products/caustic_potash/caustic_potash_uses.htm
+[4] http://www.airgasspecialtyproducts.com/UserFiles/laroche/PDF/AAPhysical.pdf
+[5] http://en.wikipedia.org/wiki/Enthalpy change of solution
+
+￼
+Last updated April 5, 2018
+Return to Top of Page
+Return to Home Page
+

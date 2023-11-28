@@ -1,0 +1,26 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+
+
+To get a feel for the effectiveness of polyester coatings as thermal ablative protection for rocket motor casings, a series of simple tests were performed. For each test, an aluminum plate was coated with polyester resin on one side, and allowed to fully cure. The number of coats varied from none to three. A thermocouple was soldered to the opposite side of the plate to monitor temperature during the heating process.
+The tests were performed by using a propane torch to vigorously heat the coated side of the plate, while monitoring temperature of the opposite side of the plate by use of a computer data acquisition system which sampled the plate temperature at a rate of 3 readings per second.
+The test results are shown in Figure 1. The rate at which heating of the plate varied with time, for the various coatings, is shown in Figure 2. This can be seen to be approximately linear with thickness.
+
+
+￼
+
+Figure 1 -- Results of flame tests
+
+￼
+
+Figure 2 -- Variation of plate heating rate with coating thickness
+
+Note that in Figure 1, the "kink" in the heating curve is a result of a phase change in the solder attaching the thermocouple. Also note that heating terminated at the peak of each curve.
+
+        Download Test Report         Polyflam.doc
+
+Back
+Last updated February 26, 1999
+

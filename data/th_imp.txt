@@ -1,0 +1,63 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Solid Rocket Motor Theory -- Impulse and C-star
+
+Total Impulse
+Although thrust is an important yardstick for characterizing the lift capability of a rocket motor, it provides no indication of the how high the rocket will be propelled. For this, one needs a measure of the total output in terms of propulsion capability.The essential yardstick for for this is the Total Impulse of the rocket motor, which incorportates the essential element of time, or thrust duration.
+Total Impulse is defined as the time integral of the thrust over the operating duration of the motor:
+
+￼            equation 1
+and is represented by the area under the thrust-time curve:
+￼
+Figure 1 -- Thrust -time curve for a typical motor
+
+Units are those of force multiplied by time, typically pound-seconds (lb-s) or Newton-seconds (N-s).  It is important to note that the Total Impulse only a tells part of the story regarding a motor's capacity to propel a rocket skyward. For example, a motor that delivers a Total Impulse of 200 lb-s may provide an average thrust of 100 lb. for 2 seconds (100 lb. x 2 s = 200 lb-s), or may deliver a thrust of 25 lb. for 8 seconds (25 lb x 8 s = 200 lb-s), as shown in Figure 2. Both deliver the same Total Impulse, which is usually abbreviated It.
+
+￼
+Figure 2 -- Two thrust-times curves with identical total impulse
+
+The altitude achieved will differ to some extent, with this effect being more significant as the thrust/mass ratio drops. The more pronounced difference will be with the rocket's acceleration, since initial acceleration is given by:
+a = F/m - g            equation 2
+where F = thrust, m = rocket liftoff mass, and g = acceleration of gravity. With lower acceleration, the longer it takes for the rocket to achieve a velocity at which the fins provide effective stability. And in the extreme case, if the thrust is less than the liftoff weight, the rocket will not even leave the launch pad, regardless of the motor's Total Impulse!
+
+Characteristic Velocity
+The characteristic velocity, also called c-star or simply c*, is a figure of thermochemical merit for a particular propellant and may be considered to be indicative of the combustion efficiency. The expression for ideal c-star is given in equation 3, and is seen to be solely a function of the products of combustion (k, M, To).
+
+￼            equation 3
+
+The value used for k should be that for the mixture of gases and condensed phase, as shown in the Technical Notepad Web Page.
+The delivered Specific Impulse is related to c-star as follows:
+Isp = c* Cf / g            equation 4
+
+where c* accounts for the influence of the combustion and Cf (thrust coefficient) accounts for the influence of the nozzle. As such, c* may be considered to be analagous to the specific impulse with a Cf =1.
+The delivered c-star may be obtained from a rocket motor's pressure-time trace, being given by time integral of chamber pressure over the burn, multiplied by the ratio of throat area to propellant mass, as shown:
+￼            equation 5
+For the KN-Sugar motors, the deliverd c-star has been found to be in close agreement with the calculated value, indicating high combustion efficiency.
+
+Specific Impulse
+The Specific Impulse that a propellant is capable of producing (either theoretical or "delivered") is the key "yardstick" of performance potential. In its basic form, Specific Impulse can be considered to relate the thrust produced by a unit mass (e.g. 1 lb or kg) of propellant over a burning time of one second. As such, the units of Specific Impulse would be lb-s/lb or N-s/kg. In the former set of units, the "lb" can be considered to cancel, giving the more conventional units of "seconds". For the latter set of units, division of Specific Impulse in N-s/kg by the accleration of gravity, g (9.806 metre/s) results in the more conventional "seconds".
+Delivered Specific Impulse produced by a motor, for example from static test measurements, is obtained from the expression:
+Isp = It/ wp            equation 6
+where wp is the propellant weight (lb or kg x g).  Delivered specific impulse has a dependancy upon:
+	•	mass flowrate, and thus on motor size
+	•	available combustion energy of the propellant
+	•	nozzle efficiency
+	•	ambient pressure conditions
+	•	heat loss to the motor hardware
+	•	two-phase flow losses
+	•	combustion efficiency
+These factors are discussed in detail the Corrections for "Actual" Rocket Motors Theory Web Page.
+The Ideal Specific Impulse of a rocket propellant is calculated using equation 12 of the Nozzle Theory Web Page, which expresses exhaust velocity, Ve, in terms of the flow properties and the pressure ratio. Since Ve = c* Cf, ideal Isp can be determined from equation 4:
+
+￼            equation 7
+
+where k, M, To, Pe and Po are all defined in the Nozzle Theory Web Page. This equation is utilized to calculate the Ideal Specific Impulse for the KN/Sugar propellants, as shown in the Technical Notepad Web Pages.
+
+Next -- Rocket Motor Chamber Pressure
+
+￼
+Last updated  July 5, 2001
+Back to Theory Index Page Back to Index Page
+

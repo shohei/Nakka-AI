@@ -1,0 +1,76 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Propellant Inhibitor Experiment
+
+Introduction
+Experimental Method
+Experimental Results
+Conclusions
+
+Introduction
+One of the more significant challenges in rocket motor design and construction is to develop an effective, well-engineered propellant inhibitor. An inhibitor is simply a layer of heat resistant material that is bonded to one (or more) surfaces of a propellant grain, and has the sole purpose of preventing combustion from occurring on that particular surface. Together with the grain initial geometry, the inhibited or restricted boundaries allow the designer to carefully control the grain burning surfaces throughout the operation of the motor. The total burning surface, and how it changes throughout the burning duration, profoundly affects the motor internal ballistics (pressure, thrust, burn rate, etc). In other words, there is a intimate relationship between the total burning surface and the amount of propellant consumed at any moment in time. As such, it is imperative that the inhibitor be completely effective throughout the entire burning duration of the motor. Failure to do so will result in greater burning area (and thus greater propellant consumption rate) than designed for, resulting in changed internal ballistics behaviour. This could easily lead to motor overpressurization, and possible catastrophic failure.
+It is not necessarily difficult to devise an effective inhibitor. A thick layer of reasonably heat resistant material will usually suffice. The challenge lies in developing a well-engineered inhibitor. In other words, one that will do the job, with an adequate "margin of safety" in design, without wasting precious chamber volume and adding undesired mass. After all, the inhibitor occupies space that could otherwise be filled with propellant. It must be kept in mind, however, that the inhibitor represents a critical component of the motor system, and as such, the choice of inhibitor requires careful balance of reliability and efficient use of limited resource (motor volume & mass).
+Properties that are required for an effective inhibitor are:
+	1	low thermal conductivity
+	2	resistance to thermal degradation
+	3	resistance to creep in the presence of gas flow
+	4	good bonding characteristics
+	5	low cost
+	6	availability
+Some examples of inhibitor material used for amateur rocket motors include cardboard and phenolic (often in the form of casting tubes), mylar, epoxy or polyester (usually with a cotton fabric to prevent creep or flow), polyurethane, even duct tape has been used successfully for smaller motors. The Kappa rocket motor successfully employs polyester impregnated cotton fabric. Chuck Knight's PVC motors employ thin cardboard (tagboard). The Lambda rocket motor employed an experimental neoprene impregnated cotton fabric for its initial test firing. The motor overpressurized, with a resulting catastrophic failure. Investigation attributed the failure to a breech of the propellant inhibitor. It was this particular experience that led me to perform this set of experiments on various inhibitor materials, and to compare the performance of the unsuccessful neoprene system to other inhibitor systems, including the successful cotton/polyester and tagboard inhibitors.
+
+Experimental Method
+Slugs of KN-Dextrose propellant were cast in the same manner that was done for the Propellant Igniteability Experiment and were subsequently inhibited on one side with one of various inhibitor materials. Slug size was 0.931 in. (24mm) diameter by 0.40 in. (10mm) thickness; mass was approximately 8 grams each. The inhibitor materials studied are shown below in Table 1, and Figure 1 illustrates the inhibited slugs.
+
+￼
+Table 1 -- Inhibitor materials used in experiment
+
+
+￼
+Figure 1 -- Propellant slugs with inhibiting layer applied.
+Inhibitor Details
+
+	•	CAP, CA: Notepad backing cardboard, thickness 0.023" (0.58 mm). Mass density 0.78 gram/cc. Coating was hi-heat aluminum paint.
+	•	SS: Sodium Silicate with filler (Pit Stop brand muffler cement). Dried in oven at 70oC. for 1/2 hour.
+	•	NEO: Neoprene was contact cement, LePage "Pres-Tite" brand.
+	•	PVC: Polyvinyl Chloride plastic sheet (dark grey), thickness 0.032" (0.8 mm).
+	•	EPO: High grade marine epoxy, East Systems, 5:1 resin/hardener ratio.
+	•	POL: Polyester/styrene resin system, MotoMaster brand (for "fibreglassing" auto & boat repair). Hardener was methyl ethyl ketone peroxide.
+	•	TAG: Tagboard "file folder" thin cardboard, thickness 0.011" (0.03 mm). Mass density 0.55 gram/cc.
+	•	Cotton fabric was same for all specimens except SS2, and was fineweave "dress shirt" cotton, of thickness 0.010" (0.25 mm). For SS2, cotton was looser weave, but double the thickness.
+The approach taken in this experiment is to evaluate the relative merit of the inhibitor materials, rather than to attempt to quantify the inhibitor performance in absolute terms.
+In each case, the prepared slug was subjected to the flame of a propane torch, with direct flame impingement on the inhibited surface. The apparatus is shown in Figure 2; note that the flame is directed vertically upward.
+The experimental procedure involved first mounting the slug into the spring-loaded holder, inhibited side facing downward. A metal flame shield was then slid into position, to initially block the flame from heating the slug. The propane torch was then fired up (to maximum setting, for consistency). A stopwatch was readied, and at the 'zero' count, the flame shield was pulled, allowing the flame to impinge the specimen. The time was then recorded for the propellant to ignite. The effectiveness of the inhibitor was taken as the time-to-ignition.
+
+￼   ￼
+Figure 2 -- Two views of test apparatus with mounted slug. View on right has flame shield removed to reveal slug surface exposed to heating.
+
+
+Experimental Results
+The results of the experiment are shown in Table 2, as well as graphically in Figure 3. The table includes both the actual time-to-ignition, as well as the normalized time to ignition, which is a more convenient means of comparing the various inhibitors, by considering a common thickness (chosen to be 0.010"). The normalized time-to-ignition is given by
+
+Tn = 0.010/ tact * Tign
+
+￼
+Table 2 -- Experimental results
+
+￼
+Figure 3 -- Chart of experimental results showing normalized time-to-ignition for all samples
+
+
+Conclusions
+The most effective inhibitor was the polyester resin impregnated cotton (followed closely by the epoxy resin impregnated cotton). This result is interesting, because the polyester/cotton inhibitor was chosen as the inhibitor material for the Kappa rocket motor grain, after an earlier investigation demonstrated its effectiveness (see Investigation of Polyester Coating for Ablative Thermal Protection). Four successful Kappa motor firings with this inhibitor proved its worth. Typical inhibitor thickness was for those firings was 0.012"-0.015", which is comparable to that tested in this experiment. The main drawback to this inhibitor system is that polyester resin is rather messy and unpleasant to work with, and its low viscosity requires a minimum of two coats to ensure sufficient material thickness. Trimming/shaving of excess material is not an easy task, either. Similar can be said of the epoxy inhibitor system, although epoxy is more pleasant to work with, and has the advantage that epoxy (unlike polyester) is a true adhesive, so bonding to the propellant substrate is more guaranteed.
+PVC was the next most effective material. This is not a surprise, as PVC has been used very successfully for rocket motor casings and thermal liners. Many propellants, however, may not bond well to PVC, so its use as an inhibitor may not be so straightforward. As well, PVC sheet and tube tend to be of much greater thickness than required for an efficient inhibitor.
+Tagboard (filefolder cardboard) proved to be quite effective. This is a nice, simple inhibitor system, which has the advantageous capability of being simply rolled into propellant casting/inhibitor tubes. The inhibitor thickness is easily controlled by the number of layers forming the tube. This type of inhibitor has been used very successfully for the PVC G,H & I motors developed by Chuck Knight.
+Cardboard (notepad backing) was less effective than tagboad, but was still reasonably effective. lying about 1/2 way in the range of effectiveness. Interestingly, cardboard painted with hi-heat aluminum paint fared poorer than the bare cardboard.
+Neoprene (contact cement) impregnated cotton proved to be slightly less effective, on average, than cardboard as an inhibitor. Significantly, though, neoprene was much less effective than polyester/cotton, have a 50% shorter normalized time-to-ignition. This is an important finding, as it provides further evidence that the failure of the Lambda motor maiden firing was due to inhibitor failure. For that test firing, the inhibitor thickness was no different from that used for the Kappa motor polyester inhibitor. Clearly, it should have been at least twice the thickness to have been as effective.
+Sodium silicate impregnated cotton performed poorly as an inhibitor. It was felt that sodium silicate, also known as water glass, could be an effective inhibitor material, owing to its high melting point (approx. 1300o C.) and usage as a fire-retardant material for wooden structures. It was observed, however, that the hot propane flame quickly melted the material, which subsequently flowed or dripped away from the slug surface, thereby affording essentially no thermal protection.
+
+As a final comment, it must be pointed out that the results presented above should be construed as largely tentative, as the sample size for these inhibitor specimen was small, being either one or two for the materials tested. A more complete investigation would involve greater sample sizes to minimize the effects of simple experimental deviation or error.
+
+￼
+Last updated May 19, 2002
+Return to Top of Page
+Back to Index Page
+

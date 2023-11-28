@@ -1,0 +1,126 @@
+ 
+Basic Information
+Name
+Z-14
+Launch date:
+9 May, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+-On-board mini camcorder (set to 1280x720 resolution)
+- Smoke charge (initiated by purpose-made module at apogee)
+- BRB900 GPS transmitter
+Liftoff mass
+2.386 kg.
+Flight objectives
+- Test new activation module for Smoke Tracking charge.
+- Backup pyro charge for main deploy added
+- Track landing using BRB transmitter beacon
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+302 grams
+Nominal impulse
+356 N-sec
+Class
+I
+ 
+Additional information
+Backup pyro charge added for main (parachute) deploy, activated by Raven at 384 ft AGL (primary main pyro fired at 672 ft. AGL for this flight).  As 4th Raven channel now used for main backup, a purpose-made electronic module was built for activation of the smoke tracking charge. The igniter circuit for such is activated by a microswitch interfaced to the “apogee tether” anchor fitting. This fitting features a paper cylinder that is designed to collapse when the tether experiences tension load during the apogee separation event. This closes the microswitch and subsequently fires the smoke tracking charge.
+ 
+Weather conditions
+Temperature
+8°C
+Wind
+N 20 km/hr
+Sky
+Clear sky; bright sun
+Other
+-
+ 
+Launch Event Description
+Setup of the rocket went smoothly. Raven confirmed all four pyro charges had continuity. Flashing LED verified that Smoke Charge module was set. After verifying the sky was clear, the countdown proceeded and at “zero” the rocket immediately came to life, rapidly climbing skyward, veering noticeably to the east, then straightening out and climbed vertically to apogee. The pencil-thin smoke trail was highly visible against the blue sky. The rocket was seen throughout much of the ascent, but disappeared as the rocket approached apogee. Several seconds after disappearing from view, the ‘pop’ sound of the apogee separation event was heard, followed by a second ‘pop’ of the backup apogee charge a few seconds later. Two smoke clouds were spotted, from each pyro charge. The rocket was not spotted descending. Clearly the smoke charge did not fire. About half a minute later, a “pop” sound was heard from the main deployment pyro. We scanned the sky but could not spot the parachute. After a minute or so, we decided that the rocket must have touched down. Not seeing where it landed, we then counted on the BRB GPS coordinates to locate the rocket. Just as we were entering the coordinates into the hand-held GPS unit, my brother spotted an orange object lying in a ploughed field about a thousand feet away. The GPS unit pointed toward the object and indicated a range of 0.18 miles (0.29 km) so we were quite sure that we’d located the downed rocket. We proceeded to head toward the site and it soon became clear that this was indeed the rocket we’d spotted on the ground. As we came nearer, it was apparent that the parachute had not fully deployed, explaining why we had not spotted the rocket during final descent. Oddly, the parachute canopy was laying gently folded on top of the rocket and was not visibly tangled. The landing site, fortunately, consisted of soft soil and the rocket appeared to be undamaged.
+ 
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+2693
+821
+Separation
+14.2
+2678
+816
+Main deployment
+46.6
+664
+202
+Touchdown
+57.5
+ 
+ 
+Range
+ 
+977
+298
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+64.2
+19.6
+ 
+Main parachute
+57.4
+17.5
+ 
+ 
+Post-flight analysis and comments:
+Good Raven data and BRB tracking data was obtained. The smoke charge failed to fire as a result of the apogee separation event not generating sufficient force (due to momentum) to collapse the paper cylinder of the tether anchor.  The BRB GPS beacon functioned nominally and once again demonstrated its ability to direct us to the exact touchdown site. If we had not visually spotted the rocket on the ground, the BRB tracking would have saved us the need for a potentially huge search effort and possible total loss of the rocket. The fluorescent orange paint scheme of the rocket also served to demonstrate the value of distinct visual markings.
+No definitive reason could be found as to why the parachute did not inflate during descent. There was no tangling of the shroud line or snags in the canopy. It is assumed that the parachute simply did not “catch enough air”, perhaps being in the airstream shadow of the rocket body.
+The on-board camcorder contained no video file. It had been noted, when the rocket was recovered, that the LCD screen was static-filled, perhaps as a result of the hard landing. The camcorder was subsequently tested and found to be in good working order.
+The rocket and payload components were not damaged by the hard landing.
+ 
+Raven baro and accelerometer graph:                                                 Z-14\Raven_Z-14.jpg
+ 
+BRB GPS data:
+Track of rocket projected onto launch site map                                   Z-14\BRB_track.jpg
+Handheld GPS unit showing tracking info                                               Z-14\DSCF3563a.JPG                                                                                                                                             
+ 
+Photos:                                                                                                         
+Zeta-14 on launch pad                                                                                Z-14\DSCF3558a.JPG                                                                                                                              
+Liftoff…and soaring skyward!                                                                   Z-14\launch capture 0.jpg                                                                                                                         Z-14\launch capture 1.jpg
+                                                                                                                        Z-14\launch capture 2.jpg
+                                                                                                                        Z-14\launch capture 3.jpg
+Approaching touch-down site                                                                  Z-14\DSCF3565a.JPG
+                                                                                                                        Z-14\DSCF3566b.JPG
+Rocket on ground, Payload section                                                         Z-14\DSCF3567a.JPG
+Rocket on ground, motor section                                                            Z-14\DSCF3568a.JPG
+ 
+Misc:
+View of recovery compartment and chute layout                                Z-14\DSCF3571a.JPG
+Smoke Charge ignition module diagram                                                Z-14\SCSL_module_circuit_diagram.pdf
+Smoke Charge triggering module in payload bay                                 Z-14\DSCF3556a.JPG
+Empty payload bay with collapsible anchor installed                          Z-14\DSCF3554a.JPG
+Raven and Smoke Charge triggering module installed                        Z-14\DSCF3548a.jpg
+Setup for testing collapsible tether anchor                                            Z-14\DSCF3538a.JPG
+Force application and measurement                                                       Z-14\DSCF3540a.JPG
+Collapsed cylinder                                                                                       Z-14\DSCF3542a.JPG
+ 
+ 
+ 
+ 
+ 

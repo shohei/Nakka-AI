@@ -1,0 +1,116 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-5
+
+ 
+Basic Information
+Name
+Z-5
+Launch date:
+7 December, 2014
+Rocket description
+63.5mm aluminum airframe (0.035” wall)
+4 fins, birch plywood
+aluminum conical nosecone
+3 ft. ellipsoidal parachute
+Payload
+Raven altimeter
+Mini camcorder (set to 640x380 resolution)
+Liftoff mass
+2.118 kg.
+Flight objectives
+- Determine if problem with early deployment has been resolved.
+- First flight with on-board camcorder
+- Test new larger parachute
+ 
+Motor details
+Motor name
+A-100M
+Propellant
+KNSB-RIO
+Grain mass
+122 grams
+Nominal impulse
+143 N-sec
+Class
+G
+ 
+Weather conditions
+Temperature
+0°C
+Wind
+S 10 km/hr
+Sky
+Overcast
+Other
+-
+ 
+Launch Event Description
+Setup went smoothly except for configuring on-board camcorder. It was difficult to read LCD screen and, as such, zoom level setting was uncertain. First attempt at launch failed, due to glitch with Launch Controller. This was resolved and motor ignited on follow-up attempt. Rocket rose rapidly skyward. After burnout, rocket continued to climb straight and true toward apogee. Following apogee, rocket began to ‘turn over’ then immediately smoke cloud from ejection charge appeared, then rocket separated into two sections. It was clear that the tether connecting the two sections had snapped. A second or so later, a second smoke cloud appeared accompanied by a ‘pop’ and the parachute was seen to eject and immediately blossom. The section with the parachute descended lazily, while the free-falling section descended in a horizontal attitude, at a moderate pace, and impacted the ground shortly after. Both sections landed roughly 500 feet downwind. Examination of the rocket confirmed that the tether has snapped due to overload (overly forceful separation event). Only damage was a broken fin.
+ 
+
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+6.4
+583
+178
+Separation
+7.6
+-
+-
+Main deployment
+11.3
+346
+105
+Touchdown
+40.3
+ 
+ 
+Range
+ 
+417/217
+127/66
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+-
+-
+ 
+Main parachute
+10.9
+3.3
+ 
+ 
+Post-flight analysis and comments:
+The issue with premature deployment experienced by flights Z-1 and Z-3 appears to have been resolved. Apogee separation and main deployment performed nominally, with the exception of the broken tether. The new larger chute deployed and blossomed nominally. The on-board camcorder functioned well and good video coverage was obtained. The hard landing may have caused some damage, however, to the camcorder, as the sound is out-of-sync and the playback rate is slower than actual.
+ 
+Raven baro and accelerometer graph:                                                 Z-5\Z-5_raven.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad prior to flight                                                                     Z-5\DSCF3331a.JPG
+Rocket soaring skyward (circled)                                                             Z-5\DSCF3334.JPG
+Payload section descending                                                                      Z-5\DSCF3339a.JPG
+Payload section on ground                                                                        Z-5\DSCF3340a.JPG
+                                                                                                                        Z-5\DSCF3341a.JPG
+Booster section on ground                                                                        Z-5\DSCF3342a.JPG
+Author with recovered rocket                                                                  Z-5\DSCF3344a.JPG
+Snapped tether                                                                                            Z-5\DSCF3345a.JPG
+On-board camera                                                                                        Z-5\take-one-camera.jpg
+ 
+Videos:                                                                                                         
+On-board video                                                                                            Z-5\Flight_Z-5_on-board.wmv
+ 
+
+￼
+Last updated March 7, 2015
+Back to Home Page
+

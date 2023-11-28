@@ -1,0 +1,81 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Juno Rocket Motor Static Test  JDX-001 Test Report
+
+Introduction
+Motor Details
+Static Test Rig
+Test Report
+Analysis
+Performance
+Conclusion
+Introduction
+This web page presents the test report detailing the first test firing (JDX-001) of the new Juno solid rocket motor, as well as post-firing analysis. The Juno motor is designed to be used as the booster for the two-stage Cirrus Two rocket.
+This static test had three main objectives, to:
+	•	Substantiate the structural integrity of this 'lightweight' motor design.
+	•	Measure the actual motor performance and compare to the design performance.
+	•	Qualify the Juno motor as a booster for the Cirrus Two rocket.
+Motor details
+The motor for this test is essentially the same as that outlined in the Juno Rocket Motor Preliminary Design web page. The only significant change was a lengthening of the the casing by 20 mm to accommodate an additional 50 grams of propellant, and the subsequent increase of throat diameter to 0.600 inch (15.2mm) in order to maintain the same max Kn. As such, the total propellant weight (KN-Dextrose) was 700.0 grams, and consisted of two segments of 149mm and 171mm lengths, bonded together with silicone adhesive. The OD of each grain was 41.8mm. No inhibiting was used, as the burning configuration is fully unrestricted. The cast grains came out with essentially no visible voids or other flaws, and measured density was 1.818 gram/cm3, giving a respectable actual/ideal density ratio of 0.97. The two segments are shown in Figure 1.
+
+￼
+Figure 1-- KN-Dextrose propellant segments
+
+The design of the Juno motor incorporates a pyrogen unit (essentially a small rocket motor ignited by a pyrotechnic charge) to ensure rapid startup. KN-Sucrose was chosen for the pyrogen grain due to its rapid burn rate and ease of ignition. To eliminate moisture absorption, the KN-Sucrose charge was painted with a slurry of KN/charcoal/isopropyl alcohol.
+
+Static Test Rig
+The STS-5000 Static Test Rig was used once again for this test. Both thrust and chamber pressure were measured. Thrust was measured by use of a hydraulic load cell connected to a 4" 0-1000 psi pressure gauge. To measure chamber pressure, the motor bulkhead was tapped with a pressure fitting which was connected to a 4" 0-2000 psi gauge. To prevent damage to the gauge by hot combustion gases, the connecting line was filled with oil (SAE 30). Gauge readings were recorded by use of a videocamera located 12 feet (3.7 metres) away. A plexiglas shield protected the camera from possible debris in case of a motor malfunction. As well, the shield buffered the camera from the shock waves due to the supersonic flow exiting the nozzle during normal operation. A second videocamera was used to record the actual motor firing. This camera was located approximately 100 feet (30 m.) away, with the zoom feature used to obtain a close-up view of the motor during firing.
+
+Test Report
+December 2, 2001 -- It was a perfect day for conducting rocket tests-- sunny, moderate wind, and temperature of 6C. So prior to test firing the Juno rocket motor, as planned, we launched a couple of experimental rockets fitted with KN-Dextrose PVC motors. These particular motors, developed by an avid rocketry buddy of mine, have proven to be very reliable and consistent performers.
+This accomplished, we proceeded to set up the STS-5000 test stand and install the Juno motor. Adjustments were made to allow for the slight vertical movement of the motor within the test rig. Connections were made to the chamber pressure sense line, and the buffer system filled with oil in order to protect the pressure gauge from the hot combustion gases. The two videocameras were then set up: one to record the pressure gauges measuring thrust and chamber pressure, and the other set up to record the actual motor during firing.
+The launch ignition and firing boxes were then set up, followed by electrical connections to the pyrogen initiator. A continuity check was performed, which verified that the igniter element was operative. At this point, safe viewing positions were taken by the spectators, followed by arming of the ignition system.
+After the final 'all ready' call was made, the countdown was begun: 5-4-3-2-1 fire! The first hint of the motor coming to life was the popping out of the glasswool plug that had been placed into the nozzle, which was immediately followed by the deafening shriek of the motor under full thrust. The motor burned very smoothly, with a large plume of smoke being hurled about 100 feet upward. After less than a second, the shrill sound tailed off very rapidly. This was followed by a small flame spewing from the nozzle, which burned for about 5 seconds before self extinguishing. The spent motor was then approached for a cursory visual inspection, which indicated that the motor survived the test unscathed, with the exception of some nozzle leakage and a small blister on the casing near the bulkhead. A photo of the motor under thrust is shown in Figure 4.
+
+
+￼
+Figure 2-- Author with the Juno rocket motor set up in the test rig prior to its maiden firing.
+
+￼
+
+Figure 3-- Juno rocket motor at full thrust.
+
+Analysis
+When the motor was opened up for close inspection, it was found that the nozzle o-ring had been "extruded" in a number of places by the combination of heat and pressure acting upon it. As such, gas leakage had occurred around the nozzle retaining screws.
+The pyrogen flame deflector, which was constructed of sheet steel of 0.015 inch (0.38mm) thickness, was found to be bent over approximately 45 degrees (Figure 4), clearly as a result of the gas pressure produced by combustion of the pyrogen material. The flame deflector was designed to deflect most of the pyrogen flame evenly along the casing walls, in order to allow rapid ignition of the grain outer surfaces. However, as a result of being bent over, the flame was instead directed and concentrated on a local portion of the wall. This led to the formation of the pressure induced heat blister on the casing, as shown in Figure 4.
+
+￼  ￼
+Figure 4-- Bulkhead/pyrogen unit with bent flame deflector plate; Heat blister (circled) on casing.
+. The nozzle experienced no measurable erosion of the throat (< 0.001 in.) and was in pristine, albeit blackened, condition. No blow-by occurred at the bulkhead o-ring.
+Performance
+Figure 5 shows a plot of the measured thrust and chamber pressure. Although the predicted thrust/pressure profile is only slightly regressive, there are a marked and sudden decline in thrust & pressure at the 0.24 second mark, which is most likely the point in time when the o-ring leakage began.
+
+￼
+Figure 5 -- Actual motor thrust and chamber pressure as a function of time
+In Figure 7, the Thrust Coefficient is plotted. The average value of the thrust coefficient over the steady-state regime was 1.53, identical to that of the Kappa-DX motor (KDX-002), indicative of excellent nozzle performance.
+
+￼
+Figure 6 --Nozzle thrust coefficient, shown over the steady-state portion of the burn regime.
+A comparison between the actual thrust & pressure curves to the design curves is shown in Figure 7.
+
+￼
+Figure 7 -- Design versus actual thrust & chamber pressure.
+From the measured thrust-time curve, the total impulse of the motor was determined to be 792 N-sec. (178 lb-sec.), which was less than the design impulse of 947 N-sec. by 16 percent. The delivered specific impulse was 115.4 sec., suffering as a result of loss of full chamber pressure.
+
+
+
+Conclusion
+The three objectives of this static test are considered to be met. The structural integrity of the rocket motor under actual firing conditions was substantiated, the performance measurements were made and compared to the design values, and the performance of the motor would likely have been 'close to the mark' had the pressure loss not occurred.
+This test made apparent two design deficiencies:
+	•	The pyrogen deflector plate was too thin. This led to the blister damage of the casing. 
+	•	The nozzle o-ring was exposed directly to the severe heating and pressure conditions which are present in the vicinity of the nozzle inlet, particularly true with unrestricted grain burning. In hindsight, this was overlooked as a result of the flawless performance of the o-rings for the Kappa series of motor firings. However, the key difference with the Kappa design is that the casing insulator protects the nozzle o-ring, and to a lesser degree, the spacer ring. The two designs are compared in Figure 8.
+￼￼
+Figure 8 -- Comparison of nozzle o-ring sealing design
+Fortunately, the two operational deficiencies are easily rectified, which will be done for the next Juno motor firing -- the launch of the Cirrus TV-1 'test vehicle'.
+
+￼
+Last updated Dec. 7, 2001
+Back to Home Page
+

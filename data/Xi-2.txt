@@ -1,0 +1,150 @@
+ 
+Basic Information
+Name
+Xi-2
+Launch date:
+17 December, 2017
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Timer for backup apogee separation
+- Eggtimer Classic altimeter for backup apogee separation and main deploy
+- SJ1000 Camcorder
+Liftoff mass
+2.977 kg.
+Stability Margin (initial)
+3.41
+Flight objectives
+Test on-board camcorder & improved tether
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+382 grams
+Nominal impulse
+449 N-sec
+Class
+I
+ 
+Additional information
+-Higher strength tether and improved tether shock absorber.
+-New aluminum parachute compartment piston
+ 
+Weather conditions
+Temperature
+-9°C
+Wind
+SW 15-20 km/hr
+Sky
+Clear
+Other
+-
+Ceiling
+30k ft.
+ 
+Launch Event Description
+We used our sled to haul the supplies to the launch site. Following a checklist, setup of the rocket proceeded smoothly with no glitches. The BRB was activated first. After installing rocket on pad, Eggtimer was activated, followed by the Raven. Raven beeped eight times for voltage and gave positive indications for the 4 pyros. Backup Timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated rapidly skyward, climbing straight and vertical. The Impulser-X motor burned for approximately 1.5 seconds. Rocket remained in sight during the entire ascent, thanks to the bright sun illuminating the rocket against the deep blue sky. A smoke cloud was seen to appear at apogee and the ‘pop’ sound heard a few seconds later The smoke tracking trail was then seen as rocket began tumbling downward.  After about half minute of decent, the parachute charge was seen to fire. No chute was seen and we lost sight of the rocket as it neared the ground. At this point it was about 1000 feet downrange.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site was indicated as 0.3 miles away. As we approached the location of the downed rocket, it was apparent that the chute was not deployed. The two sections of the rocket landed some distance apart. Inspection revealed the tether connecting the piston to the AvBay had snapped, consequently, the chute was not pulled from the forward body.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+2761
+842
+Separation
+14.3
+2746
+837
+Main deployment
+41.9
+728
+222
+Touchdown
+51.3
+-
+-
+Range
+-
+1266
+386
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+80.2
+24.4
+ 
+Main parachute
+-
+-
+ 
+                                  
+Post-flight analysis and comments:
+The Raven, Eggtimer and backup Timer all performed nominally. Peak altitude reported by Eggtimer closely matched Raven (2770 ft. versus 2761 ft.).  All pyros had fired.
+ 
+There was some damage to the rocket due to the shallow depth of snow at the landing site, combined with frozen earth beneath. All four fins were loosened and some minor dents were present on the rocket body. The avionics had some minor damage, which was readily repairable.
+ 
+The reason for the high tension load in the tether that caused it to snap was attributed to the large force required to pull the piston out of the rocket body. Although the close-fitting piston has a nearly frictionless sliding fit, lack of suitable venting of the parachute compartment resulted in a large suction force developing as the piston attempts to move. For the next flight, the six existing vent holes will be increased from 1/8 inch diameter to 3/8 inch. As well, dual (tandem) tethers will be used.
+ 
+Good on-board video footage of the flight was obtained.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Xi-2\Xi-2_Raven_basic.jpg
+Axial acceleration data                                                                              Xi-2\Xi-2_Raven_accel.jpg
+ 
+BRB:                                                                                                              
+GPS path of flight trajectory                                                                     Xi-2\Xi-2_BRB_plotted.jpg
+ 
+Photos:
+New aluminum parachute compartment piston                                   Xi-2\DSCF5182.JPG
+Xi rocket for second flight, with author                                                  Xi-2\DSCN0118.JPG
+Moment of ignition                                                                                     Xi-2\2017-12-19_12-09-28.jpg
+Ignition…Liftoff…                                                                                         Xi-2\2017-12-19_12-09-55.jpg
+View from on-board camera                                                                    Xi-2\2017-12-20_12-08-33.jpg
+Ascent                                                                                                            Xi-2\2017-12-19_12-10-30.jpg
+                                                                                                                        Xi-2\2017-12-19_12-11-00.jpg
+Burnout                                                                                                         Xi-2\2017-12-19_12-11-24.jpg
+Apogee charge fires                                                                                    Xi-2\2017-12-19_12-12-09.jpg
+Backup Apogee charge fires                                                                     Xi-2\2017-12-19_12-12-54.jpg
+Smoke charge commences burning                                                         Xi-2\2017-12-19_12-13-22.jpg
+                                                                                                                        Xi-2\2017-12-19_12-13-41.jpg
+                                                                                                                        Xi-2\2017-12-19_12-14-22.jpg
+                                                                                                                        Xi-2\2017-12-19_12-14-48.jpg
+On-board camera footage of smoke charge burning                          Xi-2\capture1.jpg
+Parachute pyro charge fires                                                                      Xi-2\2017-12-19_12-15-29.jpg
+Rocket descends without chute deploying                                            Xi-2\2017-12-19_12-15-54.jpg
+Landing site                                                                                                  Xi-2\DSCN0121.JPG
+Forward section landing site                                                                     Xi-2\DSCN0124.JPG
+Aft section and Avbay                                                                                 Xi-2\DSCN0123.JPG
+Heading home (my Brother Blair following the sled)                           Xi-2\DSCN0120.JPG
+ 
+Video:                                                                                                           
+Flight Xi-1 (Youtube)                                                                                   https://youtu.be/K76br1otxwc                                                                                                                       
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

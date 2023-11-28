@@ -1,0 +1,75 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Boreas 1  Rocket -   Inaugural Flight
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents the first flight of the Boreas 1 rocket, which is powered by the newly developed RNX propellant in the Epoch solid rocket motor. The first flight of this motor has special significance, as it represents the official debut flight of this recently developed RNX composite propellant comprised of Potassium Nitrate, Ferric Oxide and Epoxy (this flight is, in fact, the 2nd utilizing this motor, as an "unofficial" ad hoc flight occurred recently...see the launch report).
+
+Rocket Description
+The motor used for this flight was the 48 mm Epoch-SS solid rocket motor, which had been previously static tested successfully a number of times. The supersonic nozzle fitted to this motor was modified for this flight by slightly increasing the throat diameter to 0.266 inch (6.75mm) from 0.250 inch (6.35mm). The resulting 13% increase in throat area is intended to lower the max. chamber pressure to provide for a greater margin of safety with regard to casing strength, and also to generate a somewhat longer burn time. The specific propellant formulation was RNX-57, consisting of:
+	•	Potassium Nitrate 70%
+	•	Ferric Oxide 8%
+	•	Epoxy (East Systems) 22%
+The total propellant mass was 380 grams (0.84 lb.), and consisted of a free-standing hollow-cylindrical grain, inhibited on both ends (exclusively) which provides for a constant Kn =916. A thermal liner consisting of epoxy impregnated cardboard was employed to reduce the heat transfer to the lightweight steel casing, which had a wall thickness of 0.038 inch (1mm).
+
+￼  ￼
+Epoch rocket motor with RNX propellant grain.
+
+￼
+The Boreas 1 rocket consists of three distinct fuselage sections: Forward, Mid and Aft Fuselage. Each is fabricated from 3 inch (75mm) diameter lightweight PVC tubing (Plastmo downpipe) which has been found to be an excellent, low priced and durable material, especially suitable for cold weather use. The Forward fuselage is meant for future payloads, and for the first flight, housed an audible recovery beacon. This beacon, a "personal alarm" (kindly given to me by Ken Tucker), emits a loud two-tone alarm which is intended to aid recovery of the rocket after landing. Powered by a single 9V cell, testing indicated a useful life of over 10 hours on a single alkaline battery. The Mid fuselage houses the PET (Parachute Ejection Triggering) module, as well as the two ejection charges and associated pistons. The PET system utilizes two independent means of triggering parachute deployment. An Air-Speed System is used to trigger ejection of the drogue chute as the rocket slows down near apogee. The A-S switch has been set to trigger at a velocity of 60 MPH (100 km/hr). The drogue chute consists of a 2 foot (60 cm) "cross" parachute, and is released from its canister when the Mid fuselage separates from the Aft fuselage. The second triggering system consists of a Timer Circuit , which is triggered at motor burnout by a mercury switch. This system deploys the main parachute, which consists of a 25 inch (64 cm) circular parachute with a shaped canopy. The main chute is released from its canister when the Mid fuselage separates from the Forward fuselage. Both the drogue and main separation charges consists of 1 gram of Black Powder (BP), each initiated by a nichrome wire bridgewire. The resulting pressurization forces the piston against the coupler (the two separate components making up the canister), shearing the six #6-32 nylon screws which attach the fuselage sections together.
+The Aft fuselage houses the rocket motor. The motor is retained by three aluminum "L-shaped" thrust fittings at the forward end of the motor, which also serve to transfer the thrust force to the airframe, similar to the mounts used for the Cirrus rocket. Four screws at the aft end of the motor protruding from the fuselage walls serve to centrally align the motor. A separate aft-located "L" fitting serves to retain the motor. The Aft fuselage is designed to accommodate future larger motors than the Epoch. Also being considered is an Epoch motor with an extended casing to house a smoke (tracking) charge.
+An key feature of the Boreas recovery system is that both the drogue and main parachute deployment systems are completely independent, including separate power supplies (6.2 V lithium cells), as are both ejection systems. Failure of either system does not jeopardize the other. If only the drogue chute were to deploy, the rocket would descend at approximately 60 ft/sec. (18 m/s), resulting in limited damage. If the drogue chute failed to deploy, the main chute system is designed to handle high speed deployment.
+￼
+Parachute Ejection Triggering (PET) module, employing independent Air-Speed and Timer circuits.
+Pre-launch weight of the Boreas rocket is 7.02 lbs (3.18 kg.), with a total length of 5.6 ft. (1.72 m.). Guidance of the rocket once airborne is by 4 sheet aluminum fins, sized to provide a minimal stability margin of 1.50 calibre (distance between C.P. and aftmost C.G.). The intent is to minimize weathercocking of the rocket.
+The launch pad was newly designed and constructed, and utilized an I-section rail instead of the traditional circular launch rod. The advantage to using an I-rail is that small sized "c" lugs are attached to the rocket, which provide for minimal aerodynamic drag penalty. For structural strength and rigidity, the I-rails (consisting of two 5-foot curtain rails) were epoxy bonded to a 10 foot length of 1" EMT steel tubing. The basic geometry of the launch pad was tripodal, and was fabricated nearly entirely of EMT tubing. The design allowed for full swiveling capability of the rail in order that the launch angle could be easily adjusted.
+
+
+Launch Report
+Sunday, October 20, 2002 
+The weather for rocket launching was nearly picture perfect, with a clear blue sky, and the temperature hovering around 5oC (40oF.). Winds were moderately low, being about 10-15 km/hr. out of the north-west. The first order of business was to set up the new launcher. This was quickly accomplished, being designed for both portability and simple reassembly. The angle of the rail was adjusted to about 7o from the vertical, in the windward direction. It was then time to assemble the rocket, which had been partly dismantled for transport to the launch site. This proceeded smoothly, and the rocket was then mounted onto the launcher.
+
+￼  ￼
+Prepping the rocket prior to loading onto the launcher.
+The igniter was inserted into the motor (through the nozzle), but not yet connected, remaining shunted for safety until all setup was completed. It was then time to arm the PET system. The access hatch was removed from the mid fuselage to gain access to the module. A checklist had been prepared, as as Michael read out, and checked off, the item-by-item procedure, I performed the system checkout and final arming. All went smoothly, and the hatch was secured. The audible beacon was then powered up. The final setup procedure was to lay out the motor ignition system and ensure that it was functioning properly. After taking some pre-launch photos, it was time for the observers to take their safe viewing positions.
+
+￼
+Author standing next to the Boreas rocket mounted on the newly built rail launcher.
+The motor igniter was then connected to the ignition system, the system was then armed, and final positions were taken to view the liftoff. Two videocameras were being used to capture the launch and flight. I had the task of operating the hand-held digital videocamera (being most experienced in this regard...!), and a second (analogue) videocamera was mounted on a tripod located about 20 ft. (6 m.) from the launch pad.
+FRS radios were used for the first time to facilitate communication between the observers at their particular locations. This system was found to work well. When the "all ready & all clear" signals were announced, Rob began the countdown. All eyes were transfixed on the rocket as the count rolled down: 5-4-3-2-1-Ignition! Less than one second later, smoke was seen to issue from the rocket motor, signalling successful ignition, then after an additional second of thrust buildup, the rocket rapidly accelerated upward, leaving a dense, dark grey smoke cloud around the launcher. The load sound of the motor under full thrust was first heard as the rocket cleared the launch rail (the delay a result of our distance) and climbed very fast and straight upward, veering just slightly into the wind as it cleared the rail, then straightened to a nearly vertical trajectory.
+￼  ￼  ￼
+Launch sequence: Prior to liftoff, clearing the rail, skyward bound...!
+No wobble or other instability was noticed as the rocket ascended skyward. Burnout of the motor occurred about a second and a half after liftoff, then the rocket coasted skyward, the fluorescent rocket brilliantly visible against the deep blue sky. After coasting for about 10 seconds, a "puff" of smoke was seen as the A-S system fired out the drogue chute near apogee. The "pop" sound of the ejection was heard a few moments later. Due to the altitude, it was not clear whether or not the chute had remained attached to the rocket, but it was soon apparent that all was normal and the rocket was descending under the inflated drogue chute. After about 10 seconds of fairly rapid descent, a second "puff" of smoke was seen to appear, as the main charge fired. The main chute immediately blossomed and the rocket continued its earthward descent, at a more comforting rate. The rocket drifted with the wind, and touched down in an open grass field approximately 400 metres (1300 ft.) from the launcher.
+￼ ￼ ￼
+Left: Rocket at motor burnout  Middle: Smoke "puffs" and rocket descending (lower right)
+ Right: Just prior to touchdown (right, above trees).
+Jubilant smiles abounded and handshakes were exchanged, at the conclusion of the first flight of the Boreas 1 rocket and awesome "official debut" of the Epoch motor powered by the new RNX propellant. The toil and large measure of frustration that went into developing this propellant was, for the moment, brushed aside, as were the trepidations of flying a rocket incorporating many new and yet unproven recovery deployment system features.
+
+￼  ￼
+Inspecting rocket at touchdown site. Lifting drogue chute (left) and main chute (right).
+
+Post-flight Analysis
+From inspection of the footage of the two videocameras, the following times were excerpted:
+	•	Ignition to thrust commencement --       1.0 sec.
+	•	Ignition to liftoff --       2.0 sec.
+	•	Liftoff to burnout --        1.3 sec.
+	•	Liftoff to drogue parachute ejection --       10 sec. (note: A-S switch set to trigger at 60 mph).
+	•	Liftoff to main parachute ejection --       21 sec.
+	•	Liftoff to touchdown --       1 min. 18 sec.
+From the above, it is seen that the main ejection charge fired 11 seconds after the drogue chute ejection. Since the timer had been set with a delay of 11 seconds, it is clear that the timer did not trigger at burnout, as designed. The mercury switch did not function properly, rather than activate the timer by deceleration, it acted upon the jarring action of drogue chute deployment! Post-flight inspection of this mercury switch showed it to be of inferior quality, with contacts that were noticeably oxidized (by comparison, the mercury switch for the A-S system was of high quality, with plated contacts to ensure proper continuity.
+Simulations of the flight based on both ascent times and descent times provided an estimate of the peak altitude at between 2100 and 2400 feet (650 and 750 m.).
+
+The motor was dismantled for post-firing inspection. Beforehand, the motor was weighed, then cleaned, and re-weighed to determine the amount of residue remaining in the motor. The residue amounted to 22 grams, which represents only 7% of the grain's original mass (380 grams).
+The motor was in excellent condition, suffering no throat erosion or other heat related damage. There was no indication of any blow-by past the nozzle or bulkhead O-rings.
+The rocket itself suffered minimal damage from the touchdown, which occurred at an estimated 35 ft/sec. (10 m/sec). This is normally considered a relatively "hard" landing, as typical landing velocity is usually targeted between 20-30 ft/sec. Damage was pretty much confined to disbonding of various bonded joints, which will be repaired and strengthened for the next flight of Boreas 1.
+
+￼
+Last updated Nov. 3, 2002
+Back to Home Page
+

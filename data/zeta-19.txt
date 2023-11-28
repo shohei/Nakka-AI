@@ -1,0 +1,129 @@
+ 
+Basic Information
+Name
+Z-19
+Launch date:
+17 August, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- Minicamcorder (HD)
+- BRB900 GPS transmitter
+- Smoke charge (med.output)
+- Apogee Backup Timer
+Liftoff mass
+2.491 kg.
+Flight objectives
+- Assess medium output Smoke Charge
+- Assess new Minicamcorder
+- Assess new Apogee Backup Timer
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+305 grams
+Nominal impulse
+359 N-sec
+Class
+I
+ 
+Additional information
+Smoke Charge for this flight is KNSB 65/35 O/F ratio (was 60/40). This is to increase smoke output rate to improve sighting. A new aft-facing minicamcorder is being flown for the first time. The model is SJ1000 with 12 megapixel HD image. A backup timer, intended to fire a pyro separation charge a few seconds after apogee, was designed and built. Although the Raven has proven to be highly reliable, achieving 100% reliability with regard to apogee separation in 18 flights, it was felt prudent to employ an independent backup system. This is in support of my “Avoid Complacency” directive.
+ 
+Weather conditions
+Temperature
+18°C
+Wind
+NE 4 km/hr
+Sky
+Sunny with scattered clouds
+Other
+Humidity 65%
+ 
+Launch Event Description
+ Setup of the rocket once again went smoothly with no glitches. A checklist was used for this flight due to increased level of setup complexity. Raven confirmed all three pyro charges had continuity. A video camera was set up about 15 feet from the pad to capture liftoff from up close. After verifying the sky was clear, the countdown proceeded and at “zero” the rocket immediately came to life, rapidly accelerating skyward. The rocket ascended straight as an arrow, reached apogee and shortly after, the apogee pyro charge fired, as indicated by a bright smoke cloud. The rocket then free fell as expected, tumbling as it fell. The smoke trail was clearly visible and greatly aided tracking. At about 400 ft. altitude, pyro charge fired, producing a bright smoke cloud.  The parachute did not immediately deploy, and after free-falling for a few more seconds, chute suddenly deployed and fully blossomed. Rocket slowly drifted down to earth in a stable manner, landing about 10 seconds later in a nearby field. The rocket was soon recovered and appeared to be in great shape.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+2590
+789
+Separation
+14.2
+2582
+787
+Main deployment
+49.5
+194
+59
+Touchdown
+59.3
+ 
+ 
+Range
+ 
+356
+109
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+69.7
+21.2
+ 
+Main parachute
+17.5
+5.3
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in perfect shape after landing. The Apogee Backup Timer system appeared to work nominally, as pyro charge had fired.  The on-board video footage was very good, with excellent resolution, clarity and colour. The footage clearly showed that the rocket ascended in a very stable manner with no wobble. The medium output smoke charge produced a readily visible trail. Oddly, it burned a lot longer than expected, 37 seconds compared to the expected 24 seconds. The chute pyro charge needs to be slightly increased and more nosecone retaining tape is required to ensure reliable chute deployment.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-19\Z-19_Raven.jpg
+BRB GPS tracking of flight                                                                         Z-19\Z-19_BRB_mapped.jpg
+ 
+Photos:                                                                                                         
+SJ1000 camcorder mounting                                                                    Z-19\DSCF3676a.JPG
+                                                                                                                        Z-19\DSCF3675a.JPG
+Apogee Backup Timer module                                                                  Z-19\DSCN0015a.JPG
+                                                                                                                        Z-19\DSCN0017a.JPG
+Propellant grains                                                                                         Z-19\DSCF3677a.JPG
+Rocket on pad                                                                                              Z-19\DSCN0020a.JPG
+Liftoff and ascent                                                                                        Z-19\Image3.jpg
+                                                                                                                        Z-19\Image4.jpg
+                                                                                                                        Z-19\Image5.jpg
+Apogee smoke cloud and smoke trail                                                     Z-19\Image6.jpg
+Rocket free-falling                                                                                      Z-19\Image7.jpg
+                                                                                                                        Z-19\Image8.jpg
+Parachute pyro charge fires                                                                      Z-19\Image9.jpg
+Only shroud lines are extracted                                                                Z-19\Image11.jpg
+Chute canopy finally deploys                                                                    Z-19\Image12.jpg
+Parachute blossoms                                                                                    Z-19\Image13.jpg
+                                                                                                                        Z-19\Image15.jpg            
+Touchdown site                                                                                           Z-19\DSC00105a.JPG
+Post-flight gathering of parts                                                                   Z-19\DSCN0023a.JPG
+                                                                                                                       
+Videos:                                                                                                         
+Flight Z-19 (hand-held camera)                                                                 Z-19\Flight Z-19_sony.MP4
+Liftoff (pad camera)                                                                                    Z-19\Z-19_pad_nikon.mp4
+On-board camera (ascent phase of flight)                                             Z-19\Z-19 on-board_ascent.MP4
+ 
+ 
+ 
+ 
+ 
+ 
+ 

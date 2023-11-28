@@ -1,0 +1,74 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Boreas 1  Rocket -   Flight #2
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of ERMS-7, the official designation of the second flight of the Boreas 1 rocket, which is powered by the newly developed RNX propellant in the Epoch solid rocket motor. The first flight of this rocket (ERMS-5) occurred on Oct.20, 2002, with full details provided in the launch report.
+The main objectives of this flight were to further prove the reliability of the Epoch motor under flight conditions, and to gain further confidence in the design and construction of the rocketry recovery system. Note that Epoch motor tests, whether flight or static, are designated as ERMS (Epoch Rocket Motor System) series.
+
+Rocket Description
+The motor used for this flight was the 48 mm Epoch-SS solid rocket motor, and is unchanged from the first flight of Boreas 1. The specific propellant formulation was once again RNX-57, consisting of 70% Potassium Nitrate oxidizer, 8% Ferric Oxide (burn rate modifier & supplemental oxidizer), and 22% Epoxy (fuel & binder).
+The total propellant mass was 382 grams (0.84 lb.), and consisted of a free-standing hollow-cylindrical grain, inhibited on both ends (exclusively) which provides for a constant Kn =916. A thermal liner consisting of epoxy impregnated cardboard was employed to reduce heat transfer to the lightweight 1 mm steel casing.
+The basic configuration of the rocket for this flight was essentially unchanged from the first flight. The only changes were:
+	•	The mercury switch that has the purpose of triggering the recovery timer was replaced with a better quality unit.
+	•	A g-switch was designed and fabricated, and installed in parallel with the mercury switch to provide redundancy for triggering of the timer circuit. The basic design of the g-switch is shown in the figure below, and consists of an inertial mass which generates the required force to activate the "touch-switch" (Digi-key p/n P8006S-ND) at an acceleration of 9 g's.
+	•	Terminal blocks were added to the PET (Parachute Ejection Triggering) module to simply field connection of the ejection charge leads (which are shunted after installation in the rocket, for safety, and remain so until connected once the rocket is loaded onto the pad).
+	•	The timer was set to trigger 14 seconds after liftoff.
+	•	Certain bonded components of the rocket were reinforced, such as the parachute canister components, which had become disbonded as a result of undue impact loading during the first flight.
+Pre-launch weight of the rocket was 7.09 lbs (3.22 kg.), marginally heavier than for the first flight.
+
+￼
+The g-switch used to trigger the recovery system timer.
+
+Launch Report
+Sunday, November 3, 2002 
+Although the weather for rocket launching was not as "picture perfect" as it was for the inaugural flight, conditions were nevertheless very good. The sky was lightly overcast, with a 5000 foot (1500 m.) ceiling. Since we arrived at the test site quite early, the air temperature was still quite cool, being 1oC (34oF.). Winds were very light, being about 5 km/hr. out of the south-east, which was a pleasant surprise and made for a comfortable outing.
+After assembling the launcher, it was time to reassemble the rocket, which had been partly dismantled for transport to the launch site. This proceeded smoothly, and the rocket was then mounted onto the launcher. The launch rail was then gimbaled to an angle of approximately 7o from the vertical, in the windward direction (same as previous flight).
+
+￼
+The Boreas rocket mounted on the EMT tripod launcher, prior to adjusting launch angle.
+
+Next, the igniter was inserted into the motor, but not yet connected, remaining shunted for safety until all setup was completed. It was then time to activate the PET system. The access hatch was removed to gain access to the PET module. and the checklist followed, item-by-item, to ensure that both the Air-Speed and Timer circuits were fully functional. Connections were made to the ejection charges and continuity confirmed. All went smoothly, and the hatch was secured. The ALS (Audible Locator System) was then powered up. The final setup procedure was to lay out the motor ignition system and ensure that it was functioning properly. This accomplished, the observers then headed to safe viewing locations.
+Once again, two videocameras were being used to capture the launch and flight. Both were mounted on tripods, one close to the rocket to get an intimate view of the motor ignition and lifting-off of the rocket from the pad. The second videocamera was located several hundred metres distant and was used to capture liftoff and the initial portion of the flight. Experience from the previous flight had shown that electronic cameras had a problem with the fluorescent colour of the rocket -- the images tended to be somewhat blurred or even suffered from an effect similar to double exposure. As a result, I had decided to use my 35mm Pentax film camera to capture the flight. Previous experience demonstrated that film captured the fluorescence without any such problems. The camera has an autowinder interface that allows for continuous shooting, at a rate of 2 frames per second. A 135mm telephoto lens was used to more effectively capture the rocket in flight.
+Prior to heading to a prime location for taking the photos, I connected the motor igniter to the ignition system. The system was then armed.
+FRS radios were once again used to facilitate communication between the observers at their particular locations. Experience from the previous launch showed that these communicators were very helpful. When the "all ready & all clear" signals were announced, I decided to take a few shots with my camera to make sure the autowinder was functioning properly -- it wasn't! Only a single frame advanced, so I quickly transmitted a hold on the launch, and investigated the matter. It was soon clear that the cold temperature was to blame. The film was "stiff" and the alkaline batteries couldn't deliver the power (we'd previously found out the hard way that alkaline batteries become nearly useless in cold temperature). I made the decision to detach the autoadvance and simply advance the film manually (this meant that only a single shot of the liftoff would be obtained). The countdown then recommenced, and Rob transmitted the count over the air...5-4-3-2-1-Ignition!
+Less than one second later, smoke was witnessed at the base of the rocket, signalling successful ignition, then after an additional second of thrust buildup, Boreas 1 leapt from the launchpad, soaring skyward, leaving in its wake a dense, grey smoke trail. The rocket climbed very fast and in a straight line, then veering just slightly into the wind as it neared burnout, then straightened to a nearly vertical trajectory. This was essentially identical to the previous launch scenario of Boreas 1.
+
+
+￼
+Second launch of Boreas 1...the extreme speed of the rocket "frozen" at 1/1000 sec. exposure!
+The rocket was very stable as it ascended skyward. Burnout of the motor occurred about a second and a half after liftoff, then the rocket coasted toward apogee. After climbing for approximately 10 seconds, a "puff" of smoke was seen as the A-S system fired out the drogue chute near apogee. The "pop" sound of the ejection charge was heard a few moments later. The drogue chute had successfully deployed and opened. After about 4 seconds of fairly rapid descent, a second "puff" of smoke was seen to appear, as the main charge fired. The main parachute immediately blossomed and the rocket continued its descent under the influence of two fully inflated chutes. It was soon apparent, however, that the two chutes were "battling" for airspace, and began to become intertwined. The rocket, in three individual portions tethered together, drifted with the light breeze, descending at a rate noticeably greater than expected. Touchdown occurred about a minute after launch, with a slightly unnerving thud and bounce in an open grass field approximately 100 metres (300 ft.) from the launcher.
+
+￼ ￼
+Two views of the rocket descending.
+In the right view, the two chutes can be seen to be snarling.
+The three individual portions of the rocket are clearly visible.
+Despite the harder than anticipated landing, the flight was a great success, as examination of the recovered rocket indicated that no significant damage resulted. Handshakes and smiles were once again the order of the day.
+
+
+￼
+Culmination of a successful flight.
+The green chute is the drogue, and the red one is the main chute.
+
+Post-flight Analysis
+From inspection of the footage of the two videocameras, the following times were excerpted:
+	•	Ignition to liftoff --       1.9 sec.
+	•	Liftoff to burnout --        1.5 sec.
+	•	Liftoff to drogue parachute ejection --       10 sec. (note: A-S switch set to trigger at 60 mph).
+	•	Liftoff to main parachute ejection --       14 sec.
+	•	Liftoff to touchdown --       1 min. 0 sec..
+From the above, it is seen that the main ejection charge fired at the expected delay period after liftoff. This indicated that the timer system was triggered effectively by the new g-switch.
+Simulation of the flight based on ascent time provided an estimate of the peak altitude at between 2100 and 2400 feet (650 and 750 m.), which is identical to the first flight of Boreas 1.
+The motor was in excellent condition, suffering no throat erosion or other heat related damage. There was no indication of any blow-by past the nozzle or bulkhead O-rings.
+The rocket itself suffered minimal damage from the harder-than-expected touchdown, which occurred at an estimated 50 ft/sec. (15 m/sec). Targeted descent velocity is typically between 20-30 ft/sec. For this rocket, the expected descent velocity was 35 ft/sec. Resulting damage was pretty much confined to disbonding of various bonded joints, a broken ty-rap which retained the lithium battery of the timer circuit, and a chipped nosecone.
+
+￼
+Last updated Nov. 16, 2002
+Back to Home Page
+

@@ -1,0 +1,31 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Boreas 1 Rocket
+
+This webpage provides a brief description of the Boreas 1 rocket, currently being fabricated. Named for the mythological god of the north wind, the upcoming launch of this rocket vehicle will mark the "maiden flight" of a rocket propelled by the Epoch Solid Rocket Motor, powered by the RNX composite propellant, a recently developed formulation of Potassium Nitrate/Epoxy/Ferric Oxide (KN/Ep/IO). The specific formulation will be that of RNX-55, which was successfully static tested on Sept.2, 2002 in the Epoch-SS motor. This is the flight rated version of the Epoch motor, which also was produced in a static test-only version with a truncated, sonic nozzle, and is designated Epoch-S. The Epoch motor is expected to be classified as an "H" motor, and holds 330 grams (0.73 lb.) of propellant cast as a monolithic grain. The nozzle is fabricated from 1018 steel, the 48 mm casing of thin-wall (0.038 inch /1 mm) high-yield strength steel, and the forward bulkhead of aluminum alloy (6061-T6).
+The Boreas 1 rocket will have an estimated liftoff mass of 6 lb. (2.7 kg), and will stand 5.6 feet (1.7 metres) tall, and have a uniform diameter of 3 inches (7.5 cm). The length of this rocket is intended to aid visibility during flight. A coat of fluorescent orange paint will further enhance visibility. The fuselage is constructed of thin walled PVC tube (Plastmo downpipe), and consists of 3 distinct sections: forward, mid, and aft fuselage portions. The aft fuselage holds the motor, the mid fuselage contains the Parachute Recovery System components, and the forward fuselage is intended for future payloads. For the first flight, the forward fuselage is expected to contain a certain quantity of ballast (silica sand) to adjust the rocket mass to curtail the maximum altitude. The peak altitude is targeted at a modest 1300 feet (400 metres) for the first flight.
+The rocket will be launched from a new "rail" launcher, which utilizes an "I" section (curtain rail) guide which engages compact "c" lugs attached to the rocket. The rail, which is 10 feet (3.1 m.) in length, is fixed to a steel tube for flexural rigidity. The launchpad will be tripod design, and constructed entirely of EMT steel tubing.
+The Parachute Recovery System will be a redundant system, to help ensure a safe landing and recovery of the vehicle. Two systems, completely independent, will release separate parachutes. The first system is based on the Air-Speed System, and is designed to fire the parachute ejection system prior to apogee, with a design trigger velocity of 55 MPH (90 km/hr.). This system will deploy a 2 foot (60 cm.) "cross" drogue parachute. The second system is electronic timer based, which is activated upon motor burnout by an inertial (mercury) switch. The time delay will be set such that the second parachute ejection system will fire as the rocket begins descent. Assuming that the first system operates normally, this system will deploy the second parachute, of 28 inch (71 cm.) diameter, while the rocket is descending by means of the drogue parachute, at a moderate descent velocity. The deployment of the second chute will slow the descent rate to that desired for a moderately soft touchdown. If the first system were to fail, deployment of the parachute by the timer system will occur while the rocket is in free-fall descent, and is thus designed for a high speed opening. If the second system were to fail, decent velocity will be slowed sufficiently by the drogue parachute to ensure safety and minimal damage to the rocket.
+To minimize the adverse effect of weathercocking due to wind, the rocket stability margin will be targeted at 1.5 calibre (distance between the aftmost Centre of Gravity, CG, and the Centre of Pressure, CP). The aftmost CG will occur at liftoff. As the propellant burns away, the CG will shift forward, increasing the stability margin.
+The design CG is calculated based on estimated masses of the individual components, although actual CG of the completed rocket will be determined by direct measurement. The CP location is derived from AEROLAB, an excellent design software written by Hans Olaf Toft of DARK.
+Figure 1 shows the rocket basic design geometry. Figures 2 & 3 show the Epoch rocket motor and the electronics of the parachute recovery system.
+
+￼
+Figure 1 -- Boreas 1 rocket design indicating estimated CG and CP.
+
+
+￼
+Figure 2 -- Epoch Solid Rocket Motor
+
+
+￼
+Figure 3 -- Parachute Ejection Triggering (PET) module
+
+
+
+￼
+Last updated September 14, 2002
+Return to Top of Page
+Back to Index Page
+

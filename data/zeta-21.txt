@@ -1,0 +1,141 @@
+ 
+Basic Information
+Name
+Z-21
+Launch date:
+3 October, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- Minicamcorder (HD)
+- Microcamcorder
+- BRB900 GPS transmitter
+- Smoke charge (high output)
+- Apogee Backup Timer
+Liftoff mass
+2.503 kg.
+Flight objectives
+- Confirm operation of Backup Timer by video
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNDX
+Grain mass
+301 grams
+Nominal impulse
+354 N-sec
+Class
+I
+ 
+Additional information
+Microcamcorder mounted externally (near C.P.), forward facing, to capture smoke plume from Backup Timer pyro charge, to verify firing of pyro following expected time delay from liftoff.
+ 
+Weather conditions
+Temperature
+14°C
+Wind
+S 10 km/hr with gusts to 15
+Sky
+Sunny; partly overcast with scattered cirrus clouds
+Other
+Humidity 56%
+Ceiling
+unlimited
+ 
+Launch Event Description
+Setup of the rocket once again went smoothly with no glitches. A checklist was used to facilitate setup. Raven confirmed all three pyro charges had continuity. A video camera was set up 250 feet from the pad (at the launch controller station) to capture liftoff and initial ascent. I used the hand-held camcorder (with scope tube) to attempt to film the complete flight. After verifying the sky was clear, the countdown proceeded. When ignition switch was closed, a gentle ‘pop’ sound was heard from the igniter and a second later the rocket soared off the pad, climbing very straight. The motor burned for about a second and the rocket was clearly visible much of the way to apogee. We heard a faint “pop” sound of the apogee charge. The smoke cloud from the charge was then sighted and shortly after a trail of smoke was seen, together with a second smoke cloud. The free-falling rocket was readily seen, aided by the trail of smoke and occasional “flash” as the sun glinted off its reflective tape. The breeze carried the descending rocket downwind. At about 500 ft. altitude, the chute pyro charge fired, and the chute was seen to quickly deploy and fully blossom. Rocket seemed to descend unusually slowly for the first 10 seconds or so of descent. Then it started to gyrate, as if caught by a wind gust, once it was a few hundred feet above the ground. Touchdown site was estimated at about 300 metres away. The landing locator was used to record the direction of touchdown, as a redundant measure to help ensure recovery. The GPS readings from the BRB receiver were then entered into the Garmin hand-held GPS unit. The distance was indicated at 0.21 miles 338 m.). We proceeded to follow the direction indicated by the GPS. A while later the rocket was recovered, in great shape, exactly where touchdown had been indicated. Raven beeped out a max altitude of 2621 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.1
+2622
+799
+Separation
+13.9
+2609
+795
+Main deployment
+42.3
+531
+162
+Touchdown
+70
+-
+-
+Range
+-
+1066
+325
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+77.3
+23.6
+ 
+Main parachute
+13.9/18.8
+4.2/5.7
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in perfect shape after landing. The Apogee Backup Timer system once again worked nominally, as pyro charge had fired, and the out-board video footage confirmed a smoke plume at the 16 second mark. The on-board video footage was very good, and also captured the backup pyro smoke plume. The high output smoke charge produced a readily visible trail. The Raven data confirmed, as suspected, that the rocket descended unusually slowly when the chute first deployed. There may have been an updraft, as the descent occurred over the side of a hill. The hand-held camera footage captured nearly the entire flight. The scope tube made this possible.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-21\Z-21_Raven.jpg
+Acceleration during motor burn                                                               Z-21\Z-21_Raven_burn.jpg
+ 
+Big Red Bee
+BRB GPS tracking of flight                                                                         Z-21\brb_mapped.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad, with my brother Blair looking on                                 Z-21\DSCN0029a.JPG
+Liftoff and ascent                                                                                        Z-21\ascent-1.jpg
+                                                                                                                        Z-21\ascent-2.jpg
+Liftoff, capture from on-board camera                                                  Z-21\ob_liftoff.jpg
+Ascent, capture from tripod camera                                                       Z-21\ascent_tripod.jpg
+Ascent, capture from on-board camera                                                 Z-21\ob_ascent.jpg
+Ascent, capture from pad camera                                                           Z-21\ascent_pad.jpg
+Approaching apogee, on-board camera                                                Z-21\on-board_apogee.jpg                                                                                                                       
+Apogee separation event, out-board camera                                       Z-21\outboard_capture_apo_sep.jpg
+Apogee separation even, on-board camera                                          Z-21\on-board_sep.jpg
+Apogee smoke cloud, as seen from ground                                          Z-21\descent-1.jpg
+Backup charge cloud and trail                                                                  Z-21\smoke-cloud_trail.jpg
+Ignition of smoke charge, out-board camera                                       Z-21\outboard_capture_sc_ign.jpg
+Smoke charge burning (view from on-board)                                        Z-21\capture1.jpg
+                                                                                                                        Z-21\on-board smoking.jpg
+Free-falling rocket                                                                                       Z-21\free-falling.jpg
+Parachute charge fires                                                                               Z-21\main_charge.jpg
+Parachute deploys                                                                                       Z-21\chute_deploy.jpg
+Descending by chute (1/2 km away)                                                        Z-21\descending_chute.jpg
+Approaching touch-down                                                                          Z-21\descending_chute_gnd.jpg
+On-board view, descending over water-filled ditch                             Z-21\on-board_descent1.jpg
+                                                                                                                        Z-21\on-board_descent2.jpg
+                                                                                                                        Z-21\on-board_descent3.jpg
+                                                                                                                        Z-21\on-board_descent4.jpg
+Touchdown, view from on-board                                                            Z-21\on-board_touichdown.jpg
+Touchdown site                                                                                           Z-21\DSCN0040a.JPG
+                                                                                                                        Z-21\DSCN0041a.JPG
+                                                                                                                       
+Videos:                                                                                                         
+Liftoff, view from Launch Control station                                             Z-21\Flight_Z-21_tripod_camera.MP4
+Liftoff, view from pad camera                                                                 Z-21\Z-21_pad_camera.MP4
+Rocket descent                                                                                            Z-21\Z-21_descent.MP4
+ 
+ 
+ 
+ 
+ 
+ 
+ 

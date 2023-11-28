@@ -1,0 +1,104 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Solid Rocket Motor Theory -- Nozzle Theory
+
+Nozzle Theory
+The rocket nozzle can surely be described as the epitome of elegant simplicity. The primary function of a nozzle is to channel and accelerate the combustion products produced by the burning propellant in such as way as to maximize the velocity of the exhaust at the exit, to supersonic velocity. The familiar rocket nozzle, also known as a convergent-divergent, or deLaval nozzle, accomplishes this remarkable feat by simple geometry. In other words, it does this by varying the cross-sectional area (or diameter) in an exacting form.  The analysis of a rocket nozzle involves the concept of "steady, one-dimensional compressible fluid flow of an ideal gas". Briefly, this means that:
+	•	The flow of the fluid (exhaust gases + condensed particles) is constant and does not change over time during the burn 
+	•	One-dimensional flow means that the direction of the flow is along a straight line. For a nozzle, the flow is assumed to be along the axis of symmetry .￼ 
+	•	The flow is compressible. The concept of compressible fluid flow is usually employed for gases moving at high (usually supersonic) velocity, unlike the concept of incompressible flow, which is used for liquids and gases moving at a speeds well below sonic velocity. A compressible fluid exhibits significant changes in density, an incompressible fluid does not. 
+	•	The concept of an ideal gas is a simplifying assumption, one that allows use of a direct relationship between pressure, density and temperature, which are properties that are particularly important in analyzing flow through a nozzle.
+Fluid properties, such as velocity, density, pressure and temperature, in compressible fluid flow, are affected by
+	1	cross-sectional area change
+	2	friction
+	3	heat loss to the surroundings
+The goal of rocket nozzle design is to accelerate the combustion products to as high an exit velocity as possible. This is achieved by designing the necessary nozzle geometric profile with the condition that isentropic flow is to be aimed for. Isentropic flow is considered to be flow that is dependant only upon cross-sectional area -- which necessitates frictionless and adiabatic (no heat loss) flow. Therefore, in the actual nozzle, it is necessary to minimize frictional effects, flow disturbances and conditions that can lead to shock losses. In addition, heat transfer losses are to be minimized. In this way, the properties of the flow are near isentropic, and are simply affected only by the changing cross-sectional area as the fluid moves through the nozzle.
+Typical nozzle cross-sectional areas of particular interest are shown in the figure below
+￼
+The analysis of compressible fluid flow involves four equations of particular interest:
+	1	Energy
+	2	Continuity
+	3	Momentum
+	4	The equation of state
+The energy equation is a statement of the principle of conservation of energy. For adiabatic flow between any two points, x1 and x2 , it is given by
+￼            ￼
+where h represents enthalpy of the fluid (which can be considered the energy available for heat transfer), v is the flow velocity in the x-direction, Cp is the effective heat capacity of the fluid, and T is the fluid temperature. This equation provides valuable insight into how a rocket nozzle works. Looking at the first two terms shows that the change (decrease) in enthalpy is equal to the change (increase) in kinetic energy. In other words, heat of the fluid is being used to accelerate the flow to a greater velocity. The third term represents the resulting change (decrease) in temperature of the flow. The heat capacity may be approximated to be constant, and is a property determined by the composition of the combustion products.
+It is apparent, then, that the properties of a fluid (e.g. temperature) are a function of the flow velocity. In describing the state of a fluid at any point along its flow, it is convenient to consider the stagnation state as a reference state. The stagnation properties may be considered as the properties that would result if the fluid were (isentropically) decelerated to zero velocity (i.e. stagnant flow).
+The stagnation temperature, To, is found from the energy equation (by setting v2=0) to be
+￼            equation 1
+For an isentropic flow process, the following important relationship between stagnation properties for Temperature, Pressure, and Fluid Density hold
+￼            equation 2
+
+where k is the all-important ratio of specific heats, also referred to as the isentropic exponent, defined as
+￼
+
+Both Cp and R (specific gas constant) are properties determined by the composition of the combustion products, where R = R'/ M, where R' is the universal gas constant, and M is the effective molecular weight of the combustion products. If the combustion products contain an appreciable percentage of condensed phase particles (smoke), the value of the effective molecular weight, M, must account for this. As well, the proper k must be used which takes into account two-phase flow. The determination of k and M for the combustion products is detailed in the Technical Notepad #1 Web Page.
+The local sonic velocity, a, and the Mach number, M, (defined as the ratio of the flow velocity to the local sonic velocity), is given by
+￼            equation 3
+From equations 1,2 & 3, the relationship between the stagnation temperature (also referred to as total temperature) and Mach number may be written as
+￼            equation 4
+
+It can be shown from the first and second laws of thermodynamics, for any isentropic process, that
+￼            equation 5
+
+From equations 4 & 5, and from the equation of state for an ideal gas, ￼, the relationship between stagnation pressure; density and Mach number may be expressed as given in the following two equations
+
+￼            equation 6
+￼            equation 7
+
+Equations 4, 6 & 7 are particularly useful, as these allow each property to be determined in a flow if the Mach number and the stagnation properties are known. The stagnation (or total) properties To, Po, and ￼o are simply the properties that are present in the combustion chamber of the rocket, since the flow velocity is (considered to be) zero at this location. In other words, To is the combustion temperature of the propellant (AFT), Po is the chamber pressure, and ￼o is the density of the combustion products under chamber conditions.
+Another important stagnation property is the stagnation enthalpy. This is obtained from the energy equation (by setting v2=0)
+￼            equation 8
+
+Physically, the stagnation enthalpy is the enthalpy that would be reached if the flow (at some point) were somehow decelerated to zero velocity. It is useful to note that the stagnation enthalpy is constant throughout the flow in the nozzle. This is also true of the other stagnation properties (temperature, pressure, and density).
+
+The second of the four equations of interest regarding compressible fluid flow, as discussed earlier, is the continuity (or conservation of mass) equation, which is given by
+￼            equation 9
+
+where A is the nozzle cross-sectional area, v is the velocity of the flow. This equation simply states that the mass flowing through the nozzle must be constant. The "star" (asterisk) signifies a so-called critical condition, where Mach number is unity, M=1 (flow velocity is equal to the speed of sound). The importance of the critical condition will soon be made apparent.
+Taking equations 3, 4, 7 & 9, it is possible to express the area ratio, A/A*, in terms of the Mach number of the flow. The area ratio is simply the cross-sectional area at any point (x) in the nozzle, to the cross-sectional area where the critical condition exists (M=1)
+
+￼            equation 10
+￼
+When a plot is made of A/A* versus Mach number, using this equation, a very interesting result is obtained! It clearly shows that a converging-diverging passage with a section of minimum area is required to accelerate the flow from subsonic to supersonic speed. The critical point where the flow is at sonic velocity (M=1 at A/A*=1) is seen to exist at the throat of the nozzle. This shows the importance of the nozzle having a diverging section -- without it, the flow could never be greater than sonic velocity!
+Supersonic flow is attained only through the diverging portion of the nozzle. Since the Mach number can be determined by knowing the area ratio, it is now possible to plot the variation of the temperature, pressure and fluid density throughout the nozzle, by use of equations 4, 6 & 7. A plot of these properties is given in Appendix C, for the Kappa nozzle.
+From equations 8 & 9, the flow velocity at the nozzle exit can be expressed as
+￼            equation 11
+where subscripts e and x signify exit and any point x along the nozzle axis, respectively. This equation can then be put into the far more useful form with the aid of the energy equation and the definition of k, as well as equation 2.
+
+￼            equation 12
+This equation is one of the most useful, as it allows the nozzle exit velocity to be calculated. In summarizing, it is necessary to know
+	•	k, effective ratio of specific heats of the exhaust products, obtained from the combustion analysis. For the condition of two-phase flow, the value must be modified, as explained in the Two-Phase Flow Theory Web Page.
+	•	R' is the universal gas constant (R' = 8314 N-m/kmol-K)
+	•	M is the effective molecular weight of the exhaust products, obtained from the combustion analysis, and must take into account the presence of all condensed-phase species.
+	•	To is the combustion temperature of the propellant, also obtained from the combustion analysis
+	•	Pe and Po are the nozzle exit pressure and the chamber pressure, respectively. For most amateur rockets, Pe can be taken as ambient atmospheric pressure: Pe = Pa =1 atmosphere. Po may be the measured chamber pressure, design chamber pressure, or the calculated chamber pressure (see "Chamber Pressure" section of Theory Pages).
+A better understanding of the nozzle behaviour may be obtained by looking closely that this equation. It may be seen that
+	•	Maximum exhaust velocity is obtained when exhausting into a vacuum (Pe = 0). This is the so-called infinite pressure ratio, Po/Pe.
+	•	Increasing the chamber pressure does not significantly increase the exhaust velocity. If k=1.2, then it is found that doubling Po from 35 atm. (515 psia) to 70 atm (1030 psia) increases the exhaust velocity by only about 7%.
+	•	A higher combustion temperature and a lower effective molecular weight are both significantly and equally beneficial, being proportional and inversely proportional to the square root power, respectively.
+	•	Although not obvious by looking at this equation, the effect of changing the value of k is not too significant. A change from k=1.1 to k=1.2 results in a velocity loss of about 7%.
+The ratio between the throat area, A*, and any downstream area in the nozzle, Ax, at which pressure Px prevails can be conveniently expressed as a function of the pressure ratio, Px /Po, and k. By noting that at the throat M is unity, and using equations 2, 3, 4, 7 & 12, leads to
+
+￼            equation 13
+This is another important and useful equation. It allows the exit area, Ae, to be calculated such that the exit pressure, Pe, is equal to the ambient pressure, Pa (typically 1 atm.), by simply substituting Pa for Px.
+
+￼            equation 14
+This is known as the nozzle design condition. For such a condition maximum thrust is achieved (derivation). For this design, the area ratio Ae /A* is known as the all-important Optimum Expansion Ratio.
+
+For a highly informative explanation on convergent-divergent nozzle operation, in particular choked flow and shock formation, visit the Nozzle Applet website (includes a simulation).
+
+
+Worked Examples
+Example #1 - Calculate nozzle area ratio (A/A*) with varying Mach number and plot on a graph Worked Example #1
+Example #2 - Calculate flow properties Temperature, Pressure and Density with varying Mach number and plot on a graph Worked Example #2
+Example #3 - Calculate nozzle Optimum Expansion ratio for a rocket motor operating at 65 atmospheres chamber pressure expanding to ambient air.  Worked Example #3
+Example #4 - Calculate nozzle flow exit velocity for a rocket motor operating at 68 atmospheres chamber pressure, expanding to ambient air, using KNSB as propellant.  Worked Example #4
+Next -- Rocket Motor Thrust
+
+￼
+Last updated  April 14, 2015
+Back to Theory Index Page Back to Index Page
+

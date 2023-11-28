@@ -1,0 +1,116 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-6
+
+ 
+Basic Information
+Name
+Z-6
+Launch date:
+20 December, 2014
+Rocket description
+63.5mm aluminum airframe
+4 fins, birch plywood
+aluminum conical nosecone
+3 ft. ellipsoidal parachute
+Payload
+Raven altimeter
+Mini camcorder (set to 640x380 resolution)
+Liftoff mass
+2.21 kg.
+Flight objectives
+- First higher-altitude flight with on-board camcorder
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+247 grams
+Nominal impulse
+290 N-sec
+Class
+H
+ 
+Weather conditions
+Temperature
+-2°C
+Wind
+SSE 15 km/hr
+Sky
+Overcast
+Other
+Light drizzle
+ 
+Launch Event Description
+Sled was used for the first time to transport the launch supplies. The sled worked very well and greatly eased the effort of getting to the launch site. Setup of Raven and camcorder went well. Shortly after “zero” count, rocket lifted off and rapidly rose skyward, veering somewhat into the wind. Disappeared from sight after burn out. About 10-15 seconds later, a ‘pop’ sound heard from primary ejection charge, then a few seconds later a second, more faint ‘pop’ from the backup charge. Rocket was not sighted coming down until the ‘pop’ sound from the main charge fired and the fully-blossomed chute was spotted. Rocket touched down not far from the launch pad. Upon examination of the rocket, it was noted that the motor had slid nearly all the way out of the rocket body. Rocket and payload were in great shape.
+ 
+
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+11.4
+1940
+591
+Separation
+12.3
+1926
+587
+Main deployment
+34.1
+370
+113
+Touchdown
+51.5
+ 
+ 
+Range
+ 
+152
+46
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+77.1
+23.5
+ 
+Main parachute
+17.5
+5.3
+ 
+ 
+Post-flight analysis and comments:
+Examination of video footage indicated that motor dislodged during flight, not on landing.  Most likely this happened as a result of the apogee separation event. The clips retaining the motor were not sufficiently secure. Good on-board camcorder footage was obtained. Good footage of liftoff and (fortuitously) landing was taken by a tripod mounted camcorder set a short distance from the launch pad.
+ 
+Raven baro and accelerometer graph:                                                 Z-6\Z-6_raven.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad prior to flight                                                                     Z-6\Z-6_onpad.jpg
+My brother Blair setting up launch pad                                                   Z-6\DSC00019a.JPG
+Sled used for winter transport of supplies                                             Z-6\DSC00020a.JPG
+Liftoff                                                                                                             Z-6\Z-6_liftoff.jpg
+Descent (camera 2 capture)                                                                      Z-6\descent_capture-1.jpg
+Descent (camera 1 capture)                                                                      Z-6\descent_camera2_capture.jpg
+Zoomed in on parachute                                                                            Z-6\descent1.jpg
+Rocket safely on ground                                                                            Z-6\DSCF3363a.JPG
+                                                                                                                        Z-6\DSCF3364a.JPG
+                                                                                                                        Z-6\DSCF3362a.JPG
+                                                                                                                       
+Videos:                                                                                                         
+Launch and landing (camera 2)                                                                 Z-6\Flight_Z-6_Camera_1.mp4
+Flight (camera 1)                                                                                          Z-6\Flight_Z-6_Camera_2.wmv
+ 
+
+￼
+Last updated March 7, 2015
+Back to Home Page
+

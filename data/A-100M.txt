@@ -1,0 +1,155 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+A-100M Rocket Motor
+
+￼
+
+Introduction
+Basic Dimensions and Configuration
+Nozzle
+Bulkhead
+Motor Casing
+Component masses
+Propellant Grain
+Motor ignition
+Engineering drawings
+Motor Kn data
+Performance
+Video Clips
+Introduction
+The A-100M rocket motor is an updated version of the A-100 "G" class motor that was originally designed over 30 years ago. Interestingly, the intended primary use of this new motor is the same as for the original motor -- for testing new and modified sugar propellant formulations. The small size, reliability and the simplicity of the A-100 motor made it an ideal candidate for this role. Certain modifications are incorporated into the updated A-100M. For one thing, o-rings are used for sealing the nozzle and bulkhead, a marked improvement over the methods used in the original design. As well, the A-100M is intended primarily for use with the contemporary sugar propellants, such as KNDX and KNSB. Fructose based KNFR propellant, which is a new development, is also well suited to the A-100M. The use of these slower burning formulations necessitated a reduction in the nozzle throat size to suitably increase the Kn to accommodate these propellants. Another modification involves the method of attachment for the nozzle and bulkhead, which incorporates the same design philosophy used for more contemporary motors such as the Kappa, Juno, etc.
+
+￼
+
+Figure 1 -- A-100M rocket motor
+It is also planned to use the A-100M motor for flights, mainly for launching small payloads such as a small camera. Simulations using the SOAR program predict that the motor is capable of lofting a 3 lb. (1.4 kg.), 2" (5 cm.) diameter rocket to an altitude of over 1000 feet (300 m.).
+View simulation files:  A-100M KNDX    A-100M KNSB
+To date, the A-100M motor has been fired 15 times using a variety of standard and experimental formulations. The motor has performed to expectations and no operational anomalies were experienced. No nozzle erosion or other adverse effects of usage have been observed.
+
+￼
+
+Figure 2 -- A-100M motor being static fired in the STS-5000 test stand
+
+
+Basic Dimensions and Configuration
+The propellant grain is free-standing with completely unrestricted burning. The geometry of the grain is basically hollow cylindrical, although the aft end has a conical frustum, which is a consequence of the casting operation. The grain is cast using the motor as the mould and as such, the conical frustum is produced by the nozzle convergent portion. The advantages of unrestricted burning include simplicity of grain preparation, and high reliability, as there is no burn inhibitor to potentially fail, thereby inadvertently increasing the burning area (thus chamber pressure). A disadvantage is that the casing is exposed to extreme convective heating, necessitating the use of steel as a casing material.
+The motor is designed to fail, in case of overpressurization, in an "axial" manner. The two bulkhead attachment screws are sized to shear at a pressure of approximately 2000 psi (136 atm.), blowing off the bulkhead. The casing has a burst pressure significantly higher than this.
+A cross-sectional view of the A-100M motor assembly is shown in Figure 2. The major components are labeled.
+￼
+
+Figure 3 - Cross-sectional view of the A-100M motor assembly
+
+
+Nozzle
+The nozzle is a conical profiled, deLaval supersonic type machined from low-carbon steel (AISI 1018). The 30o convergent and 12o divergent half-angles are the same as that used for the original A-100. The expansion ratio is 12.4, and typical operating pressure is between 1000 psi and 1200 psi (6.9 MPa and 8.3 MPa), with MEOP being 1600 psi (11 MPa.). The nozzle is attached with three #8-32 x 1/4" stainless steel (18-8) machine screws. Stainless steel screws are needed due to their high shear strength of 70 kip/in2 (480 MPa), compared to regular steel screws, which have a typical shear strength of 45 kip/in2 (300 MPa). The stock screw "pan" heads are machined to a reduced diameter. To provide an effective and reliable pressure seal, a single o-ring is used in conjunction with silicone grease. Standard buna-N (nitrile) o-rings have been used exclusively in the test firings conducted so far. It has been found that the nozzle o-ring can be safely reused a number of times provided that the o-ring has been well coated with protective grease. It is considered good practice, however, to replace the nozzle o-ring after each firing.
+For optimum performance, it is important that the inlet to the throat be well-rounded (radiused) to accelerate the combustion products more gradually. This reduces performance loss associated with two-phase flow velocity lag (see SRM Theory section for full details).
+
+Bulkhead
+The bulkhead is machined from low-carbon steel (AISI 1018). The bulkhead is attached with two #8-32 x 1/4" stainless steel (18-8) machine screws. The stock screw "pan" heads are machined to a reduced diameter. For sealing, a single o-ring is used in conjunction with silicone grease. Standard buna-N (nitrile) o-rings are suitable. It has been found that the bulkhead o-ring can be reused numerous times provided that the o-ring has been well coated with protective grease.
+
+Casing
+The motor casing is made from 1" steel EMT (Electrical Metallic Tubing). This type of tubing is seam welded. In order to provide good sealing at the o-ring joints, the tubing is turned on the inside (at both ends) using a lathe such that the seam is completely removed. EMT is zinc plated. This plating tends to blister and discolour when subjected to the heating of motor operation. Although not really necessary, the plating can be removed by turning down the outside surface on a lathe a few "thou".
+The holes for the bulkhead attachment screws are subjected to high bearing stress. Some minor elongation of these holes normally occurs after the first firing of the motor. This is not detrimental and occurs only once, as the material consequently strain hardens locally due to this deformation.
+
+Component masses
+The following is a breakdown of the typical mass of each component of the A-100M motor.
+
+Item
+grams
+lbs.
+Nozzle
+80
+0.18
+Bulkhead
+60
+0.13
+Casing
+155
+0.34
+Screws (5)
+5
+0.01
+o-rings (2)
+1
+0.002
+Total
+301
+0.663
+
+
+
+Table 1 - Motor component masses
+
+
+Propellant Grain
+The propellant grain is free-standing, hollow-cylindrical with unrestricted burning. The aft end of the grain is conical, a result of casting the grain using the motor as a mould. The grain is loose fitting within the motor to facilitate combustion of the grain outer surface. Nominal propellant grain mass is 100 grams. However, the motor can safely accommodate a grain of up to 115% nominal. For improved startup and overall performance, the grain should be coated with KN/charcoal combustion primer.
+The casting of the grain for this motor is detailed in the Propellant Casting and Grain Preparation web page. Due to unavoidable wastage such as spillage or unrecoverable slurry sticking to the melting vessel, it is necessary to prepare about 50% more propellant material than that of the final grain size. For example, for casting of a KNDX grain, 150 grams of material is usually prepared consisting of 97.5 grams of potassium nitrate and 52.5 grams of anhydrous dextrose.
+The design of the A-100M motor was optimized for the dextrose-based KNDX propellant. However, this motor can be used with many other sugar-based formulations. To date, the motor has also been test fired successfully with sorbitol-based and fructose-based variations and with these propellants doped with additives such as red iron oxide (RIO) and glycerine. These two additives are both effective in reducing the viscosity of the molten propellant slurry and thus eases the grain casting operation. Also, to reduce viscosity, grains produced with a 60/40 O/F ratios have been cast and test fired. Table 2 details some of the formulations that have been successfully static fired in the A-100M motor and for which firm performance data has been obtained. The formulations are listed in order of casting ease, with "1" being the easiest to cast (pourable) to "7" being the most challenging (requiring scooping, tamping & packing).
+
+￼
+Table 2 - Some tested formulations
+
+Although not primarily intended for use with the sucrose-based (KNSU) propellant, this formulation can be used successfully in the A-100M motor provided the nozzle throat size is modified to a larger diameter, as indicated on the engineering drawing of the nozzle.
+
+Motor Ignition
+For maximum motor performance, a blackpowder (BP) igniter should be used. The design of such an igniter is detailed in the Igniters & Ignition Systems webpage. The advantage of this type of igniter is that it combusts nearly instantly, and in doing so, pressurizes the motor. This facilitates ignition of all exposed surfaces of the propellant grain. The igniter is installed at the forward end of the grain core.
+
+Engineering drawings
+English units of measure
+	1	Motor Assembly
+	2	Nozzle
+	3	Bulkhead
+	4	Casing
+	5	Screw, attachment
+	6	Propellant Grain
+Metric units of measure
+	1	Motor Assembly
+	2	Nozzle
+	3	Bulkhead
+	4	Casing
+	5	Screws, attachment
+	6	Propellant Grain
+
+Motor Kn Data
+The all-important Kn of a motor is the ratio of burning surface area to throat cross-section area. The Kn typically will vary over the operating duration of a motor, as the grain geometry changes as a result of the receding of the burning surfaces. For the A-100M motor, the Kn is nearly neutral, being slightly regressive. A true hollow-cylindrical grain with only the outer diametrical surface and core exposed to combustion is totally neutral burning. Since both ends of the A-100M grain are exposed to burning, and thus the length of grain continually shortens over the duration of the burn, the Kn profile is regressive.
+The Kn is a key parameter in motor design, as it determines the operating pressure of the motor. The Kn versus web recession is shown in Figure 4 for a nominal (100%) grain.
+
+￼
+
+Figure 4 - Kn as a function of web thickness
+
+
+Motor Performance
+Performance figures for the A-100M motor have been obtained from several static firings performed utilizing the STS-5000 test rig and electronic data acquisition. Both motor thrust and chamber pressure were recorded. Thrust was sensed with the use of a 200 lb. (900 N.) capacity load cell and pressure sensed using a 0-5000 psig Omega PX300 pressure transducer. The load cell was fitted with a full-bridge arrangement of strain gages, 2 active and 2 passive. Both were interfaced to separate INA122 based instrumentation amplifier circuits , then piped to a DATAQ 154RS multichannel A/D converter. Data was collected and stored on a laptop computer. The pressure transducer was thermally protected from the hot combustion gases by a grease-filled manifold.
+Several thrust curves are presented in Figure 5 for a variety of propellant formulations. Corresponding curves for motor chamber pressure are presented in Figure 6.
+
+￼
+
+Figure 5 - Thrust versus time plots
+
+￼
+
+Figure 6 - Chamber pressure versus time plots
+Table 3 presents a performance summary of the various motor tests. The total impulse figures vary partly due to the differences in individual grain masses for these tests. It is interesting to note that the specific impulse values for the 60/40 O/F formulations were not that much lower than the standard 65/35 O/F ratio formulations. For the dextrose propellants, for example, the 60/40 formulation had an Isp about 5% lower that the standard KNDX. The nozzle losses for the former are notably less, as can be seen by looking at the Thrust Coefficient values, which are higher for the more fuel-rich 60/40 formulations. This could conceivably be due to lower two-phase flow losses, as the percentage of condensed-phase particles in the exhaust products are a fair amount lower, being 40.9% for the 60/40 ratio, versus 42.5% for the standard 65/35 ratio (based on GUIPEP analysis). Note that the Thrust Coefficient values shown are the average, steady-state values.
+
+￼
+
+Table 3 - Performance summary
+The performance figures for the KNSB propellant suffer as a result of the motor being optimized for the KNDX propellant. As such, KNSB runs at a lower chamber pressure, with a resulting lower average thrust, longer burntime, and lower specific impulse. If the A-100M was to be optimized for KNSB, the nozzle throat size would need to be reduced to bump up the chamber pressure to a value similar to that seen for KNDX.
+It is interesting to compare the actual test results with those predicted by SRM motor design software. Figure 7 shows a comparison of the actual thrust and pressure curves for the KNDX firing presented in Table 3 and the corresponding curves predicted by SRM. The efficiencies assumed are the "standard" 95% combustion efficiency and 85% nozzle efficiency values. The correlation is very good, especially for chamber pressure. The thrust is seen to be underpredicted. This is likely due to the simplified approach taken by SRM with regard to nozzle efficiency, with all nozzle losses being lumped as a single entity. The result is an underprediction of the Thrust Coefficient, with SRM indicating Cf =1.50, while the value based on test data was Cf =1.59.
+
+￼ ￼
+
+Figure 7 - Measured versus SRM prediction
+
+
+Video Clips
+Video of several A-100M static firings that took place in May 2010.
+A-100M_May_2010.wmv (8.9 Mbyte)
+
+￼
+Last updated May 21, 2016
+Return to Top of Page
+Return to Index Page
+

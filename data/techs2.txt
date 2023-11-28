@@ -1,0 +1,43 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Technical Notepad #3 -- KNSB Ideal Performance Calculations
+Note 1
+KN-Sorbitol 65/35 O/F ratio @ 1000 psia chamber pressure
+From PROPEP results, for 100 grams mixture:
+￼
+ 
+The effective Molecular Weight is given by dividing the number GAS moles into the system mass. Since the system mass is 100 grams:
+￼ g/mole
+Note that this is the proper molecular weight to use in the thermodynamic equations.
+
+The mass fraction of condensed phase is given by the mass of the condensed phase (K2CO3) divided by the system mass
+The MW of K2CO3 = 138.21 g/mole, thus       ￼
+Note 2
+KN-sorbitol 65/35 O/F ratio @ 1000 psia chamber pressure
+Mole fractions and mass fractions for each combustion product are calculated in the table below:
+￼
+
+
+￼
+The values for Cp and Cs are taken from the JANAF Thermochemical Tables and NIST Chemistry WebBook.
+Note that the highlighted range (yellow) is applicable for the values at 1600K, the chamber combustion temperature under consideration.
+The Cp for the gas only products and mixture (gas+condensed) is given by ￼ ￼
+where ni is the number of moles of gas component i , ns the number of moles of condensed component, n the total number of gas moles. The ratio of specific heats for the mixture, for the gas-only, and for two-phase flow is given by
+￼        where ￼ = 8.314 J/mol-K (universal gas constant). ￼
+￼       
+where y = X /(1-X). Note that k for two-phase (gas+condensed) flow is a modified form of the gas-only k'. This is the correct form of k to use in the thermodynamic equations involving products with a significant fraction of condensed-phase particles. The value of k given in the PROPEP output (Cp/Cv) is for the mixture.
+
+Note 3
+Characteristic exhaust velocity is given by
+￼
+with To = 1600K M = 39.86 kg/kmol k = 1.1361          Note: k for the mixture is the proper value to use, as c* represents a static condition ￼ = 8314 J/kmol-K  this gives c* = 909 m/s (2981 ft/s).
+
+Note 4
+The propellant specific impulse is given by the effective exhaust velocity divided by g.
+￼
+Thus, Isp = 164 sec. for standard conditions of Po = 68 atm. (1000 psia) and Pe = 1 atm., and g = 9.806 m/s (maximum theoretical, assumes frozen equilibrium, and no particle velocity lag or thermal lag).
+
+
+Last updated February 11, 2006
+

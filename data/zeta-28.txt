@@ -1,0 +1,149 @@
+ 
+Basic Information
+Name
+Z-28
+Launch date:
+13 March, 2017
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Smoke charge (activated by Raven at 2500 ft. level)
+- Apogee Backup Timer
+- SJ1000-SC Video camera
+Liftoff mass
+2.400 kg.
+Flight objectives
+Flight test ultra-low power pyros for recovery system
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+291 grams
+Nominal impulse
+343 N-sec
+Class
+I
+ 
+Additional information
+For all previous flights, pyro charges for the Raven deployment system utilized 38AWG nichrome wire bridgewire of 0.004in. (0.1 mm) diameter. These igniters typically draw 4 amps, which causes a brief but significant voltage drop of the 9V cell that powers the Raven. This has proven problematic in cold weather. The new ultra-low power pyros utilize a superfine nichrome bridgewire of 0.0015 in (0.04mm), and draw approximately 1/10 the current. Ground testing indicated full reliability. The Backup Timer retains a standard nichrome bridgewire for this flight.
+ 
+Weather conditions
+Temperature
+-10°C
+Wind
+S 5 km/hr
+Sky
+Cloudless
+Other
+-
+Ceiling
+unlimited
+ 
+Launch Event Description
+Setup of the rocket proceeded smoothly with no glitches. Raven checkout beeped 9V and gave 4 positive indication for 4 pyros. Backup timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the rocket accelerated off the pad. The motor burned for about two seconds. Due to the bright sun and blue sky, the rocket could be seen nearly to apogee.  Around 10 seconds after burnout we heard the ‘pop’ of the apogee separation. Immediately we spotted the growing smoke trail. The rocket was seen tumbling earthward, with smoke emanating from its smoke canister, with occasional glinting of the sun off the rocket which aiding tracking. The smoke charge burned out after approximately 20 seconds. The chute was then seen to deploy, accompanied by a bright smoke cloud from the pyro charge.
+ 
+The rocket gently drifted earthward, occasionally performing slow tumbles due to the unusual air currents. Touchdown occurred about a half-minute later on a frozen field no more than 300 feet (90m.) from where we were standing. Despite its close proximity, we programmed the BRB GPS coordinates of the touchdown site into the Garmin hand-held GPS unit. When we arrived at the touchdown site, the rocket appeared to be in perfect condition. Raven beeped out an apogee of 2601 feet (793m.).
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.9
+2604
+794
+Separation
+13.8
+2588
+789
+Main deployment
+40.1
+690
+210
+Touchdown
+70.6
+-
+-
+Range
+-
+317
+97
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+74.9
+22.8
+ 
+Main parachute
+20.4
+6.2
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in great shape. Excellent on-board HD video was obtained. Footage from the hand-held Sony camcorder was good, capturing most of the flight. The smoke charge was confirmed to have burned between 20 and 24 seconds, which is in line with expectation.
+The ultra-low power pyros, of which four were utilized (apogee primary, apogee backup, smoke charge and main deploy), all performed perfectly. Raven indicated a current draw of 330mA on average, a substantial ten-fold reduction compared to earlier pyros.
+ 
+Post-flight examination did reveal one significant anomaly. The pyro connected to the Backup Timer had not fired. The Backup Timer modules (used for both Zeta and DS) have so far flown 15 times and this was the first anomaly. Examination and check-out of the Timer revealed nothing amiss. The Energizer Advanced Lithium 9V battery, however, was found to be more depleted than expected, and suffered from the -10C temperature. For future flights, a superior battery (Energizer Ultimate Lithium) will be utilized. As well, a ultra-low power pyro will be used for the Timer as well as for the Raven pyros.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-28\Raven_Z-28_basic.gif
+Acceleration data during burn                                                                  Z-28\Raven_Z-28_accel.gif
+ 
+BRB:                                                                                                              
+GPS path of flight trajectory                                                                     Z-28\BRB_Z-28_track.gif
+ 
+Photos:                                                                                                         
+Rocket on pad just prior to launch                                                           Z-28\DSCN0032a.JPG
+Liftoff                                                                                                             Z-28\2017-03-17_9-13-34.jpg
+Liftoff view from on-board camera                                                        Z-28\2017-03-17_12-19-43.jpg
+Initial ascent                                                                                                 Z-28\2017-03-17_9-14-00.jpg
+Burnout of motor                                                                                        Z-28\2017-03-17_9-14-21.jpg
+Apogee, on-board view                                                                             Z-28\2017-03-17_12-21-05.jpg                                                                                                                       
+Smoke tracking charge begins to burn                                                    Z-28\2017-03-17_9-16-49.jpg
+Tumbling downward leaving smoke trail                                                Z-28\2017-03-17_9-18-19.jpg
+                                                                                                                        Z-28\2017-03-17_9-19-08.jpg
+                                                                                                                        Z-28\2017-03-17_12-22-26.jpg
+Smoke seen emanating from smoke canister                                       Z-28\2017-03-17_12-21-50.jpg
+Descent, on-board view                                                                             Z-28\2017-03-17_12-26-01.jpg
+                                                                                                                        Z-28\2017-03-17_12-27-05.jpg
+                                                                                                                        Z-28\2017-03-17_12-27-22.jpg
+Chute pyro fires off nosecone                                                                  Z-28\2017-03-17_9-20-08.jpg
+                                                                                                                        Z-28\2017-03-17_9-20-20.jpg
+Parachute blossoms                                                                                    Z-28\2017-03-17_9-20-53.jpg
+Gentle descent                                                                                             Z-28\2017-03-17_12-17-00.jpg
+View from 380 ft (100m.) above ground                                                Z-28\2017-03-17_12-31-35.jpg
+View from 160 ft (50m.) above ground                                                  Z-28\2017-03-17_12-32-00.jpg
+View from 60 ft (19m.) above ground                                                     Z-28\2017-03-17_12-32-16.jpg
+View from 20 ft (6m.) above ground                                                     Z-28\2017-03-17_12-32-31.jpg
+Moments before touchdown                                                                    Z-28\2017-03-17_12-17-46.jpg
+Touchdown site                                                                                           Z-28\DSCN0041a.JPG
+Aft section of rocket                                                                                   Z-28\DSCN0037a.JPG
+Forward section                                                                                           Z-28\DSCN0038a.JPG
+ 
+Video:                                                                                                           
+Complete flight, liftoff to landing                                                                                                                        https://youtu.be/2qN6wEkUwbU
+On-board camera                                                                                        https://youtu.be/J-mydh8tMdg
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,82 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- SkyDart Rocket Flight SD-2
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of Flight SD-2, the second flight of the SkyDart rocket. The SkyDart is a small, simple to construct, and inexpensive sounding rocket that is powered by the A-100M solid rocket motor. The primary purpose of the second flight of the SkyDart rocket was for testing a redesigned Delay Ejection Device (DED), following failure of the original design that was used for SD-1.
+
+SkyDart Details
+
+	•	The rocket for Flight SD-2 was the same rocket used for SD-1, having been repaired by replacing the damaged fuselage, straightening the bent fins and replacing the lost nosecone. All other components were original. 
+	•	The motor was the A-100M, but this time KNSB (sorbitol based) propellant was used. Interestingly, this represents my first-ever flight of a KNSB powered rocket. The propellant mass was 112 grams, including the combustion primer which was painted on all initial burning surfaces (including the core). 
+	•	An experimental Delay Ejection Device (DED) was again used for parachute deployment. However, the design of the DED was modified to overcome the problem that caused the operational failure for for Flight SD-1. For that flight, motor combustion heat had failed to initiate combustion of the delay charge. Five possible solutions to this problem were considered, as detailed in the SD-1 Flight report. A "sixth" solution was later suggested to me by fellow rocketry enthusiast Ken Tucker. Ken suggested that instead of relying upon the motor combustion heat to ignite the delay grain, why not conversely ignite the delay grain first, and have the resulting heat ignite the propellant grain? I immediately saw this as a brilliant solution, and set out to see if this would be feasible. Initial testing showed, unfortunately, that the heat output of the delay charge was insufficient to reliably initiate combustion of the propellant grain. Not wishing to modify the composition of the delay charge, I instead decided to incorporate a pyrogen charge which would serve both functions simultaneously -- ignite the delay charge and ignite the motor propellant. The challenge was then to develop a suitable, hot burning, potassium nitrate based composition to fulfill the function as "pyrogen". Using GUIPEP "Propellant Evaluation Program", I tailored the classic Black Powder (BP) formulation with the goal of maximizing combustion temperature. The formulation that was eventually arrived upon gave a theoretical combustion temperature of 2058 C, compared to 1644 C for conventional BP formulation (both assumed oak charcoal). The formulation, which I deemed "Grey Powder" (GP) owing to its colour, is shown in the table below, with Black Powder for comparison: 
+	•	Constituent
+	•	Black Powder (BP)
+	•	Grey Powder (GP)
+	•	Potassium Nitrate
+	•	74 %
+	•	78%
+	•	Sulfur
+	•	10.4 %
+	•	17%
+	•	Charcoal
+	•	15.6 %
+	•	5%
+	•	Black Powder & Grey Powder formulations Simple burn tests indicated that the mixture did indeed appear to burn with a hot flame, and with reasonably stable combustion. Intensity and burning stability were greatly improved when neoprene (in the form of contact cement) was incorporated as a binder. The shape of the pyrogen charge as installed in the Pyrogen-DED was made conical, as illustrated in the figure below. The purpose of a conical shape is twofold. One, to subject the delay grain to continuous heating while the pyrogen charge burns, and two, to produce a "fan-like" flame to facilitate ignition of the motor propellant grain. To confirm that reliable ignition of the delay charge would occur, several specimens of pyrogen/delay charge were prepared and tested. All functioned with 100% reliability. The design of the DED was also modified by the addition of tapered pipe threads at the forward end of the unit, to allow for a gas tight joint when screwed into a tapped fuselage bulkhead. For this flight, however, the same joint as that employed for Flight SD-1 was used. 
+￼
+Pyrogen-DED
+(click for photo of P-DED and for photo of unit installed in motor)
+Ignition of the pyrogen charge was accomplished using a modified "straw" igniter. This consisted of a Xmas bulb with the filament (bridgewire) coated with GP/neoprene, installed into a length of plastic soda straw. The bottom end was sealed with "hot glue", and the top end left open. Installed in the motor, the igniter butts up against the Pyrogen-DED. A layer of aluminum tape was wrapped around the upper portion of the straw to help ensure the flame would be directed out the top end, directly aimed at the pyrogen charge.
+
+Effective length of the delay grain was 0.44" (11 mm). With a nominal burn rate of 1.3 mm/second, the predicted delay duration was 8.5 seconds.
+
+0.6 grams of Crimson Powder was again used as the ejection charge.
+
+Fifteen strips of reflective aluminized mylar, each approximately 1" (2.5 cm) by 10" (25 cm), were placed within the canopy of the folded parachute. The purpose was to test the effectiveness of such material as a possible visual aid for tracking the rocket, the idea being that the sun would reflect off the strips and in doing so, produce a "flashing" or "twinkling" effect.
+
+Pre-launch weight of the rocket was 4.02 lbs (1.825 kg.), which included 750 grams of silica sand ballast (250 grams more than used for Flight SD-1).
+Launch Report
+Sunday, December 5, 2004  Wet weather resulted in postponement of the launch for a week. Brisk winds had been forecast for launch day, so additional ballast was used to reduce the peak altitude and downrange drift. However, when we arrived at the launch site, the winds (which had been lighter than expected) diminished to near zero. Although consideration had been given to removing some ballast, this was decided against. The sky was a mixture of cloud and clear blue patches, with a bright sun. The temperature was -1oC (30oF.). All in all, the launch conditions were excellent.
+
+The tripod launch pad was set up first, as usual. The launch rail was adjusted to a vertical orientation. The rocket was then slid into position onto the lower launch rail, then the upper rail was inserted into the lower one. The tripod mounted videocamera was set up about 30 feet (9 m.) from the pad to capture liftoff from up close. The motor ignition system was then set up and tested to ensure that it was functioning properly. Finally, after taking some preflight video footage, the igniter was inserted into the rocket motor, and connected to the ignition box. This accomplished, the observers then headed to safe viewing locations. The ignition system was then armed.
+
+￼
+Author installing the upper launch rail just prior to the second flight of SkyDart rocket .
+As operator of the videocamera, I positioned myself with the sun at my back, so that the sunlight would illuminate the rocket most effectively. Rob once again had the honourable task of announcing the countdown and pressing the "launch" button.
+After the "all ready & all clear" signals were announced, the countdown proceeded...5-4-3-2-1-Ignition!
+Nearly immediately, a cloud of smoke was witnessed at the base of the rocket, then a half second later, SkyDart cleared the launch rail and Flight SD-2 was officially underway.The acceleration was very rapid, although less so than for the maiden flight, which employed the faster burning KNDX propellant. The rocket climbed in a very straight and stable manner. Despite the high rate of speed, I did have some success following the rocket during ascent with the videocamera, repeatedly losing, then regaining contact in the viewfinder.
+Apogee occurred after about 8 seconds, estimated by Rob to be about 800 feet (250 m.). As the rocket pitched over, a cloud of smoke suddenly appeared as the ejection charge fired. The parachute immediately blossomed. Less than a second later, we heard the delayed "pop" sound from the charge. The rocket drifted downward in a straight and stable manner, and at a rather quick descent rate, as expected owing to the mass of the ballast. Touchdown occurred less than 35 feet (10 m.) from the launch pad. Inspection of the rocket at the landing site indicated that it was in perfect condition and with no apparent damage.
+
+￼
+Recovered SkyDart rocket
+
+Flight SD-2 launch photos: 1   SkyDart sitting on launch pad mere seconds from liftoff.  2   Ignition!! 3   Liftoff of SkyDart Flight SD-2. 4   SkyDart coasts skyward following motor burnout. 5   Smoke cloud signalling successful firing of ejection charge, separating rocket into two sections. 6   SkyDart descending under the safety of a fully inflated parachute.  7   Zoomed view of rocket & parachute 8   SkyDart descends into remnants of smoke cloud just above the launch site.
+Post-flight Analysis
+Post-flight inspection of the rocket and motor showed that all components were in nearly perfect condition, and that the P-DED functioned as designed. The only damage was partial melting of the P-DED body. This was pretty much expected, having been made from aluminum (to ease prototype fabrication). Future units will likely be fabricated from mild steel to eliminate any heat-related damage, although as a "one-shot" device, aluminum proved to be a viable material.
+From inspection of the video footage & soundtrack, the following times were excerpted:
+	•	Ignition to liftoff--        0.4 sec.
+	•	Liftoff to burnout --        0.5 sec.
+	•	Liftoff to "pop" sound of ejection charge --       8.7 sec.
+	•	Liftoff to touchdown --       27.2 sec. .
+Flight simulation performed using SOAR based on static test data of the A-100M motor with KNSB had indicated that the rocket would reach a peak altitude of approximately 810 feet (250 m.) at 7.25 seconds into the flight (view sim file) . This is consistent with the estimated altitude.
+The actual duration of the DED delay may be calculated from the above data:
+Delay time = 0.4 + 8.7 - 810/1100 = 8.4 seconds (which takes into account sonic lapse time) which is very close to the predicted delay of 8.5 seconds.
+Descent rate of the rocket was also calculated from the above data, and determined to be 42 feet/sec. (12.8 m/sec.). This is consistent with the expected descent rate of 43 feet/sec. (13.1 m/sec.) based on the rocket's mass and the parachute's aerodynamic properties.
+The reflective mylar strips that were released during parachute deployment did not prove to be of much value as a visual aid. Rob reported noticing the "twinkling" effect, but was quite faint and intermittent. It is possible that more reflective "pieces" are needed to provide a pronounced visual effect. For the next flight, the mylar will be cut into much smaller pieces, perhaps 1 inch square, and a far greater quantity will be used.
+Overall, Flight SD-2 was an outright success. The Pyrogen-DED and parachute deployment system proved to work exactly as designed. However, more such flights will be required to assess the reliability of the overall system.
+
+The photo below shows a recently fabricated Pyrogen-DED made from steel. This unit will be used on future SkyDart flights. This lengthened unit allows for delays up to 12 seconds.
+
+￼
+New Pyrogen-DED
+
+￼
+Last updated December 11, 2004
+Back to Home Page
+

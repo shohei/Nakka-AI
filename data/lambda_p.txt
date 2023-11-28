@@ -1,0 +1,58 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Lambda Rocket Motor
+Preliminary Design Concept
+
+Introduction
+Basic dimensions
+Cutaway view
+Nozzle drawing
+Kn data
+Chamber pressure data
+Performance data
+
+Introduction
+The preliminary design data for the Lambda rocket motor is presented in this web page. This motor, powered by the KN-Dextrose propellant, has a design total impulse of 4090 N-sec (920 lb-sec), which categorizes it as a mid "L" class motor.
+This intended purpose of this rocket motor is to serve as a "sustainer", or upper stage motor, of the two stage Cirrus Two rocket, which is currently in the design phase. This rocket has an apogee target of 20,000 feet (6 km), and will utilize an "J" class Juno rocket motor as the first stage booster.
+As a sustainer, the Lambda rocket motor is designed to have a moderately long burn with moderate thrust. To deliver the desired thrust profile, the motor utilizes a BATES grain consisting of four segments, totaling approximately 3 kg. (6.6 lbs) propellant mass, with inhibited outer grain surfaces. As such, the burning surfaces of each segment consists of the core and both ends, resulting in an approximately neutral theoretical thrust profile.
+Motor construction will be conventional, with a steel convergent-divergent supersonic nozzle with an expansion ratio of 10:1. The forward bulkhead will be fabricated from 6061-T6531 aluminum alloy, and will incorporate the ignition pyrogen unit. The electrical initiator will be removable, for security. The motor casing will be of 6061-T6 aluminum alloy tube, of 0.080 wall thickness. Attachment of the nozzle is with fourteen alloy steel machine screws; the bulkhead will also be retained with fourteen machine screws, however, of cres material, and will act as shear pins to blow the bulkhead, in case of motor overpressurization. Dual O-rings (AS 568-144) will be used for sealing of each the nozzle and bulkhead.
+For operation as the upper stage motor for the Cirrus Two rocket vehicle, the Lambda motor will also serve as a portion of the airframe, with the payload/recovery fuselage attached to the motor forward end, and the upper stage fin-can attached to the aft end of the motor. Provisions for such attachments will be incorporated in the casing ends (7 machine screws, 4-40 size).
+￼
+
+Figure 1 -- Lambda basic dimensions and data
+
+￼
+
+Figure 2 -- Section A-A, cutaway view of motor
+
+￼
+
+Figure 3 -- Lambda Nozzle
+
+￼
+
+Figure 4 -- Details of Pressure Bulkhead
+
+The following images are excerpts from the SRM Excel spreadsheet that was utilized in the design of the motor:
+
+￼
+
+Figure 5 -- Design Kn with respect to web regression
+
+
+￼
+
+Figure 6 -- Plots of design chamber pressure v.s. time
+
+
+￼
+
+Figure 7 --Plots of design thrust v.s. time
+
+
+￼
+Last updated January 27, 2002
+Return to Top of Page
+Return to Home Page
+

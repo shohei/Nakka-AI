@@ -1,0 +1,122 @@
+ 
+Basic Information
+Name
+Z-17
+Launch date:
+11 July, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- aluminum nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+- Smoke charge (initiated by purpose-made module at apogee)
+- Side-facing microcamcorder
+Liftoff mass
+2.104 kg.
+Flight objectives
+- Low altitude flight with A-100M motor
+- Test activation module for Smoke Tracking charge.
+- Assess side-facing camera
+ 
+Motor details
+Motor name
+A-100M
+Propellant
+KNSB-RIO
+Grain mass
+126 grams
+Nominal impulse
+148 N-sec
+Class
+G
+ 
+Additional information
+Smoke Charge material was prepared using improved casting technique to eliminate residual moisture, to help ensure ignition of the charge.
+Product improvements made to the “launch wagon”, used to facilitate transport of launch support equipment to the launch site.
+An additional 3 foot (90cm) length of launch rod used to reduce veering of rocket. Total length now 11.25 feet (3.4m).
+Minicamcorder was not flown; instead placed about 15 feet (4.5m) from pad to capture lift off.
+ 
+Weather conditions
+Temperature
+30°C
+Wind
+S 15 km/hr
+Sky
+Sunny with cumulus clouds covering much of sky
+Other
+Humidity 59%
+ 
+Launch Event Description
+Improvements made to the launch wagon, such as a more ergonomic pull-handle, worked well. When we arrived at the launch site, setup of the rocket went smoothly. Raven confirmed all three pyro charges had continuity. Flashing LED verified that Smoke Charge module was set. After verifying the sky was clear, the countdown proceeded and at “zero” the rocket immediately came to life, rapidly accelerating skyward, with a short, powerful burn. Almost immediately after burnout, a ‘pow’ sound was heard. It was unclear at that moment what had occurred, but we soon realized main chute charge had fired prematurely. Rocket continued to climb a few hundred feet while chute began to deploy. Rocket reached apogee and started to descend when apogee separation charge fired. Rocket slowly drifted down to earth. Smoke from the Smoke Charge was seen emanating from the rocket, which landed about a half minute later in a grass/alfalfa covered field, not far from launch pad. Tracker was used to record direction of touchdown site. The rocket was soon recovered and appeared to be in great shape.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+4.8
+383
+117
+Separation
+5.3
+331
+101
+Main deployment
+unknown
+unknown
+unknown
+Touchdown
+26.9
+ 
+ 
+Range
+ 
+348
+106
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+unknown
+unknown
+ 
+Main parachute
+15.0
+4.6
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in nearly perfect shape after landing (exception was two launch lugs that broke off). The Raven data was good, and revealed the reason for early chute deployment. The cause was related to the anomaly that caused premature apogee charge firing in flights Z-1 and Z-3. In all the cases, the very high acceleration (over 31 G’s) provided by the A-100M motor caused the parachute to rapidly slide aft, generating a slightly elevated pressure in the Avbay. The Raven interpreted this as descent and subsequently fired the pyro. Following Z-1 and Z-3 anomalies, a 2.5 second time delay was added to the Raven criteria for apogee deploy, which solved that particular problem. Apparently, for Z-17, Raven mistakenly fired the main deploy pyro for a similar reason. As such, for future flights, a 2.5 second delay will be added to the main deploy criteria (as well as to apogee backup).
+The “collapsible tether anchor” and SCSL module worked as intended and successfully fired the Smoke Charge.
+The side-facing video footage from the microcamcorder was quite good.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-17\Z-17_Raven.jpg
+ 
+Photos:                                                                                                         
+A-100M and propellant grain                                                                    Z-17\DSCF3645a.JPG
+My brother Blair with rocket on pad awaiting flight                            Z-17\DSCF3656a.JPG
+Liftoff…!                                                                                                        Z-17\Z-17_liftoff.jpg
+Coasting following burnout                                                                      Z-17\z-17_capture2.jpg 
+Early deployment                                                                                        Z-17\z-17_capture3.jpg
+Descent                                                                                                         Z-17\z-17_capture4.jpg
+                                                                                                                        Z-17\z-17_capture5.jpg
+Smoke trail is visible                                                                                    Z-17\z-17_capture6.jpg
+                                                                                                                        Z-17\z-17_capture7.jpg
+Touchdown                                                                                                   Z-17\z-17_capture8.jpg
+My sister Brenda with rocket at touchdown site                                  Z-17\DSCF3658a.JPG      
+ 
+Videos:                                                                                                         
+Launch (pad camera)                                                                                  Z-17\Z-17_pad_camera.mp4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

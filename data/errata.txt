@@ -1,0 +1,17 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Thesis Errata and Comments
+
+
+Please note the following corrections required in SOLID PROPELLANT ROCKET MOTOR DESIGN AND TESTING
+	1	Page 20       "From equation (3.1)," should state "From equations (3.1) and (3.10)," 
+	2	Page 25       "using equations (3.21), (3.19), (3.1)," should state "using equations (3.21), (3.19), (3.4)," 
+	3	Page 27      ￼ 
+	4	Page C-2      ￼  ￼ 
+	5	Page C-3      ￼ 
+	6	Page D-2     The pressure thrust term (Pe - Pa) Ae should be added to the expression for thrust (F).
+
+Last updated January 6, 2007
+Return to Home Page
+

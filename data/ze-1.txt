@@ -1,0 +1,82 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Zephyr  Rocket -   Flight Ze-1
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of ERMS-25, the official designation of the first flight of the Zephyr rocket. The Zephyr is a newly designed rocket, based largely on the successful Boreas, which saw a total of five flights between October 2002 and February 2003. The intended mission of the Zephyr series of rocket flights is to serve as a vehicle to test variants of the RNX propellant (Boreas was powered solely by RNX-57) and to test experimental payload packages, such as a digital camera with "video" capability.
+The meaning of the term "zephyr" refers to the "west wind" and is also a reference to anything "light and airy". The latter description is well-suited to the Zephyr rocket, which has been designed as a particularly lightweight vehicle capable of sending small payloads to over 2000 feet (600 m.). The Zephyr is designed to be powered by the Epoch solid rocket motor, which has proven to be a very successful motor that was used on all the Boreas flights. As with the Boreas, a two-stage deployment system is used for vehicle recovery -- drogue chute at apogee, and main parachute nearer the ground. A nearly identical PET (Parachute Ejection Triggering) system is used, consisting of an Air-Speed switch as the primary drogue activating system, with an electronic Timer system as a backup. The main parachute deployment is triggered by an identical, but entirely independent, Timer system.
+Although later flights of the Zephyr will carry an R-DAS flight computer which is capable of activating the recovery systems, its use is limited in such a role owing to the restricted lower temperature operating limit of 0oC. The Air-Speed/Timer system has a much lower temperature operating limit of -20oC., which is well-suited to the environmental conditions that Zephyr will experience during winter launches.
+The main objective of this maiden flight was largely to conduct a "shake-out" of the Zephyr rocket to confirm vehicle stability, structural integrity and functionality of the newly built PET module. A secondary objective was to test a new pyrotechnic material for parachute ejection. On all previous flights, BP (Black Powder) had been used. The new material, deemed Crimson Powder was recently developed by Peter Ericksson. A ground test of the ejection system was performed earlier with good results, but to be conservative, Crimson Powder was used solely for main parachute deployment, with proven BP retained for the more-critical drogue system.
+
+Rocket Description
+Construction details of the rocket are very similar to the Boreas, with a 3" (7.6 cm.) Plastmo PVC fuselage divided into three sections: forward, mid & aft fuselages. The three sections are coupled with frangible joints, the aft joint separates at drogue deployment, and the forward joint separates at main chute deployment. Fins (4 total) are of aluminum construction, and are each fastened with a pair of "angle" clips. The nosecone is of a new simplified design. Fabricated from a polyethylene "safety pylon", the profile is that of a truncated cone. This design is very lightweight, being hollow, and is expected to be sufficiently resilient to avoid damage at touchdown (the Boreas nosecones, fabricated from epoxy-coated Styrofoam, suffered chronic damage).
+The motor used for this flight was once again the 48 mm Epoch solid rocket motor, an "I" class motor (I308-1.5 classification) which delivers a total impulse of 460 N-sec. with a thrust time of 1.5 seconds.
+The specific propellant formulation was once again RNX-57, consisting of 70% Potassium Nitrate oxidizer, 8% Ferric Oxide , and 22% Epoxy (fuel & binder). The total propellant mass was 405 grams (0.892 lb.), and consisted of a free-standing hollow-cylindrical grain, inhibited on both ends (exclusively) which provides for a constant Kn =956. A thermal liner consisting of epoxy impregnated cardboard was employed to reduce heat transfer to the lightweight 1 mm steel casing.
+As with all preceding flight of the Epoch motor, the igniter was located into the space between the grain outer surface and the thermal liner, to allow for more rapid buildup of thrust and more efficient usage of propellant. A single "Spitfire" igniter was used for motor ignition.
+A total of three identical 70x22 cm. cross-type parachutes were used for vehicle recovery, one for drogue descent, and two tandem chutes for main descent. Descent velocity was predicted to be 55 ft/sec (17 m/s) during initial descent, followed by a reduced descent velocity of 32 ft/sec (10 m/s) following main chute deployment. The Air-Speed switch was configured to trigger at a velocity of 65 mph (29 m/s) prior to apogee; the Drogue Timer delay was set at 11 seconds from liftoff, and the Main Timer set at 33 seconds after liftoff. Both PET timers are triggered at liftoff by newly-designed g-switches. This design is an improvement over the original g-switch design used in the Boreas rocket, with regard to size, mass and triggering sensitivity. These g-switches are designed to trigger at an acceleration of 5 g's.
+
+￼
+Newly built PET module for the Zephyr rocket
+The drogue ejection charge consisted of 1.0 grams of BP and the main ejection charge was 0.8 grams of Crimson Powder. Both charges were encased in 4 cm. lengths of polyethylene "soda straw". The highly reliable piston method used for chute ejection in the Boreas rocket was retained for the Zephyr. However, the nylon shear screw system that was used as a frangible coupling system for the rocket segments was considered to be structurally inadequate, introducing unwanted flexibility in these critical joints. The frangible coupling system being tested for the Zephyr consists of two layers of aluminum tape wrapped around each of the two joints, at the aft/mid fuselage interface & the mid/forward fuselage interface (these taped joints are visible in the photo of the rocket shown below). Bench testing of the aluminum taped joints confirmed excellent structural strength and rigidity. The joint broke with clean tensile failure at an axial load of 380 lbs (1700 N.). This corresponds to an ejection charge pressure of 62 psi (4 bar), easily achieved by the BP /Crimson Powder charges. With regard to fuselage bending capability, the joint failed during bench testing at a respectable bending moment of 22 ft-lbs (30 N-m), more than adequate for vehicle structural integrity.
+Pre-launch weight of the rocket was 7.41 lbs (3.37 kg.); total height was 6.32 ft. (1.925 m.). The stability margin was slightly over 2 for this flight.
+The rocket was fitted with an ALS (Audible Locator System) to aid in locating the rocket should it land in a wooded or other area with limited ground visibility.
+
+Launch Report
+Sunday, Dec.7, 2003 
+Weather conditions were quite good for the maiden flight ot the Zephyr rocket. Despite the rather cold temperature of -10oC. (14oF.), and a moderate breeze of 15 km/hr. out of the north, the conditions were quite comfortable, helped by the bright sunshine. The brilliant blue sky provided an excellent backdrop to view the much anticipated flight.
+The EMT rail launchpad was set up first of all, and adjusted to a near-vertical attitude. The ignition system was laid out and the 500 foot (150 m.) cable unreeled. The rocket was then assembled. Owing to the length of the rocket, it had been separated for transport into two sections. Assembling the rocket consisted of mating the aft fuselage to the mid fuselage, then wrapping two layers of aluminum tape around the joint. Next the rocket was loaded onto the launch rail. Following the pre-launch checklist connections were made to the drogue and main chute ejection charges and continuity confirmed. All three systems were then armed and the hatch cover put back into place. Photos and some video footage were then taken. With the rocket now set for launch, the motor ignition system was connected, and igniter continuity confirmed. This accomplished, the observers then headed to a safe viewing position. The final step in launch prepping the rocket was to arm the ignition box.
+
+￼
+Author standing next to the Zephyr rocket prior to flight.
+As usual, I assumed the task of operating the digital videocamera to capture the launch and flight. For communication, FRS radios were again employed. When all participants were in safe viewing locations and set, the final "all ready & all clear" signals were announced over the FRS radios, and the countdown commenced...5-4-3-2-1-Ignition!
+A cloud of black smoke appeared at the base of the rocket shortly after. This was followed nearly immediately by liftoff, and the rocket briskly accelerated leaving a column of thick grey smoke. The Zephyr rocket took to the sky for the first time in an impressive manner, climbing straight (after an initial slight tilt after clearing the launch rail) and very stable. The rocket glinted several times as the sun reflected off the shiny aluminum surface at the rocket joints. This helped with tracking through the videocamera viewfinder, especially after burnout (which occurred after less than two seconds) as the rocket climbed ever higher. After about 10 seconds, the rocket began to slowly pitch over as its velocity (and consequently stability) decayed as it approached apogee. Just then, a cloud of smoke from the ejection charge was seen to appear, followed by drogue deployment. A "pop" sound that faithfully accompanies the charge firing was heard about 2 seconds later.
+
+￼ ￼ ￼
+￼ ￼ ￼
+
+Liftoff and soaring upward, the Zephyr rocket takes to the sky for the first time 
+Click on frames for larger images...
+At this point, the rocket was nearly out of range of the camera, maxed out at 20x zoom. The rocket then descended, swinging in a back and forth sideways motion for a short while. The oscillations dampened about about 5 seconds and the rocket descended in a stable and vertical attitude. A short while later, another cloud of smoke appeared as the main parachute charge fired. The tandem parachutes tugged the full length of the 20 foot (6 m.) tether out of the rocket body and inflated neatly as the mass of the rocket provided the needed resistance. The complete vehicle, separated into three tethered sections, drifted gently earthward, under the safety of three fully inflated parachutes. Touch down occurred in the frozen grassy field about 500 feet (150 m.) downwind from the launch pad.
+
+
+￼      ￼
+Left: Rocket descending by drogue chute
+Right: Deployment charge fires, ejecting main parachutes 
+(smoke cloud is visible at top of photo)
+
+￼  ￼
+Left: Rocket in a stable descent    Right: Moments before touchdown
+(lower parachute is drogue)
+
+Examination of the rocket at the touchdown site indicated that all components of the rocket were present and in good condition. The aft fuselage had a crack near the coupler, but other than that, no external damage was seen. The parachutes and tethers were laid out in an orderly fashion which indicated that no tangling occurred and that the descent had been "by the book". It was noticed that the ALS was not functioning.
+
+￼  ￼
+Left: Rocket at touchdown site    Right: Author examining aft fuselage
+
+Post-flight Analysis
+From inspection of the video footage, the following times were excerpted:
+	•	Ignition to liftoff --        2.7 sec.
+	•	Liftoff to burnout --        2.2 sec. (burnout defined by absence of smoke trail)
+	•	Liftoff to drogue parachute ejection --       approx. 11 sec.
+	•	Liftoff to main parachute deployment--        33 sec.
+	•	Liftoff to touchdown --       62 sec..
+Post-flight teardown of the rocket revealed :
+	•	the motor suffered zero leakage, and there was very little slag (12 grams representing 3% of original grain mass)
+	•	No damage other than that observed earlier was found. The ALS failure was caused by a broken switch, likely the result of inertia loading during landing.
+	•	Since the drogue ejection occurred at approximately 11 seconds after liftoff, it is presumed that the Drogue Timer circuit triggered the ejection. The rocket was therefore likely still travelling at a velocity greater than the switch activation speed.
+	•	Main chute ejection occurred at the expected time period after liftoff.
+	•	Both frangible joints broke cleanly with tensile failure of the aluminum tape.
+
+Peak altitude was estimated to be approximately 2000 feet (600 m.) based on SOAR simulations. This value of peak altitude is also consistent with the measured descent time.
+
+
+￼
+Last updated December 23, 2003
+Back to Home Page
+

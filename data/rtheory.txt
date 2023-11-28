@@ -1,0 +1,24 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Solid Rocket Motor Theory
+
+Introduction
+Basic Assumptions
+Propellant Grain
+Propellant Combustion
+Nozzle Theory
+Motor Thrust
+Motor Impulse
+Chamber Pressure
+Two-Phase Flow
+Corrections for Actual Rocket Motors
+GUIPEP Propellant Performance Software
+Theory Appendices
+
+
+￼
+Last updated  July 5, 2001
+Back to Index Page
+

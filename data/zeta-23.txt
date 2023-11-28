@@ -1,0 +1,115 @@
+ 
+Basic Information
+Name
+Z-23
+Launch date:
+27 February, 2016
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Smoke charge (high output; activated by Raven)
+- New Apogee Backup Timer
+Liftoff mass
+2.300 kg.
+Flight objectives
+- First flight of repaired rocket; Confirm flight operation of new Backup Timer
+- Appraise new launch pad
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+299 grams
+Nominal impulse
+352 N-sec
+Class
+I
+ 
+Additional information
+BRB transmitter was a newly purchase unit; original unit sent for repairs due to intermittent operation likely caused by trauma associated with previous flight.
+ 
+Weather conditions
+Temperature
+-9°C
+Wind
+N 25 km/hr with gusts
+Sky
+Thin overcast
+Other
+Humidity 63%
+Ceiling
+9400 ft. (2900 m.)
+ 
+Launch Event Description
+Trek to the launch site was rather uncomfortable due to the cold, harsh wind, which was blowing more forcefully than what had been forecast. Setup of the rocket once gain went smoothly despite the cold with no glitches. The new fully-adjustable launch pad functioned well and made for easy leveling of the pad. A checklist was used to facilitate setup. Raven confirmed all four pyro charges had continuity. I used the hand-held camcorder (with scope tube) to attempt to film the complete flight. After verifying the sky was clear, the countdown proceeded. Shortly after ignition switch was closed, the rocket soared off the pad, climbing straight upward. The motor burned for about 2 seconds (seemed longer than usual) and the rocket was visible much of the way to apogee. A faint “pop” sound of the apogee charge was heard. The rocket was not sighted and no sign of the smoke trail could be seen against the grey backdrop. After about 40 seconds, a second ‘pop’ sound was heard as the chute pyro fired. We scanned the sky but could not spot any parachute. After about a minute, we decided the rocket must be on the ground and we proceeded to enter the BRB GPS coordinates into the hand-held GPS unit. Landing site was indicated as 0.18 miles away, and curiously, not downwind. Reaching the touchdown site was slow-going due to the deep snow and that fact that we only had one pair of snowshoes, which was being tried out for the first time. Approaching the downed rocket, it was clear that the chute had not fully deployed. Closer inspection revealed that the chute was extended halfway out of the parachute compartment. We also noted that two fins were detached from the rocket. Otherwise, the rocket looked to be in perfect condition.
+ 
+Raven beeped out a max altitude of 2695 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.3
+2695
+821
+Separation
+14.12
+2682
+817
+Main deployment
+40.95
+828
+252
+Touchdown
+52.16
+-
+-
+Range
+-
+994
+303
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+70.5/75.8
+21.5/23.1
+ 
+Main parachute
+-
+-
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in great shape except for two detached fins. The Apogee Backup Timer system apparently worked nominally, as pyro charge had fired. The Smoke Charge fired but trail was not visible due to grey sky.
+It is uncertain why chute did not fully extract from the rocket. There were no snags. It is likely that the cold weather played a role, but nothing could be pinpointed. Modifications are planned to increase reliability for the next flight.
+Downloaded BRB data was not complete. The flight portion of the data was anomalously overwritten by post-landing data. It is uncertain what caused this. The BRB was later functionally tested and found to be working nominally. One thought is that communication using FRS radio at the landing site, with the unit held close to the BRB, caused the unit to reset. In the future, radio communication will be avoided until the BRB transmitter is powered down upon arriving at the landing site.
+The hand-held Sony camcorder contained no footage. Delving into the cause of this anomaly, it was realized that I simply forgot to press the “record” button on the camera. This was likely a consequence of the ambient conditions, with the frigid, howling wind making it hard to operate the camera and to communicate with my brother who was operating the launch controller. For the next flight, the checklist will be revised to include setting the camera to “record” mode.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-23\Z-23_Raven.jpg
+ 
+Big Red Bee
+Launch and landing locations                                                                   Z-23\BRB_Z-23.jpg
+ 
+Photos:                                                                                                         
+Rocket on pad                                                                                              Z-23\DSCN0278a.jpg
+                                                                                                                        Z-23\DSCN0280b.JPG
+Rocket at touchdown site                                                                         Z-23\DSCN0285a.JPG
+                                                                                                                        Z-23\DSCN0287a.JPG
+ 
+ 
+ 
+ 
+ 
+ 

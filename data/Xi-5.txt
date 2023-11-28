@@ -1,0 +1,172 @@
+ 
+Basic Information
+Name
+Xi-5
+Launch date:
+7 April, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Timer for backup apogee separation
+- Eggtimer Classic altimeter for backup apogee separation and main deploy
+-SJ1000 Video camera
+-BREO-N flight computer
+Liftoff mass
+3.116 kg.
+Stability Margin (initial)
+3.31
+Flight objectives
+-Test video camera with improved (compared to Zeta) aft-facing mirror
+-Test new BREO-N flight computer
+-Film flight using greater zoom level than usual
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+382 grams
+Nominal impulse
+449 N-sec
+Class
+I
+ 
+Additional information
+-Larger first-surface mirror (19mm x 27mm) mounted at 45 degrees for aft-facing view. Zeta mirror was 15mm x 21mm (same objective as Xi-4)
+-Test BREO-N flight computer. This is a miniature flight computer designed and built by Dyanko Chernev. It is being flown in a passive mode, with non-pyrotechnic igniters connected to the pyro outputs, for the purpose of indicating whether the outputs are activated.
+-Smoke Charge, consisting of cast KN (66%) and Xylitol (34%), was made with synthetic potassium nitrate (KN), synthesized from CaNO3 and KCl starting materials.
+ 
+Weather conditions
+Temperature
+-6°C
+Wind
+NW 15 km/hr gusting to 23
+Sky
+Clear
+Other
+R.H. 42%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+We decided to use the sled to haul the supplies to the launch site, figuring there would be sufficient snow coverage. Turns out there was little snow and it was rather taxing pulling the sled over the mostly bare ground. Following a checklist, setup of the rocket proceeded smoothly with no glitches. After installing rocket on pad, BREO-N was activated first, followed by the on-board camcorder, Eggtimer, then Raven. Raven beeped nine times for voltage and gave 4 positive indications for the 4 pyros. Backup Timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube). For this flight, I decided to take greater advantage of the 30X optical zoom capability of the Sony camcorder to get better footage of the rocket flight. Prior to filming liftoff, I set the zoom level to approximately ¾ maximum.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated rapidly skyward, climbing straight and weathercocking slightly. Owing to the bright sun reflecting off the rocket, I was able to follow the rocket much of the way to apogee, increasing camera zoom level during the climb. After about 10 seconds we heard the ‘pop’ sound of the apogee pyro charges, and immediately spotted three smoke clouds. Shortly after we spotted the rocket with its bright trail from the smoke charge. This made it easy to follow the tumbling rocket. After about 20 seconds of falling, the main pyro charge was seen to fire and immediately the parachute deployed and blossomed. The rocket drifted downward, with the smoke charge still burning. Suddenly, the aft section of the rocket was seen to separate and free-fall. My brother immediately trained the Landing Locator on the aft section, to mark the impact location. After about half minute of decent, the section of the rocket with parachute touched down in a field approximately 1000 feet downwind.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site of the parachute section was indicated as 0.17 miles away. We first went to recover the fallen aft section. Using the Landing Locator to point the direction and two-way radios for communication, my brother guided me. I soon spotted the rocket section and headed over to recover it. Two of the fins were broken off and the body had a large dent. The motor was undamaged. The BREO-N and camcorder were located in this section of the rocket. It was not possible at that point in time to determine their condition.
+ 
+When we arrived at the location of the rocket sections that landed by parachute, we found the parts (Forward Section & AvBay) to be in perfect condition.  The Raven beeped out a peak altitude of 2674 feet. We then discovered what had caused the lower section of the rocket to separate from the rest of the descending rocket. Due to human error, installation of the Smoke Canister was incorrect. The Smoke Canister is supposed to be mounted such that the exhaust ports, through which the smoke & flame are expelled, are facing outboard. The canister was inadvertently installed 180 degrees from this, such that the exhaust ports were facing the tether that attaches the rocket sections together. The dual tethers were examined and found to have been severed due to scorching at the location of the kwik-link attaching them to the AvBay.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.6
+2674
+815
+Separation
+13.5
+2663
+812
+Main deployment
+38.8
+729
+222
+Touchdown
+81.4
+-
+-
+Range
+-
+1127
+344
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+82.2
+25.1
+ 
+Main parachute
+23.4 (initial) 14.5 (final)
+7.13 (initial)
+4.42 (final)
+ 
+                                  
+Post-flight analysis and comments:
+The Raven, Eggtimer and Backup Timer all performed nominally. Peak altitude reported by Eggtimer closely matched Raven (2684 ft. versus 2674 ft.).
+ 
+The on-board camcorder suffered some damage. The SD card was removed and video files were extracted. Unfortunately, no video camera footage of the flight was obtained. Recording ceased 15 minutes after power-up on the pad, which was just prior to lift-off. This anomaly is attributed to a likely issue with the camera’s Li-ion battery.
+ 
+The BREO-N flight computer was not damaged. Performance of the BREO-N unit is currently being assessed.
+ 
+Very good flight video was taken with the hand-held camera. Using higher zoom rate provided for excellent close-up coverage of the rocket both during ascent and descent. For example, it was clearly seen when the aft section tether burned through causing the aft rocket section to fall away. This was found to occur 28 seconds after smoke charge burning began. Examination of the flight video revealed that the smoke charge burned for a total of 30 seconds. Interestingly, if the tether would have resisted the heating for an additional 2 seconds, it may not have gotten severed.
+ 
+To guard against future error regarding Smoke Canister installation, the mounting will be modified with a protruding pin which engages a hole in the AvBay bulkhead ensuring proper alignment.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                                 Xi-5\Xi-5_Raven_basic.jpg
+Acceleration curve, boost phase                                                              Xi-5\Xi-5_Raven_accel.jpg
+ 
+Eggtimer data:                                                                                            
+Altitude and velocity data                                                                          Xi-5\Xi-5_ET_graph.jpg
+ 
+BRB:
+Flight path, mapped                                                                                    Xi-5\Xi-5_BRB_mapped.jpg
+ 
+Photos:
+BREO-N flight computer                                                                            Xi-5\BREO-N-1.JPG
+BREO-N mounting, aux payload bay                                                       Xi-5\BREO-N-2.JPG
+Rocket for Flight Xi-5 (with Landing Locator)                                        Xi-5\DSCN0156.JPG
+Ignition…Liftoff…                                                                                         Xi-5\2018-04-10_12-12-24.jpg
+Ascent                                                                                                            Xi-5\2018-04-10_12-12-57.jpg
+                                                                                                                        Xi-5\2018-04-10_12-13-14.jpg
+Burnout                                                                                                         Xi-5\2018-04-10_12-13-36.jpg
+Coasting to apogee                                                                                    Xi-5\2018-04-10_12-14-20.jpg
+Apogee pyro charges smoke clouds                                                        Xi-5\2018-04-10_12-16-51.jpg
+Descending, trailing smoke                                                                       Xi-5\2018-04-10_12-17-16.jpg
+                                                                                                                        Xi-5\2018-04-10_12-17-43.jpg
+                                                                                                                        Xi-5\2018-04-10_12-18-43.jpg
+                                                                                                                        Xi-5\2018-04-10_12-22-19.jpg
+Main pyro charge fires                                                                               Xi-5\2018-04-10_12-22-39.jpg
+Chute deploys                                                                                              Xi-5\2018-04-10_12-22-58.jpg
+                                                                                                                        Xi-5\2018-04-10_12-23-26.jpg
+                                                                                                                        Xi-5\2018-04-10_12-24-05.jpg
+Rocket descending by parachute                                                             Xi-5\2018-04-10_12-24-22.jpg                                                                                                                       
+Tether severs, aft section separates                                                       Xi-5\2018-04-10_12-25-10.jpg
+                                                                                                                        Xi-5\2018-04-10_12-25-32.jpg
+Forward section and AvBay descending                                                 Xi-5\2018-04-10_12-27-47.jpg
+                                                                                                                        Xi-5\2018-04-10_12-28-15.jpg
+                                                                                                                        Xi-5\2018-04-10_12-29-23.jpg
+Touchdown in field                                                                                     Xi-5\2018-04-10_12-30-08.jpg
+Rocket at touchdown site                                                                         Xi-5\DSCN0160.JPG
+Forward section and AvBay                                                                       Xi-5\DSCN0161.JPG
+Forward section of rocket                                                                         Xi-5\DSCN0162.JPG
+AvBay module with Smoke Canister                                                        Xi-5\DSCN0163.JPG
+Parachute and piston                                                                                  Xi-5\DSCN0164.JPG
+Smoke Canister showing misaligned exhaust ports                             Xi-5\DSCN0166.JPG
+ 
+Video:                                                                                                           
+Flight Xi-5 (Youtube)                                                                                   https://youtu.be/ke566TjvNvg
+                                                                                                                       
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

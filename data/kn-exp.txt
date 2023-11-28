@@ -1,0 +1,117 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Effect of Potassium Nitrate Grade on Propellant Performance
+
+Introduction
+Potassium Nitrate used in Experiments
+Burn Rate Measurements
+Characteristic Velocity Measurements
+Conclusions
+
+Introduction
+Potassium Nitrate (KN) is available to the rocketry hobbyist in various forms. The availability and cost of the various forms, however, varies widely depending on locale. Three common forms, or grades, of KN are:
+	1	Chemical grade, typically USP, BP, Technical grade, or similar. The purity of this grade is high, greater than 99%. Sold in some pharmacies as saltpetre. Also available from chemical or pyrotechnic supply firms. 
+	2	Fertilizer grade, typically consisting of 98-99% potassium nitrate. Sold as inexpensive 14-0-45 fertilizer, used to increase the nitrate level of soil, and for hydroponics usage. 
+	3	Stump-remover. This is a product that is used to accelerate the decomposition of tree stumps. The amount of potassium nitrate present in this product undoubtedly varies from brand to brand (in fact, some brands are not potassium nitrate based, and are thus useless for propellant, such as BonideTM Stump-Out). Additives may also be present in stump-remover to enhance the effectiveness. Since this is a fairly common and relatively cheap form of potassium nitrate, available at garden shops and hardware stores, the possibility of its use in propellant making is attractive. Dragon Stump Remover according to the MSDS, contains 99.5% potassium nitrate.
+Nearly all my propellant work has been conducted with the chemical grade of potassium nitrate. A limited amount of my propellant , however, has been made with fertilizer grade. This form seems to be nearly, or as, effective. I had briefly explored the use of stump-remover, but I was displeased with the results, as the propellant prepared with this grade seemed to burn less vigorously. 
+So two important questions arise: (1) how does fertilizer grade potassium nitrate compare in performance to chemical grade, and (2) is stump-remover a viable source of potassium nitrate, and if so, how does its performance compare? I decided to find out.
+In this web page, I will present results of experimentation performed on samples of propellant prepared with these three forms of potassium nitrate. The purpose of the experimentation has been to quantitatively compare the performance in terms of burn rate (under ambient conditions for sake of simplicity) and characteristic velocity, a key measure of propellant performance potential.
+For the experiments, KN-Sucrose propellant was prepared, rather than KN-Dextrose or KN-Sorbitol. The reasoning is that higher temperature casting is required for KN-Sucrose, and would thus be more likely to reveal heat-related problems. As well, KN-Sucrose has a greater ambient pressure burn rate, which allows for more precise measurement of any differences in rate between the products.
+
+Potassium Nitrate used in Experiments
+Batches of propellant were prepared with each of the following three forms of KN:
+	1	Chemical Grade, obtained from a veterinary laboratory supply firm. The certificate of analysis indicated a purity of 99.2% KNO3 (0.7% NaNO3, 0.1% moisture). To eliminate any absorbed moisture, the granular product used for the experiments was dried in an oven for 1.5 hours set to 200F (93C.). The product was then pulverized in an electric coffee grinder for 20-25 seconds per scoopful. 
+	2	Fertilizer Grade. The brand used was VickniteTM (manufactured by Vertac Chemical Corp, Vicksburg, Miss.), with the certificate of analysis indicating a purity level of 98.9%. The product used in the experiments was approximately 15-20 years old. To eliminate any absorbed moisture, the granular product used for the experiments was dried in an oven for 1.5 hours set to 200F (93C.). The product was then pulverized in an electric coffee grinder for 20-25 seconds per scoopful. 
+	3	Stump-remover. The brand was Wilson'sTM (manufactured by Wilson Laboratories Inc., Dundas ON), and purchased at a local home renovation and garden centre, packaged in ½ kg. boxes. The label states "contains potassium nitrate". The product was in the form of prills (pellets), and had a light orange hue. It seemed that the product had a light coating, based on the colouration and the feel. Therefore, prior to performing any quantitative experiments, it was decided to do a flame test. This involved placing a prill into the flame of a propane torch, and observing the colour of the vapourized product. A distinctive yellow-orange colouration was observed, suggesting a sodium compound. Based on this, and the slightly damp, yet "dry" feel of the product, the coating was thought to be sodium hydroxide (lye), most likely added to help accelerate the action of tree stump decomposition. A small sample of propellant was then prepared and melted. The distinctive odour of lye was apparent, and the slurry tended to bubble vigorously on occasion during heating. When the casting pot was washed afterward with hot water, the formation of suds resulted, which tended to further support the hypothesis of a sodium hydroxide presence. Since the presence of such volatile and caustic impurities could compromise the safety of the casting process, it was decided that propellant preparation of the product in the as obtained form is normally unwise. However, for the sake of learning the effects of the impurities on the performance, it was decided to prepare a batch using the "as obtained" product. However, to dispel any residual moisture (as sodium hydroxide is very hygroscopic), the prills were dried in an oven for 1.5 hours at 200F. It was noted that the prills had caked together after the drying process, doubtless due to the impurities. Clearly, the product would be more suitable for propellant usage if the coating could be removed. Sodium hydroxide is highly soluble in methyl alcohol (methanol) with potassium nitrate being essentially insoluble, as good fortunate would have it. Enough of the product for one experimental propellant batch was washed in a bath of methanol (commercial methyl hydrate), then rinsed in a fresh bath of methanol. After draining, the prills were placed onto absorbent paper to remove excess methanol, then were spread out onto a baking pan and placed in an oven to dry for 1.5 hours at 200F. The prills appeared to dry out very effectively, with no caking together as was observed with the unwashed sample. Both the unwashed and washed samples were subsequently pulverized to a fine powder using a coffee grinder. 
+
+Burn Rate Measurements
+Burn rate of the propellant under ambient (one atmosphere) pressure was conducted on strands of propellant. The strands were prepared by melting the propellant in the usual manner, then using a spoon to scoop and form the propellant into stick form onto a steel sheet. The strands thus prepared were highly irregular in shape and cross-section. However, the shape is inconsequential for linear burn rate measurement. Typical dimensions of the strands were roughly 10 mm x 5 mm x 70 mm, and of approximate oval cross-section. Typically, four or five strands were produced per propellant batch. Gauge marks were then drawn onto the stands, which served as timing marks. The distance between the marks was then measured and recorded. By measuring the time duration that the flame front travels between marks allows for calculation of burn rate. For testing, the strands were hot-glued in a vertical position to a wooden base. A diagram of the setup is shown in Figure 1.
+￼
+Figure 1 --Propellant strand
+Burn rate for the strand was taken as the average of rate1 and rate2, where rate1 = L1/t1, and rate2 = L2/t2. Time duration t1 is the measured time required for the flame to traverse distance L1 and t2 is the measured time the flame requires to traverse distance L2. To ensure a burning surface that is perpendicular to the strand vertical axis, the tip of the strand was filed flat. Also, ignition of the strand was done by heating a flat steel bar with a propane torch, then touching this firmly against the flat surface of the strand tip.
+Four propellant samples were tested:
+Batch No.
+Designation
+Description of oxidizer
+# of strands tested
+1
+KN-SR-D
+stump-remover, dried
+5
+2
+KN-SR-WD
+stump-remover, washed&dried
+5
+3
+KN-F
+fertilizer, dried
+5
+4
+KN-USP
+chemical grade, dried
+4
+All samples appeared to burn normally, with the usual flame colour and intensity associated with the KN-Sucrose propellant. The only difference between samples was the rate of burning. The results are summarized in Figure 2 and also in tabular format.
+
+￼
+Figure 2 -- Burn rate results, indicating average and limit values
+
+
+Characteristic Velocity Measurements
+The Characteristic Velocity, also referred to as c* (cee-star), or Characteristic Exhaust Velocity, is a measure of thermochemical merit for a particular propellant, and is given by
+
+￼
+where R' is the universal gas constant, M is the effective molecular weight of the combustion products, T is the combustion temperature, and k is the ratio of specific heats of the combustion gas mixture. As may be seen from the expression, c* is dependant solely upon the combustion process. From the above expression, KN-Sucrose propellant is found to have an ideal c* = 919 metre/sec (3014 fps).
+c* is related to the Specific Impulse by the Thrust Coefficient, CF, and gravitational constant, g, (serving as conversion factor).
+￼
+The CF accounts for real-life losses for flow through the motor nozzle, such as frictional effects, shock, and two-phase flow inefficiencies.
+For this set of experiments, the Characteristic Velocity was measured by burning the propellant samples in a sealed pressure vessel. The maximum pressure during the burn was recorded (by use of a videocamera). The maximum presssure can then be related to c*, knowing the propellant mass and volume of the pressure vessel. Substituting in the ideal gas relationship PV = m R'/M T into the expression for c* allows calculation of the measured value of c*:
+￼
+where V is the tank volume, and m is the mass of the propellant sample. The volume of the pressure vessel was 0.903 litre, and the mass of each sample was 25.0 grams. The value of k (1.133) is based on the theoretical combustion equation.  The apparatus used in the experiments is shown in Figure 3.
+
+￼
+Figure 3 -- Apparatus used for measuring Characteristic Velocity
+It is important to obtain a rapid burning of the propellant samples in order to minimize heat loss to the vessel walls, which would otherwise reduce the maximum pressure. This was accomplished by breaking the cast propellant samples into coarse granules (approx. 3 mm size), then loading into cardboard cylinders sealed at both ends, after which it was inserted into the pressure vessel. This was found to result in a very rapid burn, achieving maximum pressure in about 150 milliseconds in near-adiabatic conditions.
+The results of the experimental measurements are presented in Figure 4.
+
+￼
+Figure 4 -- Results of c* measurements
+Batch No.
+Designation
+Description of oxidizer
+Measured c* (metre/sec)
+Ratio c*/c*ideal
+1
+KN-SR-D
+stump-remover, dried
+891
+0.969
+2
+KN-SR-WD
+stump-remover, washed&dried
+910
+0.990
+3
+KN-F
+fertilizer, dried
+894
+0.973
+4
+KN-USP
+chemical grade, dried
+911
+0.992
+
+Conclusions
+The burn rate measurements clearly showed that the impurities present in the stump-remover led to a reduced burn rate. The product that was washed to remove the impurities had a burn rate that was essentially the same as the chemical grade potassium nitrate. Strands prepared with fertilizer grade potassium nitrate had a burn rate marginally greater than the chemical grade product.
+The combustion tests showed that the performance of all samples was similar and very near the theoretical value, indicating high combustion efficiency was achieved in the pressure vessel. As with the burn rate results, the stump-remover that was not washed suffered slightly in performance, have a c* value nearly the same as fertilizer based propellant. Interestingly, the stump-remover product that was washed and dried performed as well as the chemical grade product.
+It may be concluded that chemical, fertilizer and stump-remover grades of potassium nitrate are essentially equally suitable for oxidizer use in the KN-Sucrose propellant, and surely for the two other "sugar" propellants. Further, it must be noted that:
+	•	Stump-remover grade product must first be thoroughly washed in methanol to remove the coating. This is necessary, not only to enhance performance, but to ensure that melting process safety is maintained. Complete drying in an oven for a minimum of 1.5 hours at 200F is then required to remove residual moisture. Note that Wilson'sTM Stump-remover was the only product tested -- other brands may differ in composition and suitability for use as a propellant oxidizer. 
+	•	Fertilizer grade product must be dried in an oven for a minimum of 1.5 hours at 200F to ensure that the burning rate and performance is optimized. 
+	•	To ensure optimal performance, chemical grade product should probably be dried in a similar manner to remove residual moisture, even though earlier testing indicated that absorbed moisture is less than one percent.
+
+￼
+Last updated Sept. 15, 2001
+Return to Top of Page
+Back to Index Page
+

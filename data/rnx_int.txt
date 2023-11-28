@@ -1,0 +1,48 @@
+
+Richard Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+Introduction
+Formulation
+Cost
+Grain mould
+Preparation and Mixing
+Vacuum Degassing
+Packing & Curing
+Grain Completion & Quality Checks
+Propellant Mechanical Properties
+Propellant Burn rate
+Combustion Chemistry
+Performance and Motor Design
+Safety
+Final Assessment
+Introduction
+This web page details two self-developed epoxy based composite propellants that utilize potassium nitrate (KN) as the oxidizing agent. Potassium nitrate is the same oxidizer that is used in the popular sugar-based propellants, and has the appeal of being a relatively safe, inexpensive and readily available material. Topics covered in this web page include the specific formulations, propellant preparation, grain forming techniques as well as finishing operations and quality control methods. Details are also provided with regard to the mechanical properties, combustion chemistry, burning rate characteristics, and performance of these propellants.
+The two formulations featured here, RNX-57 and RNX-71V, were borne out of an extensive development program that spanned over two years of personal experimental work. The initial phase of research was published earlier in the Experiments with Potassium Nitrate - Epoxy Formulations web page.
+The goal of developing an epoxy/potassium nitrate-based rocket propellant was seen as a logical next step following my experience with the sugar-based propellants. Although the sugar-based propellants are very nearly ideal for the beginning (as well as advanced) AER experimenter, they do have certain drawbacks. Key shortcomings lie in the physical and mechanical properties, such as brittleness, and their hygroscopic nature. Residual moisture present in the propellant after casting can also lead to inhibitor disbonding. Additionally, the fact that the sugar propellants are cast at elevated temperatures has always been a somewhat contentious issue, despite experiments demonstrating the safety of this process, supported by the propellant's impressive safety record. The RNX composite propellants eliminate these issues, possessing excellent physical and mechanical properties, have reasonable performance power, are non-hygroscopic, and are produced by a cold-casting technique. This latter feature, together with the use of the highly stable, low-energy KN oxidizer, makes for one of the safest-to-produce, safest-to-handle and safest-to-use rocket propellants available to the AER enthusiast.
+￼
+What exactly is epoxy ? The term "epoxy" is actually a prefix denoting the presence of an epoxide group in a molecule. A family of thermosetting resins, epoxy resins are generally formed from low molecular weight diglicidyl ethers of bisphenol A (BPA).
+Epoxy resins can be cured with amines, polyamides, anhydrides or other catalysts. Epoxy resins are widely used in the reinforced plastics field because they have good adhesion to glass (and other) fibres and in electrical composites because their thermal expansion can be tailored to match that of copper. In addition, their low viscosities are effective in wetting various reinforcing materials. When cured, epoxies exhibit good resistance to heat degradation (a little ironic, perhaps).  What specifically makes epoxy suitable for use in a rocket propellant ? Epoxy plays a dual role, serving as fuel and binder. As a fuel, epoxy has good combustion characteristics, with a respectable energy content, and is a material that decomposes by pyrolysis (goes directly from solid to gas) upon heating. As a binder, epoxy has superb mechanical strength and toughness, good machineability (can be readily cut, drilled, milled, turned, etc.), is safe to use (with reasonable precautions), utilizes two-part curing (no evaporative solvents involved) and has low viscosity (allowing high solids loading). Epoxy's unique adhesive traits are also well suited to propellant usage. Epoxy bonds "like a bear" to most materials, making for superb bonding of grain inhibitor material, for example. Conversely, epoxy has zero adhesion to certain materials such as polyethylene. This is very convenient, allowing for easy removal from grain moulds lined with polyethylene sheet. Epoxy has only slight adhesion to PVC, making this a good candidate for mould material.
+Two different brands of epoxy were used in the development of the RNX propellants presented here: East Systems and West System epoxy. Both are premium grade, two-part multipurpose BPA epoxies with a polyamine hardener, and are typically used for boat building and aircraft composite repair. Both are similar in appearance and with respect to physical properties, and are of medium viscosity, although East Systems is slightly less viscous. East Systems epoxy was the preferred brand during the early development work of the RNX propellants, since it produced a propellant that gave the best ratio of actual density versus Theoretical Maximum Density (TMD), typically 94-95%. West System produced a significantly lower ratio, typically 89-91% TMD. Examination of the West System based propellant under a microscope revealed that it contained a large number of tiny bubbles. The presence of such voids has an influence on the burn rate, and such, was initially shunned. However, after the successful development of an epoxy-based propellant, culminating with RNX-57, it was decided to press ahead with a propellant that was based on West System, the rationale being that this brand of epoxy is globally marketed and is therefore more readily available to AER enthusiasts. The problem with voids was eventually solved by development of a simple vacuum treatment process that is performed during propellant manufacture.
+In addition to epoxy and potassium nitrate, a third constituent makes up the RNX propellants -- Ferric Oxide (Fe2O3). Also known as iron oxide (common rust), this is the key ingredient that led to the successful development of the RNX propellant. Without Ferric Oxide, the formulation simply burns too slowly to produce a practical propellant. Small quantities of Ferric Oxide will increase the burn rate significantly, but the resulting formulation possesses a burn rate pressure exponent (symbolized as "n") that is too high to produce a successful propellant. After much development work, it was found that a relatively large percentage (8%) of Ferric Oxide provides the requisite traits -- moderate burn rate and reduced pressure exponent.
+A propellant grain prepared for the Epoch motor is shown in Figure 1.
+
+￼
+Fig.1 -- RNX-57 propellant grain for the Epoch motor
+To date, the RNX propellant has been successfully utilized in three "workhorse" rocket motors developed by the author:
+	•	Epoch -- an "I" class motor with an unrestricted, hollow-cylindrical grain, neutral Kn=950, grain mass of 400 grams. This motor has also been flown with a Pseudo-finocyl grain configuration. Videoclip of static firing of Epoch motor 
+	•	Paradigm -- a "J" class motor, rod & tube grain, neutral Kn=950,grain mass of 1 kilogram. Videoclip of static firing of Pardigm motor 
+	•	Liberty -- an "L" class motor, rod & tube grain, neutral Kn=950, grain mass of 3.2 kilograms Author with Liberty motor in test stand Videoclip of static firing of Liberty motor
+￼
+Figure 2 -- First ever flight of a rocket propelled by
+RNX composite propellant, October 6, 2002.
+
+
+As a testament to the feasibility of this propellant, an indiginous version of RNX propellant has been commercially produced in South Africa for the hobby rocket market, for a number of years now, and has proven to be very successful in popularizing high power rocketry in that country.
+Next -- RNX Propellant Formulations
+
+￼
+Last updated  January 1, 2018
+Back to RNX Index Page Back to Home Page
+

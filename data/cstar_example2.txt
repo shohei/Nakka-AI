@@ -1,0 +1,26 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Example 1 Static Test HXXST-1 : Calculation of C-star and Thrust
+For this example, the chamber pressure data from static test HXST-3 will be used. This was a test firing of the A24 ANCP powered Helios-X  "I-class" rocket motor that occurred on March 13th, 2017. The chamber pressure was measured using an analog pressure gauge with the dial readings recorded by a video camera. Viewing of the resulting video frame-by-frame, the pressure readings were noted and logged. The video frame rate for the camea is 1/30 second. The pressure versus time results were plotted, with the resulting curve shown below.
+￼
+To avoid risking damage to our load cell, thrust was not measured (this was a considered a "developmental" motor test). Thrust was instead estimated using the chamber pressure data.
+The graphite nozzle insert experienced a small amount of erosion. The intial throat diameter was 5.58mm and the final diameter was 5.66mm. For calculation of c-star, the average throat diameter of 5.62mm will be used. The average cross-sectional area is therefore
+￼
+The propellant mass for this test was 182.4 grams, or 0.1824 kg.
+The next step is to add up all the measured chamber pressure values in the data file. The sum of these values is 294 (MPa).
+The values for each of the parameters is entered into the equation for c-star
+￼
+Giving the result: ￼
+From Technical Notepad #6 -- A24 Ideal Performance Calculations web page, the ideal value of c-star for KNDX is 1362 metres/sec.. Therefore the ratio of deliverd c-star to ideal c-star = 1332/1362 = 0.98 for this particular motor/propellant combination.
+To estimate the thrust of this motor, a tentative thrust coefficient value of Cf=1.5 is used, together with chamber pressure and the nozzle throat cross-sectional area:  ￼
+At each time step, thrust is calculated by multipying the pressure value by the throat area by the thrust coefficient. As there is some throat erosion, this is taken into account by assuming a linear change in throat diameter from initial to final values. A graph of the results shows the resulting estimated thrust versus time curve.
+￼
+Tentative values for total impulse (It ) and specific impulse (Isp ) can also be derived. Total impulse is calculated by adding up all the thrust values and multiplying by the time interval. Specific impulse is the total impulse divided by the propellant mass (to obtain conventional units of seconds, the result is divided by g=9.81 m/sec2): ￼
+
+
+￼
+Originally posted  August 8, 2018
+Back to Home Page
+

@@ -1,0 +1,45 @@
+
+Richard Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+Preparation and Mixing
+This section describes the proper method of blending & mixing the individual constituents that formulate the RNX propellant. The process is described in the following series of steps:
+	1	The first step is to accurately weigh out the required quantities of ferric oxide and milled potassium nitrate. As there tends to be a little wastage, an extra 20 grams (or so) of propellant should be prepared. This extra will also allow for a control strand to be prepared, for quality-control burn rate testing. As an example, the Epoch motor requires a grain size of 450 grams of RNX-57 propellant. Therefore, 470 grams is required, consisting of 37.6 grams ferric oxide and 329.0 grams potassium nitrate (and 88.8 grams epoxy resin & 14.6 grams hardener, to be added later). The two dry constituents are placed together in a plastic container fitted with a lid. Ziploc containers are well suited to this purpose. 
+	2	The next step is to blend the potassium nitrate and ferric oxide intimately together such that the constituents are highly interdispersed. This step is very important, as the ferric oxide must coat the individual oxidizer particles to be able to perform its function as a burn rate modifier. As well, this tends to reduce the viscosity of the mixture when blended with the resin. To accomplish this, I utilize an electric rotating mixer, built using a surplus gearhead motor. This is the same device that I have used for premixing the sugar propellants. This particular apparatus rotates at 28 RPM, and as a rule of thumb, mixing times are one hour per 100 grams of dry mixture. A rotisserie motor (for barbeques) can likely be used to power a mixer. Typical rotational speed is only 6 RPM, however, so mixing times would need to be increased accordingly. Prior to mounting the container onto the mixer, ten or twenty glass marbles are added to help with the blending process and to aid in breaking up any clumps. Oblong shaped pebbles are even better, as these tend to tumble rather than roll. After the mixing process has been completed, the marbles are removed, taking care not to spill or otherwise lose any of the mixture, as the resulting powdered blend is easily splattered. A table fork (to dig out the marbles) & small sieve (to loosen any adhering powder) are of considerable aid in this process. This prepared mixture will hereafter be referred to KN-IO powder. Note that KN-IO blend is noncombustible, but a dust mask should be worn when handling the blended mixture to avoid breathing the finely divided dust that will arise. 
+	3	The following procedure describes how KN-IO powder mixture is combined with the epoxy to produce the the putty-like propellant that will be packed into the casting mould. These steps describe how to manually mix the batch of propellant. I have not tried utilizing a Mixmaster or other electric mixing device, although this may be worthwhile to consider for larger sized batches. I have manually mixed batches up to 1 kg by the method described below without any particular difficulty (other than tired out arm muscles). The following items are required:
+	1	mixing bowl, stainless steel, 1/2 litre or 1 litre size, depending on batch size being prepared. A one litre bowl can mix up to 1 kg.
+	2	Stainless steel spoons for scooping dry mixture into bowl, and for scooping propellant for packing into mould
+	3	Sturdy table fork (with a comfortable handle!) for blending & mixing propellant
+	4	Dough blender for mixing propellant
+	5	Vinyl gloves
+	6	Styrofoam cup for weighing epoxy (optional) & wooden craft stick to scrape the cup clean
+	7	Tamping rod for compressing propellant in the mould. Should be approximately 1/3 to 1/2 the diameter of the mould. May be wood or aluminum.
+	8	Packing tool for packing propellant into the mould. Should be approximately 3/4 the diameter of the mould. May be wood or aluminum.
+	4	Click   for photo of complete setup needed for casting (note vacuum apparatus shown not required for RNX-57)... Items 7 & 8 are discussed in more detail in the next section on packing the mould. 
+When preparing small batches, I prefer to weigh out the epoxy resin and hardener in a styrofoam cup, rather than to weigh these directly in the stainless steel mixing bowl. This allows me to use a more accurate digital scale (200 gram capacity). If this is done, an extra 0.2 grams of resin is added to account for the small amount that remains in the cup after scraping the contents into the mixing bowl.
+
+￼
+Fig.1 -- Weighing resin and hardener directly in mixing bowl
+
+After weighing out the resin & hardener, the combined liquids are blended in the mixing bowl for a minute or so, using the fork, and taking care to minimize the amount of air bubbles that are introduced. A tablespoon of the KN-IO powder is added to the epoxy liquid and blended until the mixture is homogeneous. The fork is well suited to this initial mixing. Note that the KN-IO powder is very fluid-like and will splash out of the mixing bowl if care is not taken. This step is repeated, adding a tablespoon of KN-IO at a time. The mixture will have the appearance of that shown in Figure 2.
+
+￼
+Fig.2 -- Initial consistency of mixture
+
+The KN-IO powder is added a further tablespoon at a time, integrated into the mixture, and repeated. Soon the resulting mixture will start to become fairly stiff. At this point, the dough blender will be better suited to mixing. The mixture will become more and more putty-like as more KN-IO powder is integrated
+At some point, it may seem as though the resulting mixture is simply too dry to take the remaining KN-IO powder. This is normal. The mixture will eventually become more "wet" the more it is blended. Using the fork to "squeeze and scrape" the mixture will help wetten it. As well, "chopping" the mixture with the dough blender aids the wetting process.
+A batch of 200 grams should be continuously blended for about 10 minutes. An 800 gram batch should be blended for about 20 minutes. After the required blending process has been completed, the propellant mixture should look like that shown in Figure 3.
+
+￼
+Fig.3 -- Final consistency of RNX propellant mixture
+
+At this stage, the RNX-57 propellant mixture is ready for packing into the grain mould. The RNX-71 propellant mixture, however, needs to be vacuum degassed prior to packing.
+Cleanup of the mixing bowl and utensils is done using lacquer thinner and plenty of paper towelling. Particular attention should be paid to cleaning the bowl rim if the bowl is being used to vacuum treat the propellant. Note that the used lacquer thinner should not be discarded, rather, it should be recycled and stored in a metal container. The solid particles will fall out of suspension, allowing for the lacquer thinner to be reused for the next batch of propellant.
+
+Next -- Vacuum Degassing
+
+￼
+Last updated  January 1, 2018
+Back to RNX Index Page Back to Home Page
+

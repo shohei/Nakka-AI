@@ -1,0 +1,178 @@
+ 
+Basic Information
+Name
+Xi-14
+Launch date:
+28 September 2019
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+- 18 inch auxiliary cross-chute for camera
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Red Dragon II/Sublime formulations
+- SQ11 chute-mounted micro-videocamera
+Liftoff mass
+3.123 kg.
+Stability Margin (minimum)
+2.20
+Flight objectives
+- 4th flight of JEM rocket motor. Increased core size.
+- Test of aux. chute mounted videocamera
+- Dual-coloured smoke tracker
+ 
+Motor details
+Motor name
+JEM
+Propellant
+KNDX
+Grain mass
+480 grams
+Nominal impulse
+610 N-sec
+Class
+I
+ 
+Additional information
+JEM motor modified by increasing grain core diameter from ½ in. (12.7mm) to 0.55 in. (14mm). Objective to reduce grain inhibitor damage by channeling combustion flow solely through core.
+ 
+Propellant (KNDX) for this flight was made using potassium nitrate synthesized from calcium-ammonium nitrate fertilizer.
+ 
+In addition to 3D printed parts flown on Xi-13, both aft launch lugs also fabricated of 3D printed PLA plastic filament, bonded to airframe with silicone adhesive.
+ 
+A micro videocamera was mounted on a 3D printed support attached to the shroud lines ends of a small parachute (which is deployed simultaneously with the main chute). The videocamera was mounted facing downward to record descent.
+ 
+A two-colour smoke tracker is being tried for the first time. Initially, red smoke is to be generated using Red Dragon II formulation. Half-way through the burn, white smoke is to be generated using Sublime formulation.
+ 
+Weather conditions
+Temperature
+8°C  (46°F)
+Wind
+WNW 10-15 km/hr
+Sky
+Sunny with variable clouds
+Other
+R.H. 43%
+Ceiling
+25k ft.
+ 
+Launch Event Description
+Setup of the rocket went smoothly, with no glitches. Followed checklist as usual. The nosecone was removed and the camera activated. The cross-chute with attached camera were then carefully packed and stowed in the rocket. The BRB transmitter was turned on, and the nosecone re-attached. The BRB receiver was activated and verified that a good GPS signal was obtained. After installing rocket on pad, the BREO-N, Eggtimer, and then Raven were activated. Raven beeped nine times for voltage and gave 3 positive indications for the 3 active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately ignited with a cloud of smoke appearing at the base of the rocket. Smoke issued from the nozzle for nearly two seconds before the rocket lifted off and accelerated skyward. Ascent was essentially vertical. Burn time appeared to be close to two seconds. Visual contact was lost shortly after burnout.  After about twenty seconds, we heard three faint ‘pop’ sounds in rapid succession, as the primary apogee charge and two backup charges fired. We soon spotted the three smoke clouds of the pyro charges. We searched for sign of a smoke trail, but none could be seen. We caught fleeting glimpses of the downward tumbling rocket as the sun glinted off its chrome bands. After approximately one minute, we heard a clear ‘pop’ of the parachute charge. We scanned the sky for the descending rocket but could not spot it immediately. We then heard a ‘pop’ sound of the chute backup pyro firing and then spotted the rocket descending by parachute. Both the main chute and the auxiliary chute were fully deployed. The gently descending rocket drifted with the wind. A half minute later the rocket softly touched down in a field.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.27 miles (435 metres). We headed out to recover the rocket. When we arrived at the touchdown site, all the rocket components were present and looked to be in great condition. The micro camera had shut down by the time we’d arrived, which was approximately 40 minutes since it had been activated. Raven beeped out an apogee of 4067 feet (1240m.).
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.6
+4069
+1240
+Separation
+16.4
+4056
+1236
+Main deployment
+62
+884
+269
+Touchdown
+97
+-
+-
+Range
+-
+1178
+359
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+72.1
+22.0
+ 
+Main parachute
+23.5
+7.2
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data confirmed that the operation of the Raven, EggTimer, BREO and BRB was fully nominal. The peak altitude readings reported by the Raven, Eggtimer and BREO all agreed to within 0.3%.
+ 
+The micro-camera operation was successful and footage of descent from chute deployment to touchdown was obtained. Once on the ground, the camera battery depleted after an additional seven minutes of operation, for a total run time of forty minutes. The quality of the video was marginal, which was expected as the cost of the camera was very low ($8 CAD). It satisfactorily achieved the goal of “proof of concept”.
+ 
+The smoke charge primer layer fired and fully burned, however, it failed to initiate the red smoke grain. When ground tested earlier, the surface of the smoke grain was made concave and this was packed with primer. It worked well, however, for the flight I was complacent and did not make the concave indent. Clearly, this extra surface area is needed to reliably ignite the red smoke formulation.
+ 
+The JEM rocket motor performance was again off-nominal. The rocket acceleration curve provided by the Raven was very similar to the preceding flight. It indicated a burn that suffered significant inhibitor failure. This was confirmed by tear-down of the motor. The aft-most casting tube (which serves as burn inhibitor) was completely burned away along one side. As such, it is now concluded that insufficient core area of the grain is not the cause of this repeated anomaly. Rather, it is now believed that the problem is due to lack of venting in the space between grain segments. The JEM motor is the first to feature grain spacers that are integral to the casting tubes. This is achieved simply by not filling the casting tubes fully with propellant and leaving a 5mm space above the propellant surface. Under acceleration, the three grain segments are pressed together due to their mass inertia. This effectively creates a sealed grain assembly open solely at the grain forward end. This greatly restricts gas flow, delaying pressure equalization around the grain assembly. This results in pressure buildup within the grain assembly, leading to partial fracture of one or more casting tubes. Propellant in the affected region, which had been inhibited, immediately begins to burn. The severe charring of the casting tube and the shape of the acceleration curve are consistent with this hypothesis. For the next flight, vent holes will be added in the casting tube in the region of the spacers.
+ 
+The 3D printed aft launch lugs performed nominally.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-14\Xi-14_raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-14\Xi-14_raven_accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-14\Xi-14_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-14\Xi-14_BREO.gif
+ 
+BRB:
+Flight path, mapped                                                                                Xi-14\Xi-14_BRB_track.gif
+ 
+JEM motor:
+Propellant grain segments                                                                     Xi-14\DSCF5924a.JPG
+ 
+Miscellaneous photos:
+SQ11 camera and 3D printed support                                                 Xi-14\DSCF5938a.JPG
+3D printed aft launch lug                                                                        Xi-14\DSCF5923a.JPG
+Lugs mounted on aft body                                                                     Xi-14\DSCF5926a.JPG
+Thermal liner (cut open) and casting tubes, post-flight                   Xi-14\DSCF5932a.JPG
+ 
+Launch photos:
+Rocket on the pad                                                                                   Xi-14\Dscn0365a.jpg
+Igniter fires and motor begins burning                                                Xi-14\2019-10-02_12-12-00.jpg
+Liftoff…!                                                                                                    Xi-14\2019-10-02_12-12-47.jpg
+                                                                                                                    Xi-14\2019-10-02_12-13-08.jpg
+Soaring skyward                                                                                       Xi-14\2019-10-02_12-13-26.jpg
+                                                                                                                    Xi-14\2019-10-02_12-14-04.jpg
+                                                                                                                    Xi-14\2019-10-02_12-14-51.jpg
+                                                                                                                    Xi-14\2019-10-02_12-15-15.jpg
+Smoke cloud from apogee pyro and backups                                    Xi-14\2019-10-02_12-16-10.jpg
+Sun glints of descending rocket                                                            Xi-14\2019-10-02_12-17-34.jpg
+Rocket descending under main and aux chute                                  Xi-14\2019-10-02_12-20-33.jpg
+                                                                                                                    Xi-14\2019-10-02_12-22-30.jpg
+                                                                                                                    Xi-14\2019-10-02_12-23-07.jpg
+Touchdown imminent                                                                             Xi-14\2019-10-02_12-24-55.jpg
+Rocket at landing site                                                                             Xi-14\2019-10-03_12-15-09.jpg
+Forward rocket body at landing site                                                    Xi-14\2019-10-03_12-13-08.jpg
+                                                                                                                   
+Captures from chute camera:
+View at beginning of descent, approx. 600 feet AGL                       Xi-14\2019-10-03_12-21-00.jpg
+Complete rocket is visible                                                                      Xi-14\2019-10-03_12-21-45.jpg
+Descending                                                                                               Xi-14\2019-10-03_12-23-37.jpg
+                                                                                                                    Xi-14\2019-10-03_12-24-47.jpg
+                                                                                                                    Xi-14\2019-10-03_12-26-00.jpg
+Nice view of the main chute and piston                                             Xi-14\2019-10-03_12-27-14.jpg
+Backup chute pyro fires                                                                          Xi-14\2019-10-03_12-27-28.jpg
+                                                                                                                    Xi-14\2019-10-03_12-27-42.jpg
+Altitude less than 300 feet                                                                     Xi-14\2019-10-07_12-17-27.jpg
+                                                                                                                    Xi-14\2019-10-07_12-18-41.jpg
+                                                                                                                    Xi-14\2019-10-07_12-20-17.jpg
+Touchdown                                                                                               Xi-14\2019-10-07_12-21-50.jpg
+ 
+Video of flight:
+Youtube                                                                                                     https://youtu.be/ZGuXSX6avHw
+ 
+ 
+ 

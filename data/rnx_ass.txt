@@ -1,0 +1,19 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+Assessment of RNX Propellant
+Owing to its relative safety of manufacture and use, the RNX rocket propellant serves as an excellent "starter" propellant for those interested in delving into the field of experimental rocketry. But more than that, RNX has been demonstrated to serve admirably for powering mid-range motors such as the J-Class Paradigm rocket motor and L-Class Liberty motor used to loft the Frostfire 3 rocket.
+RNX is well suited to experimenting with less conventional grain configurations such as star core, pseudo-finocyl and rod & tube, thanks to its ability to readily pack into a variety of mold shapes, facilitated by the relatively long pot-life of uncured RNX. The suitability of RNX for easy and safe machining allows for versatility in fabrication of such grain shapes.
+RNX is not a high-performance propellant, rather it is closer to the lower end of mid-range propellants. For typical amateur rocket motors, say L-Class and lower, this shortcoming is overcome by incorporating a greater mass of propellant. This simply means that an RNX-powered rocket motor of a given class or impulse is larger (typically requires a longer casing) than would be required using a high-power cousin propellant.
+The relatively low combustion temperature of RNX propellant allows steel to be used as a nozzle material that allows for multiple re-use. It is not necessary to use a graphite nozzle, as is required for high-performance propellants (graphite is messy to machine).
+One of the drawbacks of RNX is the need of a high Kn value (Klemmung) to achieve a suitable chamber pressure. This means that the nozzle throat size is a lot smaller than, say, a rocket powered by KNSU (for the same grain size and geometry). This puts something of a limit on smallness that an RNX motor can be, without risk of nozzle cloggage. And of course, a smaller throat means lower thrust for a given chamber pressure, which results in other challenges such as meeting minimum thrust-to-weight ratio for stable liftoff. One solution to this challenge that has been employed for the RNX-powered Epoch motor is to use an unrestricted-burning tubular grain which maximizes burning area in order to achieve a suitably high Kn. This approach necessitates the use of a steel casing (to handle the heat load) or a robust thermal liner if an aluminum casing is prefered.
+The assessment of RNX propellant is concluded on the topic of safety, certainly a prime consideration. For reasons discussed in this series of web pages, it is my opinion that RNX propellant is the safest of any chemical rocket propellant to manufacture and to work with. This merit alone makes RNX a propellant worthy of widespread use in the world of rocketry.
+￼
+
+￼
+Last updated  July 10, 2018
+Back to RNX Index Page
+Back to Home Page
+

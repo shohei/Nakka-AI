@@ -1,0 +1,40 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Determining Total Impulse and Specific Impulse from Static Test Data
+
+It is quite straightforward to determine the rocket motor Total Impulse and propellant Specific Impulse from a thrust-time curve obtained from static testing. A typical curve may look like that shown in Figure 1.
+
+
+￼ 
+Figure 1 -- A typical thrust-time (F-t) curve. The diamonds represent measured data points obtained from motor testing.
+
+Total impulse (It) is defined as the integral of the thrust (F) over the operating duration (t) of the motor:
+￼
+This integral is represented by the area under the F-t curve.
+￼
+The area under the curve may be closely approximated by summing the areas of the individual "strips" of width Dt and of height equal to the average thrust. In equation form, this is given by:
+￼  as shown in Figure 2. Since (t1- t0) = (t2- t1) = Dt   (i.e. time increments are equal), the equation may be simplified further to :
+￼ where initial thrust value (F0) and final thrust value are zero.
+Therefore, to determine total impulse, it is simply a matter of summing up all the measured thrust values and multiplying the sum by the time increment. Note that the smaller the time increment, the more accurate the final result.
+Since Total Impulse is obtained by multiplying thrust by time, the units are pound-seconds (lb-sec.), when English units are used, or Newton-seconds (N-s) when SI units are used.
+
+
+The delivered Specific Impulse (Isp) of the propellant is simply the Total Impulse divided by the propellant weight or mass. Thus, the units for Specific Impulse are pound-seconds per pound (lb-sec./lb), or simply "seconds". In the SI system, the units are Newton-seconds per kilogram (N-sec/kg). Dividing this value by the gravitational constant, g, where g=9.81 m/sec2, gives the conventional units of "seconds".
+
+
+Example
+Consider a rocket motor that has generated the following thrust-time curve from a static firing.
+
+￼
+The propellant was weighed prior to the firing and found to be 1.61 lbs, or 1.61 x 0.454 = 0.731 kg What is the Total Impulse, delivered Specific Impulse of the propellant, and the Average Thrust of the motor?
+Total Impulse is found by summing up all the measured thrust values and multiplying this by the time increment. The sum of the thrust values is found to be 2171 lb. The time increment is 0.1 second.  Therefore, It = 2171 x 0.1 =217 lb-sec. Converting this to Newton-seconds gives It = 217 x 4.448 =966 N-sec. The motor has the performance of a mid- "J" class.
+Delivered Specific Impulse is found by simply dividing the Total Impulse by the propellant weight or mass. Isp = 217 / 1.61 = 135 lb-sec/lb. Since the units of pounds can be considered to cancel out, the Specific Impulse can alternatively be expressed as 135 sec.
+In metric terms, Isp = 966 / 0.731 = 1321 N-sec/kg. This can be reduced to the more convential units by dividing the term by the gravitational constant, g, giving the same result found earlier: Isp = 1321 / 9.81 = 135 sec.
+Finally, the Average Thrust is found by dividing the Total Impulse by the Thrust Time: Favg = 217 / 2.1 = 103 lbs., or Favg = 966 / 2.1 = 460 N.
+
+￼
+Last updated  May 17, 2000
+Return to Static Test Page
+Return to Home Page
+

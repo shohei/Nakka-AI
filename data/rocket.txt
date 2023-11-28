@@ -1,0 +1,93 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Rocket Construction
+
+￼  ￼
+￼
+Fuselage
+Nosecone
+Fins
+Coupler
+Motor retention
+Launch lugs
+
+￼
+Photo of typical rocket (Flight C-24) showing major components
+
+Fuselage
+My first amateur rocket was rather simple, consisting of a thin walled steel tube of 1.17 inch (3.0 cm) diameter and 15 inch (38 cm) length, serving as the fuselage, fitted with a hardwood nosecone and three fins made from sheet aluminum. The motor that powered it was one of the first motors that I had developed, being a mere 0.69 inch (1.75 cm) in diameter and 8.5 inch (22 cm) in length, which was mounted into the lower portion of the rocket fuselage. I flew this rocket a total of four times (Flights A-1 to A-4), to a maximum altitude of around 500 feet (150 m.). Although it was not equipped with any sort of recovery system, it survived the hard landings reasonably well, owing to the strength of the steel tube fuselage, and the fact that it was lightweight.
+Soon after, however, I developed my larger motors. Since the rockets powered by these motors were planned to achieve much higher altitudes, and would be appreciably heavier, it was necessary to have a parachute recovery system. I figured that a 3 foot (91 cm) diameter parachute would be required to slow the rocket to a reasonable descent rate. To make it easier to build an ejection system, and to avoid having to pack the parachute too tightly, I initially used a 2 inch (5 cm) diameter aluminum tube for the fuselage. After two initial flights with this rocket (Flight B-1, B-2), which were successful flights except, notably, for the failure of the parachute to eject, I decided that an even larger diameter fuselage would be in order, at least during the development phase of the parachute ejection system. Three inch (7.6 cm) seemed about right. As it turned out, all my subsequent rockets would use a fuselage of this diameter, at least the upper portion.
+Finding suitable three inch diameter aluminum tubing turned out to be a challenge. Any such tubing I came across had overly thick walls, and turning these down on a lathe was not particularly successful (would usually crack at the welded seam). So instead of aluminum, I used thick walled cardboard tubing for the next five flights (B-3 to B-7). The drawbacks with cardboard were the thick walls which reduced interior volume, and the practical limitations (ever tried drilling a neat hole in cardboard?!). For the next eight flights (B-8, PT-1 to PT-7), I used PVC drain pipe which did work reasonably well. The walls were 5/64 inch (2 mm) thick, resulting in a lightweight fuselage. I truly cannot remember why I abandoned PVC , but for the next series of rocket flights (C series) I returned to an aluminum fuselage. Perhaps it was because of the brittleness of PVC in cold weather (all the PT series of flights occurred in winter), or perhaps it was simply because I was partial to aluminum as my material of choice! Anyway, for the first eighteen flights of the C series, I used three inch diameter aluminum tubing with a wall thickness ranging from 0.035 to 0.050 inch (0.9 to 1.3 mm) for the rocket upper fuselage, which housed the payload and parachute system. The lower fuselage, which housed the motor, was fabricated from aluminum tubing of 2 inch outside diameter, with relatively thick walls (0.070 inch; 1.8 mm) to facilitate mounting of the fins, motor, and launch lugs.
+For the next flight (C-19), I decided to try something different. Instead of using standard aluminum tubing, which , besides being hard to find, was overly heavy, so why not try making my own tubing? Thin gauge sheet aluminum was readily available, in fact, I had used it for other parts of the rocket. If I could manage to roll the sheet to a cylindrical form, it would become a convenient method of producing fuselages to whatever size I required. After a bit of experimenting, I managed to fabricate a rather nice fuselage, which was very lightweight, having a wall thickness of a mere 0.018 inch (0.5 mm). This method worked so well that all my subsequent rocket fuselages were constructed in this manner.
+How to construct a Rocket Fuselage from sheet aluminum
+
+Cirrus One fuselage
+The Cirrus One rocket, the first of the Cirrus Project and the first of my "second generation" rockets, had a fuselage made from PVC sewer pipe, with an outside diameter of 3.25 inches (83 mm) and a wall thickness of 0.11 inches (2.8 mm). Although this tubing was rather on the heavy side (1 kg/metre), it was great to work with and made for a strong and stiff airframe.
+For the Cirrus Two rocket, I am investigating the use of PLASTMO downspout PVC tubing. This material would seem to be ideal fuselage material, weighing 40% less than the PVC sewer pipe (0.59 kg/metre), with an outside diameter of 3.0 inches (76 mm) and wall thickness of 0.070 inches (1.8 mm). This tubing also comes in 4 inch (102 mm) diameter.
+
+Nosecone
+Taking a cue from model rocketry, my first amateur rockets had a nosecone fabricated from wood. Since I was not too concerned about the weight, I used a hardwood, either birch or maple, and fabricated the nosecone by turning down a dowel on a wood lathe. Birch, and in particular, maple, were well suited due to the tight grain which allowed for easy machining, and gave a very smooth finish (when sanded and painted). I later experimented with other nonmetallic materials such as fibreglasss reinforced plastic, and cast thermoset plastic. The former had the advantages of being exceptionally lightweight; the drawback was that it was difficult to get a smooth finish unless several layers of resin were applied over the fibreglass cloth (and was quite a lot of work to make!). The cast plastic nosecone, which was hollow, had the advantages of having a very smooth and hard surface. Casting the nosecone was done by utilizing a painted wooden pattern to create a plaster mold. The same wooden pattern then served as a mold to create the hollow void. Another nice advantage of thermoset plastic is that it could be dyed to any colour. The disadvantage is the weight, requiring fairly thick walls since the material is not particularly strong.
+The parachute ejection system that was being developed during this time required the nosecone to be robust, as the nosecone was to be forceably ejected to extract the parachute. Neither plastic nosecones proved suitable during ground testing of the system, so I decided to turn to aluminum for the nosecone. These nosecones were made by turning down, on a metal lathe, a piece of 3 inch diameter aluminum bar stock. The advantages of aluminum are the strength, the capability to machine the final product to close tolerance dimensions, as well as the design flexibility that machining allows. This latter point is apparent by looking at the nosecone that I used on my later rockets, which incorporated parts of the parachute ejection system. The disadvantages are, I suppose, obvious--three inch bar stock is fairly costly and there is a lot of waste. As well, machining a nosecone takes a bit of skill, but then again, that is something that was acquired while machining the rocket nozzles!
+Cirrus One Nosecone
+The Cirrus One rocket had a nosecone that was fabricated from fibreglass-reinforced polyester. The process involved making a "male" mould from hardwood (maple) of the exact shape and dimensions of the final nosecone. A "female" mould was then made by applying several layers of liquid latex over the wooden mould, with each layer allowed to dry before applying the next. Cotton fabric was used to reinforce the latex. The purpose of using latex was mainly its flexibility, which allowed for easy removal from the wooden mould. The finished latex mould was then stiffened with rings of corrugated cardboard. To produce the nosecone, polyester resin was applied in layers to the inside of the latex mould, with two layers of fibreglass cloth added for strength.The final thickness of the nosecone wall varied between 2 and 3 mm. Although the final product turned out well, and was strong, stiff, and lightweight, it was a great deal of effort to make. A simpler approach is being studied for the Cirrus Two nosecone: shaped styrofoam (styrene) reinforced with layers of epoxy resin on the outer surface.
+
+￼
+Cirrus One fibreglass-reinforced polyester nosecone (shown unfinished)
+
+Fins
+Nearly all the fins for my "first generation" rockets were fabricated from 16 gauge (0.051 in/1.3 mm) aluminum sheet. The only exception was Flight C-34, when I equipped the rocket with fins made of 0.075 in (1.9 mm) plexiglas (acrylic) sheet.
+As well, all these rockets were fitted with four fins, with one sole exception--the first rocket, used in Flights A-1 to A-4, which had three fins. What did vary significantly, however, was the size and shape of the fins. Many factors played a role in this. One of the most significant factors was to size the fins to be "just large enough" to provide adequate stability. Minimizing fin size was considered important, not so much for weight or drag considerations, but rather to reduce "shuttlecocking", that is, veering into the wind. My earlier rockets had fairly sizeable fins, and I endevoured to reduce the size gradually, until I ended up with stability problems. For example, the rocket for Flight C-19 had fins so reduced in size, that the rocket was unstable after burnout, and began to tumble shortly after liftoff . Fortunately, this was the one and only time that a rocket became unstable in flight. Later calculation of the rocket centre of pressure compared to the rocket centre of gravity confirmed the stability problem. Another reason why I'd wanted to reduce fin size was simply to reduce wasted sheet aluminum. Fins were continually getting bent, and had to be discarded, as the rockets would land fin end first, and even though the parachute reduced descent rate considerably, the impact was more than the fins could handle. I ended up partially solving this by having the fin trailing edge sweep forward, such that the tips were forward of the aft end of the fuselage, as for Flight C-35.
+This is why I tried plexiglas fins, considering them to be expendable. Unfortunately, the rocket "expended" all four fins immediately after liftoff. snapping each outboard half of the fin clean off! This particular flight was powered by the larger C-400 motor--fortunately, the rocket remained stable, and reached the highest altitude of any rocket flown (the reduced drag likely helped!).
+These "first generation" rockets used two different methods to secure the fins to the rocket lower fuselage. One technique was to bend a flange at approximately 105 degrees along the root edge of the fin. This flange would then be attached to the fuselage using either self-tapping screws or small machine screws. The second technique was to mount two small drag angles (formed from light gauge steel) to the fuselage, using self-tapping screws, machine screws, or rivets. The fin would slide between the angles and be secured with machine screws. These two methods are illustrated in Figure 1 below.
+￼
+Figure 1 -- Fin attachment methods
+The advantage of the first method is the simplicity of the concept. The disadvantage is in forming the bend, that is, to obtain a tight radius without cracking the material. Also, the angle had to be accurately formed in order for the four fins to align symmetrically. The advantage of the second method is that it was not necessary to bend a flange on the fins. This greatly reduced the effort in fabricating replacement fins, and allowed for easy interchange of the fins (eg change in profile). Another advantage was that once the drag angles were installed, no further alignment was necessary if the fins were replaced. The drawback is the greater complexity of the method, requiring careful fabrication and attaching of the angles
+Cirrus One Fins
+The Cirrus One rocket was equipped with a set of three aluminum alloy (6061-T6) fins, of 0.063 inch (1.6 mm) thickness. The fin attachment method was radically different than the method used for the "first generation" rockets. The Cirrus One fins were cut to a profile that included two "hooks". These hooks were fitted into slots cut into the PVC fuselage. To provide out-of-plane (bending) support for the fins, fairings were bonded to each fin such that when the fin was inserted into the fuselage slots, the fairings were firmly seated against the fuselage. This concept is shown in Figure 2.
+￼￼
+Figure 2 --   Cirrus One fins: Left: fin attachment, bottom view. Right: fin assembly
+The slots in the fuselage measured 0.75 x 0.065 inches. The fairings were fabricated from 0.875 x 0.035 inch aluminum tubing, "quartered" lengthwise, and bonded (with epoxy) to each fin as an assembly. Before insertion of the fin assembly into the fuselage slots, a film of silicone adhesive was put on the fairing surfaces to bond them to the fuselage (silicone was used to allow for later fin removal). Epoxy putting was then moulded onto the leading edge of the fin/fairing/fuselage interface and contoured to reduce drage. 
+This fin attachment method provided for a structurally secure fit, and was aerodynamically "clean".
+Engineering drawing of Cirrus One fin...
+
+
+What is the purpose of fins on a rocket? How many? And what shape should they be?
+
+￼
+This rocket had fins that were too small--rocket became unstable in flight. (Flight C-19, launched July 11, 1981)
+
+Coupler
+With the exception of my first "A" series rocket, the B-1 rocket, and Cirrus One, all my rockets have had a stepped fuselage arrangement. Of these, the lower fuselage was of a diameter just slightly greater than the diameter of the motor. The upper fuselage, however, has had a larger diameter, mainly to allow for generous payload and parachute system space. As a result, a reduction coupler was necessary to join the two sections. Earlier versions were fabricated from hardwood, however, my later couplers were machined (as the nosecone was) from a single length of aluminum bar. The coupler was hollow, with a typical wall thickness of about 0.080 inch (2 mm). I'd put a wad of fibreglass inside the coupler for insulation, as a barrier against the hot gases that would inevitably leak past the motor head. Eight small machine screws secured each, the upper fuselage, and the lower fuselage.  The motor was mounted such that the thrust force was taken up directly by the coupler. This is detailed in the Motor Retention section.
+Cirrus One Coupler
+The Cirrus One had a fwo part fuselage, with the lower section serving to house the motor, and the upper fuselage held the payload and parachute (the purpose for having the fuselage in two sections was for the purpose of shipping). The diameter of both fuselage sections, however, was the same (3.25 inch). As such, the coupler was of relatively simple design and construction. It consisted of two sheet metal (6061-T6, 0.063 inch thick) brackets, curved to match the inside contour of the fuselage. Each bracket was secured to the rocket with eight 6-32 flat head machine screws. This coupler is shown in Figure 3 below.
+
+￼
+
+Figure 3 -- Cirrus One fuselage coupler
+
+
+Motor retention
+A typical method that I used for mounting the motors into the lower fuselage is shown in Figure 4 below. Four set-screws were located in tapped holes at the lower part of the fuselage. These served to retain the motor and to allowed for slight adjustment for motor alignment. An motor centering disc, which was slid over the top of the motor and atop the motor thrust bolt, provided for lateral retention of the motor at the front end of the lower fuselage. This disc was fabricated from 16 gauge aluminum sheet.
+In such a setup, motor thrust force is transmitted to the rocket structure at the reduction coupler. Fitted between the motor and the coupler was a circular thrust disc against which thrust load is applied directly to the lower flange of the reduction coupler (note that the set-screws do not transmit any thrust load). The thrust disc was fabricated from 10 gauge (0.10 in/2.5mm) steel plate.
+￼
+Figure 4 -- Motor mounting method
+
+Cirrus One motor mounts
+For the Cirrus One rocket, the fin "hooks" provided lateral support for the lower portion of the motor and centered it within the lower fuselage. The upper end of the motor was centered by three motor mounts which also served to transmit the motor thrust force to the fuselage (maximum motor thrust was 350 lbs.). Each mount was secured to the fuselage with two 6-32 alloy steel (180 ksi) flat-head machine screws. The mounts were fabricated from 6061-T6 aluminum alloy. Figure 5 provides detail of the mount design.
+
+￼
+Figure 5 -- Motor mounts used for the Cirrus One rocket
+Motor mount installation in lower fuselage...
+
+
+Launch lugs
+The launch lugs that I used for my rocket were always meant to be a temporary solution to the fundamental problem of initially guiding the rocket on it flight trajectory. An idea borrowed directly from model rocketry, launch lugs (which slide over a launch rod) provided a simple solution. The main drawback is the parasitic drag which they induce, especially when four of these lugs are attached to the rocket. Since the method worked well and I was not too concerned about the additional drag on the rocket, I did not attempt to devise a more elegant alternative method. The reason I used four (2 upper; 2 lower), rather than two (1 upper; 1 lower), was to provide more balanced drag, to prevent the rocket from veering from its straight flight path. The launch lugs were fabricated from 10mm lengths of aluminum tubing, of 0.75 in (19mm) O.D. and 0.65 in (16.5mm) I.D. (slide loosely over the 1/2 inch diameter launch rod), and were each attached to the rocket with a single machine screw and nut. The lower lugs each had a spacer between the lug and the fuselage which was required due to the stepped fuselage arrangement.
+
+￼
+
+￼
+Last updated August 26, 2001
+Return to Top of Page
+Return to Home Page
+

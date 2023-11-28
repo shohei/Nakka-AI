@@ -1,0 +1,257 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+Experiments with Potassium Nitrate - Epoxy Formulations
+
+Introduction
+Formulations
+Preparation of Samples
+Burn Rate Measurements
+C-star Measurements
+Rocket Motor Static Tests
+Mechanical property measurements
+Conclusions
+Update
+
+Introduction
+I first became intrigued with the idea of studying epoxy as a fuel/binder with a Potassium Nitrate oxidizer in late 2000, when I was given a sample of an experimental formulation by fellow rocketry enthusiast Marcus Leech. At that time, I performed some simple burn rate and combustion experiments which suggested that a Potassium Nitrate-Epoxy formulation might indeed have potential as a practical rocket propellant that may serve as an interesting alternative to KN-Sugar propellants. Due to involvement with other rocketry projects, I put aside further research until about eight months later. At this time, Hans Olaf Toft (ARL Library) sent me a draft copy of his own very interesting and encouraging experiments with Potassium Nitrate-Epoxy, which also suggested that a practical formulation could be possible (see Experiments with some KNO3/Epoxy Composite Propellants). The formulations that had currently been tried suffered from a variety of problems that prevented them from being a truly practical propellant. Such problems included very low burn rate, unstable combustion and large quantities of combustion residue which would be left over in the combustion chamber after firing (which is detrimental to performance). Combustion simulations done with GUIPEP indicated that performance of a Potassium Nitrate-Epoxy based propellant would be as good as, or better, than that of the KN-Sugar based propellants, especially if an additive such as aluminum was incorporated. Combined with the advantage of being able to 'cold cast' a propellant, Potassium Nitrate-Epoxy was sufficiently attractive that I decided to commence an extensive set of experiments beginning in September 2001. These experiments included measuring the characteristic velocity, also referred to as c-star (a key indicator of performance potential), burn rate at ambient and elevated pressure, physical property measurements, as well as three static motor firings.
+
+Formulations
+In total, 30 different formulations, identified as RNX series, were prepared (RNX-1 to RNX-30), of which the basis of all were Potassium Nitrate (KN) as the oxidizer and epoxy as the binder. Various additives completed the formulations: aluminum and sucrose as fuel additives, ammonium nitrate as supplemental oxidizer, and iron oxide, magnesium sulphate, copper sulphate as potential burn rate catalysts.
+Constituents
+
+	•	Three different brands of epoxy were used in this set of experiments. All are premium grade, two-part multi-purpose epoxies typically used for boat building and aircraft composite repair. West System and East Systems are very similar in physical properties, and are of medium viscosity. MAS, which is a low viscosity resin, has an extended cure time and slightly lower elastic modulus when cured. Table 1 shows the three different epoxies used in these experiments and Figure 1 illustrates three 'slugs' that were cast for density measurements. West epoxy is transparent, with a slight yellow hue. East epoxy is translucent with a yellowish hue, and MAS is transparent, with a distinct amber hue. 
+	•	
+	•	West System
+	•	East Systems
+	•	   MAS   
+	•	Resin part no.
+	•	105
+	•	1032
+	•	718
+	•	Hardener part no.
+	•	206
+	•	834
+	•	2072
+	•	Nominal R/H ratio
+	•	5:1*
+	•	5:1*
+	•	2:1
+	•	
+	•	
+	•	
+	•	
+	•	 Table 1 -- Epoxy systems used in experiments * 6:1 ratio was used for RNX-9 and subsequent to achieve greater pot life.  ￼ Figure 1 -- Slugs of epoxy "as cast" : West, East, MAS (left to right)  The slugs shown above were subsequently faced at both ends using a lathe in order to form close tolerance cylinders. The diameters and lengths were accurately measured, as well as mass, and the densities determined. The results are shown in Table 2, where the density is given in grams/cubic centimetre (g/cc). Estimated accuracy of the measurements is +/- 1%. Note that the R/H ratios were 6:1, 6:1, 2:1 for the East, West, and MAS epoxies, respectively. 
+	•	East Systems
+	•	West System
+	•	MAS
+	•	1.168
+	•	1.177
+	•	1.122
+	•	 Table 2 -- Measured densities of cast epoxies. Details on the various additives used in the formulations are given below: 
+	•	Aluminum, atomized powder, West System 420. Particle size 20-50 micron. 
+	•	Ferric (Iron) oxide, NF18 (red powder) 100 g. Medisca Pharmaceutique Inc. particle size less than 10 micron. 
+	•	The sulphur, magnesium sulphate, copper sulphate and ammonium nitrate were all technical grade, and were dehydrated and pulverized prior to inclusion in the applicable formulations. The KN was also technical grade, and was dehydrated and pulverized by use of an electric cofffee grinder (typically ground for 30 seconds per scoopful), giving a particle size range of 20-100 microns.
+A summary of the thirty different RNX formulations is given in Table 3.
+
+￼
+Table 3 -- Summary of KN-Epoxy based formulations prepared for experiments
+
+Preparation of samples
+All samples of the RNX formulations were prepared as slugs, similar to the epoxy slugs shown in Figure 1. The first step was to prepare the "dry" constituents (e.g. KN, aluminum & iron oxide). These were accurately weighed (using a digital scale with 0.1 gram resolution) to the required proportions then placed into a polyethylene container together with 10-15 glass marbles. The container was then mounted on a rotating mixer and allowed to blend for 3 or more hours, depending on the batch size. Typical batch size was 60 grams (less the epoxy). Since many of the formulations contained aluminum powder, extra precautions were taken in handling of the blended samples, despite that fact that testing indicated that these dry mixtures were not combustible under ambient conditions.
+The epoxy resin and hardener were then separately weighed out, combined, and the dry mixture was then added, a small amount at a time, until all was incorporated. Samples were blended with either a table fork (small batches) or with a dough blender tool (larger batches) in a stainless steel bowl. The dough blender proved to be an excellent tool for this purpose, even for the larger sized batches of several hundred grams prepared for the motor tests.The blending operation typically took 15 minutes for a batch of about 75 grams. The resulting mixture had a puttylike texture which varied in viscocity depending on the degree of 'solids loading'. The thinnest was nearly pourable, and the thickest was like plasticine. The mixture was then pressed and compacted into a polyethylene container (35mm film canister) which served as a mould. Strand (stick) samples for burn rate measurements were prepared by packing the material into a polyethylene soda straw (the straw was 'dipped' into the material repeatedly until the desired length of straw was filled). The prepared samples were then allowed to cure for one or more days (see Figure 2). The utensils and bowl were cleaned using lacquer thinner.
+Due to the potential risk of epoxy sensitization, certain safeguards were conscientiously taken in the handling of epoxy resin and hardener, which included the use of a respirator with organic vapour filter (3M 6002/6001), and the use of vinyl (not latex) gloves.
+Polyethylene served very well as a mould material, as the epoxy does not adhere whatsoever to this plastic. The cured slugs were easily removed from the moulds by drilling a small hole in the bottom of the canister then using a small rod to push out the slug.
+For the c-star testing, the propellant slugs were then shredded using a rasp tool bit chucked into a drill press which rotated at 350 RPM. Special care and appropriate safety precautions were followed during this shredding operation, despite the acquired knowledge that repeated intentional 'overloading' by the rasping tool showed absolutely no friction sensitivity to ignition. The shredded material was then weighed out to 25 grams and loosely packed into a small plastic bag placed first into the combustion vessel. An electric igniter was also inserted, then the bag was sealed using a twist-tie.
+The intent of shredding was to provide for very rapid burning of the sample inside the combustion chamber of the c-star vessel. Rapid burning is necessary to minimize heat loss during the combustion process. Near-adiabatic burning is strived for, as any heat loss would tend to reduce the maximum pressure achieved by combustion.
+
+￼  ￼
+
+Figure 2 -- Typical slug and strand samples produced for c-star and burn rate tests.
+Measured-to-ideal density ratio of the slugs varied from about 0.85 to 0.95 for those samples where measurements were made, as shown in Table 4. Its interesting to note that East epoxy had much better density ratios than West epoxy. This is evidenced by the comparison between RNX-3 and RNX-4, which have the same formulation, but different epoxy binder. Examination of cut & polished surfaces of these two samples under 30x magnification clearly indicated why the difference in density. RNX-3 (West) had many tiny pores (bubbles?), but the RNX-4 sample (East) had a complete absence of porosity.
+
+￼
+Table 4 -- Measured & ideal density for some formulations.
+Certain problems were encountered during preparation of RNX-26 and RNX-27. The addition of copper sulphate in RNX-26 resulted in a very slow cure, which took weeks. As such, only ambient burn rate measurements were made for RNX-26. When the RNX-27 dry mixture containing ammonium nitrate was added into the epoxy resin/hardener, a strong odour of ammonia was detected. The mixture was immediately discarded into the attendant water bucket, as a safety precaution.
+
+Burn Rate Measurements
+Burn rate measurements of the formulations at ambient pressure (one atmosphere), as well as at elevated pressure, was conducted on strands of propellant. For ambient testing, the strands were hot-glued to a wooden base in a vertical position. Typical dimensions of the strands were 0.25 inch (6 mm) diameter by 1-2 inch (25-50 mm) in length. For ambient pressure tests, gauge marks were scribed onto the strands to serve as timing marks. The distance between the marks was then measured and recorded. To conduct a burn rate measurement, the clocked time duration that the flame front traveled between marks allowed for calculation of burn rate. A diagram of the setup is shown in Figure 3
+
+￼
+Figure 3 --Propellant strand setup for ambient burn rate measurement.
+Burn rate for the strand was taken as the average of r1 and r2, where r1 = L1/t1, and r2 = L2/t2. Time duration t1 is the measured time required for the flame to traverse distance L1 and t2 is the measured time the flame required to traverse distance L2. To ensure a burning surface that was perpendicular to the strand vertical axis, the tip of the strand was ground flat. Also, ignition of the strand was done by heating a flat steel bar with a propane torch, then touching this firmly against the flat surface of the strand tip. The strands were painted with hi-heat aluminum paint (inhibitor) to ensure that the burning surface remained planar (it was found that uninhibited strands developed a conical burning surface, as the edges would tend to burn at a faster rate than the centre. This might be due to the strand outer surface being richer in epoxy due to contact with the mould walls. The results of these burn rate measurements are given in Table 5. To generalize, most tested formulations burned in a stable manner, with the exception of MAS formulations, which burned much slower, in a less-stable manner, and in some cases, self-extinguished. It has recently been established, however, that the degree of curing of the epoxies significantly affects the burn rate. The MAS propellant strands were (in most cases) not fully cured, as the cure time for this epoxy is far greater than for the East or West brands.
+All formulations had flames that were quite large and bright, with an orange-violet colouration. Those with aluminum content displayed white flamelets. All formulations produced a fair amount of white smoke, and most formulations produced a generous amount of carbon flakes.
+
+￼
+Table 5 -- Ambient burn rate results.
+For burn rate measurements at elevated pressure, the same apparatus used for c-star testing was employed (described in the next section). Before insertion into the pressure vessel, the length of the strand was measured and recorded. An electical igniter was fixed to the top end of the strand and coated with a BP/isopropyl alcohol (70%) slurry then allowed to dry. The strand was then mounted vertically (using hot glue) onto the closure fitting of the pressure vessel. The vessel was then assembled and sealed with silicone lubricant to ensure no leakage occured. The vessel was then pressurized with nitrogen to the required level of initial pressurization. During combustion of the strand hot combustion gases are generated, increasing the pressure. It was by this means the the burn time was determined. A video camera recorded the pressure during the burn. The burn time was taken as the instant the pressure began to rise, to the instant the pressure stopped rising. The effective pressure was taken as the average of the initial and final pressure (delta was typically 50-100 psi, depending on the strand length). Burn rate was calculated to be the strand initial length divided by the burn time.
+Three formulations were studied, being chosen on the basis of performance (c-star results) and practicality of the composition with regard to casting (some formulations were too 'stiff' to be considered practical). RNX-28 was tested first, and most extensively. The results are shown in Figure 4.
+
+￼
+Figure 4 -- RNX-28 burn rate as function of pressure
+The black line represents a 'best fit' power function of the form r = a P n , where a is the burn rate coefficient and n is the pressure exponent. As can be seen, the pressure exponent is particularly high (n=0.8465). It was felt that a high pressure exponent could result in unstable burning in a rocket motor, and as such, means of lowering the pressure exponent were sought. It was felt that the iron oxide might be responsible for the high pressure exponent, so the next formulation studied (RNX-29) had the iron oxide omitted from the formulation. The results of burn rate testing are given in Figure 5.
+
+￼
+Figure 5 -- RNX-29 burn rate as function of pressure
+It can be seen that iron oxide is clearly not the cause of the high pressure exponent, as the measured exponent was pretty much the same for this formulation (within experimental error). The effect of iron oxide, however, can be seen to greatly increase the burn rate by way of the burn rate coefficient. For example, at 1000 psig, the burn rate nearly doubles (r =3.5 mm/s for RNX-29; r =6.5 mm/s for RNX-28). The next formulation studied (RNX-30) was identical to RNX-28, except for the type of epoxy, West being substituted for East epoxy. The intention of this experiment was to see if the brand of epoxy played a role in producing the high pressure exponent. The results of RNX-30 are given in Figure 6.
+
+￼
+Figure 6 -- RNX-30 burn rate as function of pressure
+Although the pressure exponent would seem to be somewhat lower (n=0.7584), this could simply be due to the small sample size, as only three strands were tested. Indeed, even the obtained value would seem to be uncomfortably high for practical propellant useage.
+As a final note on the burn rate tests, the solid residue that remained of the strands varied from formulation to formulation, but in all cases the combustion appeared to be complete, including the aluminum. The residue consisted of a coral-like mass of what appeared to be mainly potassium carbonate and carbon. For those formulations containing aluminum, the residue included a white 'fluffy' powder characteristic of aluminum oxide.
+
+
+C-Star Measurements
+The Characteristic Velocity, also referred to as Characteristic Exhaust Velocity or simply c-star (c*), is an important measure of thermochemical merit for a particular propellant, and is given ideally by
+
+￼
+where R' is the universal gas constant, M is the effective molecular weight of the combustion products, T is the combustion temperature, and k is the ratio of specific heats of the combustion product mixture. As may be seen from the expression, c-star is dependant solely upon the combustion characteristics of a propellant.
+C-star is related to the Specific Impulse by the Thrust Coefficient, CF, and gravitational constant, g, (serving as conversion factor).
+￼
+The CF quantifies the amplification of thrust performed by the nozzle. A simple 'hole' would have a CF=1. A well designed deLaval nozzle may have a CF=1.5 or greater.
+For this set of experiments, c-star was measured by burning the propellant samples in a sealed pressure vessel, the so-called Closed Bomb method. The pressure developed in the vessel during the burn was displayed by a bourdon pressure gauge and recorded by use of a videocamera. The maximum pressure was then related to c-star, knowing the propellant mass and volume of the pressure vessel, by use of the following expression:
+￼
+where V is the tank volume, and m is the mass of the propellant sample (for derivation, see page 1 & page 2).
+The volume of the pressure vessel was 0.927 litre, and the mass of each sample was 25.0 grams. The value of k was obtained from GUIPEP runs using the library entry for EPOXY 201. The data line (entry 383) excerpted from the pepcoded.daf file is shown below:
+
+￼
+which renders the following:
+Name
+Epoxy 201
+Chemical formula
+C16H24O4
+Enthalpy of formation
+-661 cal/gram
+Mass density
+0.0404 lb/cu.in.
+This was the only GUIPEP entry for epoxy. How representative it actually is of the epoxies used in my experiments in unknown. However, it is noteworthy that the sensitivity of c-star with regard to k is not great. For example, a 10% difference in k would only result in a 3% difference in c-star. As such, any inaccuracies introduced by the assumed epoxy properties should not be significant.
+The stated density is in close agreement with the measured density of cured epoxy samples, which had an average density of 0.0420 lb/in3 (1.16 g/cm3).
+This GUIPEP entry for epoxy was also used in the calculation of the ideal c-star value for the various formulations. Since ideal c-star is very much dependant upon the enthalpy of formation of the compound, the values obtained from GUIPEP are considered to be approximately representive of the ideal c-star for the actual epoxies formulations used in these experiments. To date, I have not been able to find any substantiation for the enthalpy of formation value given for Epoxy 201.
+The apparatus used in the measurements of c-star is shown in Figure 7 (also used for the elevated pressure burn rate measurements).
+
+￼
+Figure 7 -- Apparatus used for measuring c-star and burn rate at elevated pressure.
+The principle of operation is very simple. The shredded sample, confined within a plastic bag inside the pressure vessel, had combustion initiated by use of a tiny BP pyro igniter. The sample was consumed nearly instantly, and generated a rapid pressure rise in the vessel. The maximum pressure achieved was obtained from a video recording of the gauge during operation. Plots of the pressure measurements obtained are given in Figure 8.
+
+￼
+Figure 8 -- Results of combustion pressure measurements for RNX-1 to RNX-25.
+As mentioned earlier, RNX-26 & RNX-27 were not tested. Samples RNX-28, RNX-29 & RNX-30 were tested in a slightly different manner, as explained later. The delivered c-star was calculated using the maximum pressure that was recorded. Perhaps a better representation of the adiabatic maximum pressures could be obtained by extrapolating each curve before and after the peak, and taking the intersection as the true maximum pressure. The reasoning is that the "rounding" of the curve at the peak is due to heat loss from the combustion gases to the vessel walls. To simplify things, this refinement was not performed, and because I was more interested in the relative c-star values obtained. Table 6 shows the actual c-star values obtained as well as the ideal values based on Epoxy 201.
+
+￼
+Table 6 -- Measured and ideal c-star values for RNX-1 to RNX-25.
+Samples RNX-28, RNX-29 & RNX-30 were tested in a slightly different manner. For these three tests, the vessel was initially pressurized to 320 psig with nitrogen gas. This was conducted mainly to see if the higher initial pressure would result in a more rapid burn rate, and consequently more rapid pressure rise. The pressure curves obtained are shown in Figure 9.
+
+￼
+Figure 9 -- Results of combustion pressure measurements for RNX-28 to RNX-30.
+It turned out that the combustion rate (pressure rise) did not increase significantly due to the initial pressurization of the vessel. However, the delivered c-star for all three formulations, calculated based on the pressure delta, was improved appreciably in comparison to the formulations tested without initial pressurization, as shown in Table 7.
+
+Characteristic velocity (m/s)
+
+measured
+ideal
+ratio
+RNX-28
+1097
+998
+1.100
+RNX-29
+1084
+999
+1.085
+RNX-30
+1077
+998
+1.079
+
+Table 7 -- Measured and ideal c-star values for RNX-28 to RNX-30.
+Why this is so is not currently understood. C-star is, theoretically, independant of the pressure at which combustion occurs.
+One more useful set of data that was derived from this series of c-star combustion tests is the rate of pressure rise, dP/dt . This is represented by the rising slope of each of the curves in Figures 8 and 9. This information is potentially useful for assessing the relative burn rates of the formulations, as least approximately. The maximum dP/dt value for each formulation tested is given in Table 8.
+
+￼
+Table 8 -- Maximum combustion pressure rise rate for the formulations.
+
+
+Rocket Motor Static Tests
+In total, three motor static tests were conducted utilizing KN-Epoxy formulations. A summary of the motor basic data is given is Table 9.
+
+Designation
+Formulation
+Propellant mass
+Grain configuration
+Motor size/type
+Nozzle
+RNXS-1
+RNX-28
+180 g.
+Hollow cylindrical (4)
+38 mm /1-1/4"EMT
+sonic
+RNXS-2
+RNX-30
+738 g.
+Hollow cylindrical (3)
+56 mm /2"EMT
+supersonic
+RNXS-3
+RNX-30
+540 g.
+Dual slab
+56 mm /2"EMT
+supersonic
+Table 9 -- Motor basic data.
+The predicted performance based upon the c-star and burn rate measurements was developed with the aid of SRM.xls motor design spreadsheet, and is shown in Figure 10.
+￼ ￼ ￼
+Figure 10 -- Predicted performance curves for the motors.
+RNXS-1
+The intent of this static test was to measure the chamber pressure developed by an RNX-28 grain combusting in a rocket motor. The motor was simple in design, utilizing steel (EMT) casing and a simple sonic nozzle, with a 19/64 inch (7.55 mm) throat. Four grain segments were used with a central 0.25 inch (6.4mm) core. The segments were free standing and uninhibited, providing a maximum Kn =580. A pressure gauge was interfaced to the motor to register chamber pressure, which was recorded by use of a video camera.
+Static Test   (29 October, 2001) The rocket motor fired a few seconds after the igniter was initiated. Burning continued for several seconds, undulating severely through the full burn, which was 8.8 seconds from the video. The exhaust smoke was largely blackish in colour. No measurable chamber pressure was registered on the gauge. When the motor was opened up for post-firing examination, the residue was found to be a grey coloured spongy mass. The residue was collected and weighed, and found to represent 22% of the original propellant mass.
+
+￼ ￼
+Figure 11 -- One of four grain segments, and motor, for RNXS-1.
+RNXS-2 It was felt, at the time, that the reason why the preceding motor failed to produce any appreciable chamber pressure was due to a combination of the regressive Kn profile (580 initial, 381 final) and the high pressure exponent of the RNX-28 formulation. The approach for this second test, therefore, was to have a grain profile with a constant burning area. The motor for this test was a larger steel (EMT) casing and supersonic (convergent/divergent) nozzle, with a 0.409 inch (10.4 mm) throat. Three grain segments were cast with a central 0.75 inch (19 mm) core. The segments were free standing with uninhibited core and outer surface. In order to provide a constant Kn, all segment ends were inhibited, providing a Kn =660.  For this test, the motor was mounted in the STS-5000 Static Test Stand, with a pressure gauge interfaced to the motor to register chamber pressure, and a hydraulic load cell to measure thrust.
+Static Test   (3 November, 2001) The rocket motor was difficult to fire up, and only did so after 3 failed attempts (in each case, a standard BP pyrotechnic igniter was used; for the 4th attempt, a length of 'quickmatch' was additionally inserted into the core). The motor burned in a similar manner to RNXS-1, issuing blackish smoke, and undulating throughout the burn, with the sound level rising and falling at a rate of approximately 2 hz. Total burn time was 24 seconds. The nozzle throat glowed with yellow heat throughout the burn, although post-firing inspection showed no erosion. The maximum chamber pressure was a mere 40 psi, and no measureable thrust was recorded.
+
+￼
+Figure 12 -- Propellant segments and motor for RNXS-2.
+RNXS-3 Judging by the long burn time of the previous test, it was apparent that all surfaces of the propellant grain did not ignite. Likely, only the core ignited. This is evidenced by the burn time of 24 seconds, giving an effective burn rate of 0.34 mm/sec., knowing that the web thickness was 16.4 mm. This is well below the measured burn rate of 0.75 mm/sec. at ambient pressure (see Table 5), which clearly indicated that burning did not begin on all exposed grain surfaces simultaneously. As such, it was decided to use a grain configuration, for this third test, that should ensure immediate ignition of all exposed surfaces. The grain chosen was a dual slab grain, which consisted of two rectangular bars or slabs of propellant mounted side-by-side in the motor. The two narrow sides were inhibited to achieve a constant burning area (Kn=673). As well, two additional measures were taken to help ensure effective ignition of the entire grain: the exposed surfaces of the grain were painted with the BP/isopropyl alcohol slurry, and a pyrogen unit was utilized for motor ignition. 
+The slab grains were cast using a steel channel as the mould, which was lined with PVDC film (Saran wrap) to allow for easy removal. The same motor that was used for RNXS-2 was used for this test, except that the casing was lengthened to accomodate the longer grain. A photo of the motor with the slab grain partly inserted is shown in Figure 13. The motor was mounted in the STS-5000 Static Test Stand, with a pressure gauge interfaced to the motor to register chamber pressure, and a hydraulic load cell to measure thrust.
+Static Test   (11 November, 2001) The rocket motor fired almost immediately after the igniter fired. The motor burned in a manner nearly identical to RNXS-2, except that the total burn time was less, being 12 seconds. Since the slab thickness was 11.7 mm, the effective burn rate was 0.49 mm/sec. This is less than the ambient pressure burn rate of 0.75 mm/sec. for RNX-30. clearly indicating that ignition did not simultaneously occur on all exposed grain surfaces. The maximum chamber pressure was a mere 50 psi, and no measureable thrust was recorded.
+
+￼
+Figure 13 -- Propellant grain segments and motor for RNXS-3.
+
+
+Mechanical Properties
+The mechanical properties of the KN-Epoxy formulations are particularly appealing with regard to amateur rocket propellant requirements. When fully cured, the material can be readily "finished", for example, cutting with a hacksaw, drilling, milling, sanding, turning on a lathe, etc. There is essentially no tendancy for the "sawdust" to clog the saw blade or cutting bit, the way the sugar propellants do. Based upon a sizeable amount of such operations performed during this experimental work, inadvertent ignition resulting from friction sensitivity does not appear to be a problem (although necessary safety precautions are always mandatory). The material bonds well, which is important for application of inhibitors or for direct casting into tubes. The additonal fact that the material is non-hygroscopic eliminates handling and exposure limitations. As well, the fact that casting is done at room temperature eliminates problems associated with thermal processing, such as shrinkage.
+No measurements have been made of the tensile strength of any of the epoxy formulations, however, based upon "ad hoc" testing, it would seem to be greater than that of the sugar propellants. Importantly, even though the epoxy formulations fracture in a brittle (rather than ductile) manner, the impact resistance is vastly superior, with much of the impact energy being absorbed by plastic deformation at the impact zone.
+An estimate was made of the elastic modulus of the RNX-30 formulation. Elastic modulus, E, (also known as Young's modulus) is defined as the stress developed in a material at a given strain (analogous to a spring constant). This relates directly to the flexibility of a material, and for a rocket propellant, the lower the modulus the better. To measure the elastic modulus, the geometry of the slab grain prepared for RNXS-3 made for convenient measurement. The method is shown in Figure 14, whereby a force, P, is applied to one end of a cantilever beam (propellant slab) which is clamped at the other end, and d is the measured tip deflection.
+
+￼
+Figure 14 -- Setup to measure elastic modulus
+For the propellant slab tested, which had a cross section of 0.46 x 1.41 inch (11.7 x 35.8 mm) and a cantilevered length of 14.57 inch (370 mm), the calculated value was E = 485,000 lb/in2 (3.34 GPa). This is very similar to the elastic modulus of plexiglas (acrylic), for which E = 450,000 lb/in2.
+
+Conclusions
+A successful rocket propellant based upon a formulation of Potassium Nitrate and epoxy would seem to be an alluring, yet (so far) elusive goal. However, the work that has been performed so far has been valuable in gaining key insight into the behaviour of the epoxy based formulations. A summary of the traits of particular interest are given below:
+	•	Preparation, mixing, casting and finishing of the KN-epoxy formulations was relatively straightforward and safe, and without undue complications. The resulting product has very suitable mechanical and physical properties with regard to those desired for a rocket propellant. 
+	•	Of the 3 epoxies used, East Systems would seem to be the best choice, providing a product with superior mass density, and best performance in terms of c-star. If West System epoxy is to be used, vacuum processing may be required to eliminate the porosity. 
+	•	The minimum percentage of epoxy binder required to produce a 'workable' mixture would seem to be about 23%. Less binder results in a mixture that is too stiff to form into a grain without the risk of voids or boundaries. The addition of a fine powder such as sucrose or sulphur tended to further stiffen the mixture. A surfactant, such as lecithin, may help in this regard. 
+	•	The addition of atomized aluminum powder is effective in significantly increasing c-star 
+	•	Nearly all formulations tested burned well and with a consistent rate in the open air. Strands based on MAS epoxy burned much slower, however, and were less stable. 
+	•	Iron oxide was proven to be a very effective burn rate catalyst, increasing the burn rate without affecting the pressure exponent. Sulphur would also seem to be an effective burn rate enhancer. 
+	•	The formulations tested at elevated pressure (with aluminum and iron oxide additives) were shackled with a high pressure exponent, giving nearly a linear burn rate increase with pressure. 
+	•	No nozzle erosion resulted from the static motor firings, which is highly beneficial, allowing the use of steel as a nozzle material. 
+	•	The delivered c-star for the KN-epoxy formulations was comparable to that of the sugar propellants. KN-Sucrose has an ideal c-star of 919 m/sec, and a delivered c-star of 911 m/sec. Certain formulations such as RNX-17 are even more energetic, with ideal and measured c-star values of 1015 and 971 m/sec., respectively. 
+	•	A signicant amount of residue remains after combustion. The potassium carbonate and aluminum oxide are expected products of combustion and are of no particular concern. Carbon was a product of several of the formulations, which is a sign of fuel-rich O/F ratio. It is important that during motor operation these condensed phase products are ejected out the nozzle, and not remain in the combustion chamber, in order to extract mass momentum. In the motor tests, a significant amount of residue remained. It is felt, however, that this was simply a result of insufficient chamber pressure to develop the conditions needed to force ejection of all combustion products. 
+	•	The results of all three motor static tests were similar, with no useful thrust or chamber pressure developed over the prolonged burn time. The reason for this is almost certainly the high pressure exponent of the formulations tested. This is illustrated by looking at Figure 15, which shows a comparison between the burn rate v.s. pressure profile of the KN-Sucrose propellant and the RNX-30 formulation.  ￼ Figure 15 -- .  In the region of typical motor operation (around 1000 psi), the slope (rate of change) of the burn rate curves is very similar. What this implies is that if a rocket motor with RNX-30 propellant could reach and maintain a chamber pressure in this region, the motor would operate in a very stable manner, characterized by the operation of a sugar propellant motor. (note that the Kn would have to be approximately double). The key difference in the behaviour is at the low pressure region. KN-Sucrose has a burn rate that is highly sensitive at low pressure, and as such, chamber pressure rapidly begins to rise above ambient almost immediately upon grain ignition. RNX-30 is rather lazy in this regard, and as such, the burn rate does not give the chamber pressure a chance to rise much beyond ambient. 
+In conclusion, it would appear that KN-epoxy may form the basis of a viable rocket propellant if a formulation could be developed that will have a sufficient and stable burn rate and a lower pressure exponent than that exhibited by those formulations tested to date.
+
+Update
+May 17, 2003 Additional development work that took place following the original publication of this webpage (June 2002) eventually led to the successful development of a potassium nitrate/epoxy based RNX propellant. The key to success was the discovery that a large dosage of iron oxide would effectively lower the pressure exponent such that a stable burn could occur in a rocket motor. Two propellants were developed: RNX-57, based on East Systems epoxy, and RNX-62, based on West System epoxy. RNX-57 has been utilized in two new experimental motors, the Epoch motor and the Paradigm motor. Both of these motors have been successfully static fired and subsequently have boosted two series of rockets aloft, the Boreas and more recently, the Frostfire.
+
+￼
+Last updated May 17, 2003
+Return to Top of Page
+Back to Home Page
+

@@ -1,0 +1,134 @@
+
+SStS
+Sugar Shot to Space
+
+Web Site Central
+Project Description
+Current Project Status
+Project Teams
+Sponsors & Donors
+Documentation
+Project Description
+The underlying goal of the Sugar Shot to Space project is too loft a rocket powered by "sugar propellant" into space, officially defined as 100 km (62 miles) above the earth's surface. Inspiration for this project arose from a dialogue and ensuring exchange of ideas on the SugPro E-mail rocketry forum.
+This would not be the first amateur rocket to reach that milestone, that honour having been achieved by the Civilian Space eXploration Team on May 17, 2004 with their outstanding GoFast rocket. The fundamental difference of the Sugar Shot to Space project is to achieve the goal using an honest-to-goodness amateur propellant, rather than the ubiquitous ammonium perchlorate composite propellant (APCP) that the GoFast and nearly all professional and military rockets use. "Sugar propellant", undoubtedly the most popular propellant used by amateur rocketry experimentalists worldwide due to its inherent simplicity and safety, is not a high performance propellant. Therein lies much of the challenge of this project.
+Besides the extraordinary goal of sending a rocket into space, there are other equally important and more fundamental goals. This project is intended to be universal in scope with regard to involvement, and as such, participants from around the world are invited to join in this quest. It is hoped that the Amateur Experimental Rocketry community, which over the past decade has grown in size and in collaboration thanks to the internet, will bond even more closely -- to share our ideas, experiences, successes and failures. Other goals include expanded development of "sugar propellant" technology, leading to greater knowledge and enhanced safety of sugar propellant rocketry. And no one can argue that success of this project would provide incontestable legitimization of the remarkable "sugar propellant". Last, but not least, it is hoped that attention spurred by this project will promote an interest in science & technology and begin paving the way for future "rocket engineers" to take us further.
+This project consists potentially of four distinct phases, progressing through initial feasibility, research and design, fabrication and testing and finally, launch. A decision will be made at the conclusion of each phase whether a go-ahead with the subsequent phase is warranted. The go-ahead decision, made by the project directors, will be based on a complete review of the project up to that point and whether the project is still on track for success in achieving the ultimate goal of reaching space.
+Project Phases
+1. Initial Feasibility
+	•	Trajectory simulations
+	•	Basic configuration study (1 or 2 stage rocket, etc.)
+	•	Motor thermal issues
+	•	Materials study (composite, metallic, etc.)
+	•	Aerodynamic assessment
+	•	Payload instrumentation studies
+	•	Large grain production techniques
+	•	Regulatory issues
+	•	Launch locations
+	•	Cost estimation
+	•	Fund raising methods
+2. Research & Design
+	•	Propellant studies
+	•	Grain casting studies
+	•	Reduced scaled motor design(s) and testing
+	•	Instrumentation design and detail testing
+	•	Nose cone studies & design
+	•	Motor ignition methods study, design & testing
+	•	Interstage design
+	•	Safe-arm design
+	•	Launcher interface and ground support design
+	•	Recovery system design & detail testing
+	•	Fin & airframe studies & design
+	•	Commence ordering of materials
+3. Fabrication & Full Scale Testing
+	•	Prepare Full Drawing package
+	•	Ship materials to fabrication locations
+	•	Fabricate parts for full-scale vehicle
+	•	Test remote-production equipment for grain fabrication
+	•	Packaging for transport
+	•	Trial assembly of vehicle components
+	•	Assemble Meteorological equipment
+	•	Hydro-Test motor assembly
+	•	Photo/Video documentation
+	•	Full-scale static test of motor
+	•	Assemble all GSE needed for launch
+	•	Downlink testing
+	•	Instrumentation qualification testing
+	•	Affirm launch license
+4. Launch
+	•	Affirm launch license
+	•	Early arrival for Casting Crew
+	•	Commence propellant casting
+	•	GSE arrives; Launch Rail Fitup
+	•	Test Meteorological procedures and equipment
+	•	Test Launch Control Equipment
+	•	Test Downlink
+	•	Assemble motors W/O igniters
+	•	Trial assembly of vehicle
+	•	Install and shunt Igniters & Pyrotechnic devices
+	•	Install and checkout payload instrumentation
+	•	Dolly to Launch Rail
+	•	Install vehicle on Launcher
+	•	Meteorological check
+	•	Range safety check
+	•	Final systems check
+	•	Launch
+	•	Vehicle recovery and data analysis
+￼
+Project Team
+Project Directors:
+      William Colburn      Richard Nakka
+Technical Teams:
+Vehicle Development Team
+Motor Development Team
+Propellant Development Team
+Payload Development Team
+Recovery System Development Team
+Safety Systems Development Team
+Launch Support Team
+Environmental Impact Team
+
+Project Support Teams:
+Marketing Team
+Cost Estimation and Accounting Team
+Regulatory Resolution Team
+Legal Matters Team
+Documentation Team
+Click on any of the above hyperlinks to find out more about the teams
+Depending on the project phase, various personnel are needed to support project activities.
+Phase 1  Personnel are currently required to support:
+
+	•	Trajectory simulations
+	•	Materials study (composite, metallics, etc.)
+	•	Aerodynamics (stability, aero loading, drag minimization)
+	•	Regulatory issues
+	•	Launch location studies
+	•	Cost estimation
+	•	Marketing, fund raising, sponsorship solicitation, etc.
+	•	Accountant/Treasurer
+Phase 2  Personnel will be required to support:
+
+	•	Propellant research & characterization
+	•	Scaled motor design, fabrication and testing
+	•	Flight loads calculations
+	•	Stability analyses
+	•	Flight motor design
+	•	Grain casting studies & experiments
+	•	CAD drawing and detail design of vehicle components
+	•	Legal matters
+	•	Regulatory liaisson
+	•	Payload design and testing
+	•	Recovery system design/testing
+	•	Other
+Sponsors & Donors
+www.MrFiberglass.com -- Discounted composite supplies for SStS project.
+
+Documentation
+SStS Project Specification Document, Rev. 2005-07-17    ￼   ￼
+SStS Team Lead Description, Rev. 1.0    ￼
+
+￼
+
+Last updated August 7, 2005
+￼
+
+

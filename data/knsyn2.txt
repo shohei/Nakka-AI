@@ -1,0 +1,81 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Synthesis of Potassium Nitrate from Other Chemicals
+
+Introduction
+KNO3 Synthesis Processes
+KNO3 Synthesis from Calcium-Ammonium Nitrate and KCl 
+Appendix
+
+Introduction
+Potassium nitrate is one of the most popular oxidizers used in amateur experimental rocketry. Although used primarily for Sugar Propellants, potassium nitrate, often abbreviated "KN", has found usage in other amateur propellants such as blackpowder and epoxy-based RNX propellant. Historically, potassium nitrate has been readily available in the form of 13-0-46 fertilizer, sold as saltpetre at pharmacies, or purchased at hardware stores in the form of stump remover. Nowadays, potassium nitrate may not be as readily available as new restrictions on its sale have been imposed in recent years in many countries. This, of course, is unfortunate for the amateur rocket engineer. Potassium nitrate can be purchased from on-line sources, however, as an oxidizer, shipping can be expensive due to hazmat charges. And oxidizers are prohibited from being sent through the regular mail-post system.
+As such, it is indeed fortuitous that potassium nitrate can be synthesized using chemicals that are often readily available (we refer to these as "mislabeled rocketry supplies") and are unrestricted with regard to purchasing and shipping. This webpage describes different processes that allow for simple and safe ways to make synthetic potassium nitrate that is adequately pure and is perfectly suitable for use as a rocket propellant oxidizer. One method in particular is described in detail.
+
+
+KNO3 Synthesis Processes
+There are a number of ways that potassium nitrate can be synthesized. Here are four example methods:
+
+	•	Method-1: From ammonium nitrate (AN) and potassium Hydroxide NH4NO3+ KOH -> NH3+ H2O+ KNO3 I have used this method with success. Couple of drawbacks. Ammonia gas is produced which is unpleasant to deal with (the process must be done in a well-ventilated environment). As well, the sale and transport of AN is also restricted and its manufacture as a fertilizer is being phased out. 
+	•	Method-2: From calcium nitrate and potassium carbonate: Ca(NO3)2 + K2CO3 --> 2KNO3 + CaCO3 
+	•	Method-3: From calcium nitrate and potassium chloride: Ca(NO3)2 + KCl --> 2KNO3 + CaCl2 This method is essentially the same as Method-4. 
+	•	Method-4: From ammonium-calcium nitrate decahydrate and potassium chloride: NH4(NO3)*5Ca(NO3)2 *10H2 O + 11KCl --> 11KNO3 + NH4Cl + 5CaCl2 + 10H2 O  This is now my standard method of synthesizing potassium nitrate. The method is safe and relatively simple to perform. Products and reactants are all non-toxic and odourless.
+These four synthesis methods are actually simple to perform, whereby the reagants are dissolved in hot water, mixed, whereby an ion exchange reaction occurs, followed by a chill-down of the solution to obtain the desired product (KNO3) which will crystallize in the reaction vessel since KNO3 has much lower solubility than the other products at sub-zero temperature. This is followed by recrystallization which serves to purify the product.
+Of these, Method-4 is the focus of this webpage.
+
+KNO3 Synthesis from Calcium-Ammonium Nitrate and KCl
+In Method-4, Calcium-Ammonium Nitrate Decahydrate and Potassium Chloride undergo an ion-exchange reaction (also known as double-decomposition). The reaction produces primarily Potassium Nitrate, which constitutes 59% of the product mass. Calcium Chloride constitutes 29% of the product mass. Some water and a trace amount of Ammonium Chloride are produced.
+Calcium-Ammonium Nitrate Decahydrate is a commonly available fertilizer that is replacing ammonium nitrate in the agricultural marketplace. Its sale is not restricted and it is becoming readily available. Specifically, Ammonium-calcium nitrate decahydrate is a double-salt. As a fertilizer, it has the designation 15.5-0-0. Table 1 provides the makeup of this hydrated double-salt.
+
+￼
+
+Table 1 -- Makeup of Calcium-Ammonium Nitrate Decahydrate
+As the material contains less than 10% ammonium nitrate and contains more than 12% water of crystalliztion, it is exempt from being a DOT regulated product (ref. 49 CFR 172.102). As such it can be freely transported and can be shipped as a non-hazardous product. The cost of this fertilizer product is low -- approximately $25 CAD ($19 USD) for a 20 kg bag.
+Potassium Chloride is readily available as a garden fertilizer, commonly called "muriate of potash" (designation 0-0-62) and as a sodium-free water softener salt. The water softener salt is the better choice as the product is of very high purity. The cost is approximately $28 CAD ($21 USD) for a 20 kg bag.
+Figure 1 illustrates the fertilizer and water softener products that I have used with good success.
+
+￼  ￼
+
+Figure 1 -- Bags of Calcium-Ammonium Nitrate Decahydrate and Potassium Chloride
+Click for larger image
+Theoretical yield is 1.03 kg. potassium nitrate per 1.00 kg of Calcium-Ammonium Nitrate Decahydrate + 0.82 kg. potassium chloride.
+I learned about this particular synthesis method from fellow rocketry experimenter Dyanko Chernev. In his webpage Dyanko provides the theory and process details of the synthesis method. Dyanko's method is elegant and produces a particulary pure potassium nitrate product with an excellent yield. Dyanko's method produces 80% of theoretical yield of potassium nitrate. I have performed testing of the potassium nitrate produced by this method with respect to overall performance as well as burn rate, and found it to be identical to commerically obtained potassium nitrate. I have also launched many rockets using his synthetic product. Dyanko's method is the best way to synthesize potassium nitrate from Calcium-Ammonium Nitrate Decahydrate (or Calcium Nitrate) with regard to yield and purity. The method is described in detail on his webpage and as such I'll not reproduce the details here. Instead, this webpage will detail an alternative method which is a convenient simplification of Dyanko's method. I'll designate this as Method-4A.
+
+Synthesis Method-4A
+The aim of Method 4A is to produce potassium nitrate of reasonable purity, suitable for sugar propellants and other potassium nitrate based propellants, with minimal processing. Typical yield is around 70% of theoretical.
+The following steps show how to convert one kilogram of Calcium-Ammonium Nitrate Decahydrate which I will abbreviate as CAND. The corresponding amount of KCl required is 760 grams. Net yield is approximately 700 grams of reasonably pure potassium nitrate.
+Materials and apparatus needed:
+
+	1	1 kg Calcium-Ammonium Nitrate Decahydrate
+	2	760 grams Potassium Chloride
+	3	Thermometer accurate to -10 degrees Celsius
+	4	Hot plate or deep fryer for heating solution
+	5	Stainless steel (or pyrex glass) pot for heating solution
+	6	Silicone spatula or similar for stirring/scooping
+	7	Suitable Poly containers for dissolving and crystallizing solution
+	8	Piece of nylon or polyester fabric (fine mesh) approximately 50cm x 50cm
+	9	Several sheets of newspaper
+	10	Ice cubes
+	11	Shallow pan for drying crystals
+Procedure:
+
+	1	A saturated solution of potassium chloride (KCl) and water (tap water is fine) is first prepared. To do this, place 760 grams of KCl in 1.5 kg room-temperature water. If the KCL is water softener salt, it comes in the form of sizeable chunks which will take a few days to dissolve. Vigorously stir the solution two or three times each day, and after a few days the KCl will have largely dissolved. To dissolve the remaining KCl, heat the solution to boiling until fully dissolved.  PHOTO ￼ 
+	2	Carefully add 1 kg of CAND to the boiling solution, a cupful at a time. Continue heating until the CAND is fully dissolved.  PHOTO  PHOTO  PHOTO  Note: in photos, 1/2 batch is being prepared at a time, for convenience. ￼ 
+	3	Remove from heating, pour into a suitable container, and allow the solution to cool to room temperature. Crystals of potassium nitrate will form as the solution cools down.   PHOTO 
+	4	Place in a freezer and allow to cool down to -10 (+/- 2) degrees C. This will take several hours. A large mass of crystals will form.   PHOTO  PHOTO 
+	5	Remove from freezer. Drain off supernatant liquid.   PHOTO   PHOTO 
+	6	Spread the wet crystals over the fabric mesh sheet placed on top of several layers of newspaper. The purpose of this step is to draw off much of the remaining liquid, which is contaminated with calcium chloride and ammonium chloride. As the newspaper layers beneath the fabric sheet get wet, remove the wet paper and replace with fresh paper. This is readily accomplished by lifting the fabric mesh by grasping the four corners being careful not to spill any of the crystals. Continue this process until most of the liquid has been drawn away from the crystals (this will be apparent by the newspaper getting damp but not soaking wet, usually taking several hours). This step is important, as calcium chloride is very hygoscopic and we want to minimize its amount in the final product. Wash the fabric sheet as it will be needed again.   PHOTO  PHOTO 
+	7	The next step is to recrystallize the potassium nitrate in order to increase its purity. Place damp crystals in a container with 400 grams of water and heat until crystals are fully dissolved.  PHOTO ￼ 
+	8	Remove from heating and pour solution into a poly container to fully cool to room temperature. Crystals of potassium nitrate will form as the solution cools down. 
+	9	Place in a freezer and allow to cool down to -5 (+/- 2) degrees C. This will take several hours. 
+	10	Remove from freezer. Drain off supernatant liquid. 
+	11	Briefly wash the crystals with ice water to cleanse of contaminants then drain off wash water.   PHOTO 
+	12	Spread the wet crystals over the fabric mesh sheet placed on top of several layers of newspaper. As done earlier, change the newspaper frequently. Continue this process until most of the liquid has been drawn away from the crystals, preferably overnight. 
+	13	The next step is to fully dry the harvested potassium nitrate crystals. This can be accomplished by spreading the crystals into a thin layer in a suitable shallow pan, then use a fan (or forced-air heater) to blow warm air over the crystals until fully dry. A better option may be to dry the crystals in an oven, however, I have not yet tried this method   PHOTO  PHOTO   PHOTO.   ￼  Launch of Xi-7 rocket powered by KNDX made with synthetic KN  Appendix  ￼  Solubility of Nitrates  ￼  Solubility of Chlorides 
+
+￼
+Last updated September 16, 2020
+Return to Top of Page
+Return to Home Page
+

@@ -1,0 +1,247 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Rocketry Software
+
+SRM - Solid rocket motor design  ￼
+METEOR - Solid rocket motor design  ￼
+CASING - Motor casing design
+IGNITER - Rocket motor igniter design
+CONVERT - Units converter
+EzRocket- Rocket Design Spreadsheet
+EzAlt- Rocket Flight Performance Spreadsheet
+SOAR - Rocket Flight Performance
+WHOOSH- Water rocket performance
+ROCCAD- Rocket altitude, Cd and CP estimation
+AEROLAB- Rocket drag and stability
+OPENROCKET - Rocket design and performance
+RASAERO II- Rocket design and performance
+GUIPEP- Graphic interface for PROPEP program  
+THERMCAS- Motor casing thermal analysis
+PARAPAT- Parachute gore pattern maker
+LOADCELL- Loadcell designer
+NOZLBORE- Nozzle Machining Aid
+PFC-BURN - Pseudo-Finocyl Grain Analysis
+Ejection Charge Calculator
+GRAINDENSITY - Grain density check
+O-RING - Design tool  ￼
+PDFCreator
+
+SRM.XLS
+Solid Rocket Motor Design
+
+SRM.xls is an MS EXCEL spreadsheet that takes user-inputted motor and grain geometry data and computes Kn over the duration of the motor burn, generates a pressure-time curve, a thrust-time curve, as well as performance parameters such as total impulse and delivered specific impulse. Motor performance data is also summarized for easy input into a trajectory simulation software, such as SOAR. Although primarily intended for designing motors using KN-Dextrose or KN-Sorbitol propellant, other propellants may be specified with user inputted propellant properties. 
+Solely for cylindrical grain configurations, such as BATES.
+Written by R.A. Nakka.
+
+SRM_2014.xls is a newly released version. Although similar to the original SRM.xls, this revised version simplifies the design process by allowing the user to specify chamber pressure (rather than Kn) as a design parameter. The propellant choice has been expanded to include additional sugar propellant variations. A nozzle design worksheet has been added to help the user to visualize the nozzle geometry. Drop-down menus have been added to ease selection of parameters.
+SRM_2014.1.ZIP  ￼     755 kbytes     Zipped EXCEL 2000 spreadsheet         Freeware  SRM TIP SHEET   Rev.2020-12-21  178 kbytes     PDF document  ￼
+SRM_2014_RU.ZIP     1.604 Mbytes     Zipped EXCEL 2000 spreadsheet         Russian language version of SRM_2014, translated by Vadim Zaharchenko. Freeware
+SRM_2014_BG.RAR     485 kbytes     Zipped EXCEL 2000 spreadsheet         Bulgarian language version of SRM_2014, translated by George Andonov. Freeware
+SRM.ZIP    Version: 1.00    536 kbytes     Zipped EXCEL 2000 spreadsheet         Freeware  SRM_RU.ZIP    Russian Language Version    1.08 Mbytes     Zipped EXCEL 97/2000 SRM-CASTELLANO.ZIP    Spanish Language Version, translated by Guillermo O. Descalzo     550 kbytes     Zipped EXCEL
+SRM_2014_Po    Portuguese Language Version, translated by Phoenix Rocket Tech Team of University of Caxias do Sul (UCS)     930 kbytes     EXCEL XLSM file  ￼
+
+
+METEOR   ￼
+METEOR is a Java implementation of the SRM.XLS Solid Rocket Motor Design spreadsheet.
+A free-to-use on-line application, METEOR is a convenient, validated tool for designing rocket motors. Includes some useful additional features not currently implemented in SRM.XLS
+METEOR: DESIGN YOUR SOLID ROCKET MOTOR 
+Written by Jordan Content and Jérôme Bise of Lyon, France.
+
+
+CASING.XLS
+Motor Casing Design
+
+This is an MS EXCEL spreadsheet that is used to determine the Design Pressure and Burst Pressure of a solid rocket motor casing. Also determines the elastic deformation of the casing under pressure (important for case-bonding consideration). Strength and mechanical properties are supplied for many casing materials such as steels, aluminum alloys, PVC, etc. 
+Written by Richard Nakka.
+
+CASING.XLS    Version 1.03    61kbytes     EXCEL 5.0 spreadsheet         Freeware
+CASING_BG.XLS        70kbytes     EXCEL spreadsheet         Bulgarian language version of CASING translated by George Andonov. Freeware
+
+IGNITER.XLS
+Rocket Motor Igniter Design
+
+This is an MS EXCEL spreadsheet that may be used to estimate the chamber pressure that occurs in a rocket motor due to combustion of a pyrotechnic igniter. Use of a properly sized pyro igniter is important for efficient rocket motor design. The motor should reach full operating pressure rapidly without wasting propellant (and thereby reducing Isp). As well, it is important to avoid overpressurization. Although tailored for black powder igniters, this spreadsheet may be used for other pyrotechnic mixtures, as well. The latest version of this spreadsheet (v1.1) also computes parachute ejection charge force.
+Written by Richard Nakka.
+
+IGNITER.XLS    Version 1.1    74kbytes     EXCEL 2000 spreadsheet         Freeware
+IGNITER_BG.XLS        47kbytes     EXCEL spreadsheet         Bulgarian language version of IGNITER translated by George Andonov. Freeware
+
+CONVERT
+Units Converter
+
+Windows software that converts units for Force, Pressure, Density, Area, Distance, Volume and several other measures. Very convenient and simple to use, highly recommended. Written by Joshua F. Madison. www.joshmadison.com/soft , or download it here:
+
+CONVERT.ZIP    Version 4.08    168 kbytes     Zipped file         Freeware
+
+EzRocket
+Rocket Design Spreadsheet
+
+This Excel spreadsheet is intended as an easy-to-use design aid for hobby rocketry. Unlike most rocket simulation programs, which predict peak altitude for a given rocket and motor combination, this progam instead considers peak altitude as a design goal. Based on this goal, the program computes what size motor is required to reach this peak altitude. Both English and Metric units. Written by Richard Nakka.
+
+EzRocket.xls    Version Beta    92kbytes     EXCEL 97 spreadsheet         Freeware
+EzRocket_BG.RAR    24 kbytes     Zipped EXCEL 2000 spreadsheet         Bulgarian language version of EzRocket, translated by George Andonov. Freeware
+
+EzAlt
+Rocket Flight Performance Spreadsheet
+
+An easy to use Excel spreadsheet that predicts the peak altitude, maximum velocity, burnout altitude, acceleration and time to peak altitude of an amateur rocket. Intended primarily as a rocket design aid due to its simplicity of use and ease with which variables (such as rocket mass, motor output, drag coefficient, etc.) can be modified, and the effects of such studied. Both English and Metric units. Written by Richard Nakka.
+
+EzAlt_1.3.xls    Version 1.2    195kbytes     EXCEL 97 spreadsheet         Freeware
+EzAlt_BG.RAR     24 kbytes     Zipped EXCEL 2000 spreadsheet         Bulgarian language version of EzAlt, translated by George Andonov. Freeware
+EzAlt_RU.XLS     92 kbytes     EXCEL 2000 spreadsheet         Russian language version of EzAlt, translated by Vadim Zaharchenko. Freeware
+
+SOAR
+Rocket Flight Performance
+
+This program predicts the flight performance of a rocket. It calculates parameters such as altitude, velocity, acceleration, drag force, dynamic pressure, Mach number, and is capable of handling single-stage, multi-stage and clustered rockets. Meant to be accurate, the program utilizes efficient professional subroutines for numerical differentiation and integration. Also meant to be versatile and user friendly, it can handle supersonic rockets with a flight ceiling to 100,000 feet. as easily as low altitude model rockets with commercial engines. Runs under DOS only. Written by Richard Nakka & B.W. Nakka.
+
+SOAR.ZIP  187 k     DOS  Freeware  
+Data files of Model Rocket Engines, for use with SOAR program. MROCKENG.ZIP  15 k
+Data files of the Kappa-DX & Kappa-SB Rocket Motor, for use with SOAR program. KAPPA.ZIP  2 k  
+Data files of the B-200 & C-400 Rocket Motors, for use with SOAR program. ENGINE1.ZIP  1 k
+
+WHOOSH
+Water Rocket Performance
+
+This program may be of interest to the slightly less adventurous amateur rocketeer -- it predicts the performance of a "soda bottle" rocket (aka "water rocket"). A water bottle rocket, by the way, is a rocket made from a plastic soda bottle (eg 2 litre) filled with a mixture of water and compressed air (surprising performance!).
+
+Program calculates parameters such as thrust, jet velocity, and pressure, all as a function of time, as well as total impulse and specific impulse. May be used together with SOAR to predicts the flight performance.  Runs under DOS only. Written by Richard Nakka.
+Source code (FORTRAN) is available upon request.
+WHOOSH.ZIP  37k   MSWORD 6.0 documentation    DOS  Freeware
+
+ROCCAD
+Rocket Altitude Prediction
+& Coefficient of Drag and Centre of Pressure Estimation
+
+This program predicts the altitude a rocket may fly given the performance parameters of the motor and the physical characteristics of the rocket. The program also determines the optimum weight of a rocket to achieve maximum altitude. Additionally, the program can estimate the coefficient of drag (Cd) and the centre of pressure (Cp) of a rocket, based on the rocket's geometry. Includes performance parameters for the PVC "G", "H", & "I" rocket motors. 
+Runs under DOS only. Written by: Charles D. Knight.
+
+ROCCAD.ZIP  169 k     DOS  Freeware  
+
+AEROLAB
+Rocket Drag and Stability
+
+Aerolab is a very useful and easy to use package that estimates Drag, Lift and Center of Pressure for rockets flying at velocities up to Mach 8. It also estimates the rockets Center of Gravity and Moments of Inertia and performs stability analysis within the entire velocity range.
+Runs under 32 bit Windows. Written by Hans Olaf Toft.
+
+AeroLab_2015.zip       MS Windows   For free distribution 1000 kb
+
+OPENROCKET
+Rocket Design and Performance
+
+OpenRocket is a free, fully featured model rocket simulator that allows you to design and simulate your rockets before actually building and flying them. The main features include:
+•Six-degree-of-freedom flight simulation
+•Automatic design optimization
+•Realtime simulated altitude, velocity and acceleration display
+•Staging and clustering support
+•Cross-platform (Java-based) 
+OpenRocket is an Open Source project licensed under the GNU GPL. This means that the software is free to use for whatever purposes, and the source code is also available for studying and extending. Originally written by Sampo Niskanen.
+
+Openrocket.sourceforge.net
+
+RASAero II
+Rocket Design and Performance
+
+RASAero is a combined aerodynamic analysis and flight simulation software package for model rockets, high power rockets, amateur rockets and sounding rockets. I found RASAero to be refreshingly easy to learn how to use. Menus are intuitive and the software provides a nice visual representation of the rocket being designed and good graphics showing the results of flight simulation. Simulation takes into account parameters such as launch angle, wind and parachute deployment, and as such provides results for both vertical and horizontal distance flown by a rocket. Other simulation results include mach number, angle of attack, Cd and Cl, drag force, CG and CP locations, stability margin, flight path angle and rocket attitude, over the full duration of the simulated flight. Results of simulation can be exported to Excel, which is a particularly useful feature.
+RASAero software is free. 
+Written by Charles E. Rogers and David Cooper.
+
+RASAero II download
+
+GUIPEP
+Graphic Interface for PROPEP program
+
+This program provides a user friendly interface to run the PROPEP propellant evaluation program. PROPEP is a program that determines the chemical equilibrium composition for the combustion of a solid or liquid rocket propellant. Additionally, it determines rocket performance parameters such as Isp and C*, and nozzle design parameters. GUIPEPis a must-have program for the rocketry propellant experimentalist.
+Runs under Windows. Written by Arthur J. Lekstutis, GUIPEP is available for download at Arthur's web site, which also has a link to PROPEP.
+
+GUIPEP and PROPEP       MS Windows   For free distribution  
+
+ProPep 3 by Dave Cooper, 2012       MS Windows 7/10  For free distribution Expanded data file (pepcoded.daf) for the PROPEP program. Includes entries for Dextrose, Sorbitol, Mannitol, Xylitol, Charcoals, Asphalt, Paraffin and others.  April 2010 pepcoded.zip    Zipped text file       23 kb
+For details on using GUIPEP and an explanation on interpreting the output, see my web page:
+Solid Rocket Motor Theory -- GUIPEP
+
+
+THERMCAS
+Motor Casing Thermal Analysis
+
+A thermal analysis package that determines the temperature distribution through the thickness of a motor casing wall that results from convective heating due to propellant combustion and resulting gas flow. The package consists of DOS executable file which outputs a table of results which may be copied into a companion EXCEL spreadsheet for plotting. In addition, the spreadsheet contains thermal and material properties required as input data, as well as a calculator for determining the required heat transfer convection coefficient.
+Runs under DOS only. Written by Richard Nakka.
+
+THERMCAS.ZIP  112k     DOS  Freeware  Version 1.01
+
+PARAPAT.XLS
+Parachute Gore Pattern Maker
+
+This MS EXCEL spreadsheet may be used to create a flat pattern for a parachute gore. A gore is an individual panel that, when stitched together with adjacent gores, forms the canopy of a parachute. The user inputs the basic parachute diameter, as well as the number of gores desired (minimum of 4). The spreadsheet creates a table of coordinates as well as a plot of a single gore. When assembled, the parachute canopy is semi-ellipsoidal in shape (a "flattened" hemisphere). This form of canopy is more efficient than a hemispherical canopy, in that less material is required to provide equal drag. 
+Written by Richard Nakka.
+
+PARAPAT_V1.1.XLS  Version 1.1 (June 2016)    75kbytes     EXCEL 97spreadsheet         Freeware
+PARAPAT_V1.1_BG.XLS        49kbytes     EXCEL spreadsheet         Bulgarian language version of PARAPT_V1.1 translated by George Andonov. Freeware
+
+LOADCELL.XLS
+Loadcell Designer
+
+A relatively simple-to-make beam-type loadcell may be designed by use of this Excel spreadsheet. The user specifies the dimensions of the loadcell body (basically, a rectangular block of metal) and the size of hole to be drilled through the body, in order to achieve the desired load capacity. The only other materials required are one or two strain gages, and suitable adhesive for mounting such.
+Written by Richard Nakka.
+
+LOADCELL.XLS    Version 1.10    210 kbytes     EXCEL spreadsheet         Freeware
+
+NOZLBORE.XLS
+Nozzle Machining Aid
+
+The most time consuming step of machining a rocket nozzle is the process of boring out the conical convergent and divergent passages. In particular, the divergent passage, which has a greater bore depth and more shallow angle. This step may be eased significantly by first drilling out these passages using a series of incrementally larger drill bits. The required drill bit sizes range from the throat diameter to the entrance (or exit) diameter of the nozzle. This operation results in a "stepped" profile which may then be bored to the final smooth profile with a standard boring bar tool. This spreadsheet is intended to aid this drilling operation by supplying the required drill depth for each drill bit size. 
+Written by Richard Nakka.
+
+NOZLBORE.XLS    Version 1.11    375kbytes     EXCEL 2000 spreadsheet         Freeware
+NOZLBORE_BG.RAR        308kbytes     EXCEL spreadsheet         Bulgarian language version of NOZLBORE, translated by George Andonov. Freeware
+￼
+Step-drilled divergent passage of A-100M nozzle.
+A boring tool is then used to finish the contour.
+
+PFC-BURN.XLS
+Grain Geometric Analysis
+
+This spreadsheet computes the Kn (burning-area to throat-area ratio) for a Pseudo-finocyl propellant grain. A Pseudo-finocyl grain configuration consists of a cylindrical grain with a circular bore, from which a number of fins extend radially (similar to a star-grain). Five independant geometric variables allow for great freedom in tailoring of the Kn profile. Such a grain may be fabricated by casting with a suitable mandrel, or by drilling the core, then cutting the fin slots. 
+Written by Richard Nakka.
+
+PFC-BURN.XLS    Version Beta-1    165kbytes     EXCEL 2000 spreadsheet         Freeware
+PFC-BURN.RAR        72 kbytes     Zipped EXCEL spreadsheet         Bulgarian language version of PFC-BURN, translated by George Andonov. Freeware
+￼  ￼
+Pseudo-finocyl grain cross-section. Example Kn chart.
+
+Delaney/Nakka Ejection Charge Calculator
+
+Simple to use Windows calculator that computes the mass of Black Powder needed to produce a specified pressure within a rocket parachute compartment. The resulting force tending to eject the nosecone or to separate the rocket sections is also computed.
+Software written by J.Delaney 
+Help written by Richard Nakka
+EjectionChargeCalculator.zip    Version 1.3    1.4Mbytes     MS Windows         Freeware
+
+GRAINCHECK.XLS
+Grain Density Check
+
+This Excel spreadsheet computes the actual mass density of a sugar-propellant grain based on user input values of grain geometry and mass. This is compared to the ideal mass density by computing the ratio of the two densities. This provides the experimentalist with a "densitometric quality" assessment of a propellant grain. A good quality grain, one with minimal porosity and few voids or other flaws, will have a ratio close to one. A porous grain or a grain with hidden voids, for example, will be marked by a significantly lower density ratio. The usefulness of such a check is apparent when one considers that propellant burn rate and Kn profile can be strongly affected by such grain deficiencies. In extreme cases, a CATO could result from a grain with degraded densitometric quality. 
+Written by Richard Nakka.
+
+GRAINDENSITY.XLS    Version 1.00    40kbytes     EXCEL 2000 spreadsheet         Freeware
+GRAINDENSITY_BG.RAR        13kbytes     Zipped EXCEL spreadsheet         Bulgarian language version of GRAINDENSITY, translated by George Andonov. Freeware
+
+O-RING.XLS  ￼
+O-Ring Designer
+
+The use of o-rings is an ideal means to pressure seal a rocket nozzle or bulkhead. O-rings are inexpensive, simple to incorporate, and are highly reliable. However, it is important to choose the correct size o-ring for a given application, and to have the correct size gland (groove) into which the o-ring is seated. This Excel spreadsheet selects the appropriate sized o-ring based on user input values of casing and nozzle diameters, based on ARP 1232 specifications. Updated for 100, 200 & 300 series (3/32", 1/8" & 3/16") o-rings . 
+Written by Richard Nakka.
+
+O-RING.XLS    Version 2.3    872kbytes     EXCEL spreadsheet         Freeware
+
+PDFCreator
+Document converter
+
+An extremely useful "open-source" (GNU GPL) software for reliably converting documents to Acrobat PDF format. Excellent for publishing articles for on-line format or for e-mailing. Can be used with any document software (examples: MS Word, MS Excel, PSP, QuickCAD, IE, Netscape). Easy to use -- instead of printing to a device, you simply print to PDF Creator.
+PDFCreator    Version 0.9.3
+
+￼
+Last updated December 21, 2020
+Return to Top of Page
+Return to Index Page
+

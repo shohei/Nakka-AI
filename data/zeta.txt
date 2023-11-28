@@ -1,0 +1,535 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+Zeta Series of Rocket Launches
+
+Introduction
+Basic Description
+Recovery System
+Rocket Motors
+Ground Support
+Flights Summary
+Launch Reports
+Introduction
+The Zeta series of rocket launches began in the autumn of 2014. Work on designing and building the rocket for the first launch actually began a couple of years earlier. Progress was initially slow, due to other activities that kept me busy. Development of the primary rocket motor for the Zeta flights, the H/I class Impulser, was completed the previous autumn with successful static firings. Things eventually came together in the summer of 2014 with completion of the rocket airframe. Successful ground testing of a new recovery deployment system followed. Purchase of a commercial flight computer rounded out all that was needed for flights to begin. The objectives of the Zeta series of flights were numerous, however, the key objective was to start flying rockets again, after a too-long dry spell.
+The Zeta rocket was intended to accomodate motors in the G to I class, with target apogee limited to 1.5 km, which was felt to be suitable for the initial goals of the project. These goals included:
+	•	development and flight proving of a reliable recovery system
+	•	develop reliable means of tracking a flight, visually and electronically
+	•	compare flight performance of motors to static test performance
+	•	experiment with on-board video footage
+	•	develop rocket and launch support equipment for "all-weather" capability, from the extremes of summer heat to winter cold.
+	•	serve as flight test platform for new motors and propellants (such as A24 composite based).
+
+Basic Description
+From the start, it was expected that the rocket design for the Zeta series of flights would evolve over time, morphing as required based on flight experiences as well as specific requirements for any given flight. The aiframe was fabricated from 2.5 inch (64mm) clear plastic tubing. This material proved to be rather brittle, especially when cold, and was later replaced with thin-walled aluminum tubing. Fins were fabricated from thin birch plywood, which demonstrated good durability over the course of several flight. The nosecone was machined from aluminum alloy stock.
+In support of the Zeta project goal of improved visual tracking, the paint scheme of the Zeta rocket is a combination of fluorescent orange paint, black paint and reflective aluminum tape. From prior experience, it had been observed that fluorescent orange greatly aided visibility of a rocket under conditions of both bright sun and overcast sky. Black provides good contrast to an overcast sky. Reflective aluminum "glints" when catching the sun and greatly improves visibility of the rocket at high altitude.
+Zeta rocket for Flights Z-1 and Z-2
+
+Recovery System
+One of the fundamental requirements for the Zeta series was development of a highly reliable recovery system. Key to this was the choice of a proven commercial flight computer to monitor the flight parameters and reliably trigger the pyro charges of the deployment system. The Raven3 unit was chosen due to its small size, flexibility in control over deployment programming, and reputation as a well-engineered product. Dual-deployment was chosen as the most suitable approach to recovery, in order to minimize down-range drift of the rocket. At apogee, a pyro charge is fired which separates the rocket into two sections. The two sections, connected by a tether, then free-fall. When a predetermined altitude is reached (typically 500 feet, or 150m.), a pyro charge is triggered which blows off the nosecone. The momentum of the nosecone pulls out the recovery parachute. A third pyro charge is typically employed which fires a few seconds after apogee, as a backup in case the primary apogee charge fails to perform the separation action. The pyro charges typically employ 1 gram of Crimson Powder, contained within a polyethylene tube.
+Extensive ground testing of the recovery system was carried out prior to first flight. The early ground tests pointed out deficiencies which led to modifications and further ground testing. After nearly a dozen such tests, the system was deemed ready for flight testing. Needless to say, based on flight experience additional improvements were made to enhance functionality and reliability. To date, the recovery system has performed well in flight with no serious anomalies.
+Nosecone, Ejection Charge and Bulkhead (nosecone side shown) Nosecone, Ejection Charge and Bulkhead (chute compartment side shown) Raven, mounted on strongback Raven installed in av-bay
+
+Rocket Motors
+Two particular motors were used for the early flights, the A-100M (G class) and the new 38mm Impulser (H/I class) motor. Both have currently utilized KNSB propellant, although other propellants such as KNDX and KNXY are slated to be used for future flights. The A-100M was utilized for some of the early flights in order to limit apogee to less than a thousand feet, to be able to clearly view the recovery processes. This was done in order to see if the recovery technique was working as expected. The 4-grain Impulser motor was designed to be capable of accomodating a range of propellant grain sizes, in order to deliver performance in the H to I class. This was intended to give flexibility in selecting the apogee goal. Future Zeta flights will accomdate the Impulser-X motor, which is a 5 grain version of the motor. Other motors may be utilized in the future as well, such as new motors powered by A24 composite propellant.
+Impulser and Impulser-X motors Impulser nozzle Impulser drawing (pdf) Casting setup Impulser grain segments Grain segments coated with ignition primer
+
+
+Ground Support
+A very simple launch pad was constructed for the initial Zeta launches. Curiously, the design is essentially the same as used for my early "B" series of launches conducted way back in the 1970's. The pad base consists of a steel plate to which four pointed legs are attached. The legs push into the ground. The drawback to this design is that it does not work well in winter when the ground is frozen. The rocket is secured and initially guided skyward by a 8.25 ft. (2.5m) launch rod of 1/2" (12.7mm) diameter, which is fastened to the base. The steel launch rod consists of two sections which screw together, for portability. A third rod was added later to increase length to 11.25 feet (3.4m).
+Other ground support equipment consists of the following:
+	•	2-way FRS radios for communication
+	•	Hand-held GPS unit for measuring range
+	•	Landing Locator
+	•	Launch Controller
+	•	Cameras (still and video)
+	•	Wagon for hauling supplies to launch site. In winter, a sled serves this purpose.
+	•	Anemometer for measuring wind speed
+	•	Weather-vane and compass for determining wind direction
+	•	Tools for assembly and repair, as well as spare parts
+	•	Launch prep Checklist
+The Landing Locator consists of a tubular pointer which fastens to a conventional camera tripod. The Launch Controller used for flights Z-1 through Z-7 was the same unit I had utilized for over 30 years. The reliability had been excellent, but started to suffer due to old age, and was replaced with a new and improved unit.
+Newly made Launch Controller box The Firing switch is a momentary toggle switch, protected by a guard Firing switch box, guard flipped up Firing switch box, guard flipped down
+
+Flights Summary
+
+ZETA FLIGHT SUMMARY
+ 
+ 
+ 
+ 
+Nominal
+ 
+Apogee
+Range
+ 
+ 
+Flight no.
+Launch Date
+Motor
+Propellant
+impulse (N-s)*
+Class
+ft. (m.)  [1]
+ft. (m.)
+Payload  [2]
+Note
+Z-1
+Oct.14, 2014
+A-100M
+KNSB(S)
+130
+G
+330 (100)
+114 (35)
+Ra
+Premature deployment; no Raven data
+Z-2
+Oct.14, 2014
+Impulser
+KNSB
+271
+H
+2260 (689)
+392 (120)
+Ra
+ 
+Z-3
+Oct.25, 2014
+A-100M
+KNSB-RIO
+144
+G
+unknown
+300 (90)
+Ra
+Premature deployment
+Z-4
+Oct.25, 2014
+Impulser
+KNSB
+336
+I
+3330 (1015)
+1637 (499)
+Ra
+ 
+Z-5
+Dec.7, 2014
+A-100M
+KNSB-RIO
+143
+G
+583 (178)
+417 (127)
+Ra, MC
+ 
+Z-6
+Dec.20, 2014
+Impulser
+KNSB
+290
+H
+1940 (591)
+152 (46)
+Ra, MC
+ 
+Z-7
+Jan.2, 2015
+Impulser
+KNSB
+330
+I
+2728 (831)
+990 (302)
+Ra, MC
+Apogee separation by backup pyro
+Z-8
+Feb.1, 2015
+Impulser
+KNSB
+312
+H
+2358 (719)
+300 (90)
+Ra, MC, SC
+Range estimated
+Z-9
+Feb.14, 2015
+Impulser
+KNSB
+312
+H
+2667 (813)
+50 (15)
+Ra, MC, mC, SC
+Landed 50 ft. from launch pad
+Z-10
+Feb.28, 2015
+Impulser
+KNSB
+352
+I
+3143 (958)
+690 (210)
+Ra, MC, SC, BRB
+ 
+Z-11
+Mar.14, 2015
+Impulser
+KNSB
+337
+I
+2614 (797)
+797 (243)
+Ra, MC, mC, SC, BRB
+Smoke charge performed well
+Z-12
+Apr.4, 2015
+Impulser
+KNDX
+329
+I
+2792 (851)
+91 (28)
+Ra, MC, mC, SC, BRB
+First Zeta flight with dextrose propellant
+Z-13
+Apr.18, 2015
+Impulser
+KNXY
+-
+I
+2115 (645)
+365 (111)
+Ra, MC, mC, SC, BRB
+First Zeta flight with xylitol propellant
+Z-14
+May 9, 2015
+Impulser
+KNSB
+356
+I
+2693 (821)
+977 (298)
+Ra, MC, SC, BRB
+ 
+Z-15
+May 24, 2015
+Impulser
+KNSB
+346
+I
+1533 (467)
+728 (222)
+Ra, MC, mC,SC, BRB
+Stability issue due to external camera
+Z-16
+June 26, 2015
+Impulser-X
+KNDX
+432
+I
+3993 (1217)
+130 (40)
+Ra, mC,SC, BRB
+First flight with Impulser-X motor
+Z-17
+July 11, 2015
+A-100M
+KNSB-RIO
+148
+G
+383 (117)
+348 (106)
+Ra, mC,SC
+Premature chute deployment
+Z-18
+July 25, 2015
+A-100M
+KNSB-RIO
+152
+G
+661 (201)
+356 (109)
+Ra, mC
+ 
+Z-19
+Aug.17, 2015
+Impulser
+KNSB
+359
+I
+2590 (789)
+393 (120)
+Ra, MC,SC, BRB, ABT
+ 
+Z-20
+Sept.12, 2015
+Impulser-X
+KNDX
+435
+I
+3094 (943)
+1790 (546)
+Ra, MC,SC, BRB, ABT
+Farthest range to date
+Z-21
+Oct.3, 2015
+Impulser
+KNDX
+354
+I
+2622 (799)
+1066 (325)
+Ra, MC, mC, SC, BRB, ABT
+ 
+Z-22
+Nov.1, 2015
+Impulser
+KNXY-RIO
+358
+I
+167 (51)
+56 (17)
+Ra, MC, mC, SL, BRB, ABT
+Motor CATO
+Z-23
+Feb.27, 2016
+Impulser
+KNSB
+352
+I
+2695 (821)
+994 (303)
+Ra, SC, BRB, ABT
+ 
+Z-24
+Mar.19, 2016
+Impulser
+KNSB
+357
+I
+2776 (846)
+484 (148)
+Ra, SC, BRB, ABT
+ 
+Z-25
+May 21, 2016
+Impulser-X
+KNDX
+444
+I
+3606 (1099)
+3060 (933)
+Ra, MC, SC, BRB, ABT
+ 
+Z-26
+Oct.29, 2016
+Impulser-X
+KNDX
+437
+I
+3511 (1070)
+1496 (456)
+Ra, MC, SC, BRB, ABT
+ 
+Z-27
+Nov.19, 2016
+Impulser-X
+KNSB
+437
+I
+3048 (929)
+1371 (418)
+Ra, MC, SC, BRB, ABT
+ 
+Z-28
+Mar.13, 2017
+Impulser
+KNSB
+343
+I
+2604 (794)
+317 (97)
+Ra, MC, SC, BRB, ABT
+ 
+Z-29
+Apr.15, 2017
+Impulser
+KNSB
+342
+I
+2672 (814)
+1261 (384)
+Ra, MC, SC, BRB, ABT
+ 
+Z-30
+May 10, 2017
+Helios-X
+A24
+362
+I
+2759 (841)
+1217 (371)
+Ra, MC, SC, BRB, ABT
+First Helios-X powered flight
+Z-31
+June 7, 2017
+Impulser-X
+KNDX
+451
+I
+3672 (1119)
+2136 (651)
+Ra, MC, SC, BRB, ABT
+ 
+Z-32
+July 30, 2017
+Impulser
+KNSB
+337
+I
+2514 (766)
+359 (109)
+Ra, SC, BRB, ABT
+ 
+Z-33
+Sept.6, 2017
+Impulser
+KNSB-S.1
+354
+I
+2536 (773)
+703 (214)
+Ra, SC, BRB, ABT
+Grains prepared using surfactant
+Notes
+
+
+
+
+Table 1
+
+
+
+[1] per Raven
+
+
+
+
+
+
+
+
+[2] Payload definitions:
+
+
+
+
+
+
+
+
+Ra = Raven flight computer
+
+
+
+
+
+
+
+
+MC = mini camcorder (on-board)
+
+
+
+
+
+
+
+mC = micro camcorder (out-board)
+
+
+
+
+
+
+
+SC = Smoke Charge
+
+
+
+
+
+
+
+
+SL = Strobe Lamp
+
+
+
+
+
+
+
+
+BRB = BRB900 GPS transmitter
+
+
+
+
+
+
+
+ABT = Apogee Backup Timer
+
+
+
+
+
+
+
+
+Launch Reports
+	•	Flight Z-1
+	•	Flight Z-2
+	•	Flight Z-3
+	•	Flight Z-4
+	•	Flight Z-5
+	•	Flight Z-6
+	•	Flight Z-7
+	•	Flight Z-8
+	•	Flight Z-9
+	•	Flight Z-10
+	•	Flight Z-11
+	•	Flight Z-12
+	•	Flight Z-13
+	•	Flight Z-14
+	•	Flight Z-15
+	•	Flight Z-16
+	•	Flight Z-17
+	•	Flight Z-18
+	•	Flight Z-19
+	•	Flight Z-20
+	•	Flight Z-21
+	•	Flight Z-22
+	•	Flight Z-23
+	•	Flight Z-24
+	•	Flight Z-25
+	•	Flight Z-26
+	•	Flight Z-27
+	•	Flight Z-28
+	•	Flight Z-29
+	•	Flight Z-30
+	•	Flight Z-31
+	•	Flight Z-32
+	•	Flight Z-33
+
+￼
+Original posting February 21, 2015
+Last updated September 12, 2017
+Back to Home Page
+

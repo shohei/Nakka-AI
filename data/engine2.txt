@@ -1,0 +1,69 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+C-400 Rocket Motor
+History of the C-400 Motor
+Motor Performance
+Motor Nozzle
+Motor Casing
+Motor Head
+Head Gaskets
+Safety Shear Pin Assembly
+Propellant Grain
+Motor Life Expectancy
+
+History
+The C-400 rocket motor was developed in 1973 (originally as the C-II motor), a few months after the B-200 motor was developed. Its purpose was intended for boosting somewhat heavier rockets equipped with small payloads, as well as for proof testing of the parachute deployment method with higher altitude flights. It was expected that the rocket would achieve a peak height of about 2500-3000 feet (750-900 metres).  The design of the C-400 is very similar to that of the B-200 motor, being slightly larger in size, and operating at a somewhat higher chamber pressure (greater Kn). The first static test of this motor occurred in May of that year. This test was not successful--the safety bolt sheared after pressure in the motor became too great (see photo35). The nozzle throat diameter was increased and the motor re-tested. This firing was successful (see photo34).  Although the motor was used for later static testing, it was not utilized on an actual flight until over nine years later, boosting the rocket for Flight C-30 aloft, in October, 1982. It went on to power an additional five flights. In total, it was utilized in 4 static tests and 6 flight tests over a period of 11 years. In total, 2 failures of this motor occurred. The first occurred during the development stage, as mentioned earlier, and the second during a flight test (see photo11). Both failures were due to shearing of the safety bolts. Design improvements of this motor over the original version were the same as were done for the B-200 motor, namely shortening of the divergent portion of the nozzle, weight reduction of the head, machining a groove in the nozzle for engaging the retention pins, and roll-sealing of the nozzle to the casing to reduce leakage.
+Total number of static firings:
+4
+Total number of flights:
+6
+Total firings:
+10
+Successful firings:
+8
+C-400 Reliability record:
+80%
+Performance
+The thrust function for this motor is shown in Figure 1 below, achieving a maximum thrust of 325 pounds (1445 Newtons), and a total thrust time of 0.50 seconds. The total impulse is 106 lb-sec (470 N-s), which fits it into an " I " class designation. The high thrust combined with a short burn time provides for very quick acceleration of the rocket, which is beneficial for providing rapid aerodynamic stability of the rocket vehicle after departing the launch guide-rod. Having a free-standing grain, burning is completely unrestricted, meaning the hollow cylindrical grain burns on both inner and outer surfaces, as well as both ends. This burning characteristic is the same as that for the B-200 motor. The performance graph was based on results from a static test of the motor (AST-13).  The performance of the motor is significantly influenced by the igniter. The performance is optimized by using a pyrotechnic igniter as described in the Igniter web page. Non-pyrotechnic ignition would result in lower delivered impulse, lower maximum thrust, and an extended burn time (longer thrust build up duration). This motor is capable of boosting a 3 inch (7.6 cm) diameter rocket, with a mass of 5.5 lbs (2.5 kg), to an altitude of over 3000 feet (900 metre) (this was typical of the rockets which I launched). If the rocket diameter is reduced to 2 inch (5 cm), the same rocket powered by the C-400 motor would achieve a peak altitude of close to 4000 feet (1.2 km).
+
+
+￼
+Figure 1 -- C-400 Motor performance graph, with the B-200 motor performance shown for comparison
+
+Nozzle
+The C-400 nozzle is a conical profile, convergent-divergent, supersonic type. It has a 30 degree convergence angle, and a 12 degree divergence angle, and has an area expansion ratio of 16.8. It is machined from a single piece of cold-rolled (CR) steel bar stock, with polished inside flow surfaces. Of particular importance is the throat region, being the most critical with regard to motor performance. The nozzle contour is rounded at the throat to avoid sharp discontinuities in profile. The nozzle has a groove machined around the outer perimeter of the convergent section, to provide a recess for the nozzle retention screws. Six 1/4 inch hi-strength set screws, which engage into threaded holes in the casing, retain the nozzle. The nozzle is not normally removed once installed (propellant is loaded at the head end). To reduce leakage between the nozzle and casing, the casing is “rolled” around its circumference (after insertion of the nozzle) utilizing a customized tool which effectively reduces the casing diameter locally, providing a nearly gas-tight seal. This tool is essentially the same as a constictor tool, as used in HVAC applications. Filling the nozzle groove with silicone RTV will further reduce the likelihood of gas leakage. The nozzle is shown in Figure2.
+
+￼
+Figure 2 -- Details of C-400 nozzle
+
+Casing
+The casing is made from seam welded steel tubing, specifically 1-1/2" Electrical Metallic Tubing (EMT). Otherwise, it is identical to that of the B-200 motor, except for the diameter and length. The casing is detailed in Figure 3.
+
+￼
+Figure 3 -- C-400 Motor casing dimensions
+
+Motor Head
+The C-400 motor head is similar to that of the B-200 motor. The head is shown in detail in Figure 4.
+
+￼
+Figure 4 -- Details of C-400 head
+
+Gaskets
+The number and type of gaskets is identical to that of the B-200 motor, except having a larger diameter. The addition of silicone RTV sealant around the perimeter of the gaskets will further reduce the likelihood of gas leakage.
+Safety Shear Pin Assembly
+The safety shear pins consist of three Grade 5 (70 ksi shear strength) 3/16 inch diameter machine screws which connect at a threaded aluminum coupler. This is illustrated in Figure 5.
+
+￼
+Figure 5 -- Details of C-400 safety pin arrangement
+
+Propellant grain
+The C-400 motor is meant to be powered by KN-Sucrose propellant (or KN-Dextrose propellant), cast as a hollow cylindrical free-standing grain, with unrestricted burning (ie all surfaces of the grain burn). The hollow core is normally 9/16 inch (1.43 cm) diameter. The maximum grain capacity is 380 grams. The grain is cast to size such that it is a slightly loose fit, and is loaded into the motor from the head end. Typical grain diameter is 1.58 inch (4.0 cm), and typical length of the cylindrical portion is 7 inch (17.8 cm). The steady-state burn profile is slightly regressive, with the (ideal) burning surface area initially 54 in2 decaying to 47 in2 prior to web burnthrough. This gives a Kn range of 430 (initial) and 370 (final).
+Life expectancy
+The life expectancy of the C-400 motor is similar to that of the B-200 motor.
+
+￼
+Last updated October 23, 1999
+Return to Top of Page
+Return to Home Page
+

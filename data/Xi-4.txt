@@ -1,0 +1,139 @@
+ 
+Basic Information
+Name
+Xi-4
+Launch date:
+19 February, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Timer for backup apogee separation
+- Eggtimer Classic altimeter for backup apogee separation and main deploy
+-SJ1000 Video camera
+Liftoff mass
+3.026 kg.
+Stability Margin (initial)
+3.30
+Flight objectives
+Test video camera with improved (compared to Zeta) aft-facing mirror
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+385 grams
+Nominal impulse
+453 N-sec
+Class
+I
+ 
+Additional information
+-Larger first-surface mirror (19mm x 27mm) mounted at 45 degrees for aft-facing view. Zeta mirror was 15mm x 21mm.
+ 
+Weather conditions
+Temperature
+-17°C
+Wind
+N 5 km/hr
+Sky
+Variable clouds, light overcast
+Other
+R.H. 50%
+Ceiling
+14k ft.
+ 
+Launch Event Description
+As usual for winter launches, we used our sled to haul the supplies to the launch site. Following a checklist, setup of the rocket proceeded smoothly with no glitches. The BRB was activated first. After installing rocket on pad, Eggtimer was activated, followed by the Raven. Raven beeped eight times for voltage and gave 4 positive indications for the 4 pyros. Backup Timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated rapidly skyward, climbing straight and vertical in a stable manner. Rocket disappeared from sight shortly after burnout. The lack of sun and the white cloud layer made for difficulty trying to spot the rocket. After about 15 seconds we heard the ‘pop’ sound of the apogee pyro charge. No smoke cloud or smoke tracking trail could be seen against the whitish cloud cover.  After about half minute of decent, the parachute charge was heard to fire and we immediately spotted the parachute which was fully blossomed. The rocket at this point was about 500 feet downrange. The rocket drifted gently downward, and landed in a snow-covered field.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site was indicated as 531 feet away. When we arrived at the location of the downed rocket, we found the rocket to be in perfect condition.  The Raven beeped out a peak altitude of 2944 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.0
+2944
+897
+Separation
+14.0
+2926
+892
+Main deployment
+44.8
+496
+151
+Touchdown
+62.9
+-
+-
+Range
+-
+1925
+587
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+83.1
+25.3
+ 
+Main parachute
+24.7
+7.53
+ 
+                                  
+Post-flight analysis and comments:
+The Raven and Eggtimer performed nominally. Peak altitude reported by Eggtimer closely matched Raven (2979 ft. versus 2944 ft.).  The Backup Timer pyro had not fired. Post-flight examination indicated a fault with the arming switch circuit. This will be investigated and rectified prior to next flight.
+ 
+Examination of the Raven/Eggtimer data indicated an anomaly with chute deployment. The Raven main pyro charge fired at 720 feet AGL as expected, but separation of the AvBay compartment did not occur. When the Eggtimer (backup) main charge fired at 496 feet AGL, separation was successful and parachute was deployed. This anomaly is attributed to the cold ambient temperature (-17C. at ground level) combined with minimally sized pyro charge (1.2 grams C.P.). For future cold-weather flights, the main pyro charge will be upsized.
+ 
+No on-board video camera footage of the flight was obtained. Recording ceased 9 minutes after power-up on the pad. This anomaly is attributed to a combination of the cold ambient temperature combined with incomplete pre-flight charging of the camera Li-ion battery. For future cold-weather flights, a chemical hand-warmer will be used to keep the camera compartment from over-chilling.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Xi-4\Xi-4_Raven_Basic.jpg
+ 
+Photos:
+BRB transmitter with insulation shroud                                                  Xi-4\DSCF5257a.JPG
+                                                                                                                        Xi-4\DSCF5258a.JPG
+Rocket for Flight Xi-4                                                                                  Xi-4\Dscn0131a.jpg
+Ignition…Liftoff…                                                                                         Xi-4\2018-02-26_12-07-22.jpg
+Ascent                                                                                                            Xi-4\2018-02-26_12-07-38.jpg
+                                                                                                                        Xi-4\2018-02-26_12-07-56.jpg
+Descending                                                                                                   Xi-4\2018-02-26_12-08-44.jpg
+                                                                                                                        Xi-4\2018-02-26_12-09-05.jpg
+                                                                                                                        Xi-4\2018-02-26_12-09-42.jpg
+                                                                                                                        Xi-4\2018-02-26_12-10-03.jpg
+                                                                                                                        Xi-4\2018-02-26_12-10-39.jpg                                                                                                                       
+Rocket at touchdown site                                                                         Xi-4\DSCN0136.JPG
+                                                                                                                        Xi-4\DSCN0141.JPG
+Forward section                                                                                           Xi-4\DSCN0139.JPG
+Aft section                                                                                                    Xi-4\DSCN0140.JPG
+AvBay                                                                                                             Xi-4\DSCN0138.JPG
+ 
+Video:                                                                                                           
+Flight Xi-4 (Youtube)                                                                                                                        https://www.youtube.com/watch?v=SdI-ENKXqmE
+                                                                                                                       
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

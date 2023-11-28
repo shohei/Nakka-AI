@@ -1,0 +1,28 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Grain Area Calculations
+
+￼
+Propellant grain basic dimensions -- Hollow cylindrical grain (may or may not have frustum)
+
+￼
+Outer surface area is given by ￼
+
+￼
+Core surface area is given by ￼
+
+￼
+Surface area of each end is given by ￼
+
+￼
+Surface area of the frustum end is given by ￼
+
+￼
+Surface area of the frustum is given by ￼
+
+Other terms in the equations are defined as
+￼
+
+Back
+

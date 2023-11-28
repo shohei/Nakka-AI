@@ -1,0 +1,133 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Rocket Video Clips
+
+Burn Test of Crimson Powder￼
+
+Sample burning of a few grams of Crimson Powder ejection charge composition.
+
+CRIMSON_POWDER.MPG    MPEG movie file    1.1 Mbytes
+
+Development Static Firings of Impulser Rocket Motor￼
+
+Two test firings of the prototype Impulser motor during the development phase. Powered by 300 grams of KNSB, this I-Class motor went on to become a "workhorse", providing the lifting power for many of my rocket flights.
+
+I-305-1_static_test.wmv   Oct.13,2013   WMV movie file    3.3 Mbytes
+I-305-2_static_test.wmv   Nov.3,2013   WMV movie file    1.5 Mbytes
+
+Test Firing of a Pyrogen Igniter￼
+
+Ground test of an experimental pyrogen unit intended to provide rapid motor start-up.
+
+PYROGEN-FIRING.WMV  Aug.1,2009  WMV movie file    1.5 Mbytes
+
+Demonstration of Propellant Tumbler￼
+
+Short demo video showing the Propellant Tumbler in action. The purpose of this device is to fully blend the dry sugar propellant mixture prior to casting, in order to achieve efficient combustion and consistent performance. The tumbler is driven by a gearhead motor rotating at 30 RPM. Propellant is loaded into a Tupperware container, retained by elastic bands to a disc interfaced to the motor drive shaft.
+
+PROPELLANT_TUMBLER.MP4  Oct.24,2017  MP4 movie file    4.4 Mbytes
+
+Demonstration of Casting KNSB using Surfactant￼
+
+Short demo showing the effectiveness of a small amount of surfactant to reduce viscosity, as an aid to ease the casting of KNSB propellant.
+
+KNSB-LOW_VISCOSITY_TRIAL_CASTING.WMV  May 9,2010  WMV movie file    3.5 Mbytes
+
+Sample Burn of KNSB made with Surfactant￼
+
+Test burn of a strand of KNSB propellant made using surfactant.
+
+KNSB_SURFACTANT_STRANDBURN.WMV  May 9,2010  WMV movie file    2.0 Mbytes
+
+Sample Burn of KNXY￼
+
+Test burn of a slug of KNXY propellant made using Xylitol.
+
+KNXYtestburn.WMV    WMV movie file    2.7 Mbytes
+
+Zeta Smoke Charge Test￼
+
+Static test of the Zeta rocket smoke charge. The purpose of the smoke charge is to aid tracking of the rocket during its initial post-apogee descent. Used on many Zeta flights, the tracking charge has proven its worth. The charge consists of a mixture of potassium nitrate and sorbitol (or xylitol).
+
+Zeta_Smoke_test_no.2.mp4       14.8 Mbytes
+
+Experimental Smoke Formulation￼
+
+Burn test of an experimental smoke formulation. The formulation consists of 50% potassium nitrate and 50% sulphur. The advantage of this formulation is the long burn time and dense smoke produced.
+
+KN-S_smokechg.mpg       2.5 Mbytes
+
+A-100M Static Firings￼
+
+Several static test firings of the A-100M rocket motor conducted in May 2010. These tests were conducted to assess the performance of various types of propellant formulations.
+
+A-100M_May_2010.wmv       8.9 Mbytes
+
+Static Test K13-SE￼
+
+The video presents a static test firing of an experimental formulation (K13SE) based on potassium nitrate oxidizer with an epoxy binder, with the addition of aluminum powder as a thermic agent. The test result demonstrated that this formulation holds promise as a possible mid-power propellant.
+
+K13SE_Nov2008.wmv       2.6 Mbytes
+
+Static Test LRMS-3
+
+Close-up view of the third firing of the Liberty rocket motor conducted on May 28, 2005. This motor is an "L-class" powered by RNX-71V propellant.
+
+LRMS-3.MPG     2.7 Mbytes
+
+Zephyr Rocket Flight Ze-2￼
+
+This video clip presents the complete second flight of the Zephyr rocket, from lift-off to touchdown. This flight took place on December 21, 2003.
+
+Ze-2.mpg     12.4 Mbytes
+
+Unsuccessful Static Test Lambda Rocket Motor￼
+
+Maiden test firing of the Lambda rocket motor on February 10, 2002. This motor has an "L-class" designation and is powered by KNDX propellant. The motor CATO'd as a result of unsuitable propellant inhibitor.
+
+Lambda_LDX001.mpg     2.6 Mbytes
+
+Static Test KDX-002￼
+
+Second static test of the Kappa-DX rocket motor conducted on July 22, 2000. This motor is a K2000 powered by dextrose-based KNDX propellant and was subsequently utilized to launch the Cirrus One rocket in 2001.
+
+KDX002_static.mpg       5.8 Mbytes
+
+Cirrus One Launch￼
+
+Launch of the Cirrus One rocket which occurred in April 2001. Launched from the New Mexico desert, Cirrus One soared to an altitude of 10,000 feet (3000m.).
+
+CirrusOne.mpg       4.8 Mbytes
+Cirrus_slideshow.mpg       9.2 Mbytes
+
+￼
+
+B-II Motor Static Tests￼
+
+These early static firings date back to 1976. Mounted on the original thrustograph, the B-II rocket motor, (precursor to the A-100) was test fired to obtain thrust versus time plots printed on a roll of moving paper.
+
+B-II_statictests_1976.mpg       10.2 Mbytes
+
+Liftoff of Flight C-25￼
+
+Originally filmed in "Super-8" format, this rare movie footage captures the liftoff of Flight C-25 on August 4, 1982. Although I took many still photos of my early rocketry flights, movies were uncommon.
+
+C-25_launch.mpg       2.4 Mbytes
+
+AST Static Tests￼
+
+In 1984, the AST series of rocket motor tests were conducted utilizing the "workhorse" B-200 motor. Motor was test fired on the Static Test Rig to obtain thrust versus time plots. A load cell and electronic data acquisition system provided for more precise measurements than the thrustograph was capable of providing.
+
+AST_static_tests_1984.wmv       9.8 Mbytes
+
+Cubic Nozzle and PET Module circa 1984￼
+
+This video clip shows the "cubic" profiled nozzle for the B-200 motor, and the Parachute Ejection Triggering (PET) module of the type that was flown on several "C Series" rocket flights of the early '80s. The experimental cubic nozzle, which featured a well-rounded flow contour of both the convergent and divergent portions of the nozzle, was used to compare performance with that of a standard conical nozzle (as part of my university graduation thesis work).
+
+B-200_cubicnozzle_PET_1984.mpg       5.2 Mbytes
+
+￼
+Last updated October 24, 2017
+Return to Home Page
+

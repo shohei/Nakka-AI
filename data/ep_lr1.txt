@@ -1,0 +1,62 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Epoch Rocket Motor (unofficial) Inaugural Flight
+
+Introduction
+Launch Report
+Post-flight Analysis
+Introduction
+This web page reports the unofficial "first flight" of the Epoch solid propellant rocket motor. The first flight of this motor has special significance, as it represents the debut flight of this newly developed RNX composite propellant comprised of Potassium Nitrate, Ferric Oxide and Epoxy (KN/IO/Ep).
+This flight is considered to be the "unofficial" inaugural flight of this motor...the first official flight is planned to occur in the Boreas 1, rocket, scheduled to fly in the near future.
+
+Launch Report
+Sunday, October 6, 2002 
+The agenda for this day of rocket testing was comprised of a series of static and flight tests. Rob brought his rocket fitted with a NOX/PVC hybrid motor. This motor had been successfully static tested a number of times, and had flown on its inaugural flight on August 10th. This was to be the second flight with this motor. Rob also brought five PVC single-use KNDX "E" motors equipped with integral delay and ejection charges. These motors are currently in the development stage and are intended for propelling small rockets aloft.
+I brought along my new Epoch motor, last static test fired on September 2nd. The plan to was do another static test to obtain performance data which would be used to ascertain the flight performance for the upcoming Boreas 1 launch. The formulation for this propellant, RNX-57, was "tweaked" from that tested earlier and consisted of :
+	•	KN 70%
+	•	Ferric Oxide 8%
+	•	Epoxy (East Systems) 22%
+The main objective in adjusting the formulation was to produce a propellant with slightly less "stickiness" which tended to hinder packing the material into the casting mould. The adjustment, which increased the solids loading by 1%, produced a more puttylike material that packed very well with little tendency to stick to the packing rod.
+
+￼
+Rob and his hybrid powered rocket fabricated from Plastmo tubing.
+
+
+The weather was very decent, featuring a mainly clear sky with a bit of cumulus and high cirrus clouds, and the temperature hovering around 15oC. Winds were a little higher than what we'd prefer, being about 18 km/hr out of the south-east, but were quite acceptable.
+First off the ground were the "E" motors. These stick-stabilized test motors functioned very well and gave impressive performance. In all but one case, the delay/ejection system worked as designed (the one anomaly fired the ejection charge a split second before impacting the earth!).
+That accomplished, we proceeded to set up Rob's hybrid rocket. It was soon discovered that a leak had developed in one of the fitting joints. It appeared to be a small leak, so setup of the rocket continued, but at a hastened pace. We soon finished the setup, and went to a safe viewing distance. The "all clear" signals were given and countdown commenced. At zero, nothing happened...the igniter was apparently faulty. This item was replaced and a second attempt was made, but again to no avail. A problem with the remote ignition system was discovered, rectified, and finally another attempt was made to launch the patiently waiting hybrid. This time, after pressing the ignition switch, smoke was seen issuing from the nozzle. Liftoff was imminent! Or at least so we thought. However, as fate would have it, the "pyro valve" fired and ruptured properly, but ignition of the PVC grain did not occur. All the nitrous vented through the nozzle, and the flight was despondently aborted.
+Next on the agenda was the static test of my Epoch motor. As Rob began to dismantle his rocket, starting by extracting the malfunctioning motor, it occurred to me that his rocket was very nearly the size and mass of my Boreas 1 rocket. Both rockets stand about 5 feet (1.5 m.) tall, have a fuselage diameter of 3" (7.6 cm.) and have a pre-launch mass of about 6 lbs. (2.7 kg.). The hybrid motor casing appeared to be of similar diameter as well to that of the Epoch casing. Without giving it further thought (in case I should change my mind!), I suggested that perhaps we could load my motor into Rob's rocket and do the flight, instead of conducting the scheduled static test. Rob, who'd been anxious to fly the rocket to test out his improved Air-Speed based recovery system, was enthralled with the idea. It was agreed between us that this would represent an unofficial "first flight" attempt. So we proceeded to retrofit the rocket to accept my motor into the existing mounts. Disappointment came, as it was found that my motor was of larger diameter and would not fit. Three sharp minds went to work and we quickly "MacGyver'ed" a very satisfactory mounting solution (we're thinking of patenting it...).
+
+￼
+Michael and Rob retrofitting the Epoch motor into the rocket while Erebus looks on
+
+
+After a mere 15 minutes, the rocket was sitting on the pad, with a freshly installed, never before flown, solid rocket motor, itching to take another shot at departing on its skyward journey. Once again, we took to our viewing positions a safe distance away, the "all clear" signal was given, and countdown was begun....5,4,3,2,1 -- ignition! Almost immediately, a wisp of smoke was seen issuing from the rocket nozzle. One second later, the motor audibly began producing thrust, and a cloud of smoke began to build up around the base of the rocket. Another second later, and the rocket roared off the launch pad, rapidly shrieking skyward! The rocket arced slightly as it cleared the launch rod, straightened, and climbed nearly vertically. Burnout of the motor occurred about a second after liftoff, and the rocket continued to coast upward into the clear blue sky overhead. After close to 10 seconds, the rocket was seen to weathercock somewhat into the wind, arcing over near apogee height. At this point, the rocket was nearly out of sight. The parachute ejection charge was observed to fire at that moment, and the parachutes hastily blossomed. The rocket then began its fairly quick descent, drifting with the wind. It took nearly two minutes for the rocket to touch down, which occurred in a wooded area located at a distance estimated at several hundred metres away.
+￼  ￼  ￼
+Launch sequence -- smoke cloud accumulating at rocket base, liftoff, and soaring skyward.
+After briefly cheering and celebrating the successful flight, we jubilant rocketeers began the trek to try to find the rocket. Since we had carefully noted the exact direction that the rocket had descended into the trees, a 1/2 hour of searching was fruitful, and led to the discovery of the rocket hanging amongst some low trees. The rocket was fully intact and undamaged (and most importantly, the Epoch motor was safely recovered...!). The estimated distance from launch pad to touchdown site was estimated at nearly one kilometre.
+
+￼  ￼
+Rocket descending safely (left) and lands beyond a grove of trees.
+￼  ￼
+Forward fuselage dangling from a branch (left). Epoch motor nozzle seen protruding from rocket
+Post-flight Analysis
+Two videocameras recorded the launch and flight. I operated the hand-held digital videocamera and did my best to follow the rocket throughout its flight. A second (non-digital) videocamera was mounted on a tripod located about 20 ft. (6 m.) from the launch pad. From these two recordings, the following times were excerpted:
+	•	Ignition to thrust commencement --       1.5 sec.
+	•	Ignition to liftoff --       2.5 sec.
+	•	Thrust commencement to burnout --        2.5 sec.
+	•	Liftoff to parachute ejection --       8 sec. (note: A-S switch set to trigger at 60 mph).
+	•	Liftoff to touchdown --       2 min. 2 sec.
+Simulations of the flight based on both ascent times and descent times provided an estimate of the peak altitude at between 1750 and 1900 feet (530 and 580 m.).
+The motor was dismantled for post-firing inspection. Beforehand, the motor was weighed, then cleaned, and re-weighed to determine the amount of residue remaining in the motor. The residue amounted to 12 grams, which represents a mere 3% of the grain's original mass (375 grams). This is significantly less than what was recorded from static testing, typically 10-15%. This is to be expected, owing to the acceleration aiding the expulsion of the liquid & solid combustion products, providing a slight performance gain in the process.
+The motor was in excellent condition, suffering no throat erosion or other heat related damage. There did appear to be a slight amount of blowby past the nozzle o-ring, although it was not possible to say for certain.
+
+￼
+Rob, his recovered rocket, and the motor that saved the day...
+
+￼
+Last updated Oct. 8, 2002
+Back to Home Page
+

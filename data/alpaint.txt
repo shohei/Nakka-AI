@@ -1,0 +1,41 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Harvesting Aluminum Powder from Paint
+
+Harvesting Aluminum from Paint
+A number of hot-burning igniters featured on this webpage use metallic aluminum as a thermic agent. Flake (or leaf) aluminum is best for igniters, igniting more reliably than atomized (spherical) aluminum powder, such as West Systems 420. Spherical aluminum requires greater thermal energy to start burning due to its relatively thick shell of aluminum oxide. Flake also tends to ignite more readily due to the particular shape of its particles. Only problem is, flake aluminum can be expensive or hard to find.
+Fortunately, in the true spirit of experimental rocketry, a source of flake aluminum is as close as your nearest Home Depot or hardware store. Aluminum paint is largely a mixture of linseed oil and metallic aluminum flake. According to various MSDS's, such paint contains 20%-30% aluminum, by mass.
+I first gave thought to the possibility of extracting metallic aluminum from paint some years ago. Early attempts were not very successful -- the challenge of efficiently separating the metallic aluminum pigment from the linseed oil base seemed daunting. Recently, I tried a different and rather simple approach, with excellent results -- a nice harvest of flake aluminum.
+From my own experience, a typical harvest is around 15%-20% of the paint mass (depending on brand), taking into consideration that some aluminum is lost in the extraction process. I have harvested aluminum from both TremClad and Rust-Oleum 7715 brands, with the former having a slightly higher yield.
+
+￼  ￼
+
+Figure 10 -- Two tins of paint for aluminum harvesting
+To test the product, a batch of HotFlash igniters were prepared and test fired. HotFlash pyrolant is made from 30% aluminum flake, 60% KN, 10% Sulfur and NC lacquer as a bonding medium. As hoped, the pyrolant burned fiercly, as can be seen in the videoclip at the bottom of this page.
+The following section describes how to harvest aluminum from a 1/2 pint (273 ml) of paint. Net harvest will typically be 35-40 grams (1.2-1.4 oz.) which is sufficient for a hundred or more igniters. Before beginning the harvesting process, allow the tin of paint to sit undisturbed for several weeks to allow metallic aluminum to settle to the bottom. To begin the process, carefully remove the lid from the container and use a turkey baster (or other similar siphoning device) to carefully draw away most of the linseed oil base. Some aluminum particles will be drawn up, but this is not important - the net loss will not be significant.
+Fill the tin with acetone, then stir contents, using a wooden craft stick, for several minutes. Make sure and scrape the settled aluminum off the entire bottom and sides. Replace the lid and allow to stand overnight undisturbed. The acetone is next drawn off using the baster. Refill the container with acetone and repeat the cleansing process. The purpose of the cleansing is to remove any remaining linseed oil which, if not removed, will cause the dried aluminum to form into hard clumps.
+After the acetone has been drawn off a second time, tilt the tin slightly and use a piece of paper towel to "wick" away the remaining pool of acetone. The remaining "wet slurry" of aluminum flakes and acetone are then scooped into a suitable polyethylene pan and spread out to allow the acetone to evaporate. Occasional stirring will speed up the process which will take a couple of days at room temperature to fully dry.
+Using the convex side of a spoon, break up the clumps to a fine powder. Using a fine nylon kitchen sifter, sift the powder to remove any clumps. Continue until all the aluminum has been harvested as a fine powder. Store in a suitable sealed container.
+
+	1	Important Notes:
+	2	Wear dust mask when sifting the flake aluminum.
+	3	Wear nitrile or neoprene gloves when handling acetone.
+	4	Wear safety glasses at all times during the process.
+	5	Do not attempt to dry the aluminum slurry in an oven, as acetone is highly flammable.
+	6	Do not use an electric coffee grinder to break up the clumps of aluminum. Aluminum dust is explosive and can be ignited by electrical spark.
+	7	Recycle rather than discard the used acetone (it makes an excellent degreaser for metal surfaces prior to painting). Store in a glass or metal container marked "Used Acetone".
+	1	Photos & Video: 
+	2	Slurry of aluminum and acetone
+	3	Sifting aluminum powder
+	4	Harvest of aluminum flake from 1/2 pint of paint
+	5	Detail of harvest of aluminum flake
+	6	Video of HotFlash igniter in action (hi-res, 2 Mb)
+	7	Video of HotFlash igniter in action (lo-res, 300 kb)
+
+
+￼
+Last updated December 17, 2008
+Return to Top of Page
+Return to Home Page
+

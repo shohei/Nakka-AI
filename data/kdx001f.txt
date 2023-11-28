@@ -1,0 +1,98 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Kappa-DX rocket motor Static Test KDX-001 Test Report
+
+Introduction
+Motor Details
+Static Test Rig
+Test Report
+Analysis
+Performance
+Introduction
+This web page presents the test report detailing the first static test (KDX-001) conducted on the Kappa-DX rocket motor, as well as post-test analysis.
+Motor details
+The motor, as tested, was very similar to that shown in the Kappa-DX preliminary design page. The only significant design changes were with the nozzle retention method, and the number of fasteners attaching the nozzle and pressure bulkhead. An aluminum alloy nozzle retention ring was fabricated to retain the nozzle, and the nozzle was modified to suit. A total of twelve #6-32 cap screws retained the ring to the casing. Nine #8-32 stainless steel machine screws were used to retain the bulkhead. The motor and components are shown in Figure 1.
+
+￼
+Figure 1-- Kappa-DX rocket motor and components. Clockwise, from top : Complete motor ; forward end of motor, showing igniter connection and pressure tap ; pressure bulkhead with integral igniter canister ; nozzle and retaining ring.
+
+	•	The four propellant segments had a total mass of 1448 grams (excluding inhibitor liners) and are shown in Figure 2. Core diameter was 0.75 inch (19.05mm) and typical O.D. was 2.24 inch (56.9mm).
+	•	Grain inhibiting consisted of coating the propellant outer diametrical surface with polyester/styrene resin, then wrapping a resin soaked paper tightly around, forming two full layers. A strip of adhesive tape held the seam while the resin set. The paper inhibitor was heavy premium grade art paper of 0.0095 inch (0.24mm) thickness. Problem that was noted at the time was that it was difficult to tightly wrap the paper (due to the "stickiness" of the resin) which often took more than one attempt at rolling to get it "right".
+	•	Nozzle throat diameter measured to be 0.4745 inch (12.05mm).
+	•	Loaded (pre-test) weight of the complete motor was 2448 grams.
+	•	Casing insulator liner consisted of a sheet of premium grade poster paper of 0.0165 inch (0.42mm) thickness. Installation of the liner was performed by rolling the liner tightly around the four grain segments, then taping the seam with cellophane tape. This "grain assembly" was then inserted into the motor (sliding fit). The liner was positioned to butt against the nozzle. RTV was used to seal the liner at the end before final installation of the nozzle. The forward end of the liner came close to, but did not butt against, the bulkhead (RTV was not applied at this end).
+	•	The nozzle and bulkhead O-rings were well coated with silicone grease (plumbing lubricant). The bulkhead inside surfaces were also coated with silicone grease for thermal protection.
+	•	To substantiate structural integrity and effective sealing, the assembled motor was hydrostatic pressure tested to 1500 psi (10.3MPa), which represents 125% design pressure.
+￼
+Figure 2-- Propellant segments
+
+Static Test Rig
+The newly built STS-5000 Static Test Rig was used for the first time with this test. Both thrust and chamber pressure were measured. Thrust was measured by use of a hydraulic load cell connected to a 4" 0-1000 psi pressure gauge. To measure chamber pressure, the motor bulkhead was tapped with a pressure fitting which was connected to a 4" 0-2000 psi gauge. To prevent damage to the gauge by hot combustion gases, the connecting line was filled with oil (SAE 30). Gauge readings were recorded by use of a video camera located 10 feet (3 metres) away. A plexiglas shield protected the camera from possible debris in case of a motor malfunction. As well, the shield buffered the camera from the shock waves due to the supersonic flow exiting the nozzle during normal operation.
+The rocket motor set up in the test rig is shown in Figure 3.
+
+￼
+Figure 3--Rocket motor set up in Test Rig just prior to conducting test
+
+Test Report
+June 24, 2000 -- After arriving at the test site, preparations for the static test were begun, and proceeded smoothly. The test stand was assembled, having been partly dismantled for transport to the site. The motor was installed, connections to the chamber pressure gauge were made, and the oil buffer system was filled. The remote ignition system was laid out and tested to confirm proper operation, with final connection to the motor ignitor being done shortly before countdown. The two video cameras were set up into position - one was used to record the two pressure gauge readings, the other was set up about 100 feet (30 metres) away to record the actual motor firing including smoke plume. A 35mm still camera with 135mm telephoto lens and autoadvance was also used to record the firing. The autoadvance, which was activated just prior to ignition, allowed for continuous shooting of photos at a rate of 2 frames per second.
+Once the setup was completed, and the observers located a safe distance away from the test stand, the countdown was commenced. Shortly after the ignition button was pressed, a "pop" sound from the igniter charge was heard. Less than a second later, the motor came to life with a deafening sound, and appeared to be functioning well, with a very large and well-shaped smoke plume. However, about half way through its expected operating duration of approximately two seconds, a loud report was heard, and fragments of burning propellant and other debris were seen to be scattered about. The propellant fragments continued to burn for several seconds afterward, producing a large smoke cloud at ground level. Two frames taken with the 35mm camera are shown in Figure 4.
+
+￼
+
+Figure 4-- Motor at full thrust (cloud is from ignition charge) followed by CATO
+Click here for complete sequence of frames...
+Click here to download a videoclip of the static firing...
+Click here to download a videoclip of the test gauges...
+
+Examination of the motor debris showed that the casing had burst, and fragmented into six pieces. Seemingly countless fragments of paper, which had been the casing liner and segment inhibitors, were strewn about. The nozzle and bulkhead were found near the stand, and appeared to be undamaged. The test stand had been knocked over, and the three vertical struts which had caged the motor were severely bent outward by the sudden blast. All pieces of the motor, and as many paper fragments that could be found were collected for failure analysis. The casing fragments were found within a 20 ft (6 m.) radius of the test rig. Interestingly, a number of pieces of partially burned propellant were found, clearly showing that burning had extinguished upon bursting. One piece in particular had burned exactly half way through the web thickness. A probable explanation for this is as follows. Upon bursting, the pressure in the motor dropped rapidly. The oil-filled line that was connected to the pressure gauge was still under high pressure. This resulted in a very rapid backflow of oil into the combustion chamber, spraying the nearest segment with the sudden surge of oil, which then effectively extinquished burning on those surfaces affected.
+The videotapes captured the events perfectly. The pressure gauge footage clearly indicated a continuous chamber pressure rise right up to failure, which occurred at 1820 psi (12.5 MPa) at approximately 0.8 seconds into the burn. This abnormally high pressure represents 154% of design MEOP (Max. Expected Operating Pressure) of 1200 psi. The thrust also rose continuously, reaching a maximum value of 495 lbs. (2200 N.) at failure. The second video camera recorded the actual motor firing, and showed that the motor appeared to be functioning well right up to failure, which was sudden and instantaneous, with no indication of abnormal operation.
+
+Analysis
+Examination of the casing showed that it had ruptured in a classic "hoop" failure manner due to overpressurization. Initiation of rupture was a longitudinal split at the casing midlength, the location of maximum hoop stress. Deformation of the casing after the initial crack led to a shear tearing fracture emanating at 45 degrees from the original fracture, and extended to both the fore and aft ends of the casing. The casing subsequently opened up and fragmented due to pressure induced impact with the vertical support struts of the test stand, which resulted in bending-induced fractures. Five of the six (or more) fragments of the casing were recovered, which represented 95% of the casing original mass.
+
+￼
+Figure 5-- Recovered casing fragments indicating initial tensile fracture (between yellow arrows) and subsequent shear tearing fractures (green arrows). Remaining fractures were bending induced.
+
+Examination of the paper inhibitor fragments showed definite signs of breaching. At least three of the recovered fragments had scorch marks on the surface that had been bonded to the propellant outer surfaces, indicative of combustion on surfaces that should have been inhibited. This is shown in Figures 6 and 7. As well, there was evidence on two recovered inhibitor fragments of interlayer breaching between the two layers of paper that formed the inhibitor. This, in itself, is benign, but clearly shows that the effectiveness of the inhibitor liner was not up to par.
+
+￼
+Figure 6 -- Inhibitor fragment with evidence of breaching
+
+￼
+Figure 7 -- Another inhibitor fragment with evidence of breaching
+
+During the segment casting process, there had been problems with disbonding of the inhibitor liner. The method initially attempted involved casting the propellant directly into a tubular inhibitor liner formed from rolled paper. Effectiveness of bonding between the propellant and the liner was inconsistent. Consequently, an alternate "fix" was developed, which involved coating the segment outer surfaces with polyester resin, then wrapping a resin impregnated paper liner around the segment. Uncertainties as to the effectiveness of this method existed, especially since there were difficulties with the tightness of the wrap.
+A study was done to determine what extent breaching of the inhibitor (and thus increase in burning area) that would be necessary to produce the abnormally high chamber pressure experienced in the test. The analysis indicated that breaching of 17% of the grain inhibited surfaces would be required. This might reasonably be expected to have occurred. Therefore it would appear that significant breaching of the propellant inhibitor liner on one or more segments led to the overpressurization and consequential bursting of the motor casing.
+By design, motor overpressurization should have resulted in shearing of the head bolts, rather than bursting of the casing. The head was designed to blow out at a calculated pressure of 2015 psi (13.9MPa) based on shear tests of the bulkhead attachment screws. This was chosen to be lower than the predicted casing burst pressure of 2250 psi, based on room temperature material properties. The fact that the casing burst at a lower pressure than expected suggests that the casing temperature may have been elevated due to either ineffectiveness or a breakdown of the casing liner. Since the casing burst at 81% of its "room temperature" strength, the casing wall temperature would have to have been elevated to at least 140 deg.C. (See Thermal Protection for Rocket Motor Casings, Figure 2).
+Examination of the casing inside surface at the location of the initial fracture clearly shows a discolouration, indicative of probable overheating (Figure 8). Since the casing inside surface elsewhere had a pristine appearance, it would appear that there was a localized breach of the casing insulating liner. The exact reason for the breach is still not clear. One possibility is that a fracture of the liner occurred due to hoop stress from pressurization, as the liner was meant to transmit pressure loading to the casing walls. This could conceivably occur if the liner was too "loose" of a fit within the casing, such that the resulting radial deformation strain led to fracture of the liner. Another possibility, perhaps more likely, was that the liner failed to seal the casing from combustion gases due to a design deficiency. As described earlier, the liner was simply rolled tightly around the four grain segments, then the outside seam was secured with cellophane tape. This "grain assembly" was then inserted into the motor with a sliding fit. The inside seam, however, was not sealed, as it was expected that upon pressurization of the motor that the liner would expand tightly against the casing walls, thereby sealing the liner. Such may not have occurred, and some high pressure combustion gases may have leaked through, melted the tape at the outside seam, and heated the casing wall to a sufficient degree as to weaken the casing. It should be noted, however, that the failure of the casing occurred at 154% of the MEOP, and if the motor had operated at normal pressure, the casing may well not have failed, bearing in mind that the operating duration would have been about twice as long.
+
+￼
+Figure 8-- Initial fracture (circled) showing discolouration at inside surface
+
+The nozzle was undamaged, with no measurable erosion of the throat . The nozzle retention ring was slightly bent, but repairable. The bulkhead was in good condition (with one small burnt area), with slight elongation of the threaded attachment holes. The nine attachment screws did not show any sign of yielding.
+The buna O-rings that sealed the nozzle and bulkhead performed flawlessly. Careful examination of the O-rings confirmed that there was no blow-by whatsoever, despite the abnormally high chamber pressure.
+
+
+Performance
+Even though the motor malfunctioned and suffered a catastrophic structural failure, it is still possible to obtain very useful performance data from the chamber pressure and thrust recordings. Figure 9 shows a plot of the chamber pressure and thrust.
+
+￼
+Figure 9 -- Motor chamber pressure and thrust as a function of time
+
+As can be seen, the two parameters (curves) follow one another closely, as would be expected. Chamber pressure and thrust are related by the following equation:
+
+￼
+where F is the thrust, Cf is the thrust coefficient, At is the nozzle throat cross-sectional area and Po is the chamber pressure. The thrust coefficient is an important parameter which relates the amplification of the thrust due to gas expansion in the nozzle as compared to the thrust that would be exerted if the chamber pressure acted over the throat area only (i.e. if nozzle had no divergent cone). In Figure 10, the thrust coefficient (calculated from the above equation) is plotted:
+
+￼
+Figure 10 --Thrust coefficient based on test results
+
+The value of the thrust coefficient is seen to rise slightly with time, consistent with the theoretical assertion that it is a weak function of pressure.
+As a final observation, it is noteworthy to compare predicted performance to actual performance of this motor. The predicted MEOP, based on normal operation, was calculated to be 1208 psi (8.33MPa), providing a predicted maximum thrust of 315 lb (1403 N.) with an effective Cf = 1.49. An examination of Figures 9 and 10 shows that the delivered thrust at 1208 psi (green line) was very close to predicted, likewise with the thrust coefficient. These results will prove useful in substantiating the performance design methodology.
+
+￼
+Last updated July 15, 2000
+Back to Home Page
+

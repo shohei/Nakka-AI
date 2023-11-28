@@ -1,0 +1,389 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+Experiments with Ammonium Nitrate / Aluminum based Propellant Formulations
+
+Introduction
+Understanding the Chemical Behaviour of AN  
+Safety of AN as a Propellant Oxidizer
+Experimental AN / Aluminum Formulations
+Preparation of Experimental Grains
+Static Test Firings
+References
+Miscellaneous Photos and Videos
+Rocket Flights  ￼
+
+Introduction
+This webpage describes a set of on-going experiments that have been conducted over the past five years relating to the goal of developing an amateur rocket propellant based on ammonium nitrate (AN) oxidizer. Objectives of the experiments include development of a propellant that is relatively simple to manufacture, safe to manufacture & handle, low cost, and employ materials that are relatively easy to obtain. In other words, one that is suitable as a relatively high-performance "amateur rocket propellant". With regard to performance, a goal of attaining a delivered specific impulse of 200 seconds had been set.
+AN has a number of qualities that make it particularly appealing for use as a rocket propellant oxidizer. It is readily available and is low in cost with annual global consumption being over 20 million tones as an agricultural fertilizer [1]. It is chemically stable at room temperature [2], does not burn on its own, and has very low sensitivity to friction and shock [3]. The decomposition temperature is quite high (200oC.) AN, which has the chemical formula NH4NO3, contains no metal ions and when heated decomposes solely to gaseous products. This contributes to low molecular weight combustion products, which is desirable, and does not inherently suffer from two-phase flow (condensed particle) losses. These factors provide for a specific impulse potential ranging from very good to excellent.
+AN does have a couple of drawbacks. One is related to changes in crystalline phase with changing temperature, possessing five distinct phase changes. One of the phase changes occurs at 32oC, which is associated with a sizeable volume increase of approximately 4%. Since this temperature is in the range that may be experienced during storage, this needs to be taken into consideration in manufacture and storage. Exposure to repeated cycles of phase change could be potentially damaging to the structural integrity of a propellant grain, depending upon various factors discussed later in this article. A second drawback is the hygroscopic nature of AN. However, as the humidity threshold is around 70% at room temperature (similar to certain sugar propellants such as KNSB), this is not necessarily a harsh drawback.
+
+Understanding the Chemical Behaviour of AN
+One of the first steps taken in the approach to tackling the challenge of developing a practical and safe rocket propellant was to study technical reports relating to AN chemistry and decomposition behaviour. Several dozen of such reports were studied and a great deal was learned in the process, which helped in the understanding of this common yet remarkable material.
+Knowledge of the chemistry and in particular, the decomposition processes of pure AN and catalysed AN is important for the experimenter to understand. Not only for the obvious sake of safety, but also to allow a more rational approach to tackling the challenges associated with propellant developmental work.
+The most common use of AN is as an agricultural fertilizer. The agricultural designation is 35-0-0, which refer to the amount of nitrogen, phosphorus and potassium (known as NPK) contained in the product. For example 8-8-8 signifies that a fertilizer contains 8% elemental nitrogen (N), 8% elemental phosphorus (P), 8% elemental potassium(K) by weight. AN has zero percent of both phosphorus and potassium, and 35% nitrogen. This latter value can be easily reproduced knowing the atomic mass of elemental nitrogen contained in AN:
+NH4NO3 molecular weight = 14 + 4 (1) + 14 + 3(16) = 80 g/mole Ratio of N in NH4NO3 is = 2 (14)/80 = 0.35
+At ambient conditions, AN is chemically stable and can be stored in large amounts without fear of self-ignition or spontaneous combustion [7]. AN by itself does not burn.
+AN is extremely soluble in water, increasing exponentially with temperature. When dissolved in water, heat is absorbed to the tune of 79 cal/gram at room temperature. This property is exploited by "instant cold packs" sold in pharmacies to provide pain relief for soft-tissue injuries.
+One significant challenge to be overcome in utilizing AN as a propellant oxidizer is to deal with its natural tendency to self-extinguish. This tendency is a result of the large amount of water that forms upon decomposition, which slows down the combustion process (burn rate) to such an extent that combustion tends to be non-sustained.
+Although not directly applicable to the propellant research being conducted, it is interesting to examine what happens when a sample of AN is heated, in order to gain insight which could prove of value in tackling the problem of propellant development.
+When pure AN is heated to a temperature range of 169o to approximately 200oC, essentially no decomposition occurs. When heated further, to the range of 200-250C, the following exothermic reaction (heat is released) primarily occurs:
+NH4NO3 => N2O + 2 H2O, delta H= -8.8 kcal/mol
+From the above equation, for 100 grams of AN, 45 grams of H2O is produced, with the remaining 55 grams being gaseous nitrous oxide. This reaction is exothermic, with the release of 110 calories/gram.
+Simultaneous to this reaction, a dissociating reaction occurs endothermically (heat is absorbed) whereby the AN breaks down into ammonia and nitric acid.:
+NH4NO3 => NH3 + HNO3, delta H= +44.6 kcal/mol
+The combination of these two effects results in a steady-state, or self-limiting temperature, provided the decomposition process is carried out with the gaseous reaction products allowed to freely escape (in particular the HNO3). As such, if pure AN is heated at a moderate rate in the open air with no confinement, the temperature cannot rise appreciably beyond its melting point.
+Under steady-state conditions, the endothermic dissociation of AN into gaseous NH3 and HNO3 absorbs all the heat available from decomposition. Thus, when heat is added to AN at atmospheric pressure and even from a very hot source, the temperature of the AN is limited by its own dissociation to values at which decomposition rate is comparatively moderate. At elevated pressures, however, the dissociation reaction is repressed and the rate of decomposition accelerates. [5]
+When AN is heated very rapidly, such as would occur in a rocket motor, the decomposition process is notably different than that of the bulk decomposition reaction . Under such condition, the decomposition is chiefly this dissociation reaction with NH3 and HNO3 as the products [10].
+Certain substances are known to have a catalytic effect on the decomposition of AN. Water, chlorides and chromates are notable ones. The presence of even a minute amount of water causes decomposition to begin at 180oC. Ammonia and alkali substances such as urea have an inhibiting effect on decomposition.
+Chorides are particularly effective in speeding up the decomposition rate of AN. When catalyzed with 1% NaCl (table salt), the decomposition rate at 175oC was found by researchers to be 1000 times that of pure AN. Small quantities of chlorides (in presence of free acid) may cause decomposition at temperatures as low as 140oC. [5].
+Powdered aluminum added to molten AN is non-reactive, but powdered zinc reacts violently [8].
+When heated to melting, AN tends to react exothermically with organic substances, which appear to have a catalytic effect. For example, with carbon:
+2NH4NO3 + C => 2N2 + CO2 + 4H2O, delta H= -75.2 kcal/mole
+Interestingly, a gun propellant invented in the 1880's, Ammonpulver, used 15% charcoal (largely carbon), combined with 85% AN. This mixture was pressed into grains. Although difficult to ignite, it was vastly more powerful than blackpowder. Two serious drawbacks limited its practicality - the hygoscopic nature of AN, and the tendency for the grains to crack due to the crystalline phase-change. The latter resulted in over-pressurization and with resultant damage to the gun barrel. Specific details of the phase changes of pure crystalline AN are provided in Table 1.
+
+Form
+Crystal
+Temperature range (C.)
+Volume change
+Phase V
+tetragonal
+below -18
+V->IV, -3.0%
+Phase IV
+rhombic
+-18 to 32.3
+IV->III, + 3.6%
+Phase III
+rhombic
+32.3 to 84.2
+III->II, -1.3%
+Phase II
+tetragonal
+84.2 to 125.2
+II->I, +2.1%
+Phase I
+cubic
+125.2 to 169.6
+
+Liquid
+-
+above 169.6
+
+
+
+
+
+Table 1 -- Crystalline forms of AN and associated temperature related volume change [2].
+Early experiments performed by the author confirmed that AN mixed solely with typical fuel/binders such as epoxy, sucrose, polyester, polyurethane and silicone would generally not sustain combustion. If a small amount of NaCl were incorporated, sustained burning (smouldering) would occur, however, very slowly, and the resulting low combustion temperature would tend to produce voluminous amounts of carbon-rich ash.
+One successful AN-based amateur rocket propellant is the well-known "Wickman" formula, comprised of PSAN (phase-stabilized AN), magnesium powder, and R-45 polymer. ( CP Technologies composition):
+Wickman Propellant PSAN 60%  Mg 20%  R45HT binder 20%
+The key to this propellant is the use of a significant mass fraction of a "thermic" agent, magnesium. Combustion of magnesium is highly exothermic, and provides the thermal energy to flash the released water as steam, which then reacts with the metal in a self-sustaining manner.
+References [3] and [4] discuss a number of experimental rocket propellant formulations that utilize magnesium as an effective thermic. The inclusion of elemental silicon, to the tune of 0.4-6.0%, has been suggested as a performance enhancer [6].
+The drawbacks to using magnesium as a constituent in a propellant include the safety concerns associated with handling, the high cost of this material (especially when hazmat shipping fees are factored in), and the lack of easy availability.
+After much pondering, a rather interesting alternative thermic agent came to light. Aluminum, which has a greater heat of reaction than magnesium, was then tried. The difficulty with combusting particles of aluminum is due to the tough shell of aluminum oxide (alumina) that encases the readily oxidized metal. Initial attempts at simply blending aluminum powder with AN and a binder were fruitless. The aluminum particles did not burn satisfactorily, being well protected by the tough alumina shell. Reference [4] also describes attempts at using powdered aluminum, but the studied formulations failed to burn.
+Earlier experiments performed by the author relating to the doping of KN-based propellants had indicated a similar difficulty in getting aluminum to combust. It was eventually discovered that the addition of a sizeable amount of sulfur aided the combustion of aluminum particles. This was initially discovered when preparations of KN and silicone rubber were investigated. The addition of 5-10% of sulfur allowed these preparations to burn quite vigorously. A similar phenomenon was observed when RNX propellant was doped with aluminum. This approach was tried with AN, however, the results were not as successful. Nevertheless, sulfur was found to aid the ignition of the experimental AN formulations and may also serve to increase the efficiency of aluminum combustion.
+Various additives and different binders were tried in attempts to aid the reaction of aluminum with AN. Polyurethane initially appeared to be promising, but efficient combustion of the stubborn metallic aluminum was elusive. Having researched dozens of technical papers on AN combustion, it was decided to employ the use of a chlorine donor such as NaCl, initially, and later NH4Cl. Results of these experiments were more promising. It later occurred to the author that the Spitfire igniter pyrolant, which contains an appreciable amount of aluminum, burned exceptionally vigorously for some reason. This pyrolant utilizes Neoprene-based contact cement as a binder. Interestingly, Neoprene is a DuPont trade name for polychloroprene, which has the chemical formula [C4H5Cl ]n and having an elemental chlorine mass fraction of 39%. Experiments that followed employed contact cement as a binder, producing result that were considered to be a breakthrough. Although difficult to initiate combustion, once ignited, these trial formulations burned in a very stable manner with an intensely hot flame and essentially none of the white "sparklers" that are indicative of incomplete metal combustion. In the open air, magnesium ribbon (or shavings made by cutting magnesium on the metal lathe) proved to be effective in igniting these formulations. A hot burning pyro composition such as thermite was likewise found to be an effective combustion initiator. If ignited with a standard propane torch, the compositions merely burned in a smouldering, flameless fashion (so called "cigar-burning").
+It was found out quite early in this experimentation that an appreciable percentage of aluminum was essential. If not enough aluminum was present, the resulting formulation did not generate enough heat to sustain efficient combustion. Typically the formulations burned fiercest with an aluminum content in the range of 15-25%. The bare minimum was found to be around 10%, depending on the specifics of formulation.
+Although AN is considered to be a "low energy" oxidizer (heat of explosion only 300-400 calories/gram), when used with a thermic agent such as aluminum, the theoretical performance can be quite impressive. GUIPEP runs indicate a theoretical Isp for an AN/Al/Neoprene composition to be in the range of 220-250 seconds at a chamber pressure of 1000 psi. Figure 1 shows excerpts from results of a GUIPEP run for a typical "high aluminum content" composition based on AN, aluminum, and Neoprene (chloroprene).
+
+￼
+
+Figure 1 -- Excerpt from GUIPEP output for A20 formulation
+
+Safety of AN as a propellant oxidizer
+As explained in the preceding section, the author's research indicated that AN does not pose any undue safety concerns as a constituent of a rocket propellant, being similar in this manner to another commonly used amateur propellant oxidizer, potassium nitrate (KN). As pointed out earlier, AN is chemically stable at room temperature, does not burn on its own, and has very low sensitivity to friction and shock. As well, AN is non-toxic. There is one particular characteristic of AN, however, that sets it apart from an oxidizer such as KN. AN is known to be capable of detonation under the "right" conditions. As such, investigation of the safety of AN would not be complete without considering this characteristic. Detonation is best described as a nearly instantaneous decomposition (typically measured in microseconds) of a mass of material. Propagation of decomposition is by means of a shock wave of sufficient energy level. Since detonation is something to be avoided due to its destructive nature, it is necessary to ascertain whether or not detonation is a factor. This is relevant since a special form of AN is used in blasting operations due to its capacity to detonate. ANFO and ammonal (AN with aluminum powder) are two examples. It should be noted that AN is commonly used as a blasting agent simply because it is very inexpensive, readily available, and is safe to handle and transport, requiring a powerful initiator charge.
+Low bulk density is crucial for detonation of AN to occur. A porous nature of the reacting material is needed to provide the "reaction centres" whereby adiabatic compression, due to a propagating shock wave, heats the air pockets several thousand degrees Celsius. This generates a reaction front which provides energy to propagate a detonation wave. A lack of sufficient voids (bulk density > 1 gram/cc), so called "dead-packing", makes detonation of AN impossible [8].
+Detonation sensitivity is dependant upon many factors, especially bulk density for a low-energy material such as AN. Without the presence of voids (air pockets), detonation is not possible [8].
+Another important criterion for detonation of AN is heavy confinement [8].
+Although not directly applicable here, the molten form of AN, when not "aerated" by bubbles, can withstand considerable hydrodynamic shock without undergoing detonation [9]. In the temperature range of 169oC to 190oC, at which the rate of thermal decomposition is negligible, AN is virtually non-detonatable [9].
+Reference [8] describes testing of mixtures of AN/C/Al, when initiated in a confinement, deflagrated, but did not detonate.
+
+
+* critical diameter is a measure of detonation sensitivity, referring to the minimum diameter of a mass of an explosive that can be detonated without being heavily confined. Critical diameter greater than 1 inch is generally considered to be "insensitive".
+A commonly used "professional" rocket oxidizer, AP, is significantly more sensitive to detonation than AN. AP is also used for commercial High Power rocket motors and is used by many rocketry enthusiasts for "experimental" motors. Reference [7] provides a minimum "critical diameter*" of ¼ inch for AP. This compares to a critical diameter of several inches for AN in low-density, prilled form (the most sensitive form). AP propellants of similar formulations to those discussed here (e.g. with appreciable aluminum content) have been used in safety with regard to detonation concerns by HPR and the experimental rocketry community over many years. Interestingly, the Space Shuttle Boosters utilize an AP-based aluminized propellant (Table 1) not unlike many of the AN/Al formulations being studied, with the exception of the oxidizer being the more-sensitive AP rather than AN.
+Space Shuttle Booster Propellant AP 69.9 % Polybutadiene 12.04 % Epoxy curing agent 1.96 % Aluminum powder 16 % Red iron oxide 0.07 %
+This formulation compares quite closely, for example, to A24 formulation:
+A24 Propellant AN 68 % Neoprene 11 % Aluminum powder 17 % Sulfur 4 %
+Based on the above rationale, it is felt that potential for detonation is not a factor when AN is employed as a solid rocket propellant oxidizer as described in the experiments conducted in this investigation.
+Another possible concern that was addressed relates to the safety of compressing AN formulations under hydraulic pressure. This technique is used to form the propellant grains for motor testing. Reference [3] describes the manufacture of pellets used for researching burning rate measurements of AN/TNT mixtures by compressing the combined powdered mixture to 0.2 Gpa (29000 psi).
+
+Experimental AN / Aluminum Formulations
+To date, 33 different formulations have been experimented with to various degrees of diligence. In least rigorous cases, a small sample batch of a given formulation was prepared and burned in the open air to qualitatively assess its combustion characteristics. If this suggested unsatisfactory combustion behaviour, no further experimentation was conducted. For the more promising formulations, propellant grains have been produced and test fired in rocket motors. For the most promising formulations, chamber pressure and thrust curves were obtained from static firings in order to assess key parameters such as delivered specific impulse and characteristic velocity (c-star).
+The earliest formulations used either polyurethane or epoxy as a binder. Both proved to be less than satisfactory for various reasons. Later formulations used Neoprene as a binder, which proved to be suitable. A complete listing of all 33 formulations including pertinent details is provided in Table 2.
+
+￼
+
+￼
+
+Table 2 -- Listing of "A" formulations with details
+From a practical perspective, the usage of Neoprene as a binder posed a challenge. Unlike epoxy, which is a two-component system that cures without need of solvents, Neoprene is not available as a two-part system. The Neoprene used in all the formulations investigated was harvested from consumer-grade contact cement. The MSDS for the contact cement used for these experiments (LePage Pres-tite) indicates only the "hazardous" (from a health perspective) ingredients:
+HAZARDOUS  Solvent naptha, light aliphatic , 30-60  Magnesium oxide, 1-5  2-Butanone, 10-30  Toluene, 10-30
+Neoprene is not considered to be hazardous per OSHA standards and as such is not indicated in the MSDS.
+Based on this rather broad range of listed ingredient percentages, the content of Neoprene lies in the rather broad range of between 0% and 49%. To obtain a more useful value, actual measurements were taken by weighing a sample of contact cement, allowing the volatile solvents to evaporate, then re-weighing the sample. For a fresh container, the content was found to be 21%. Partly depleted containers were found to have a higher Neoprene content to a maximum measured percentage of 25% for a nearly empty can. This would be expected, as the solvent is highly volatile and is lost over time, especially after repeated openings of the container. This particular analysis neglects the presence of any other non-volatiles such as magnesium oxide, but provides a sufficiently accurate value for the type of experimentation being conducted.
+All AN used in this set of experiments was in the form of prills purchased at a retail level in the form of "instant cold-packs". The product was of pure white colour and had no visible sign of impurities. Interestingly, the cost of the AN was quite economical. Each cold-pack typically contained two pouches (of AN + water, in separate bags) totaling 250 grams, for a cost of $1-2 CAD (=$1-2 USD) per pack, dependant upon at which store it was purchased.
+The aluminum powder used for all experiments was atomized pigment grade, obtained as West System 420, and cost $20 USD per pound. Flake aluminum harvested from "aluminum paint" is another potential source of suitable aluminum. Commercial grade aluminum paint contains between 20% to 25% metallic aluminum, in terms of mass.
+
+Preparation of Experimental Grains
+The earliest attempts at producing propellant grains for test firings involved using a minimal amount of contact cement as a binder, mixing the constituents well, then compressing the resulting putty-like material into thin cardboard casting tubes, where it was allowed to dry for several days at slightly elevated temperature. Since an appreciable percentage of the contact cement is volatile solvents, the resulting grain would unavoidably have very tiny pores. This was recognized as a potential downside, however this technique was considered to be a viable method, at least for initial testing. Since the AN / Aluminum formulations are difficult to ignite, it was felt that even though hot combustion gases could seep through the tiny pores, the affected material would not actually ignite. Test firing of motors prepared in this manner supported this hypothesis. A couple of such test motors were fired. Although hard to ignite, combined with erratic burning, the results were nevertheless encouraging. This method of grain production was soon dropped, however, due to lengthy time required for a grain to "dry". It was found (by regular weighing) that weeks were needed to get a solvent-free grain.
+After pondering various ways to purge the solvent in an efficient manner, it was found that the most effective way was to drive out the solvents prior to forming the material into a grain. Once completed dried, which would only take a few hours if heated slightly, it was found that breaking the dried material up into small granules and then compressing them, that a surprisingly robust grain resulted. This basic method has since been employed for all subsequent motor grain preparation. A typical process is as follows.
+As-obtained (prilled) AN is first dried in an oven preheated to 65-95oC (150-200 oF) for 2 hours or more. The AN is then ground up to a very fine powder using an electric coffee grinder (typically for 40-50 seconds per 50 gram batch). The dried AN, sulfur and aluminum are then carefully weighed out, and placed together into a plastic Tupperware container. It is conventional practice in the pyrotechnic community to avoid combining nitrates with aluminum powder. From my own experience, however, dessicated AN and aluminum had no tendency to react (for example, no smell of ammonia was ever emitted). However, due precautions were taken in this process to ensure safety, such as preparations of small batches and minimizing storage time. Conceivably for larger batches, the aluminum powder could be blended into the liquid contact cement rather than with the AN. The addition of a small amount of boric acid to the powdered mixture would also serve to eliminate the possibility of hazardous amide formation. From a practical perspective, considering the difficulty in igniting these AN formulations, it is felt that there is little likelihood of real hazard of spontaneous combustion.
+To aid mixing of the powdered AN and aluminum, a dozen or more small oblong glass aquarium stones are added, and the container fastened to a rotating mixer. Mixing is then allowed to proceed for 2 or more hours, depending on batch size.
+The required mass of contact cement is then weighed out into a disposable polyethylene bowl. For a fresh can of contact cement, which has a Neoprene mass fraction of 0.21, the amount of contact cement needed is obtained by factoring the required mass of Neoprene by the reciprocal of the mass fraction:
+Mass contact cement = mass Neoprene required x 4.8
+Example, if the formulation being prepared required 4.0 grams of Neoprene, the amount of contact cement would be 4.0 x 4.8 = 19.2 grams
+The well-blended powdered mixture is then incorporated, a little at a time, into the contact cement. The resulting slurry is then spread out onto a cookie sheet lined with parchment paper for drying. The solvent is then allowed to fully evaporate at slightly elevated temperature for at least 24 hours. The end result is a somewhat flexible product that can be torn up into small pieces. A sample of this material is then typically burned to qualitatively evaluate the combustion behaviour. For ignition, a strip of magnesium ribbon or a small clump of magnesium shavings (lathe turning) is used.
+The next step is to mill the broken up pieces to a coarse granular form. This is accomplished using an electric coffee grinder and a suitable sieve to sift out the larger pieces that may not have gotten milled sufficiently, and which are subsequently re-milled.
+The granules are then placed into a sealed container or poly bag together with a dessicant such as calcium chloride contained within a small cotton sachel.
+Grains for motor testing are next formed using a hydraulic press and suitable moulds. For a case-bonded motor, the mould is the actual casing. For a number reasons, case bonding was considered to be an acceptable design. Ad hoc testing indicated that the elastic modulus of the propellant formulations prepared in this manner was sufficiently low, and the tensile strength sufficiently high, that stressing of the grain would be acceptable for the small diameter test motors (< 32 mm). The propellant was either hydraulically pressed directly in the motor casting following loading of the propellant granules, or the grains were hydraulically formed in a mould, extracted, then subsequently pressed into the motor casing.
+The required mass of granules are weighed out. Using a spoon, a tablespoon of granules is loaded into the mould. The granules are then lightly compacted by inserting the mandrel then lightly pounding with a heavy hammer. These steps are repeated until the full amount of granular material has been loaded. A hydraulic press is then used to further compress the material under high pressure. The amount of applied force is determined by a trial-and-error method such that the desired grain density is achieved. Typically this is targeted between 95-98% of theoretical density for any particular formulation. Attained grain density is determined by weighing the mould before and after loading to obtain the mass of propellant, which is divided into the volume occupied by the propellant. The volume is calculated based on the measured grain dimensions.
+The propellant grains produced by hydraulic ramming appeared to have appreciable tensile strength. Although, to date, no measurements of the tensile strength has been undertaken, ad hoc testing indicates that well compressed to near ideal density, the resulting grains are highly resistant to breakage. It is believed that the properties associated with the adhesion of contact cement comes into play. Contact cement is normally used by applying a layer of the cement to two surfaces to be bonded. It is then allowed to "dry" and when the surfaces are pressed together, instant bonding occurs. A similar mechanism is believed to occur when the propellant containing neoprene is compressed. The tensile strength of neoprene is high, in the order of 1000 lbs/sq.in.
+
+￼
+
+Figure 2 -- Slugs of A20 formulation.
+
+Static Test Firings
+A number of static motor firings were conducted using the more promising formulations. The first two grains were produced from formulations A12 and A13. One single-use PVC motor was made for each. Both grains had a circular core cut with 4 radial slots. Later grains had 8-slotted pseudo-finocyl configuration. The purpose was to increase burning area and to faciliate ignition of the hard-to-light propellants. A static firing was attempted in June 2004, however, both motors failed to ignite despite the successful firing of the igniters. Both igniters were charged with approximately 2 grams of iron oxide/aluminum thermite with a Spitfire initiator.
+The next formulation that was used to make propellant grains for static firing was A14, which was first tested in November 2004. Eight single-use PVC motors were fabricated. Of these, five successfully ignited, and three of these performed in a promising manner. No measurements were taken. The earlier motors were fitted with cast hydraulic-cement nozzles. The nozzles suffered from severe erosion, and graphite was subsequently used. The later motors featured a novel "attachmentless" feature for retaining the closures. Crimps were fomed by heating the PVC casing at each end and using a conical mould to deform the softened casing material.
+
+￼    ￼
+Figure 3 -- Static firing of A14-A1, May 2005. 
+This was a single-use PVC motor with hydraulic-cement nozzle.
+Formulations A15 and A16 were also test fired in single-use PVC motors. Of these formulations, two grains each were produced. Three CATOed and one fired well. Again, no performance measurements were taken.
+
+￼      ￼
+
+Figure 4 -- PVC motors (left) and aluminum motors (right) used for test firing AN formulations
+Aluminum cased 25 mm motors were used for certain formulations starting with A20.
+The method of fabricating propellant grains was modified beginning with the A20 formulations. Instead of using a "wet" binder, the grains were "dry" manufactured by hydraulic ramming, as described earlier. The motors were also different, utilizing 1 inch (25 mm) aluminum casings and graphite nozzles. The results of static firings were significantly more successful. Formulations that were successfully fired with satisfactory performance were A20, A23 and A24. Two attempts were made to fire motors with sulfurless A26 grains. In both cases, the motor initally ignited, but self-extinquished shortly thereafter. A similar result occurred with low aluminum content (12%) formulation A29. Another sulfurless version, A32, was successfully fired.
+
+￼
+￼
+Figure 5 -- Chamber pressure curves from test firings of July 2007.
+Static test firings of a larger 1.5 inch (38 mm) motor with a case-bonded grain were conducted in May, 2008 in which both chamber pressure and thrust measurements were taken. The most promising formulation, A24, was employed, as well as the sulfurless A32 formulation. Good data was collected and is shown in Figure xx. The sulfurless formulation combustion behaviour was mediocre, producing a great deal of white sparklers, which is indicative of incomplete combustion. This was reflected in the much lower delivered Isp (145 sec.) versus the A24, which delivered a specific impulse of 196 seconds. Erosion of the graphite nozzle occurred on both motors. The throat diameter for A24-B1 motor eroded from an initial diameter of 0.234 inches (5.9 mm) to 0.246 inches (6.2 mm), an increase of 5%. The throat diameter for A32-B1 motor eroded from an initial diameter of 0.234 inches (5.9 mm) to 0.297 inches (7.5 mm), an increase of 27%. The effect of throat erosion is seen in the measured performance chart, whereby the chamber pressure decays while the thrust increases.
+The A24-B1 motor suffered burn through of the casing near the nozzle after 1.4 seconds. Post firing examination indicated that the burn through was a result of the segments (of which there were 4) not having consistent density, and the one nearest the nozzle burned through first. The density ratios were (in order from bulkhead to nozzle) 0.98, 0.95, 0.95, 0.92. When burn through occurred, the sudden drop in pressure caused the remaining propellant to self-extinquish (see Figure 9).
+
+￼      ￼
+
+Figure 6 -- Nozzle assemblies and bulkhead for 38 mm motor, A24-B1 and A32-B1 static firings.
+
+￼
+Click for metric chart
+Click for test data
+Figure 7 -- Chamber pressure curves from test firing of May 2008.
+
+￼      ￼
+
+Figure 8 -- A24-A3 (Nov.2007) and A24-B1 (May 2008) motor firings.
+
+￼      ￼
+
+Figure 9 -- Remains of one grain segment after self-extinquishing (left)
+Sectioned A24-B1 motor with remaining grain segments
+
+
+Static Firings Nov.2008
+Three "A24-B series" motors, similar to those test fired in May 2008, were manufactured with the objective of characterizing the A24 formulation. Of particular interest was the variation of burn rate with chamber pressure. The A24 formulation seemed to be the most promising composition based on earlier static test results. A total of 12 grain segments were made using a 20 ton hydraullic press. The resulting grains each had a mass of close to 50 grams with a density ranging between 97-99% of ideal density.Each motor held four grain segments which were bonded end-to-end with silicone. The two ends of the resulting monolithic grain were inhibited and sealed to the casing walls. As such, the burning surface was restricted to the core, resulting in a progressive Kn profile. These three motor tests were designated as shown in Table 3. All three motors were ignited with 5 grams of CuO/Mg thermite contained in a poly bag, electrically initiated with a nichrome bridge wire.
+
+Designation
+Propellant
+Propellant mass (g)
+Density ratio, avg.
+Kn range [1]
+A24-B2
+A24
+196.4
+0.980
+247-454
+A24-B3
+A24
+191.5
+0.978
+361-661
+A24-B4
+A24
+193.9
+0.980
+468-857
+[1] Based on initial throat size.
+Table 3 -- Motor parameters for the three Nov.22 test firings.
+The static firings took place Nov.23rd, 2008. The motor firing (A24-B2) had a slow start-up, despite the thermite igniter firing well. The second firing (A24-B3) was fully nominal. The third firing (the motor with the highest Kn) suffered burn-through of the aluminum motor casing toward the end of the burn, but otherwise fired well. Good thrust and chamber pressure data was collected for all three tests. The results are shown in Table 4.
+
+Test Desig.
+Date
+Total Impulse
+Specific Impulse
+c*
+c*/c*ideal
+Thrust Coefficient
+Expansion ratio
+Throat diameter
+
+
+
+(N-sec)
+(sec.)
+(m/sec.)
+
+average
+Initial/Final
+Initial/Final (mm)
+
+A24-B2
+Nov.23, 2008
+329
+171
+1226
+.90
+1.37
+4.6/ 4.2
+7.19/ 7.52
+
+A24-B3
+Nov.23, 2008
+398
+212
+1387
+1.00
+1.49
+7.0/ 5.9
+5.97/ 6.50
+
+A24-B4
+Nov.23, 2008
+315*
+207
+1362
+.99
+1.49
+7.9/ 7.2
+5.21/ 5.44
+
+
+
+
+
+
+
+
+
+
+
+Table 4 -- Motor performance data for the three Nov.22 test firings.
+
+￼      ￼
+Figure 10 -- A24 propellant grains for static tests; Firing of A24-B3 motor.
+The performance numbers for the A24-B2 firing, in terms of specific impulse and charateristic velocity (c*), were low relative to the other two motor firings. The reason for this is clear when viewing the video of the static firing (below). The start-up of the motor was very slow, in fact, the igniter charge nearly failed to initiate combustion of the propellant grain. The low Kn undoubtedly contibuted to the difficulty the motor experienced in getting underway. As such, a significant amount of propellant was wasted during the early part of the burn while the motor was developing sustainable chamber pressure.
+Both A24-B3 and A24-B4 came up to pressure rapidly. The burn over the full duration was very stable and impressive. Due to the burn-through of the casing late in the firing for A24-B4, some Isp potential was lost. When the motor was opened up after firing, some propellant (38.5 grams) remained unburnt. The calculated value of Isp and c* shown was based on the actual amount of propellant consumed.
+It will be noticed from Table 4 that the indicated ratio of delivered to ideal c* (characteristic velocity) is particularly high, equal to unity for the second test firing. It is unlikely that this represents the true performance. The value for ideal c*, which was determined from GUIPEP analysis, was based on tentative values for the chemical formula and heat of formation for chloroprene. The values used were  Chemical formula:    4C 5H 1Cl Heat of formation:    2000 calories/gram
+Measured thrust & Pressure chart for A24-B3 (US units) Measured thrust & Pressure chart for A24-B3 (metric units) Measured trust & Pressure chart for A24-B4 (US units) Measured trust & Pressure chart for A24-B4 (metric units) Delivered thrust coefficient for A24-B3 Delivered thrust coefficient for A24-B4
+Videoclip of static firing A24-B2    (2.0 Megbyte, wmv file)   Videoclip of static firing A24-B3    (2.2 Megbyte, wmv file)   Videoclip of static firing A24-B4    (1.3 Megbyte, wmv file)
+Characterizing A24 Propellant
+Based on the success of the static firings of motors powered by the A24 formulation, this composition can be considered to be a viable rocket propellant. As such, the term "propellant" as opposed to "formulation" is warranted. The results of the latest static firings, in particular A24-B3, allows for some tentative characterization of the propellant. The burn rate as a function of chamber pressure was thus determined using the method described in the Burn Rate Determination from a Pressure-time Trace web page. The results of this analysis are shown in Figure 11 (note that the analysis method requires the use of metric units).
+
+￼
+Figure 11 -- Results of burn rate analysis.
+It the figure, the dashed grey line represents the "best fit" of a power series curve of the usual form r = a Pn. In this equation, r is the burn rate, a is the pressure coefficient, and n is the pressure exponent. It can be seen that this curve is far from being an overall perfect fit, however, it does follow the analysis curve reasonably well over the majority of the pressure range. The analysis method assumes that the grain burns (radially outward through the grain web) in a completely uniform manner. In fact, the measured pressure curve shows that the pressure tends to flatten toward burn out with a rather rounded tail-off. This indicates that the grain web did not burn through completely uniformly. For the purpose of motor design, these values of a and n can be considered to be sufficiently accurate. This was confirmed by inputing these values into SRM.XLS with the propellant properties as shown in Table 5 and Table 6.
+
+Parameter
+MPa, mm/sec
+PSI, inch/sec
+a
+1.71
+0.00387
+n
+0.574
+0.574
+Table 5 -- Burn rate parameters for A24 propellant.
+
+Parameter
+units
+value
+reference
+mass density, ideal
+gram/cc
+1.765
+calculated
+ratio of specific heat, 2-phase
+-
+1.05
+estimated
+ratio of specific heats, mixture
+-
+1.166
+GUIPEP
+effective molecular wt, products
+kg/kmol
+28.8
+GUIPEP
+combustion temperature
+K.
+2688
+GUIPEP
+combustion efficiency
+-
+0.99
+static test
+nozzle efficiency
+-
+0.92
+estimated
+Table 6 -- Propellant and motor parameters used as input into SRM.XLS motor design software.
+As is seen in Figure 12, the predicted curves match reasonably well to the actual chamber pressure and thrust curves.
+
+￼
+Figure 12 -- Comparison of actual pressure and thrust curves to SRM predictions.
+
+"J-Class" ANCP rocket motor
+Following the success of the A24 B-series motor firings, and the subsequent characterization of the propellant, it was decided to design, build and test a significantly larger motor. The design goal was to produce a flightworthy J-Class motor that could be used to launch a rocket at a future date. Essentially, the A24-C motor is a scaled-up A24-B motor with a propellant capacity of 500 grams. The motor is 2 inch (51mm) diameter, versus 1.5 inch (38mm)for the B-series. The design impulse of the A24-C motor was chosen to be 1000 Newton-seconds (mid J-class). The motor was designed, built and successfully static fired on September 25, 2010. Despite an undersized igniter, which reduced motor efficiency, the performance was impressive.
+
+￼
+Figure 13 -- A24-C1 rocket motor mounted in test stand (left); at full thrust (right)
+
+CAD drawing of the A24-C1 rocket motor (PDF format)
+Six A24 propellant segments for A24-C1 motor test
+The six A24 segments bonded to form a monolithic grain
+A24 grain with inhibitor (cotton/epoxy) coating
+My niece holding the A24-C1 motor
+Thrust & Pressure curve for ammonium nitrate based A24-C1 motor
+Thrust & Pressure curve (SI units) for for ammonium nitrate based A24-C1 motor
+Static test firing A24-C1 experimental motor, camera #2 (13 Mb)
+Experiments in Bulgaria
+An experimental rocketry group in Bulgaria did some follow-up work with the A20 formulation. Peter Boychev kindly provided me with the following writeup that describes some of the experiments:
+For flight tests with A20, two PVC motors with similar construction had been assembled. For the lower weight rockets with mass up to 180 g the motor was made from PVC tube, 17mm diameter and 1.5 mm wall thickness. Propellant mass was 15 g. On the top was pressed pyrotechnic delay composition like in the model rocket engines. For our EX rocket, a 22x1.5 mm PVC tube was used. The propellant for that was 22 g. After working, these motors deform from the heat, but during the working time they do not; no problem with using PVC tubes. For these motors the nozzles had been made by hot pressing of graphite and phenolic resin. They were found to be successful and fully stable against erosion.
+Videoclip of rocket launch powered by A20    (2 Megbyte, mpg file). Videoclip of static firing A20     (1.7 Megbyte, avi file).
+
+Other Experimenters Work
+Chuck Lauritzen has been working on ammonium nitrate propellants since February 2009 and reports lots of success with 38 mm motors. These propellants are based on A24 formulation but are modified with the addition of small amounts of ammonium dichromate (catalyst) and/or zinc dust, to ease ignition. Last spring Chuck launched a 4 lb. (1.8 kg) rocket to an altitude of 3,132 ft. (955 m.) with a 5 grain BATES configuration, using his own design with aluminum nozzles with graphite throat inserts and reports great success. Recently Chuck flew a single deployment 3.5 lb. (1.6 kg) rocket with a 6 grain motor that had 222 g. of propellant. Chuck reports "It looked like a speck in the sky at apogee and the upper winds carried it over a mile into a bean field.'
+
+￼
+Figure 14 -- Launch of Chuck Lauritzen's rocket with 6 grain AN motor
+(Click on photo for larger image)
+photo courtesy of photosbynadine
+
+
+Miscellaneous Photos and Videoclips
+Videoclip of static firing A24-A3    (1.2 Megbyte, wmv file). Videoclip of static firing A24-B1     (3.1 Megbyte, wmv file). Motor used for A20 and A23 static firings, CAD drawing (PDF format)  Rig used for compressing propellant, CAD drawing (PDF format)  Motor used for A24-B1 and A32-B1 static firings, CAD drawing  Mould for pressing A24-B1 and A32-B1 grain segments (4 per motor), CAD drawing (PDF format)  Thermite pellets for initiating combustion Experimental motors for testing "A" formulations Internal view of motor showing case-bonded propellant grain End view showing nozzle retained by snap-ring End view showing Bondo-Glass bulkhead with pressure port Graphite c-star nozzles Hydraulic ram setup for press-forming grains within motor casing
+
+Rocket Flights
+June 2017
+I have always felt that a newly-developed rocket propellant needs to "proves its mettle" by actually propelling a rocket in flight. The A24 ANCP formulation largely earned its promotion to genuine "propellant" through a series of static firings in which it demonstrated stable, predictable and consistent performance. After nearly a decade from when A24 was first concocted, the time finally came for the author to design and build a flight-rated motor and use it to loft one of my rockets skyward. The H-Class Helios 32mm rocket motor was developed to fit the bill, utilizing a 3-segment BATES grain configuration. One month following a successful static test which was conducted on September 11, 2016, in which the motor performed admirably and to expection, Flight DS-8 took place. With a bright flash, the A24 powered rocket lifted off and soared skyward, achieving an apogee of nearly 1400 feet (427m.) and returning safely to the ground. This flight represented a modest but satisfying achievement.
+Being somewhat underpowered for the size of my current rockets, the Helios rocket motor was subsequently stretched into a 6-segment I-Class rocket motor deemed Helios-X for a follow-up launch with a more impressive altitude goal. A static test performed on March13, 2017 gave us confidence that the upgraded motor was ready for flight, exhibiting performance that matched design "to a tee".
+Powered by 180 grams of A24 propellant, Flight Z-30 took off under a clear blue sky on May 10, 2017 and soared impressively skyward with a brilliant flame trailing behind. Nearly doubling the altitude achieved earlier, Flight Z-30 reached 2760 feet (840m.) before commencing its descent culminating in a safe landing.
+
+￼  ￼
+Figure 15 -- Liftoff of Flight DS-8 (left) and Z-30 soaring skyward
+Photos and Videos Videoclip of static firing Helios-X motor     (9 Megbyte, MP4 file). Helios rocket motor with three A24 BATES grain segments Helios-X rocket motor with six A24 BATES grain segments Helios-X CAD drawing (PDF file)
+
+References
+1. A Review of the Global Fertilizer Use by Product, by K.G. Soh , International Fertilizer Industry Association, Paris 2. Nitric Acid and Fertilizer Nitrates, edited by Cornelius Keleti, Marcel Dekker Inc. (Ch.11, Properties of Ammonium Nitrate, K.D.Shah and A.G. Roberts, Imperial Chemical Industries PLC, England) 3. Combustion of Ammonium Nitrate-Based Compositions, Metal-Containing and Water-Impregnated Compounds, B.N. Kondrikov, V.E.Annikov & V.Yu. Egorshev, Journal of Propulsion and Power, Vol.15, No.6. Nov-Dec. 1999 4. U.S. Patent 5,076,868 "High Performance, Low Cost Solid Propellant Compositions Producing Halogen-free Exhaust", Dec.31, 1991. 5. Ammonium Nitrate Decomposition by Heat, A Literature Review, Donald R. Thomas, August 3, 1995.  6. U.S. Patent 5,500,061 "Silicon as high performance fuel additive for Ammonium Nitrate Propellant formulations, March, 1994/1996. 7. Hazards of Chemical Rockets and Propellant Handbook, CPIA Publication No.194 (1972)  8. Shock Initiation Characteristics of Ammonium Nitrate, A.King, A.Bauer, The Department of Mining Engineering, Queen's University, Kingston, Ontario, 1980. 9. Critical Shock Initiation Parameters for Molten Ammonium Nitrate, A.King, A.Bauer, The Department of Mining Engineering, Queen's University, Kingston, Ontario, 1979. 10. The Gasification of Solid Ammonium Nitrate, W.H.Andersen, K.W.Bills, A.O.Dekker,E.Mishuck, G.Moe & R.D.Schultz, Jet Propulsion Journal, Dec.1958.
+
+
+￼
+Originally posted July 27, 2008
+Last updated June 28, 2017
+Return to Top of Page
+Return to Home Page
+

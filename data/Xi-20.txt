@@ -1,0 +1,161 @@
+Basic Information
+Name
+Xi-20
+Launch date:
+10 October 2020
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Legendary formulation
+Liftoff mass
+2.625 kg.
+Stability Margin (minimum)
+2.87
+Flight objectives
+-Flight test of new APM-D.1 motor powered by AP composite propellant
+ 
+Motor details
+Motor name
+APM-D.1
+Propellant
+APX-N1.0
+Grain mass
+239 grams
+Nominal impulse
+469 N-sec.
+Class
+I
+ 
+Additional information
+-APM-D.1 is a 38mm experimental motor powered by 4 BATES segments of APX-N1.0 propellant. This propellant (based on Harry Lawrence’s APX) is an ammonium perchlorate composite propellant with HTPB binder (AP 75.8%/HTPB 21.2%/Alum. 3%). The motor features an aluminum nozzle with graphite throat insert. This motor was successfully static fired four times previously.
+ 
+Weather conditions
+Temperature
+13°C  (55°F)
+Wind
+SSE 20-25 km/hr
+Sky
+Sunny with scattered clouds
+Other
+Humidity 44%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Setup of the launch equipment and rocket went mostly well, however, there was a glitch. When the power switch for the BREO was closed, the status indicator LED did not illuminate. Cycling the (rotary-type) switch did not resolve the problem. Launch rules allow for a launch to proceed with a single backup flight computer. As such, the ET was then powered up and was confirmed to be functioning nominally. The Raven was then activated and nominal functionality confirmed. The nominal functioning of these two flight computers allowed for launch to proceed. Completion of launch checklist items then continued with no further glitches. For videotaping the flight, I used the hand-held Sony camcorder fitted with scope tube. A close-up camera located some metres from the pad was used to video the liftoff event.
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the Fusion igniter fired but was seen to be ejected out the nozzle. Despite this, a second or so later, a small flame appeared at the base of the motor. Shortly after, the rocket leapt off the pad and rapidly accelerated skyward trailing a bright yellow flame. The sound produced by the motor was different than that of motors powered by sugar propellant – more of a loud crackling roar. After departing the launch rod, the rocket made a slight tilt to the right, but then straightened out to a pure vertical flight. The gusty wind was likely to blame for the brief tilt. Burn time of the motor was nearly two seconds, as expected. We lost sight of the rocket shortly after burnout. After 15-20 seconds we heard a faint ‘pop’ sound of the apogee charge. Due to a large grey cloud directly overhead, we were not able to spot any pyro charge smoke clouds, nor could we detect any smoke trail. After about ½ minute, we heard the ‘pop’ sound of the parachute pyro charge and spotted the rocket straight ahead. The chute had deployed and fully blossomed. The smoke charge was still burning at this point in time, leaving a faint smoke trail as the rocket slowly descended. The smoke issued for only a short time then ceased as the charge expired. The descent rate seemed unusually slow, and the rocket could be seen jostling around, due to the rather strong and gusty wind. Bright flashes appeared regularly as the sun glinted off the chrome bands on the rocket body. A brief smoke cloud was seen to appear as the backup chute pyro fired. Less than a minute later the rocket gently touched down roughly ½  kilometre NNW of the launch site, in a large, gently sloping ravine.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. The indicated distance from where we were located was 0.3 miles (0.5 km). As we approached the edge of the large ravine, we spotted the rocket’s parachute several hundred feet ahead, lying in a field of grass. Arriving at the touchdown site, all the rocket components were initially thought to be present. A closer look revealed that the blue BRB (transmitter) styrofoam cradle was hanging out the forward end of the recovery bay, held only by its two power lead wires. The cradle is normally housed within the nosecone, which was nowhere to be seen. The base section of the nosecone was found inside the parachute compartment. It was clear that the nosecone had fractured near its base, at some point in time, and had fallen away. Other than this anomaly, the rocket appeared to be in pristine condition.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet*
+metres*
+Apogee
+13.7
+2949
+899
+Separation
+14.5
+2939
+896
+Main deployment
+46.0
+699
+213
+Touchdown
+93
+-
+-
+Range
+-
+1325
+404
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.9
+22.5
+ 
+Main parachute **
+11.3/19.3
+3.4/5.9
+ 
+ 
+* Corrected for non-standard base temperature
+** Initial/final descent rates
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven and EggTimer was fully nominal.  The reason for the BREO failing to initiate could not be determined (powered up successfully after the flight). The power switch is suspected and will be changed to a more robust rotary switch for the next flight. The Raven and EggTimer each gave apogee readings within 2 feet.
+The descent profile for the rocket under parachute for this flight was unusual. Nearly always, the decent rate is essentially constant (a straight line on the altitude versus time plot). Initially the descent rate was about ½ that of the final descent rate. This is undoubtedly due to updrafts over the large ravine which runs along the length of the launch range. This phenomenon has been noted on a couple of previous flights that descended over the ravine.
+ 
+The nosecone, which was a 3D printed part made of PLA plastic, suffered structural overload failure. Failure occurred in the thin conical wall near the base (1.6mm thickness). This particular nosecone flew on the previous six flights without incident. It is not known for certain how and when the structural failure occurred. Based upon a review of flight data and video, and an inspection of the rocket components, it is suspected that the failure occurred during the apogee separation event. This is a fairly high-energy event, as the apogee pyro charge forcibly blows the rocket apart at the AvBay/Aft body interface. A nylon tether assembly maintains the two sections of the rocket together during descent. The tether also serves to dissipate most of the separation energy. Nevertheless, there is a some degree of recoil and in the past, on rare occasions, there has been some denting of the rocket as the sections collide. It is suspected that the nosecone struck against the aft body resulting in fracture. For the next flight, the nosecone will be designed to be more robust, with a greater wall thickness in the critical section.
+ 
+The APM-D.1 rocket motor performed as expected, based on static tests. The shape of the acceleration curve matched the pressure-thrust curve from the static tests. Tear-down of the motor showed it to be in pristine shape. The casing thermal liner and all casting tubes were essentially intact. The aluminum nozzle, used also for the four static tests, was in pristine condition. The graphite throat insert suffered no erosion.
+ 
+Raven data:                                                                                            
+Barometric and axial acceleration data                                          Xi-20\Xi-20-Raven-basic.gif
+Acceleration curve, boost phase                                                     Xi-20\Xi-20-Raven-acc.gif
+ 
+Eggtimer data:                                                                                    
+Altitude versus flight time                                                                 Xi-20\Xi-20_ET.gif
+ 
+BRB GPS data:
+Plot of flight path over terrain                                                          Xi-20\Xi-20_BRB.gif
+ 
+Miscellaneous photos:
+APM-D.1 rocket motor                                                                       Xi-20\DSCF6407.JPG
+                                                                                                                Xi-20\DSCF6410.JPG
+Nozzle (aluminum shell/graphite insert)                                       Xi-20\DSCF6177.JPG
+Mixing APX-N1.0 (AP/HTPB/Al) propellant                                    Xi-20\DSCF6285.JPG
+Propellant grain segments                                                                Xi-20\DSCF6406.JPG
+ 
+Launch photos:
+Setting up for launch                                                                          Xi-20\DSCN0514.JPG
+Rocket on the pad, my brother Blair viewing the checklist        Xi-20\DSCN0515.JPG
+Flames spew from motor                                                                  Xi-20\2020-10-13_15-50-16.jpg
+Motor ignition and liftoff…                                                               Xi-20\2020-10-13_15-50-54.jpg
+                                                                                                                Xi-20\2020-10-13_15-38-28.jpg
+Rocket clearing the launch rod                                                         Xi-20\2020-10-13_15-38-50.jpg
+Climbing straight vertical                                                                   Xi-20\2020-10-13_15-39-22.jpg
+Veers slightly to the right                                                                  Xi-20\2020-10-13_15-39-41.jpg
+                                                                                                                Xi-20\2020-10-13_15-39-56.jpg
+                                                                                                                Xi-20\2020-10-13_15-40-15.jpg
+Trajectory straights to near vertical                                                Xi-20\2020-10-13_15-40-33.jpg
+                                                                                                                Xi-20\2020-10-13_15-40-48.jpg
+                                                                                                                Xi-20\2020-10-13_15-41-12.jpg
+Burnout: 445 ft (135m.); velocity 646 km/hr                                 Xi-20\2020-10-13_15-41-32.jpg
+Rocket tumbling earthward                                                              Xi-20\2020-10-13_15-44-10.jpg
+Sun glints off tumbling rocket                                                          Xi-20\2020-10-13_15-44-38.jpg
+Parachute deploys                                                                              Xi-20\2020-10-13_15-45-48.jpg
+Smoke charge leaves a trail during descent                                  Xi-20\2020-10-13_15-46-11.jpg
+Gentle descent                                                                                    Xi-20\2020-10-13_15-46-47.jpg
+                                                                                                                Xi-20\2020-10-13_15-47-33.jpg
+Backup chute pyro fires                                                                     Xi-20\2020-10-13_15-48-33.jpg
+Wind jostles rocket as it descends                                                  Xi-20\2020-10-13_15-49-19.jpg
+Rocket at landing site                                                                         Xi-20\DSCN0519.JPG
+                                                                                                                Xi-20\DSCN0518.JPG
+Video:
+Launch video (Youtube)                                                                                                                https://youtu.be/pL4uoDi1E9Y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

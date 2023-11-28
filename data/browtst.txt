@@ -1,0 +1,13 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Web Browser Compatibility Test
+
+ a b c d e A B C D E  A 2  B 2
+￼
+
+The two lines above should appear to be identical.
+Many of the web pages on this site use "symbol" fonts, as well as subscripted and superscripted characters. If the row of characters differ significantly in the two lines above, the pages will not be displayed properly. The problem could be that your browser is incapable of displaying such graphics, is configured incorrectly, or is missing the "symbol" font set.
+
+Return to Index Page
+

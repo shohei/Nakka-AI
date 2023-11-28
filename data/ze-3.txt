@@ -1,0 +1,81 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Zephyr  Rocket -   Flight Ze-3
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of Flight Ze-3, which designates the third flight of the Zephyr experimental rocket.
+The main objectives of Flight Ze-3 were:
+	•	First flight test of the Epoch motor outfitted with RNX-71V propellant. Although this motor has been static tested with this West System epoxy based propellant, this was the first flight test of this propellant.
+	•	To fly the R-DAS flight computer as a payload package to collect data on the motor & vehicle's flight performance, and also to serve as a redundant main chute deployment system. Due to the R-DAS restricted lower temperature operating limit of 0oC., an external thermal insulating blanket was employed to keep the temperature of the unit above this limit. The blanket, consisting of a sleeve of fibre glass with an aluminized mylar wrap, was removed just prior to launch.  ￼ Thermal blanket for R-DAS unit (removed prior to flight)  
+
+Rocket Description
+The rocket airframe for Ze-3 was essentially that used for flights Ze-1 and Ze-2.
+The total propellant mass for this flight was 404 grams (0.890 lb.), and with a constant Kn = 953. A single "Spitfire" igniter was used for motor ignition.
+
+This firing of the Epoch motor for this flight has the designation ERMS-27 (Epoch Rocket Motor System).
+As with Flight Ze-2, a total of four identical 70x22 cm. cross-type parachutes were employed for vehicle recovery, consisting of tandem drogue chutes for initial descent, and tandem main parachutes. Descent velocity was predicted to be 44 ft/sec (13.4 m/s) during initial descent, followed by a reduced descent velocity of 31 ft/sec (9.5 m/s) following main chute deployment. For the Parachute Ejection Triggering (PET) system, the Air-Speed switch was configured to trigger at a velocity of 65 mph (29 m/s) prior to apogee; the Drogue Timer delay was set at 12 seconds from liftoff, and the Main Timer was set at 43 seconds following liftoff. The R-DAS main deployment was set to trigger at 660 feet (200 m.).
+Both the drogue ejection charge and main ejection charge consisted of 0.80 grams of Crimson Powder. Pre-launch weight of the rocket was 8.09 lbs (3.67 kg.); total height was 6.40 ft. (1.950 m.). The initial stability margin was 1.46 for this flight.
+
+
+Launch Report
+Sunday, Jan.10, 2004 
+Winter launches tend to be particularly challenging. The greatest "enemy" is the wind, which not only leads to personal discomfort (and dexterity problems), but also tends to wreak havoc on electronic equipment, due to its rapid chilling effect. As such, critical electronic systems for the rocket have been designed to function in extreme cold, such as the launch box and of course, the PET system. Commercially manufactured elements, such as the R-DAS, as well as ground support equipment such as digital cameras, FRS radios, etc. must be kept reasonably warm or insulated to avoid malfunction, as these are generally not designed for cold weather operation. For the most part, such measures have worked well in the past. As such, sunny, windless winter days are a blessing, and we were fortunate to have such conditions on this day. The sky was mainly clear, and only a light surface wind of 5 km/hr. was present. So despite the temperature of -15oC. (5oF), conditions were considered to be more than decent, and actually quite comfortable.
+After setting up the EMT rail launcher, the ignition system was laid out and tested to confirm the system was functioning properly. The rocket was next assembled and loaded onto the launch rail. The traditional prelaunch photos were then taken. Following the pre-launch checklist, connections were made to the drogue and main chute ejection charges and bridgewire continuity confirmed. After arming all three systems and replacing the hatch cover, the R-DAS thermal blanket was removed, and the unit powered up and confirmed to be functioning. The motor igniter was connected, and igniter continuity confirmed. This accomplished, all observers then headed to safe viewing positions. The final step in launch prepping the rocket was to arm the ignition box.
+
+￼
+Zephyr rocket & author, prior to third flight.
+Note: only one of three rail sections present, other two added prior 
+to launch, providing a total rail length of 15 feet (4.6 m.).
+At the viewing site, I positioned myself in a comfortable stance to record the flight with the digital videocamera. The sun was at my back to provide best illumination for filming the rocket during flight. I set the camera to "manual" focus, as was the usual procedure, after zooming in on a distant object. Aiming the videocamera at the rocket, sitting majestically on the pad, I then started recording and simultaneously informed Rob I was ready for launch.
+Rob announced the final "all ready & all clear" signals via the FRS radio, and commenced the countdown. 5 - 4 - 3 - 2 - 1 - zero!
+Shortly after, a steadily-growing cloud of black smoke appeared at the base of the rocket signifying motor ignition. After about three seconds, the rocket lifted off the pad and accelerated rapidly, leaving a trail of thick grey smoke. The rocket initially climbed very straight and vertical, then performed a slight tilting motion. After about eight seconds, the rocket approached apogee and began the usual act of "turning over". At this point, I lost visual contact with the rocket through the camera viewfinder. It was clear at this point in time, however, that the drogue chute had not yet fired, and I soon heard the distinct "rushing air" sound of the rocket as it picked up speed, now on an unrestrained downward descent. This sound continued for several more nerve-wracking seconds, when suddenly I heard a loud "pop" sound, followed by a second "pop" within a second of the first. Immediately, I spotted the rocket safely descending by all four of its parachutes. Extreme relief was felt, and I immediately trained the videocamera on the descending rocket to catch the last moments of its harrowing, albeit safe, excursion.
+Touchdown occurred in a frozen, snow-covered field about 400 feet (120 m.) directly downwind from the launch site. As I approached the rocket at the landing site, I could hear R-DAS beeping out the code for the maximum altitude achieved: 1600 feet (488 m.)
+
+Launch photos:
+1   Cloud of black smoke envelopes launch pad 2   Liftoff of Zephyr rocket, Flight Ze-3  3   Zephyr begins its upward descent 4   Rocket trajectory begins to take on a slight tilt 5   Final moments of powered flight 6   Burnout of the Epoch motor 7   Zephyr rocket coasts upward toward apogee 8   Arcing over at apogee 9   Smoke cloud from ejection charge 10   Final moments of successful Flight Ze-3
+
+￼
+Zephyr rocket safely on ground after third flight
+
+
+Post-flight Analysis
+From inspection of the video footage, the following times were excerpted:
+	•	Ignition to liftoff --        4 sec.
+	•	Liftoff to burnout --        2.5 sec. (burnout based on absence of visible smoke)
+	•	Liftoff to apogee --       10 sec. (approximate)
+	•	Liftoff to drogue ejection--        18.5 sec. (based on "pop" sound)
+	•	Liftoff to main ejection--        19.3 sec.
+	•	Liftoff to touchdown --       26 sec..
+Post-flight teardown of the rocket revealed :
+	•	the R-DAS unit had functioned very well, triggering the main chute, and good flight data was recorded.
+	•	the R-DAS ignition battery had dislodged (ty-rap broke), punching a hole in the PVC fuselage upon landing.
+	•	the motor suffered zero leakage.
+The data obtained from the R-DAS flight computer is plotted in the figure below. The acceleration spikes coinciding with parachute deployment and touchdown are clearly seen. From the data:
+	•	Motor burn time: 2.0 seconds.
+	•	Max. acceleration during boost phase: 8 g's (approx.)
+	•	First chute deployment occurred at 17. 8 seconds, at an altitude of 600 feet,
+	•	Second deployment occurred at 18.5 seconds after liftoff, at an altitude of approximately 500 feet.
+	•	Touchdown occurred at the 25.6 second mark
+These timing values are in agreement with those obtained from video footage.
+
+￼
+Altitude & acceleration data from R-DAS
+From the first derivative of the altitude versus time data, the following velocities were obtained:
+	•	Rocket maximum ascent velocity: 301 feet/sec. (92 m/s)
+	•	Rocket decent velocity at moment of parachute deployment: 247 feet/sec. (75 m/s)
+The goals of Flight Ze-3 were achieved. The Epoch motor performed well with the RNX-71V propellant. The rather slow startup of the motor was undoubtedly due to the exceptionally low temperature of the propellant grain resulting from the -15oC ambient conditions.
+The R-DAS produced excellent flight performance data. As well, it appears highly likely that the R-DAS fired the main parachute charge, which saved the rocket from ballistic impact with the ground. The second deployment charge was likely triggered by the A-S switch as soon as the rocket slowed following main chute deployment.
+The failure of both drogue triggering systems to deploy the parachute at apogee was very perplexing, as both systems have proven reliability and were designed, and previously tested, for operation at -20oC ambient conditions. It was felt that the exceptionally cold temperature somehow played a role, in particular, it was suspected that perhaps the cold temperature of the ejection charge material may have drawn too much heat away from the igniter bridgewire, leading to failure to ignite. Another hypothesis was that the lithium batteries used for these two systems may have been unable to deliver the current needed, as a result of cold and of usage (the batteries were the same ones used for Ze-1 & Ze-2). As such, a follow-up "cold-soak" test was performed. This involved placing the PET module, which was connected to an ejection charge identical to that used in the flight, into a deep freezer for a period of 20 hours. The result of this testing indicated that the PET electronics were not affected by the cold, nor was there any problem associated with firing the ejection charge. It was discovered, however, that the cold had an adverse affect on the mechanical switches. The microswitches used for both the Air Speed switch, and for the g-switches used to trigger the drogue (and main) timers did not toggle as readily. In fact, in the cold state, the microswitch for the A-S system did not close, as the spring tension was insufficient to overcome the increased friction (or stiffness) of the switch. It is possible that the g-switches, which were designed to trigger at an acceleration of 5 g's at "room temperature", did not trigger at the 8 g maximum acceleration experienced during the boost phase of this flight.
+Fortunately, the fix is simple for both of these problems. For the next flight, the A-S switch spring tension will be increased slightly, and the g-switches will be modified to trigger at a slightly lower acceleration threshold.
+As stated earlier, the velocity of the rocket at the moment of chute deployment was 247 feet/second, or 168 mph. Despite this high speed deployment, no damage occurred to the rocket or any of the recovery system components. This was quite satisfying, showing the robustness of the chutes, tether lines, links, and anchoring methods.
+
+￼
+Last updated February 21, 2004
+Back to Home Page
+

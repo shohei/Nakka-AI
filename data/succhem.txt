@@ -1,0 +1,150 @@
+
+
+Richard Nakka's Experimental Rocketry Web Site
+
+KN-Sucrose (KNSU) Propellant Chemistry and Performance Characteristics
+
+Standard Composition (65/35 O/F)
+For KNSU propellant, with an oxidizer-fuel (O/F) ratio of 65/35, the theoretical combustion equation is as follows:
+C12H22O11 + 6.288 KNO3 -> 3.796 CO2 + 5.205 CO + 7.794 H2O + 3.065 H2 + 3.143 N2 + 2.998 K2CO3 + 0.274 KOH
+at a pressure of 68 atmospheres, and where the following compounds are symbolized as:
+sucrose
+solid
+C12H22O11
+potassium nitrate
+solid
+KNO3
+carbon dioxide
+gas
+CO2
+carbon monoxide
+gas
+CO
+steam
+gas
+H2O
+hydrogen
+gas
+H2
+nitrogen
+gas
+N2
+potassium carbonate
+liquid
+K2CO3
+potassium hydroxide
+gas
+KOH
+
+The mole numbers for each of the products shown above were determined from PROPEP (Propellant Evaluation Program).
+Characteristics of KNSU Propellant (65/35 ratio)
+
+Parameter
+
+Units
+Note
+
+Process method
+Cast
+
+
+Isp
+Specific Impulse, ideal
+166
+sec.
+[1]
+Isp
+Specific Impulse, delivered (typical)
+130
+sec.
+[2]
+C*
+Characteristic exhaust velocity, theoretical
+3106
+ft/s
+
+To
+Combustion temperature, theoretical @1000 psia
+1447 (1720)
+deg Celsius (K)
+[3]
+To
+Combustion temperature, measured@1000 psia
+1350
+deg Celsius
+[4]
+
+Density, ideal
+1.89
+gram/cu.cm.
+
+
+Density, as cast (typical)
+1.80
+gram/cu.cm.
+[5]
+X
+Mass fraction of condensed-phase products
+0.424
+-
+
+k
+Ratio of specific heats, 2-phase flow
+1.044
+-
+[6]
+k
+Ratio of specific heats, static
+1.133
+-
+[7]
+M
+Effective molecular wt. of exhaust products
+41.98
+g/mole
+[8]
+
+Burn rate behaviour
+de St.Robert
+n
+Burn rate pressure exponent, strand
+0.319
+
+n
+Burn rate pressure exponent, erosive
+0.323
+
+a
+Burnrate constant
+0.0665
+
+[9]
+ro
+Burn rate @ 1 atm.
+0.156
+in/sec
+r
+Burn rate @ 1000 psia
+0.602
+in/sec
+Tcr
+Auto-ignition temperature
+> 300
+deg. C.
+
+[1] At 1000 psi pressure; exit pressure one atmosphere [2] Static tests AST-17, AST-18 [3] PROPEP combustion results [4] Measured with type k thermocouple, static test AST-16 [5] Measured (liquid displacement method), typical grain for B-200 motor [6] Effective (2-phase), at chamber conditions [7] Value for exhaust mixture [8] System mass divided by number of gas moles [9] Use with pressure units of psi. Resulting burn rate is inches per second 
+
+￼
+
+Figure 1 -- This chart shows the variation of theoretical specific impulse with O/F (oxidizer/fuel) ratio.
+
+￼
+Figure 2 -- This chart shows the variation of combustion temperature and molecular weight of exhaust products with O/F ratio.
+
+￼
+Figure3 -- This chart shows the variation of theoretical specific impulse with chamber pressure.
+
+￼
+Last updated October 25, 2017
+Back
+

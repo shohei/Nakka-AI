@@ -1,0 +1,25 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Example 1 Static Test IXXST-1 : Calculation of C-star and Thrust Coefficient
+For this example, the thrust and pressure data from static test IXXST-1 will be used. This was the first test firing of the KNDX powered Impulser-XX  "I-class" rocket motor that occurred on June 3rd, 2018. The thrust and chamber pressure curves are shown below.
+￼
+Thrust was measured using a load cell and pressure was measured using an electronic pressure sensor. Both were interfaced to a data acquisition system that had a sampling rate set at 100 samples per second for each channel. Therefore the time increment is 1/100 = 0.01 seconds.
+The nozzle has a throat diameter of 0.386 inches. The cross-sectional area is therefore
+￼
+The propellant weight for this test was 1.026 lbs. The propellant mass is therefore mp = 1.026/32.18 = 0.0319 lb-sec2/ft
+The next step is to add up all the measured chamber pressure values in the data file:
+￼
+The values for each of the parameters is entered into the equation for c-star
+￼
+Giving the result: ￼
+From Technical Notepad #2 -- KNDX Ideal Performance Calculations web page, the ideal value of c-star for KNDX is 2993 fps. Therefore the ratio of deliverd c-star to ideal c-star = 2776/2993 = 0.93 for this particular motor/propellant combination.
+Calculation of the thrust coefficient, Cf, requires knowledge of thrust, chamber pressure and the nozzle throat cross-sectional area ￼
+At each time step, Cf is calculated by dividing the thrust value by the pressure value and throat area. Although only valid during the steady-state duration of the burn, it is simplest to perform the calculation for all time steps. A graph of the results shows that the steady-state portion of the burn occurs between 0.25 seconds and 1.06 seconds. The average value of the thrust coefficient over the steady-state duration is Cf=1.57.
+￼
+
+￼
+Originally posted  August 8, 2018
+Back to Home Page
+

@@ -1,0 +1,150 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Parachute Design and Construction
+￼
+
+
+Introduction
+Basic Parachute Aerodynamics
+Parachute Design
+Parachute Construction
+Structural and Drag Testing
+
+Will this page be displayed properly? Click here to check your browser...
+
+Introduction
+This web page deals with the topic of parachutes and their use as a recovery device for amateur rockets. In this page, I am presenting some information relating to basic background aerodynamics, design and testing of parachutes, as well as providing the details to how to fabricate your own parachute for rocket recovery. Made from commonly available materials, this parachute is both strong and efficient. Strong in the sense that it 's designed to withstand high speed deployment, and efficient in that it provides for a high drag force for a given size and weight.
+Basic Parachute Aerodynamics
+The descent rate of any body (such as a rocket) equipped with a parachute is dependant upon the drag force that the parachute develops, to counteract the gravitational force resulting from the payload's mass.The drag force is dependant upon 1) the dynamic pressure created by moving air striking the parachute canopy (and which keeps the parachute inflated); 2) the diameter of the parachute, which determines the area over which the dynamic pressure acts; and 3) the drag coefficient, Cd, of the parachute. Dynamic pressure is a function of velocity and air density, which in turn is dependant upon altitude and temperature. The vertical descent rate provided by a parachute in a stable descent is given by:
+
+￼
+where Wt = total weight of body and parachute (lb.), S = canopy reference (surface) area (ft2), and r = air density (slug/ft3). The drag coefficient of any parachute is dependant upon a number of factors. These include:
+	•	the surface area ("reference" area) of the canopy, upon which the Cd is based
+	•	gliding characteristics
+	•	air flow pattern around the canopy
+	•	shape of the canopy
+	•	the permeability of the fabric ("tightness" of weave)
+	•	descent velocity
+	•	length of shroud lines
+These factors and others which influence parachute drag is covered in detail in a book such as Parachute Recovery Systems Design Manual (T.W.Knacke). However, I'll briefly discuss these factors here, as they are of interest to anyone wishing to utilize a parachute as a recovery device.
+	•	The drag coefficient of any body is usually obtained by testing (for instance, in a wind tunnel, or by drop tests) and is determined by measuring the drag force at a certain velocity (or rather, dynamic pressure). The equation employed is Fd = p A Cd, or, to determine Cd from the measured drag force, Cd = Fd / (p A), where Fd is the drag force, A is the cross-sectional area of the body, and p is the dynamic pressure acting upon the body. For a simple shaped body such as a nosecone, the cross-sectional reference area is straightforward to determine, being simply p R2, with R=radius of the nosecone. However, for a parachute, this is not the case. The reference area used to calculate the drag coefficient of a parachute is the canopy surface area. This choice of reference area, although convenient, is less meaningful, and makes the Cd a somewhat flawed measure of the effectiveness of a parachute.
+	•	
+	•	￼
+	•	The gliding nature of a parachute is another reason that using Cd as a measure of the effectiveness of a parachute can be misleading (Fig. 1). When a parachute descends, it may have both a downward component of velocity as well as a horizontal component (in other words, rather than descending straight down, it will descend at an angle). Air flowing around the parachute at a certain velocity (V) generates both lift and drag forces -- the drag (D) acting opposite to its line of motion, and the lift (L)acting perpendicular to this, tending to reduce the descent rate, Therefore, the drag coefficient measured from free fall "drop" tests may indicate a significantly higher Cd (than, say, that measured in a wind tunnel), as a result of this gliding phenomenon.
+	•	The flow of air around and over the canopy of a parachute may produce an oscillating (spiralling), or coning, pattern to the state of motion of the descending parachute, as flow separation and suction forces alternate in direction. Therefore, a parachute may be considered to be capable of descending in either a gliding mode, or an oscillating mode, or a combination of both. Gliding tends to prevail at lower descent rates, and oscillating at intermediate rates of descent. The resulting Cd can vary significantly, depending on the mode of descent, as indicated by the following data for a typical full sized parachute:
+	•	
+	•	Descent velocity
+	•	Descent mode
+	•	Cd
+	•	23 fps
+	•	restrained
+	•	1.26
+	•	20 fps
+	•	oscillating
+	•	1.60
+	•	16 fps
+	•	gliding
+	•	2.40
+	•	
+	•	
+	•	
+	•	 
+	•	The shape of a canopy, whether it be hemispherical, semi-ellipsoidal (flattened hemisphere) or parasheet, does not have a significant effect upon the drag coefficient. Rather, the significant difference in these shapes relates to the "aerodynamic efficiency", that is, the drag coefficient based upon developed canopy area. A semi-ellipsoidal canopy may employ significantly less fabric than either the hemispherical or parasheet type. This is an important consideration for rockets, where mass and volume must be minimized.
+	•	
+	•	Permeability, which quantifies the speed of air flowing through the canopy material, is dependant upon the porosity of the fabric. The porosity is largely determined by the tightness of the fabric weave. The drag coefficient is not greatly influenced by the permeability, however, as long as the porosity is not excessive. Any fabric that has a reasonably tight weave would therefore be suitable, from this perspective.
+	•	
+	•	The Cd of a parachute is dependant upon its (descent) velocity to a weak extent. At higher velocities, the Cd deceases. This may be a result of increased porosity of the fabric due to increased tension loading in the canopy. This may also be due to the influence of Reynolds number, as the flow of air through the fabric pores is a function of such. As well, at higher velocities, the tension in the shroud lines increases, affecting the shape, and therefore effective area of the canopy. 
+	•	The inflated diameter (and therefore area) and shape of the canopy are both influenced by the length of the shroud lines (L) in relation to the canopy diameter (D). As the length of the lines are increased, the Cd increases. This effect is more pronounced, not surprisingly, when the lines are particularly short (i.e. L/D < 0.5), but becomes less significant when L/D > 1.
+	•	
+Parachute Design
+The design that is presented here is of a true parachute, having a "shaped" canopy, as opposed to what is referred to as a parasheet. A parasheet has a canopy that is flat when not inflated, and may be cut from a single piece of fabric. When a parasheet inflates, the canopy material is "gathered" by the shroud lines, forming an approximately hemispherical shape. A parachute with a shaped canopy is more efficient than a parasheet, since less fabric is required to produce the inflated shape.
+￼
+For the design that is presented here, the canopy shape is that of a semi-ellipsoid, which is basically a flattened hemisphere and so the cross-sectional shape is semi-elliptical (Fig. 2). I originally planned to design a true hemispherical shaped canopy, but further investigation revealed that a semi-elliptical shape would provide essentially the same drag as that of a hemispherical shape. Significantly less fabric material is required to produce a semi-ellipsoidal shape, resulting in the advantage of reduced weight and reduced stowed volume. The aspect ratio was chosen as b/a = 0.707, which my structural analysis indicated would provide the most favourable stress distribution in the canopy.
+This particular parachute is comprised of 12 gores, or panels, individually cut from the fabric material, and sewn together to form the canopy. The shape of the gores was calculated such that the assembled canopy would form a semi-ellipsoidal shell with the height to radius ratio being 0.707. For strength and to prevent unravelling, the panels must be hemmed along each side. Therefore a two centimetre allowance is required over the basic panel dimensions along both sides, and base.  In order to cut out the fabric panels, a paper pattern is first made. This is done by plotting the full-scale shape of the curve on paper, using x & y coordinates, as given below. As a prototype, I constructed a one-metre diameter parachute. The coordinates, and figure showing what the paper pattern should look like are presented below. As well, a table to allow calculations of the coordinates for any size parachute is also given.
+￼     ￼
+Click for larger image
+Left -- Fig. 3: Pattern for 1 metre diameter parachute
+Right -- Fig. 4: General table to determine pattern for any size parachute
+Full size printable gore patterns are now available for 60, 80, 100 & 150 cm. diameter parachutes. Also, gore pattern for a paper model of a 22 cm. chute. GIF and CAD formats. GOREGIFS.ZIP GORECADS.ZIP
+This parachute design is intended to be structurally rugged and capable of withstanding high speed deployment. The safe deployment speed for any particular parachute adhering to this design is dependant upon a number of factors. This includes materials used in the construction, the most significant being the canopy fabric. Also, the diameter of the parachute. The structural loading due to drag is less for smaller parachutes, since drag force is proportional to area. The maximum safe deployment velocity for the one metre diameter prototype parachute that I constructed is estimated to be 250 km/hr (155 mph), based on analysis and detail structural tests.
+As both weight and stowed volume are important parameters, these have been taken into account in the design of the parachute. For example, hemming the panels and apex caps serves the dual purpose of preventing unravelling of the fabric along the edges, and to provide structural reinforcement. For the one metre prototype parachute, the weight is 170 grams (6 oz.), and has a stowed (cylindrical) volume 2.5 in x 4.5 in. (6.4 cm x 11.4 cm). By using lighter weight fabric, both may be reduced further.
+
+Parachute Construction
+Click for Parts List
+To make the parachute, it is necessary to have (or borrow, as I did) a sewing machine in order to stitch the whole thing together. The sewing machine should preferably have the capability to make zig-zag stitches. Do not be intimidated by the idea of using a sewing machine, it is not particularly difficult, and improvement comes quickly as you gain experience. Before making my prototype parachute, I'd never used a sewing machine before. Just make sure and practice on scrap pieces of fabric, first! Other than that, and the parts listed, all that is required is some patience, attention to detail, and a free weekend or two.
+The following table shows the sewing machine settings that I found works well. Undoubtedly, these settings vary with sewing machine model, but hopefully this will act as a guide. The sewing machine that I used was a Sears Kenmore Model YM-40-35R, a portable unit, approximately twenty-five years old.
+
+
+
+Stitch width
+Stitch length
+Thread tension
+Hem stitching
+0
+8
+4
+Seam binding
+3
+12
+9
+Shroud lines
+4
+12
+10
+
+
+
+	1	The first step in fabricating the parachute is to create the full scale pattern for the panels by tracing out the shape on a sheet of paper
+	2	
+	3	For increased visibility, the parachute is best made from panels of alternating and contrasting colours, such as red and white. The fabric that I purchased was all white. I cut simply cut it in half, then dyed one half red. Nylon takes on dye very well, especially if it is done using the "stovetop" method.
+	4	
+	5	Using the pattern, trace out the panel shapes onto the fabric, then cut out the twelve panels.
+	6	
+	7	The next step is to hem the panels along both curved edges and along bottom edge. The hem is to be made one centimetre in width, and is formed by folding the edge over twice, as illustrated in Figure 5. It is best to use straight pins to temporarily fasten the hem. Then baste (hand stitch, using needle and thread) the hem using stitches with a large pitch (approx. 2 cm.). This is the way that I did it. Hemming the panels is quite time consuming, and is the most tedious step in the entire process of making the parachute, but it is important to spend the time to get it right. Or else, the panels will not fit together well, and may end up as an unsightly mess. After basting, machine stitch the hem, using a straight stitch (I used a pitch setting of 8/inch). The hem stitch should be positioned as illustrated in Figure 5. After sewing, the thread from the basting stitch is simply pulled out.  A finished panel is illustrated in Figure 6.  ￼
+	8	Figure 5 -- Hem is made by folding the edge over twice  ￼
+	9	Figure 6 -- Top side view of completed panel
+	10	
+	11	The next step is to join the panels together. Cut six lengths of seam binding which are long enough to span the entire arc length of the canopy, with a little extra length that may be trimmed later. Note that this binding must be continuous from one bottom edge of the canopy to the opposite bottom edge, a structural necessity.
+	12	
+	13	Lay two panels (of contrasting colours) side by side, top sides up. Starting at the base of the panels, line up the edges, and apply strips of masking tape to (temporarily) hold the panels together along adjacent edges. Continue until panels are joined entirely along their edges. Flip the panels over, such that the underside is facing up. Using an electric iron, position and then bond the seam binding along the two edges of a panel to join them (this bond is not meant to be structural, but simply to fasten the seam binding to the panel so that it may be easily stitched). Then sew the binding to the panels using a zig-zag stitch. This is illustrated in Figures 7a and 8. Do not be too concerned with the apex (tip) of the panels, as this can be trimmed later, and is covered by the cap pieces. However, the length of seam binding between opposite gores should be as shown in Figure 7b.   ￼
+	14	Figure 7a -- Detail of panel joint
+	15	 
+	16	
+	17	￼
+	18	Figure 7b -- Canopy gores at apex  ￼
+	19	Click for full size image
+	20	Figure 8 -- Photo showing partially assembled parachute canopy 
+	21	Continue this process until all twelve panels have been joined together to form the full canopy.
+	22	
+	23	Cut out two circular pieces of fabric to form the topside and underside apex caps. The finished diameter of these caps should be about 15% of the basic diameter of the parachute. Cut the caps to a diameter 2 cm. larger than this, to allow for the hem, which is formed with a single fold. The hem is important to prevent unravelling and to provide structural reinforcement to the parachute in the "hoop" direction. Recall that the hem on the panels is important for these same reasons, except with the panels, the hem (plus the seam binding) provides reinforcement in the "longitudinal" direction.
+	24	
+	25	Hem the caps in a manner similar to that of the panels. Again, the use of straight pins and hand basting greatly improves the final result. Figure 9 illustrates the caps after basting, prior to machine stitching the hems. Sew the hems using a straight stitch.
+	26	 ￼
+	27	 Figure 9 -- Photo showing canopy apex caps with basted hem, prior to machine stitching  
+	28	The next step is to attach the caps to the canopy. Making sure the hem is on the inside of the joint, position the underside cap and baste stitch into position. Flip the canopy over, and do the same for the topside cap. Sew both caps in place using a zig-zag stitch with the canopy sandwiched in between, as illustrated in Figure 10.
+	29	 ￼
+	30	 Figure 10 -- Apex cap / canopy joint  
+	31	With the canopy now completed, the final step is to attach the cords which make up the shroud lines, which is done by sewing the ends to the canopy. Cut six lengths of cord which comprise the twelve shroud lines. The length of each of these six cords is given by  L = 2 .25 * ( D + S )  where D = basic diameter of parachute, S = stitching length. The stitching length, which is the length of cord sewn to the canopy, should be between 5% and 10% of the basic parachute diameter. Less percentage length is required for smaller parachutes, more for larger. For the 1 metre diameter parachute that I constructed, I used 7%. The cut cord length was L = 2.25 * (100 + 7) = 240 cm.
+	32	
+	33	To protect the cords from abrasive damage at the tethering loop, and to distribute the tension loading in the lines more uniformly, slip the six cords through a length of heat-shrinkable tubing cut to approximately 7% of the cord length. The diameter of the tubing should be minimum, such that when shrunken, it firmly embraces the lines. Do not heat-shrink the tubing at this stage, however.
+	34	
+	35	Sew the ends of the cords to the underside of the canopy, using a zig-zag stitch, with one end each at opposing panel joint. The cord should be sewed offcentre at the joint, at the centreline of the zig-zag stitch (see Figure 7a). Figure 11 illustrates a properly sewn cord.
+	36	 ￼
+	37	Click for full size image
+	38	Figure 11 -- Photo showing cord attachment to parachute canopy 
+	39	The final step in completing the parachute is to form the tethering loop. Position the piece of heat-shrink tubing such that all twelve shroud lines are equal length as measured from the centre of the tubing. Heat shrink this tubing in place. To form the tether loop, a second, larger sized, piece of heat-shrink tubing is slid over the shrunken piece of tubing, as illustrated in Figure 12. Heat shrink this piece of tubing in position.  ￼
+	40	Figure 12 -- Detail of tethering loop
+	41	 
+	42	This completes the parachute construction!  ￼ ￼ ￼ ￼
+	43	Click for full size image
+	44	  Photos of the completed one metre diameter "prototype" parachute  ￼
+	45	Click for full size image
+	46	  A 3 metre semi-ellipsoidal parachute recently fabricated by Phil Vukovich of New Zealand  Structural and Drag Testing In order to design a parachute, it is necessary to know the strength of the various components of which it is to be fabricated, for example, the fabric, shroud lines, seam binding, as well as the strength of the joints. A number of these tests were conducted and used together with structural analysis to estimate the strength (safe deployment velocity) of the prototype parachute. Included was a "proof loading" deployment test conducted at half its safe design deployment speed. Also conducted were tests to determine the drag force (and coefficient) of the prototype parachute, at various velocities. This information is important to estimate the descent velocity of a rocket equipped with such a parachute.  Structural and Drag Testing   For more information about parachutes as a recovery system, check out:
+	◦	The Recovery of Rockets  (parach1.pdf)       Jorgen Franck (Danish Amateur Rocket Club) This report discusses the use of parachutes as a recovery method, and provides details on how to determine parachute drag and descent rates. Available for download from the  DARK  website 
+	◦	How to build a rocket recovery system using a parachute        Dr. Jean Potvin Describes a clever means to estimate the safe descent rate for a rocket.  
+￼
+Last updated March 6, 2020
+Back to Parachute Recovery System Page
+Back to Index Page
+

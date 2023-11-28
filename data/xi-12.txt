@@ -1,0 +1,151 @@
+ 
+Basic Information
+Name
+Xi-12
+Launch date:
+6 June 2019
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Legendary smoke formulation
+Liftoff mass
+3.150 kg.
+Stability Margin (initial)
+3.69
+Flight objectives
+- 2nd flight of JEM rocket motor
+ 
+Motor details
+Motor name
+JEM
+Propellant
+KNDX
+Grain mass
+438 grams
+Nominal impulse
+548 N-sec
+Class
+I
+ 
+Additional information
+The propellant grain design for the JEM motor was modified as a result of the anomalous behavior during the 1st flight. The grain core was increased in diameter from 7/16 in. (11.1mm) to ½ in. (12.7mm). The goal of this change is to assure that the flow of combustion products occurs solely through the core, avoiding flow around the exterior of the grain, which leads to inhibitor destruction. The motor for this flight is loaded with 14% less propellant than was utilized in the previous flight.
+ 
+Weather conditions
+Temperature
+26°C  (79°F)
+Wind
+NE 10-15 km/hr
+Sky
+Sunny, clear
+Other
+R.H. 37%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+With the arrival of warm weather, we used our launch-wagon to haul the supplies. The weather conditions were near-ideal for a launch. Once we arrived at the site, setup of the rocket went smoothly, with no glitches. Followed checklist as usual. The BRB transmitter and receiver were activated and verified that a good GPS signal was obtained. After installing rocket on pad, the BREO-N, Eggtimer, and then Raven were activated. Raven beeped nine times for voltage and gave 3 positive indications for the 3 active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately ignited with a cloud of smoke appearing at the base of the rocket.  Less than a second later the rocket climbed skyward. Ascent was largely vertical with a slight veer to the right. Burn time was around two seconds, which was the expected duration for a nominal burn. Visual contact was lost shortly after burnout.  After about a dozen seconds, we heard a faint ‘pop’ sound of the apogee charge and then spotted the twin smoke clouds of the primary and backup apogee charges. Shortly after we noticed a glint from the rocket and saw the beginning of a smoke trail. We were able to follow the tumbling descent very well, thanks to both the smoke trail and the sun glinting occasionally off the rocket’s chrome bands. After descending for over ½ minute, the parachute deployment charge was seen to fire and the chute immediately blossomed. The rocket drifted gently earthward, coming ever closer to where we were located.  The rocket gently touched down in a nearby field roughly 100 feet away.
+ 
+Despite the close proximity, we nevertheless programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 119 feet (36 metres). The rocket was found to be in pristine condition. Raven failed to beep out a peak altitude. It appeared that the Raven has switched off at some point. We noted that all the pyros had fired and confirmed that the smoke charge had fully burned.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.8
+3365
+1026
+Separation
+15.7
+3352
+1021
+Main deployment
+50.1
+887
+270
+Touchdown
+87
+-
+-
+Range
+-
+339
+103
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+74.6
+22.7
+ 
+Main parachute
+21.3
+6.5
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data confirmed that the flight was fully successful. The operation of the EggTimer, BREO and BRB were fully nominal. The Raven data indicated an anomaly -- data recording ceased shortly after chute deployment.  It was determined that a large shock load associated with the deployment event caused the toggle switch which controlled power to the Raven had “toggled” to the off position. Replacing the toggle switch with a rotary switch (such as that now used for the BREO) will be considered. The peak altitude readings reported by the Raven, Eggtimer and BREO all agreed to within 0.2%.
+ 
+The JEM rocket motor performance was fully nominal. The rocket acceleration curve provided by the Raven indicated a burn that matched the expected performance and closely matched that of the static test. Tear-down of the motor revealed that the grain casting tubes, which serve as burn inhibitors, were fully intact except for the ends which are expected to burn away. For the next JEM flight, a full propellant load will be used. This will hopefully confirm that the enlargement of the grain cores resolves the anomalous burning issue seen in the previous flight.
+ 
+Raven data:                                                                                                       
+Barometric and axial acceleration data                                               Xi-12\Xi-12_Raven_basic.gif
+Acceleration curve, boost phase                                                           Xi-12\Xi-12_Raven_accel.gif
+ 
+Eggtimer data:                                                                                             
+Altitude versus flight time                                                                        Xi-12\Xi-12_ET.gif
+ 
+BREO-N data:                                                                                                
+Altitude versus flight time                                                                        Xi-12\Xi-12_BREO.gif
+ 
+BRB:
+Flight path, mapped                                                                                   Xi-12\Xi-12_BRB-track.jpg
+ 
+JEM motor:
+Propellant grain segments                                                                       Xi-12\DSCF5830.JPG
+Grain segments, primed                                                                           Xi-12\DSCF5831.JPG
+ 
+Photos:
+Rocket on the pad just prior to launch                                                Xi-12\DSCF5838.JPG
+Liftoff…!                                                                                                           Xi-12\2019-06-13_12-10-05.jpg
+Ascending skyward                                                                                     Xi-12\2019-06-13_12-10-27.jpg
+                                                                                                                            Xi-12\2019-06-13_12-10-59.jpg
+                                                                                                                            Xi-12\2019-06-13_12-11-22.jpg
+                                                                                                                            Xi-12\2019-06-13_12-11-50.jpg
+Smoke clouds from apogee pyro charges                                          Xi-12\2019-06-13_12-12-39.jpg
+Rocket tumbling downward with smoke trail                                   Xi-12\2019-06-13_12-13-25.jpg
+                                                                                                                            Xi-12\2019-06-13_12-14-00.jpg
+                                                                                                                            Xi-12\2019-06-13_12-14-28.jpg
+                                                                                                                            Xi-12\2019-06-13_12-14-44.jpg
+                                                                                                                            Xi-12\2019-06-13_12-15-05.jpg
+Parachute pyro charge fires                                                                    Xi-12\2019-06-13_12-15-58.jpg
+Chute immediately deploys                                                                    Xi-12\2019-06-13_12-16-18.jpg
+                                                                                                                            Xi-12\2019-06-13_12-16-46.jpg
+Smoke charge continues to burn                                                          Xi-12\2019-06-13_12-17-06.jpg
+                                                                                                                            Xi-12\2019-06-13_12-18-05.jpg
+Sun glints off rocket as it gently descends                                         Xi-12\2019-06-13_12-18-41.jpg
+Chute backup pyro fires                                                                            Xi-12\2019-06-13_12-19-23.jpg
+Final moments of descent                                                                       Xi-12\2019-06-13_12-20-52.jpg
+                                                                                                                            Xi-12\2019-06-13_12-21-22.jpg
+                                                                                                                            Xi-12\2019-06-13_12-21-49.jpg
+                                                                                                                            Xi-12\2019-06-13_12-22-31.jpg
+Touchdown                                                                                                    Xi-12\2019-06-13_12-22-50.jpg
+Aft rocket body at landing site                                                               Xi-12\DSCF5841.JPG
+Forward body                                                                                                Xi-12\DSCF5842.JPG
+AvBay with depleted Smoke Canister                                                 Xi-12\DSCF5843.JPG
+Thermal liner and casting tubes, post-flight                                      Xi-12\DSCF5848.JPG          
+ 
+Video:                                                                                                                 
+Flight Xi-12 video (Youtube)                                                                    https://youtu.be/kHTBxyd6ZGw
+ 

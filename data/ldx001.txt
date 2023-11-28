@@ -1,0 +1,81 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Lambda Rocket Motor Static Test  LDX-001 Test Report
+
+Introduction
+Motor Details
+Static Test Rig
+Test Report
+Analysis
+Conclusion
+Introduction
+This web page presents the test report detailing the first test firing (LDX-001) of the new Lambda solid rocket motor, as well as post-firing analysis. The Lambda motor is designed to be used as the sustainer motor for the two-stage Cirrus Two rocket.
+This static test had four main objectives, to:
+	•	Substantiate the structural integrity of this motor, the largest yet designed and built by the author.
+	•	Measure the actual motor performance and compare to the design performance.
+	•	Test a casing themal liner fabricated from PVC sheet, and neoprene grain inhibitor.
+	•	Qualify the Lambda motor as a sustainer for the Cirrus Two rocket.
+
+Motor details
+The motor for this test is essentially the same as that outlined in the Lambda Rocket Motor Preliminary Design web page. As such, the total propellant weight (KN-Dextrose) was 2900 grams (6.39 lbs), and consisted of four segments of 134 mm (5.28 in.) length each. The OD of each grain was 65.6 mm (2.58 in.), excluding inhibitor. The cast grains came out with essentially no visible voids or other flaws, and measured density was 1.80 gram/cm3, giving a respectable actual/ideal density ratio of 0.96.
+The grain inhibitor had an average thickness of 0.32 mm (0.0125 in.), and consisted of cotton fabric impregnated with neoprene (2 coats of contact cement).
+The casing thermal liner consisted of PVC sheet of 0.032" (0.31 mm) PVC (type 1) sheet, heated then roll formed with the overlapping seam bonded with contact cement.
+The four propellant segments and casing & liner are shown in Figure 1.
+
+￼ ￼
+Figure 1-- KN-Dextrose propellant segments with inhibitor; Casing and PVC thermal liner
+
+The design of the lambda motor incorporates a pyrogen unit (essentially a small rocket motor ignited by a pyrotechnic charge) to ensure rapid startup. KN-Sucrose was chosen for the pyrogen grain due to its rapid burn rate and ease of ignition. To eliminate moisture absorption, the KN-Sucrose charge was painted with a slurry of KN/charcoal/isopropyl alcohol.
+
+Static Test Rig
+The STS-5000 Static Test Rig was used once again for this test. Both thrust and chamber pressure were measured. Thrust was measured by use of a hydraulic load cell connected to a 4" 0-1000 psi pressure gauge. To measure chamber pressure, the motor bulkhead was tapped with a pressure fitting which was connected to a 4" 0-2000 psi gauge. To prevent damage to the gauge by hot combustion gases, the connecting line was filled with oil (SAE 30). Gauge readings were recorded by use of a videocamera located 12 feet (3.7 metres) away. A plexiglas shield protected the camera from possible debris in case of a motor malfunction. As well, the shield buffered the camera from the shock waves due to the supersonic flow exiting the nozzle during normal operation. A second (digital) videocamera was used to record the actual motor firing. This camera was located approximately 150 feet (45 m.) away.
+
+Test Report
+February 10, 2002 -- We made the journey to the test site a day ahead of the scheduled firing date. Ken & Lynne provided accomodation, meals, and great conversation, and to whom we are deeply indebted. Rob brought with him two new KN-Dextrose "J" class motors and two rockets, as well as an experimental NOX/PVC hybrid motor. These were all tested prior to static firing the Lambda motor, with decidedly mixed results. The "J" motors, overall, performed very well, climaxing in an awesome rocket flight to over 1 km. (3550 feet), with perfect triggering of the Air-speed/Mercury Switch deployment system at apogee.
+This accomplished, we proceeded to set up the STS-5000 test stand and install the Lambda motor. To provide for firm footing, the test stand was set atop the dock at the edge of the frozen lake (Figure 2). Adjustments were made to allow for the slight vertical movement of the motor within the test rig. Connections were made to the chamber pressure sense line, and the buffer system filled with oil in order to protect the pressure gauge from the hot combustion gases. The two videocameras were then set up. The digital videocamera allowed for still captures to be later made of the images.The ignition box was then set up, followed by electrical connections to the pyrogen initiator.
+At this point, safe remote viewing positions were taken by the participants, followed by arming of the ignition system. After the final 'all ready' call was made, the countdown was begun: 5-4-3-2-1 fire!
+The first hint of the motor coming to life was the popping sound of the initiator, which was immediately followed by the deafening shriek of the motor under full thrust. The motor burned very smoothly, with a large plume of smoke being hurled about 50 metres upward. However, after less than a second, the motor catastrophically failed, accompanied by a loud report. The remaining fragments of propellant were hurled about, but were extinguished upon landing on the snow covered ground.
+Initial examination of the damaged motor showed that the casing had ruptured at the nozzle end, and was largely intact. The nozzle was slightly bent at the convergent cone. The bulkhead was perforated, driven into the load cell by the sudden large force. The test stand suffered several bent members (the design allows for simple replacement). The gauges and hydraulic load cell were not seriously damaged, however.
+The motor firing is shown in the three sequences in Figure 3.
+
+￼
+Figure 2-- Author with the Lambda rocket motor set up in the test rig prior to its maiden firing.
+
+
+￼
+
+Figure 3-- Lambda rocket motor firing, in time sequence left to right.
+
+Analysis
+The motor casing ruptured as a result of overpressurization. This is seen in Figure 4, which plots the measured motor chamber pressure and thrust. Note that the actual thrust readings end at 460 lbs, which represents the limit of the gauge. The dashed line is estimated thrust, based upon the chamber pressure (to which thrust is proportional) and a derived Cf value of 1.50, assumed constant.
+
+￼
+Figure 4-- Measured thrust and chamber pressure data.
+
+It is seen that casing rupture occured at a pressure of approximately 2350 psi (16.2 MPa), which is double the max design pressure of 1135 psi (7.8 MPa), and within 5% of the design burst pressure, as predicted by CASING.XLS. Examination of the casing showed that it had ruptured in a classic "hoop" failure manner due to overpressurization. Initiation of rupture appeared to be about 3 inches from the nozzle end of the casing. Deformation of the casing after the initial crack led to shear-tearing fractures emanating at 45 degrees from the original fracture. The casing subsequently opened up due to the high internal pressure, and fractured due to combined hoop and bending induced stress. A photo of the ruptured casing is shown in Figure 5.
+
+￼
+Figure 5-- Ruptured casing.
+
+Evidence points to propellant inhibitor failure as the cause of the overpressurization. The cotton/neoprene inhibitor was used for the first time, and its effectiveness had not been previously demonstrated (for the Kappa motor, cotton/polyester resin was used, and had proven to be effective). From viewing the video footage of the motor firing, it is readily apparent that shortly after ignition of the motor, the smoke plume, which is normally white, suddenly turns blackish, as is evident in the first frame of Figure 3. This is likely due to combustion of the neoprene inhibitor from one or more segments. The smoke then becomes white (second frame) as the exposed propellant begins burning. Evidence suggests that only the aftmost two segments (which experience the most severe heating conditions resulting from the high flowrate of combustion gases in that region of the motor) may have been stripped of inhibitor. The aftmost third of the PVC casing liner had fractured and was not recovered, however, the remainder was largely intact. There is clear evidence of burn-through at the location of the second segment, with the forward demarcation coinciding with the forward end of the segment. The spent casing liner is shown in Figure 6.
+
+￼
+Figure 6-- Spent thermal liner (dashed line represents original size).
+
+If it is assumed that the two aftmost segments were stripped of inhibitor after 0.25 seconds (corresponding to the sudden change of slope of the curves in Figure 4), the Kn would then have risen to 570. This value of Kn corresponds to a chamber pressure of about 2100 psi (14.5 MPa). As such, the capability of catastrophic chamber pressure rise certainly existed if slightly more than half of the total grain inhibitor was stripped away.
+The motor was designed to fail in an axial manner, that is, the screws retaining the forward bulkhead were sized to fail in shear at a pressure of 2000 psi. Shear testing of these screws indicated a significantly higher shear strength than expected for 300 series ferritic stainless steel. It appears that the screw material was, in fact, higher strength 400 series martensitic (heat treatable) stainless steel.
+Examination of the O-rings showed that these had performed well, with no blow-by at either the nozzle or bulkhead, despite the excessive pressure these were subjected to.
+
+
+Conclusion
+Interestingly, two of the four objectives of this static test were met. The structural integrity of the rocket motor under actual firing conditions was substantiated. In fact, the motor exhibited structural integrity beyond its design failure load, and confirmed (however unintentionally) the design ultimate strength.
+The objective of testing the PVC thermal liner was partly met. The mode of grain burning was abnormal due to the presumed inhibitor failure, subjecting much of the liner to far more severe heating than designed for. As well, since the burn time was only about 1/3 that of design, no firm conclusions can be drawn. However, examination of the spent liner provides some idea of its performance. The forward half of the liner was largely intact , where presumably normal burning occurred. The thickness of the remaining liner in this region ranged from 0.022 to 0.032 inch, as shown in Figure 6. This represents an acceptable rate of erosion, suggesting that the PVC liner may well be suitable.
+The remaining two objectives of the static test were not met. A repeat test will be conducted, once the motor bulkhead and casing, as well as the test rig, are rebuilt. The nozzle can be straightened and reused for the upcoming static test, but will be replaced prior to using the motor for actual flight.
+A test of various propellant inhibitors is currently being prepared. Included in this experiment (which will be performed in a manner very similar to the Propellant Igniteability Experiment) will be the cotton/neoprene and cotton/polyester inhibitors. The results of this experiment should help confirm or dismiss the hypothesis of inhibitor failure.
+
+￼
+Last updated Feb. 17, 2002
+Back to Home Page
+

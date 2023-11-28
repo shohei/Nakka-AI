@@ -1,0 +1,52 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+￼
+Measuring Chamber Pressure and  Determining C-Star and Thrust Coefficient
+
+Measuring Chamber Pressure  
+Calculation of C-star
+Deriving Thrust Coefficient
+Examples
+
+Measuring Chamber Pressure
+Measuring rocket motor chamber pressure during a static firing is quite straightforward. It is simply a matter of connecting a pressure gauge or a pressure sensor to the motor and recording the readings over the duration of the motor firing. The simplest method is to use an appropriate analog pressure gauge together with a video camera to record the gauge readings (photo). A more sophisticated method is to use an appropriate pressure sensor interfaced to an electronic data aquisition system. I have used both methods. As pressure gauges tend to be less costly than pressure sensors, I use this method when I test fire motors that have a higher risk of CATO, such as new designs or motors that are used in the development of new propellant formulations that are not fully characterized.
+The pressure gauge or sensor must be protected from the hot combustion gases. This can be accomplished by connecting the motor to the gauge or sensor with a length of copper tubing. This protects the sensor in two ways. The cool trapped air in the tube, which compresses upon motor firing, isolates the sensor from the hot gases. Additionally, copper effectively absorbs some of the heat of the hot gases. If using a pressure sensor, additional thermal protection is gained by packing the inlet port with grease. This is important for two reasons. To protect the sensor element from direct exposure to hot, corrosive combustion gases. And to keep the sensor cool. A heated pressure sensor may give erroneous readings (Click for details).
+The copper tube is typically attached to the motor bulkhead using a brass fitting. There are different types of pressure-tight fittings that can be used. The two most common types are compression and flare fittings. Compression fitting connections are simpler to make, and if done properly, can work well. Flare fittings provide for a much more reliable, leak-free connection that can withstand repeated use (in the aerospace field, flare fittings are used exclusively). The drawback with flare connections is that a special flaring tool is required to produce the flared ends on the copper tube. Owing to the superior reliability of flared connections, this is the only type of connection that I've ever used for any of my rocketry applications. A flaring tool is a great one-time investment and is simple to use. The descriptions that follow assume use of flared fittings.
+The rocket motor bulkhead will need to have a threaded hole to accommodate a male adapter fitting. This adapter fitting has one end flared and the other with National Pipe Threads (NPT). The NPT end screws into the bulkhead, with telfon tape or pipe sealant used to provide leakproof sealing. Either an 1/8 NPT or 1/4 NPT tap is required to thread the hole in the bulkhead. A small ball of medium steel-wool inserted into the hole in the bulkhead serves very well as a filter to stop liquid combustion residue from entering the plumbing. If such residue found its way into the plumbing, it will cool and solidify, blocking the line. A three-foot (1 metre) length of copper tubing (I use 1/4 inch diameter) is flared at both ends, being certain to slip on a pair of flare nuts over the tube before forming the second flare. For the sake of compactness and to give the joint flexibility, I bend a full loop in the copper tube. One end of the copper tube attaches to the male fitting at the bulkhead and the other end is connected to a flare female adapter. This fitting has one end flared and the other has a threaded female NPT connection. The pressure gauge, or sensor, is screwed into this adapter, being certain to use telfon tape or sealant dope on the NPT threads to ensure a leak-free connection (note that teflon tape or sealant is not used on the flared joint). This concept is illustrated in Figure 1.
+
+￼
+Figure 1 -- Setup for chamber pressure measurement
+
+
+The setup described above is suitable if you solely wish to measure chamber pressure. However, as is often the case, the experimenter may wish to measure thrust, as well. To accomplish this, the motor needs to press against a load cell. This can be accommodated with a small change to the setup for pressure measurement. Instead of interfacing a flare male adapter to the motor bulkhead, a short steel nipple, of size 1/8 NPT or 1/4 NPT, is screwed into the bulkhead . To the other end of the nipple, a Tee is connected. At the opposite end of the Tee, a square-head plug is screwed in. The square head of the plug butts against the load cell, transferring the motor's thrust load. The third connection of the Tee is connected to the copper tube via a flare male adapter fitting and flare nut. All three Tee joints are made leak-proof by coating the threads with telfon tape or pipe sealant. The setup is illustrated in Figure 2.
+
+￼
+Figure 2 -- Setup for chamber pressure and thrust measurement
+
+
+Note that standard pipe fittings can be used, even if the "pressure rating" is well below expected maximum operating pressure of the rocket motor. For small fittings such as those shown here, the actual burst pressure is much greater than rated, as the pressure rating incorporates a large safety factor that accounts for wear-and-tear, corrosion, rough handling, etc. Of course, only undamaged (preferably new) fittings should be used.
+Click for photo of setup for measuring thrust and chamber pressure.
+
+Calculation of C-star
+Once a full data set of pressure versus time readings are obtained from a static test firing, calculation of the delivered Characteristic Velocity, or C-star, is straightforward. The sample rate for pressure readings need not be excessive. With my electronic data acquisition system, I have found that 100 samples per second is just right. Too high a sampling rate can result in "noisy" data that needs to be software filtered to be usable. A video camera, if used to record the pressure readings of a gauge, usually has a frame rate of 30 frames per second, which also is perfectly fine for most cases. The first step in calculation of c-star is to add up (take the summation of) all of the pressure values. Delivered c-star is calculated using Equation 5 shown in the Solid Rocket Motor Theory -- Impulse and C-star web page, except expressed in a form appropriate for discrete data values obtained by measurement.
+￼  where ￼
+Note that care must be taken to use consistent units of measure. For metric measure, pressure may be N/mm2 or MPa provided throat area is expressed in mm2. Or pressure may be Pascals, provided throat area is expressed in m2. Mass must be kilograms. The resulting c-star is in metres/second. For US units of measure pressure is psi, throat area is expressed as inch2. To obtain propellant mass, the weight of propellant, in pounds, must be divided by "g" (32.18 feet/sec2). The resulting c-star is in feet per second (usually abbreviatedf fps).
+From experience, delivered c-star for the standard sugar propellants is typically in the range of 90-95% of ideal. As c-star is a benchmark of propellant combustion efficiency, if the value is lower, it's likely a result of shortcomings of preparation, such as inadequate mixing, large oxidizer particle size or excessive residual moisture. Chamber pressure also plays a (lesser) role. Ideal values of c-star for the sugar propellants, RNX and A24 are provided in the Technical Notepad web pages.
+
+
+Deriving Thrust Coefficient
+As described in the Solid Rocket Motor Theory -- Thrust web page, the thrust coefficient (Cf) is a factor that quantifies the degree to which a motor's thrust force is amplified as a result of gas expansion through the nozzle divergent cone. If a nozzle is a simple hole, without an divergent cone, the value of Cf is approximately one. A sugar-propellant nozzle with a well designed nozzle can have a delivered Cf value of 1.6 or slightly better, indicating a thrust increase of 60% over a simple hole.
+Equation 4 of the referenced web page shows that the thrust coefficient is related to thrust (F) and chamber pressure (Po) as follows:
+￼ where At is the throat cross-sectional area. Therefore to calculate delivered Cf we use the measured values of thrust and chamber pressure and the throat cross-sectional area (obtained from accurately measured throat diameter). Note that the thrust coefficient calculated as such is only meaningful during the steady-state operation of the motor (start-up and tail-off phases are neglected). If throat erosion occurs during the burn, the increase in diameter must be taken into account. The simplest way is to use the average between the initial and final throat diameters.
+
+
+Examples
+Example #1 - Derive c-star and thrust coefficient for static test IXXST-1. Example #2 - Derive c-star and estimate thrust for static test HXST-3
+
+￼
+Last updated   May 26, 2020
+Originally posted  August 1, 2018
+Back to Home Page
+

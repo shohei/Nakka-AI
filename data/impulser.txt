@@ -1,0 +1,187 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Impulser Rocket Motors
+
+￼
+
+Introduction
+Basic Dimensions and Configuration
+Propellant Grain
+Spacer Rings
+Nozzle
+Bulkhead
+Motor Casing and Thermal Liner
+Motor Ignition
+Engineering drawings
+Performance
+Photos and Video Clips
+Impulser-B￼
+Introduction
+The Impulser rocket motor was conceived in 2013 as the primary motor for my then-planned Zeta rocket. It was envisioned as an I-class motor powered by a choice of either KNSB or KNDX sugar propellant. The Impulser was subsequently static tested in October of 2013 and first flown exactly one year later. The Impulser-X, a stretched version of the Impulser, was developed soon after, having five grain segments versus four for the original Impulser. Since that time, the Impulser and Impulser-X motors have proven to be well suited to my experimental rocket flight activities, performing with a high degree of reliability and having a "just-right" impulse range for my DS and Zeta rockets. With the advent of my Xi rocket in late 2017, being a somewhat larger rocket, I found that the Impulser-X was a bit underpowered. This led to a second stretch of the Impulser, from four grain segments to six. The latest stretched version is deemed Impulser-XX.
+Impulser is configured with a 4-segment BATES grain and has a nominal capacity of 300 grams of KNSB or KNDX. Impulser-X is configured with a 5-segment BATES grain with a nominal capacity of 375 grams of KNDX. Impulser-XX is configured with a 6-segment BATES grain with a nominal capacity of 450 grams of KNDX. Nominal impulse of Impulser is 400 Newton-seconds, 500 Newton-seconds for Impulser-X and 600 Newton-seconds for Impulser-XX.
+Impulser is capable of launching a 2kg (4.4 lb), 2.5 inch (64mm) rocket to an altitude of 2800 ft. (850m.). Impulser-X can loft the same rocket to about 3500 ft. (1100m) and Impulser-XX can loft the same rocket to about 4200 ft. (1280m).
+In 2020, the development of KNPSB propellant led to a new version of the Impulser motor. I refer to this new motor as Impulser-B, denoting "boosted Impulser". This motor is essentially the same as the basic Impulser except it utilizes 1 segment of KNPSB propellant with 3 segments of KNSB.
+To date (October 2020), the Impulser family of motors have been fired 53 times:
+Impulser fired 33 times (30 flights; 3 static)
+Impulser-X fired 12 times (11 flights; 1 static)
+Impulser-XX has been fired 5 times (4 flights; 1 static).
+Impulser-B has been fired 3 times (1 flight; 2 static).
+
+￼
+
+Figure 1 -- Impulser rocket motor
+
+￼
+
+Figure 2 -- Impulser-X rocket motor
+
+￼
+
+Figure 3 -- Impulser-XX rocket motor
+
+
+Basic Dimensions and Configuration
+The Impulser motors have an outside diameter of 1.50 inches (38mm). Impulser has an overall length of 13.6 inches (345mm), Impulser-X has an overall length of 16.2 inches (410mm), and Impulser-XX has an overall length of 18.6 inches (472mm). All utilize steel nozzles and aluminum alloy casings and bulkhead. A pair of standard o-rings seal the nozzle and a single o-ring seals the bulkhead. The nozzle and bulkhead are both retained with snap-rings. To protect the aluminum casing from combustion heat, a thermal liner is employed. The motors are designed for unlimited re-use. Minor nozzle throat erosion does occur with each firing, resulting in a small deviation in performance over time.
+
+￼
+
+Figure 3 - Cross-sectional view of the Impulser motor assembly
+Click for Impulser-XX pictorial
+
+
+Propellant Grain
+The Impulser motor can utilize either sorbitol-based KNSB or dextrose-based KNDX propellant. Four BATES segments make up the propellant grain, with combustion initially occuring along the core and at both ends of each segment. A bonded inhibitor prevents combustion from occuring on the outside surface of the grain segments.
+The Impulser-X and Impulser-XX were designed solely for use with KNDX propellant. Five and six BATES segments, respectively, which are identical to those of Impulser, make up the propellant grain for these two motors.
+To maximize performance and reliability, the grain segments are cast using a dedicated mould system which allows for propellant curing under spring pressure. This is done to ensure a good bond between the casting tube and propellant. A secondary reason for curing under pressure is to eliminate all trapped air, maximizing density and providing consistent burn characteristics. After casting and trimming, the propellant surfaces are coated with Combustion Primer to ensure rapid ignition of all grain surfaces and to provide for swift motor start-up.
+To produce the grains, molten propellant slurry is poured/scooped into casting tubes, which serve the additional role as inhibitor to control which surfaces are exposed to burning. The casting tubes are fabricated from poster board (also known as paperboard or tagboard) of 12 or 13 point thickness (0.025-0.030 g/sq.cm.), which is first treated with one or two coats of oil-based polyurethane varnish (to improve its resistance to charring) and allowed to thoroughly dry. Cut out as strips, the poster board is rolled around a mandrel to form a two-ply tube. The plies are bonded together with extra-strength glue-stick adhesive.
+Originally, core size was 3/8 inch (9.5mm). This was later increased to 7/16 inch (11.1mm) for the longer Impulser-X and Impulser-XX motors, necessitated by the larger nozzle throat diameter of these two motors. For convenience, the larger core is used as well for Impulser
+
+￼   ￼
+
+Figure 4 - BATES grain segments: as cast (left); primed (right)
+
+Spacer Rings
+Spacer rings are employed to provide separation between propellant segments within the motor. These serve an essential purpose -- to ensure that all segment end surfaces start burning immediately upon motor start-up. Originally, the spacer rings were fabricated from rolled posterboard. It was found that, on occasion, anomalous burning of the propellant grain would occur, whereby hot combustion gases would flow around the exterior surfaces of the grains. This leads to some damage to the propellant inhibitor, exposing greater burning area than nominal. This results in a shorter burn time and higher peak chamber pressure (Click for comparison of flight acceleration curves). Although not a serious concern with respect to performance and reliability, this nevertheless was a design deficiency. The solution was to replace the posterboard spacer rings with o-rings. O-rings admirably perform a dual function. To provide spacing between grain segments, and additionally, to serve as a seal to help prevent gases from flowing around the grain, helping ensure that all combustion gases flow solely through the core. Spacer o-rings are size -225 and the material is Buna-N (nitrile).
+
+
+Nozzle
+Nozzles are conical profiled, deLaval supersonic type machined from low-carbon steel, with 30o convergent and 10o divergent half-angles. The nozzle is "free-floating" within the motor casing, retained within the casing by a N1300-137 snap-ring.
+The nozzle is pressure sealed with a pair of -123 o-rings (Buna-N nitrile), well-lubricated with silicone grease.
+The Impulser throat diameter is dependant on whether KNSB or KNDX propellant is utilized. Due to its faster burn rate, KNDX requires a slightly larger throat to achieve the same max chamber pressure. Otherwise the nozzles are very similar in design.
+The inlet to the throat is radiused in order to accelerate the combustion products more gradually. This reduces two-phase flow performance loss (see SRM Theory section for details).
+The design of the Impulser nozzle has been recently modified. It had been found that a small amount of nozzle throat erosion occured during each firing. For the Impulser, the erosion per firing amounted to about 1 thousandth of an inch, or 33 microns (Click for chart). For the Impulser-X, the erosion was greater, about 3 thousandth of an inch, or 80 microns (Click for chart). To reduce throat erosion, the wall thickness of the nozzle throat section was increased. This added material serves to reduce the temperature of the nozzle at the critical throat region, thereby reducing erosion.
+￼
+
+Figure 5 -- Impulser nozzle
+
+
+Bulkhead
+The bulkhead forms the forward closure of the motor. The bulkhead is machined from 6061-T651 aluminum alloy. For sealing, a -123 o-ring (Buna-N nitrile) is used in conjunction with silicone grease. The bulkhead is retained with a N1300-137 snap-ring.
+
+￼
+
+Figure 6 -- Impulser bulkhead, with o-ring and snap-ring
+
+
+Casing
+The motor casing is made from 1.50 inch (38.1mm) 6061-T6 aluminum alloy drawn tubing with a wall thickness of 0.065 inch (1.65mm). Grooves are internally machined near each end to seat the snap-rings which retain the nozzle and bulkhead. To protect the casing from the hot combustion gases, a thermal liner is fitted inside the casing. The thermal liner is fabricated from a sheet of posterboard, rolled around a mandrel. The liner is two-ply, with the overlapping portion bonded together with extra-strength glue-stick adhesive. To provide added resistance against charring, a one or two coats of oil-based polyurethane varnish is applied to the interior surface of the liner, and allowed to fully dry, prior to rolling. Further thermal protection is achieved by covering the outer surface of the liner with a single layer of aluminum foil, bonded (prior to rolling) with glue-stick.
+
+
+Igniter
+To achieve rapid ignition and optimum performance of the motor, an electrically initiated pyrogen type igniter is employed. Inserted through the nozzle up to the head end of the motor, the pyrogen igniter fires a jet of flame along the motor core toward the nozzle, rapidly igniting the exposed surfaces of the propellant grain. The igniter consists of a 6cm length of plastic tube ("drinking straw") filled with MDP or Black Powder pyrolant, sealed at both ends with hot glue. A short length of nichrome bridgewire initiates the charge. Two slits in the tube wall near the aft end of the igniter control the burn rate and allow for escape of the hot gases in the form of flame jets. (Click for full details).
+
+
+Engineering Drawings
+	1	Impulser Motor Assembly
+	2	Impulser-X Motor Assembly
+	3	Impulser-XX Motor Assembly
+	4	Impulser Nozzle (KNSB)
+	5	Impulser Nozzle (KNDX)
+	6	Impulser-X Nozzle
+	7	Impulser-XX Nozzle
+	8	Bulkhead
+	9	Impulser Motor Casing
+	10	Impulser-X Motor Casing
+	11	Impulser-XX Motor Casing
+	12	Impulser Thermal Liner
+	13	Impulser-X Thermal Liner
+	14	Impulser-XX Thermal Liner
+	15	Thermal Liner Mandrel
+	16	Propellant Grain Segment
+	17	Propellant Grain Mandrel
+
+
+Motor Performance
+The Impulser motors were designed with the aid of SRM_2104.xls "Solid Rocket Motor Performance" software. The design parameters are presented in Figure 7. Note that actual performance may vary depending upon specifics of propellant preparation (e.g. particle size, moisture content, etc.).
+
+￼
+
+Figure 7 - Design Parameters for Impulser and Impulser-X motors
+
+	•	Impulser   Design Performance graphs, with KNSB propellant:
+	•	Kn graph
+	•	Chamber Pressure graph
+	•	Thrust graph
+	•	Impulser   Design Performance graphs:
+	•	Kn graph
+	•	Chamber Pressure graph
+	•	Thrust graph
+	•	Impulser-X   Design Performance graphs:
+	•	Kn graph
+	•	Chamber Pressure graph
+	•	Thrust graph
+	•	Impulser-XX   Design and Test Performance graphs:
+	•	Kn graph
+	•	Chamber Pressure graph
+	•	Thrust graph
+	•	Impulser-XX static test results
+	•	Impulser-XX static test results (SI units)
+
+Photos and Video Clips
+	1	Photos:
+	2	Machined nozzle o-ring grooves
+	3	Turning external profile of nozzle
+	4	Machining snap-ring grooves
+	5	Tool bit for cutting snap-ring grooves
+	6	Stash of Impulser grain segments
+	7	Primed KNDX grain segments for Impulser-X
+	8	Thermal Liner
+	9	Author with Impulser rocket motor
+	10	Author with Impulser-XX rocket motor
+	11	Flight Z-31 powered by Impulser-X
+	12	Video Clips: 
+	13	Impulser (prototype) static test firing (3.3 Mbyte)
+	14	Impulser-X static test firing (2 Mbyte)
+	15	Launch of DS-1 rocket powered by Impulser with KNDX (7.1 Mbyte)
+	16	Launch of DS-4 rocket powered by Impulser with KNSB (6.3 Mbyte)
+	17	Launch of Z-16 rocket powered by Impulser-X (1.8 Mbyte)
+	18	Launch of Z-21 rocket powered by Impulser with KNDX (6.9 Mbyte)
+	19	Launch of Z-25 rocket powered by Impulser-X (4.3 Mbyte)
+	20	Impulser-XX static test firing (camera 1)   6.6 MBytes
+	21	Impulser-XX static test firing (camera 2)   8.6 MBytes
+	22	Launch of Xi-16 rocket powered by Impulser-XX (5.9 Mbyte)
+
+
+Impulser-B
+Impulser-B, or "boosted Impulser", is the latest version of the Impulser motor. Impulser-B features 3 segments of KNSB propellant and 1 segment of KNPSB propellant. The single segment of fast-burning KNPSB propellant provides for a boost off the launch pad. The three slower-burning KNSB segments serve as a sustainer burn. An additional benefit of including the KNPSB segment is enhanced performance of the motor in comparison to the basic Impulser motor powered solely by KNSB. This is due to KNPSB's significantly higher specific impulse. The delivered specific impulse of the Impulser-B propellant combination is 140 seconds. This compares to 129 seconds for KNSB operating in the Impulser motor
+The design of the Impulser-B is identical to the basic Impulser motor, with the exception of the nozzle throat diameter. The KNPSB segment is placed in the motor nearest the nozzle. Motor parameters in comparison with the other versions of the Impulser motor is shown in Figure 8.
+
+
+￼
+
+Figure 8 - Design Parameters for Impulser motors
+The Impulser-B was twice static test fired. Results of the second test are shown in Figure 9. The Impulser-B was first flown on Flight Xi-18
+
+￼
+
+Figure 9 - Impulser-B Thrust and Chamber pressure graph
+Click for metric version of graph
+
+
+￼
+Original posting July 28, 2017
+Last updated November 17, 2020
+Return to Top of Page
+Return to Index Page
+

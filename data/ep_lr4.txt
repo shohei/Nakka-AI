@@ -1,0 +1,75 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Boreas 1  Rocket -   Flight #3
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of ERMS-13, the official designation of the third flight of the Boreas 1 rocket, which is powered by the newly developed RNX propellant in the Epoch solid rocket motor.
+The main objectives of this flight were to further prove the reliability of the Epoch motor under flight conditions, and as a final "proving" flight for the recovery system. Note that Epoch motor tests, whether flight or static, are designated as ERMS (Epoch Rocket Motor System) series.
+
+Rocket Description
+The motor used for this flight was the 48 mm Epoch-SS solid rocket motor, and is unchanged from the previous flights of Boreas 1 rocket. The specific propellant formulation was once again RNX-57, consisting of 70% Potassium Nitrate oxidizer, 8% Ferric Oxide (burn rate modifier & supplemental oxidizer), and 22% Epoxy (fuel & binder).
+The total propellant mass was 386 grams (0.85 lb.), and consisted of a free-standing hollow-cylindrical grain, inhibited on both ends (exclusively) which provides for a constant Kn =917. A thermal liner consisting of epoxy impregnated cardboard was employed to reduce heat transfer to the lightweight 1 mm steel casing.
+There were some changes to the configuration of the rocket for this flight:
+	•	A new g-switch was fabricated for triggering of the timer circuit, replacing the one used for the preceding flight. The new switch has a trigger acceleration of 5 g's (previous one was 9 g's).
+	•	The upper parachute canister was lengthened to accommodate the 1 metre diameter semi-ellipsoidal parachute that was fabricated about a year ago (for the Cirrus 2 rocket). This is the first flight utilizing this parachute.
+	•	Following the chute tether snarling problem with the preceding flight, a detailed analysis was performed to determine the appropriate lengths of the four tether lines that connect the three sections of the rocket, to prevent this problem from reoccurring. The four new tether lines were made of 3/16" (5mm) braided nylon rope.
+	•	To reduce the maximum altitude for this flight, and to increase the descent rate, 640 grams (1.4 lbs) of silica sand was added to the upper fuselage compartment just aft of the nosecone. As this resulted in a forward shift of the rocket C.G., the fins were subsequently clipped 15 mm shorter in order to reduce the stability margin (to avoid undue weathercocking).
+	•	To increase the trigger velocity of the A-S system, the flap was trimmed by 8 mm (was 49, now 41 mm).
+	•	The timer was set to trigger 13 seconds after liftoff.
+	•	Certain bonded components of the rocket were reinforced, such as the parachute canister components, which had become disbonded as a result of undue impact loading during the second flight.
+	•	The lower fuselage was reconstructed (the original was destroyed by fire in a mishap of test ERMS-11, which incorporated an experimental smoke canister/pyrogen unit to the motor).
+Pre-launch weight of the rocket was 9.64 lbs (4.37 kg.), 36% heavier than for the first flight which had a liftoff mass of 7.09 lbs (3.22 kg).
+
+
+Launch Report
+Sunday, December 15, 2002 
+The rocket had been prepped for launch some weeks earlier, however, poor weather (mainly high winds) resulted in postponement of the launch. On this day, the weather was finally suitable. The sky was lightly overcast, with a 2500 foot (750 m.) ceiling. The temperature was 1oC (34oF.). Winds were moderately light, being 11 km/hr. out of the south-west. Overall, it would have been a fairly comfortable outing, if it wasn't for the high humidity. The damp air led to somewhat chilly conditions.
+
+￼
+Author standing next to the Boreas rocket prior to flight.
+
+After setting up the launch pad, the rocket was loaded and the hatch was removed to gain access to the PET (Parachute Ejection Triggering) module. The procedure for testing and setting the PET circuitry was performed, using a checklist to ensure all steps were done properly. Connections were made to the ejection charges and continuity confirmed. All went smoothly, and the hatch was secured. The ALS (Audible Locator System) was then powered up. The final setup procedure was to lay out the motor ignition system and ensure that it was functioning properly. This accomplished, the observers then headed to safe viewing locations. Next, the igniter was inserted into the motor and connected to the ignition box.
+A digital videocamera was used to capture the launch and flight. Prior to heading to a good location for taking the footage, the ignition box was armed.
+After the "all ready & all clear" signals were announced, the countdown commenced...5-4-3-2-1-Ignition!
+Smoke was witnessed at the base of the rocket, signalling successful ignition, then after an additional second or so of thrust buildup, Boreas 1 once again soared skyward, leaving in its wake a dense, grey smoke trail. The rocket climbed very fast and very straight
+
+
+￼  ￼  ￼
+Third flight of Boreas 1...building up thrust -- then liftoff and skyward bound!
+Burnout of the motor occurred about a second and a half after liftoff, then the rocket coasted toward apogee. The rocket was stable as it ascended skyward with no noticeable wobble or other instability. After climbing for approximately 8 seconds, as the rocket began to tilt as its velocity decayed, a "puff" of smoke was seen as the ejection charge fired and the drogue chute deployed and immediately blossomed. A loud "pop" sound of the ejection charge was heard shortly thereafter. After about seven or eight seconds of descent, a second "puff" of smoke was seen to appear, as the main charge fired, also accompanied by a loud "pop". The main parachute immediately blossomed and the rocket continued its descent under the gentle guidance of the two fully inflated chutes. The rocket, in three individual portions tethered together, drifted downrange with the breeze as it descended. There was no tendency whatsoever for the tether lines to tangle. In fact, the descent occurred exactly per design, with the upper fuselage hanging below the main chute, the lower fuselage below the drogue chute, and the mid fuselage slung neatly between the two. It was a curious sight, as the two chutes slowly "orbited" around one another. Touchdown occurred about a minute after launch, landing in open pasture approximately 950 feet (metres (300 m.) from the launcher.
+
+￼
+Snapshot of the rocket descending.
+Main chute, left, with the upper fuselage hanging below. 
+Drogue chute, right, with lower fuselage hanging below. Slung between the two is the mid fuselage.
+
+
+
+￼
+Author proudly holding up the 1 metre main parachute after it's first outing
+
+Post-flight Analysis
+When the rocket was inspected after landing, it was found that the nosecone had been irreparably damaged upon contact with the ground, undoubtedly due to the momentum of the sand ballast, which was retained in a compartment just aft of the nosecone. No other damage to the rocket was apparent.
+From inspection of the video footage, the following times were excerpted:
+	•	Liftoff to burnout --        1.3 sec.
+	•	Liftoff to drogue parachute ejection --       7.5 sec. (note: A-S switch set to trigger at 70 mph).
+	•	Liftoff to main parachute ejection --       14.5 sec.
+	•	Liftoff to touchdown --       53 sec..
+Simulation of the flight based on ascent time provided an estimate of the peak altitude at 1300 feet (400 m.). As planned, the peak altitude was significantly less than the prior two flights, due to the inclusion of the sand ballast.
+When the rocket was later dismantled for inspection, it came as a surprise to notice that the aft fuselage was completely blackened within; in fact, there was a small hole burnt through the fuselage wall, at the location of the motor bulkhead. When the motor was extracted, it was discovered that there had been severe blow-by at one location, resulting in "burn through" damage to the aluminum alloy bulkhead. The location of the leak coincided with the welded seam in the casing. When the casing had been fabricated, the uneven seam had a thin layer of epoxy applied to smoothen out the seam. This fix had served well for several motor firings. However, the casing had been exposed to significant overheating during the ill-fated ERMS-11 test firing, which had resulted in the lower fuselage being destroyed by fire. It had not been noticed during the reloading of the motor for this flight that the epoxy had apparently been damaged as well, which led to the severe blow-by. The casing was found to have suffered a small heat blister at this location, as well.  Motor performance did not seem to be affected, thus it is presumed that this incident occurred near the end of the burntime.
+
+￼
+Damage to the bulkhead due to blow-by.
+
+Other than this, the rocket was found to be in excellent condition. The parachute triggering and deployment system worked flawlessly, and is now considered to be "operational" after the success of this final proving flight.
+
+￼
+Last updated Dec. 19, 2002
+Back to Home Page
+

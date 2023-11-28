@@ -1,0 +1,121 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-8
+
+ 
+Basic Information
+Name
+Z-8
+Launch date:
+1 February, 2015
+Rocket description
+63.5mm aluminum airframe
+4 fins, birch plywood
+aluminum conical nosecone
+3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+-Mini camcorder (set to 640x380 resolution)
+-Smoke Charge (initiated by Raven, 2 sec. post-apogee)
+Liftoff mass
+2.254 kg.
+Flight objectives
+- Experimental smoke charge for tracking free-fall descent
+- Aluminum tape bands for aiding visibility
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+265 grams
+Nominal impulse
+312 N-sec
+Class
+H
+ 
+Weather conditions
+Temperature
+-22°C
+Wind
+SW 10 km/hr
+Sky
+Clear sky
+Other
+wind chill -30°C
+ 
+Launch Event Description
+The trek to the launch site was a bit cold due to wind chill. Setup of the launch equipment went well. Setting up of the on-board video camera was challenging due to the bright sun and difficulty of seeing the LCD screen. The new ignition box that was recently built was being used for the first time. It worked well, and about a second after ignition button pressed, rocket rose rapidly in the usual manner. The white smoke trail was particularly striking, highly visible due to illumination from the bright sun, and with the clear blue sky as background. Rocket disappeared from view shortly after burnout. After about 10 seconds, the ‘pop’ sound from the apogee charge was heard, and immediately a smoke cloud from the charge appeared, brightly illuminated by the sun. A second or two later, another ‘pop’ was heard and a second smoke cloud, this one somewhat ‘streaked’, was visible. We saw the rocket free-falling, manifested as bright flashes as the sun glinted off the aluminum tape bands. After about a dozen seconds, the orange rocket itself could be clearly seen. Shortly after, the main charge was seen to fire and immediately the parachute was seen to blossom. The rocket descended in a stable manner all the way to touchdown, about 200 feet distant from us. Rocket was in great shape, overall. It was noticed, however, that the smoke charge mount had failed and smoke charge was hanging by the igniter leads. The smoke charge had not fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+11.9
+2358
+719
+Separation
+12.9
+-
+-
+Main deployment
+33.6
+568
+173
+Touchdown
+61.2
+ 
+ 
+Range
+ 
+300
+90
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+85.2/99.7
+26.0/30.4
+ 
+Main parachute
+19.3
+5.9
+ 
+ 
+Post-flight analysis and comments:
+Good Raven data and on-board video footage was obtained. Review of the footage showed that the zoom level was set higher than planned, this led to some degradation of the imagery. The aluminum tape bands functioned very well to aid visibility of the rocket, at least on a sunny day. The smoke charge failed to fire due to a fault with the igniter. Examination indicated that the pyrolant had partly burned, but failed to initiate.
+The Raven data indicated that the free-fall descent rate changed approximately half way down. The rate increased from 85.5 fps to 99.7 fps, a fair amount faster than seen previously. It is speculated that the rocket tumbled during the initial half of the descent, but then stabilized, and consequently generated less drag. This hypothesis is backed up by the on-board video footage.
+ 
+Raven baro and accelerometer graph:                                                 Z-8\Z-8_raven.jpg
+ 
+Photos:                                                                                                         
+Liftoff                                                                                                             Z-8\launch_capture-1.jpg
+Soaring skyward                                                                                          Z-8\launch_capture-2.jpg
+Descending by parachute                                                                          Z-8\capture 5.jpg
+                                                                                                                        Z-8\capture_4.jpg
+                                                                                                                        Z-8\capture_3.jpg
+                                                                                                                        Z-8\capture_2.jpg
+Landing site                                                                                                  Z-8\DSCF3429.JPG
+                                                                                                                        Z-8\DSCF3430.JPG
+                                                                                                                        Z-8\DSCF3431.JPG
+                                                                                                                        Z-8\DSCF3432.JPG
+                                                                                                                        Z-8\DSCF3433.JPG
+Smoke charge canister (based on ¾ EMT)                                              Z-8\DSCF3445.JPG
+Smoke charge with insulation wrap (ceramic paper/alum foil)         Z-8\DSCF3446.JPG                                                                                                                                   
+Smoke charge failed igniter                                                                      Z-8\DSCF3438.JPG
+ 
+Videos:                                                                                                         
+Flight                                                                                                              Z-8\Flight_Z-8.mp4         
+On-board video                                                                                            Z-8\Z-8 onboard.mp4     
+ 
+
+￼
+Last updated March 14, 2015
+Back to Home Page
+

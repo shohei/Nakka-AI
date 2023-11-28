@@ -1,0 +1,125 @@
+ 
+Basic Information
+Name
+Z-20
+Launch date:
+12 September, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- Minicamcorder (HD)
+- BRB900 GPS transmitter
+- Smoke charge (high output)
+- Apogee Backup Timer
+Liftoff mass
+2.616 kg.
+Flight objectives
+- Assess high output Smoke Charge
+- 2nd flight with Impulser-X
+- Assess new Apogee Backup Timer (2nd flight)
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+370 grams
+Nominal impulse
+435 N-sec
+Class
+I
+ 
+Additional information
+Smoke Charge for this flight is KNSB 65/35 O/F ratio doped with RIO to increase burn rate. This is to increase smoke output rate to improve sighting.
+ 
+Weather conditions
+Temperature
+23°C
+Wind
+S 25 km/hr
+Sky
+Sunny; partly overcast with scattered clouds
+Other
+Humidity 50%
+ 
+Launch Event Description
+ Setup of the rocket once again went smoothly with no glitches. A checklist was used for this flight due to complexity of setup. Raven confirmed all three pyro charges had continuity. A video camera was set up 250 feet from the pad (at the launch controller station) to capture liftoff and initial ascent. After verifying the sky was clear, the countdown proceeded. When ignition switch was closed, rocket motor did not fire. After waiting several minutes, the rocket was approached and the problem investigated. The igniter appeared to be faulty. Consequently the pyrogen igniter was swapped out with a spare “black powder” pyrotechnic igniter. On second attempt, the motor ignited and a few seconds later, the rocket rose rapidly skyward, and soon disappeared from sight. I glanced at the BRB receiver, which has a digital display of real-time altitude, refreshed each second. The altitude increased to a peak reading of 1188 metres ASL. Then I noticed the reading of 1183 metres, indicating descent had begun. We then heard a faint “pop” sound of the apogee charge. The smoke cloud from the charge was then sighted and shortly after a trail of smoke was seen. The free-falling rocket was readily seen, aided by the trail of smoke and occasional “flash” as the sun glinted off its reflective tape. The brisk wind carried the descending rocket downwind. At about 500 ft. altitude, the chute pyro charge fired, and the chute was seen to quickly deploy and fully blossom. Rocket slowly drifted down to earth in a stable manner, landing about 25 seconds later on the far side of a small hill. Touchdown site was quite distant, estimated at about ½ km away. The landing locator was used to record the direction of touchdown, as a redundant measure to help ensure recovery. The GPS readings from the BRB receiver were then entered into the Garmin hand-held GPS unit. The distance was indicated at 0.35 miles (563 m.). We proceeded to follow the direction indicated by the GPS. A while later the rocket was recovered, in great shape, exactly where touchdown had been indicated.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.3
+3094
+943
+Separation
+15.3
+3081
+939
+Main deployment
+50.7
+546
+166
+Touchdown
+74.3
+ 
+ 
+Range
+ 
+356
+109
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.5
+22.4
+ 
+Main parachute
+20.5
+6.2
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in perfect shape after landing. The Apogee Backup Timer system once again appeared to work nominally, as pyro charge had fired.  The on-board video footage was very good, and indicated some “wobble” during ascent, likely due to the brisk wind buffeting the rocket. The high output smoke charge produced a readily visible trail.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-20\Z-20_Raven.jpg
+Acceleration during motor burn                                                               Z-20\Z-20_Raven_motor.jpg
+ 
+Big Red Bee
+BRB GPS tracking of flight                                                                         Z-20\Z-20_BRB_mapped.jpg
+ 
+Photos:                                                                                                         
+Rocket, in workshop                                                                                   Z-20\DSCN0024a.JPG
+Rocket on pad, with author                                                                      Z-20\DSCF3830a.JPG
+Liftoff and ascent                                                                                        Z-20\launch_capture1.jpg
+Ascent, capture from on-board camera                                                 Z-20\Image18.jpg
+                                                                                                                        Z-20\Image19.jpg
+Post-apogee separation event                                                                 Z-20\Image20.jpg
+Free-falling                                                                                                   Z-20\Image21.jpg
+                                                                                                                        Z-20\Image22.jpg
+Trail from smoke charge (view from on-board)                                    Z-20\Image23.jpg
+Trail from smoke charge (view from launch site)                                 Z-20\DSCF3832a.JPG
+Descending by chute (1/2 km away)                                                        Z-20\DSCF3833a.JPG
+Approaching touch-down                                                                          Z-20\Image24.jpg
+Touchdown site                                                                                           Z-20\DSCF3842a.JPG
+                                                                                                                        Z-20\DSCF3845a.JPG
+                                                                                                                       
+Videos:                                                                                                         
+Liftoff and ascent                                                                                        Z-20\Z-20_launch_distant_view.MP4
+ 
+ 
+ 
+ 
+ 
+ 
+ 

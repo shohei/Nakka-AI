@@ -1,0 +1,292 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Amateur Experimental Solid Propellants
+
+￼
+Introduction
+Requirements of Amateur Solid Propellants 
+Compendium of Amateur Solid Propellants
+Professional Solid Propellants
+Introduction
+There are certainly countless solid propellant formulations that have been tried by amateur experimentalists over the years. Some have been very successful and have gained worldwide popularity, although undoubtedly most formulations have been simply downright failures, or at best, marginally successful. Surely anyone who has ever been involved in AER can cite formulations that they have tried without success, including myself. The very first propellants that I experimented with were zinc/sulfur as well as black powder. For whatever the reasons, I had no luck with either. Other experimentalists, however, have had good (or even great) success with these. The rocket propellant that provided great results for me in my early work was the potassium nitrate-sucrose formulation (KNSU). Interestingly, certain other experimenters at that time had only limited success with it. Clearly, it can be said that many propellant formulations simply won't work (e.g. bad chemistry), some work, but are of limited value (due to cost, difficult to produce, safety concerns, lack reproducibility, etc.), and yet there are other formulations that will function very well -- conditionally. What exactly does this mean?
+In hindsight, the reason that I did not have success with the zinc/sulfur or blackpowder propellants was certainly due to the methodology I employed in usage, not a fault with the propellants, per se. The key to success with any viable propellant is knowledge of the propellant with regard to its particular properties and its usage. For example, the exact ratio of constituents strongly affects how well a propellant will perform. "Perform" is meant in a broad sense, encompassing such parameters as specific impulse, burn rate, mechanical properties, castability (or formability), reproducibility, etc. Getting it right such that all these performance parameters are met, to a reasonable degree, is a daunting task. What adds to the challenge is that this is only part of the picture. There are other complicating factors that have a strong impact on whether a propellant will perform satisfactorily. For example, grain (particle) size of the oxidizer, or its purity, effective blending of the constituents, cure time, moisture content, porosity, burn rate behaviour (in particular its "pressure exponent") and even the particular shape of the propellant grain may or may not be suited to a particular propellant. It can therefore be said that the key to consistent success with a formulation (that is known to work well historically) is to follow the correct methodology in preparation and appropriateness of usage. Meeting these conditions will greatly enhance the likelihood of success.
+
+
+
+Solid Propellant Requirements for the Amateur Experimentalist
+With amateur rocketry, unlike professional rocketry, the availability of materials, the facilities and processes by which rocket propellants and motors may be produced, as well as available financing, vary greatly. And clearly these pale in comparison with professional resources. As such, a clear distinction must be made between the needs of the professional, and the needs of the amateur rocket engineer with regard to requirements defining an ideal rocket propellant. More importantly, what works well for one person, may not work at all for another. Expanding on this thought, what is suitable for one person, may not be at all suitable for another. Therefore, the list that follows is not presented in any particular order, as the importance of each would vary by individual. The exception are the first two items, which must always be of primary importance.
+
+	1	Safety of handling, storage, and usage
+	2	Toxicity of the constituents and products of combustion
+	3	Availability of the constituents
+	4	Predictability of performance
+	5	Consistency of performance
+	6	Adequacy of performance
+	7	Formability (or castability)
+	8	Cost
+	9	Practical burning characteristics 
+	10	Ease of formulation 
+Expanding on these ten requirements:
+	1	Safety of handling, storage, and usage -- These requirements apply to the individual constituents separately, as well as in combination. In combination, all the intermediate steps leading to the final prepared form of the propellant must be considered. Some of the factors to be considered for the individual constituents are sensitivity to ignition by friction, static charges, impact or shock. Chlorates should be avoided for this reason. Certain finely divided materials, such as magnesium and aluminum, require particular care in handling and storage due to possible "spontaneous combustion" and static charge sensitivity. High auto-ignition temperature is desirable for those propellants which are prepared at elevated temperature, as well as low melting point of the binder. A propellant should, ideally, not burn at atmospheric pressure, although nearly all do. 
+	2	Toxicity of the constituents and products of combustion -- Ideally, the propellant constituents as well as the exhaust products should be non-toxic, non-carcinogenic, and non-corrosive. Certain composite propellants require a catalyst (or curing agent). Typically, these contain isocyanates which require special handling procedures. Polyester and epoxy, when utilized as a fuel, binder or inhibitor, also require care in handling (such as impervious gloves, proper ventilation, and eye protection) due to sensitivities that may develop due to prolonged exposure. Ammonium perchlorate based propellants produce corrosive hydrochloric acid as an exhaust product. 
+	3	Availability of the constituents -- This requirement is probably the one that would differ the most amongst those involved in AER. A local source is preferable, especially for the oxidizers, as these have special shipping requirements and cannot be send through the regular post. An oxidizer such as potassium nitrate is perhaps the most readily available, sold as a fertilizer, although it has become harder to come by in some parts of the world due to restrictions on its sale. Potassium nitrate can be synthesized from other chemicals that are not restricted. Ammonium nitrate, until recently, was readily available in the form of "cold packs" sold at pharmacies. Ammonium nitrate was a commonly used fertilizer that is being phased out of production. Other oxidizers such as Potassium Perchlorate and Ammonium Perchlorate can be synthesized by the amateur. 
+	4	Predictability of performance -- In order to investigate the performance characteristics of a rocket motor, and therefore be able to predict how high and fast a rocket will go, it is desirable to be able to study the theoretical performance that a propellant will deliver. As such, it is necessary to know the chemical makeup of the constituents in order to perform a combustion analysis, or to examine the effects of changing the proportions of the constituents (e.g. O/F ratio). Some materials are a complex mixture of chemicals. Examples are asphalt and charcoal, which often vary significantly in chemical makeup from one source to another. Combustion analysis (using a software program such as ProPEP or CET) allows the determination of ideal specific impulse and flame temperature, and exhaust gas properties. These parameters are most useful in the design of motors. For example, knowing the flame temperature is important for choosing nozzle material. The gas properties aid in the design of the nozzle geometry. In addition to theoretical analysis, it is desirable to obtain empirical data on the propellant, such as pressure and temperature influence on burn rate. 
+	5	Consistency of performance -- Firing a rocket motor repeatedly with identical grains should yield similar, or consistent, performance results, time and again. This goal can be difficult to meet, for example, with powdered or pressed grain propellants (or those using evaporative binders) as reproducibility is hard to achieve, at least for the amateur, without specialized equipment. Cast propellants offer excellent reproducibility, due to the inherent simplicity of the method, especially if vacuum-treatment or pressure-curing is utilized to eliminate entrapped air. Composite propellants also have the potential to generate consistent performance, although particular care must be exercised in the preparation, as a greater number of steps and ingredients are involved. Vacuum treating or pressure curing is particularly important to eliminate porosity of the propellant grain. 
+	6	Adequacy of performance -- Although there is a natural tendency to want to employ high performance propellants in a rocket motor, this is not always a good approach. With relatively small rocket motors (say, size M or under) that amateurs typically produce, there is arguably little benefit in using a high performance propellant. This is especially true if the complexities in producing the propellant, cost or tradeoffs such are reliability are introduced. If a more powerful motor is required, it is simple enough to scale up a motor that utilizes a lower impulse propellant. For motors of appreciably larger size, however, use of higher impulse propellants become imperative. Scaling up low impulse motors eventually leads to diminishing returns, whereby the mass of the propellant (and therefore takeoff mass of the rocket) becomes so great that it imposes a severe limitation on altitude goals or payload potential. 
+	7	Formability (or castability) -- Casting a propellant grain is the most common and is arguably the best method of producing a reliable grain. If a propellant has a high percentage of solids, casting by means of pouring or scooping is not possible, as the mixture is dough-like. Packing may be successfully employed if the uncured propellant is putty-like in consistency, although care is necessary to prevent the inclusion of voids due to trapped air or a result of inadequate packing pressure. The same holds true for low-viscosity cast mixtures, but the likelihood of voids is less due to the greater fluidity of the material. The use of a surfactant is of particular benefit in this regard. 
+	8	Cost -- Cost is a particularly important consideration for most amateur experimentalists. Since the money comes out of our own pockets, is not recovered, and is generally quite limited, the choice of which propellant we employ for our projects is often based largely on cost of ingredients. This is especially true considering that all expenses incurred in a project, not only for propellant, must be borne ourselves. Fortunately, there are a number of propellant formulations that are low in cost, and do not impose a burden on our pocketbooks. 
+	9	Practical burning characteristics -- In order for a rocket propellant to be practical, it must have acceptable combustion characteristics when burned in a rocket motor. Successful solid propellants burn at a greater rate when combustion occurs under pressure, as experienced inside an operating rocket motor. However, there are bounds within which the rate should increase. Not too little, and not too much. If the burn rate does not increase sufficiently, the pressure within the motor may not develop to a level as to produce useful thrust. On the other hand, if the propellant burn rate is too sensitive to pressure, severe fluctuations in operating pressure could result, or worse, the motor may overpressurize too easily. The physical parameter that is used to measure a burn rate sensitivity to pressure, of a given propellant, is called the pressure exponent. The pressure exponent can only be determined through experimental measurement, and for most practical propellants the value lies between 0.2 and 0.7. Generally, it is the oxidizer that has the primary influence on the propellant's pressure exponent. For example, potassium nitrate propellants tend to have low to moderate pressure exponent. Potassium perchlorate based propellants nearly always have a high pressure exponent, and as such, are much more challenging to achieve success with. Propellants with a high presssure exponent should have as neutral a grain geometry (burning area progression) as possible. 
+	10	Ease of formulation -- The preparation of a particular propellant may be as uncomplicated as the blending of two chemicals together, then packing into a motor. For example, this is the simplest means of preparing zinc/sulfur propellant. On the other hand, certain composite propellant formulations require multiple steps to be carried out. For example, careful grinding of the oxidizer to predetermined particle sizes before blending. Using sieves to separate the particles of various sizes. Blending of the desired particles sizes in the desired proportion, etc. As the number of constituents of a composite propellant may total eight or more, each of which has to be precisely weighed (or measured), then mixed meticulously for a certain time period. A curative may then be added, then blended, before packing into moulds before the mixture sets. Just how important the "ease of formulation" is, is very much up to the individual experimenter to decide. Generally speaking, the novice experimenter should aim for simplicity in formulation until enough experience in propellant and motor making has been accumulated to be confident enough to attempt more complicated formulations.
+
+Compendium of Solid Propellants
+The following is a partial list of solid rocket propellants that have been used successfully by amateur rocket engineers (or have potential). Note that there are are certainly other formulations that I am not presently familiar with:
+	1	Potassium Nitrate/Sucrose (KNSU)
+	2	Potassium Nitrate/Sorbitol (KNSB)
+	3	Potassium Nitrate/Dextrose (KNDX)
+	4	Potassium Nitrate/Fructose (KNFR)
+	5	Potassium Nitrate/Erythritol (KNER)
+	6	Potassium Nitrate/Mannitol (KNMN)
+	7	Potassium Nitrate/Xylitol (KNXY)
+	8	Potassium Nitrate/Epoxy (RNX)
+	9	Potassium Nitrate/Sorbitol/Aluminum
+	10	Sodium Nitrate/Sucrose/Iron Oxide
+	11	Sodium Nitrate/Sucrose/Iron Oxide/Aluminum
+	12	Sodium Nitrate/Sorbitol/Iron Oxide/Aluminum
+	13	Zinc/sulfur (or Micrograin)
+	14	Blackpowder
+	15	Ammonium Nitrate/Aluminum/Neoprene (A24)
+	16	Ammonium Nitrate/HTPB/Magnesium (Wickman)
+	17	Ammonium Nitrate/Urethane
+	18	Ammonium Nitrate/Aluminum/Stearic Acid
+	19	Ammonium Perchlorate/Silicone II
+	20	Ammonium Perchlorate/PBAN/Epoxy
+	21	Ammonium Perchlorate/PBAN/Epoxy/Aluminum
+	22	Ammonium Perchlorate/HTPB/Aluminum
+	23	Ammonium Perchlorate/Epoxy/Iron
+	24	Ammonium Perchlorate/PVC
+	25	Potassium Perchlorate/Sucrose
+	26	Potassium Nitrate/ Potassium Perchlorate/Sorbitol
+	27	Potassium Nitrate/Aluminum/Polyurethane
+	28	Potassium Perchlorate/Epoxy
+	29	Potassium Perchlorate/Asphalt
+	30	Potassium Perchlorate/Polyester
+	31	Ammonium Nitrate/Ammonium Perchlorate/Silicone
+Notes on these propellants:
+1-7   These are known as the "sugar" propellants. KNSU is the "classic" formulation, which I first learned about while reading Brinley's Rocket Manual for Amateurs way back in 1971. I used this propellant with great success for all my early rocket experiments. Original formulation presented in Brinley's book:
+	•	Potassium Nitrate 60%
+	•	Sucrose 40%
+KNSU standard formulation (65/35 O/F ratio):
+	•	Potassium Nitrate 65%
+	•	Sucrose 35%
+The original formulation has slightly lower performance, however, has an advantage of lower viscosity slurry when melted.
+Click for excerpt from Brinley's book (continued)
+Potassium nitrate-sugar was originally a development of Bill Colburn in the 1940's (see The KN-Sucrose Propellant -- A Historical Look Back). KNSB was developed in the late 1970's by the Belgian rocketry group VRO. KNDX was developed in the mid 1990's by the author. KNSU, KNSB and KNDX have been researched extensively by the author, including full characterization of their burn rate - pressure behaviour.
+KNFR was developed some years later, but has so far found limited usage due to its great affinity to moisture. The burn rate- pressure relationship for KNFR was found to be identical to that of KNDX, based on strand burner tests conducted by the author. KNER is a fairly recent development. As far as I am aware, Scott Fintel was the first person to develop and document the properties of this particular sugar propellant. KNER has some attractive attributes such as great resistance to moisture and slower burning rate than the other sugar propellants which can provide for greater volumetric loading. It is difficult to ignite, however (which makes it even more safe to make and use). Mannitol-based KNMN has been used successfully by a number of rocketry enthusiasts. Burn rate-pressure characteristics of both KNER and KNMN (as well as KNSB) were investigated by amateur rocketry researcher Magnus Gudnason for his Bachelor Thesis in Chemical Engineering Characterization of Potassium Nitrate - Sugar Alcohol Based Solid Rocket Propellants. Magnus's results indicated that the burn rate- pressure behaviour of KNMN is identical to that of KNSB. I am also aware of some research that has been conducted regarding the use of mixtures of sugars, such as sucrose and sorbitol.
+A sugar substitute, xylitol, has been used by the author to a limited extent, with good success. The main drawback is cost of xylitol, however, the KNXY propellant has benefits such as very low hygroscopicity and slower burning rate than most other sugar propellants. Xylitol also has the advantage of an exceptionally low melting point (92 degrees Celsius).
+KNSU, KNSB, KNDX, KNER, KNMN, KNFR and KNXY all use the standard 65/35 oxidizer/fuel ratio.
+There are two other variation of sucrose-based sugar propellants that have been developed in recent years and have been used with good success. James Yawn has developed a version deemed "RCandy" that is made by solution and recrystallization. A specific recipe for "cooking" the ingredients, which involves the addition of water, needs to be followed meticulously to drive out the residual water to achieve a "crystal mush" stage. Further heating leads to a putty-like consistency that is then packed into the rocket motor casing. The approximate formula is:   RCandy
+	•	Potassium Nitrate 59%
+	•	Sucrose 29%
+	•	Karo syrup 12%
+Rocketry enthusiast Dan Pollino developed a variation that he deemed "Flexifuel". Owing to residual moisture in the propellant, it remains flexible after casting and as such, has the advantage that the propellant can be case bonded. Dan used Flexifuel successfully in many rocket flights.   Flexifuel
+	•	Potassium Nitrate 65%
+	•	Sucrose 18%
+	•	Corn syrup 17%
+	•	Ammonium Lauryl Sulfate 0.27% (supplemental)
+
+8   RNX was developed by the author with research beginning in 2001. I was intrigued by the potential for a cold-cast propellant using potassium nitrate as the oxidizer after being given a sample slug of epoxy mixed with potassium nitrate by fellow rocketry experimenter Marcus Leech. When ignited, the slug burned in a slow but stable manner, and showed good promise.
+RNX consists of potassium nitrate, epoxy and red iron oxide and is a moderate-impulse propellant that has many positive attributes. Besides the obvious advantage of being cold-cast, RNX possesses good machineability, is relatively slow-burning and has great resistance to accidental ignition. Two variants were developed: RNX-57 and RNX-71V, differing primarily in the brand of epoxy used.   RNX-57
+	•	Potassium Nitrate 70%
+	•	Epoxy, East Systems 22%
+	•	Red Iron Oxide 8%
+  RNX-71V
+	•	Potassium Nitrate 68%
+	•	Epoxy, West System 24%
+	•	Red Iron Oxide 8%
+9-12   Serge Pipko has done some innovative development work on enhanced performance sugar propellants. These four formulations are ones I find particularly interesting:   K132
+	•	Potassium Nitrate 59.1%
+	•	Sorbitol 31.8%
+	•	Aluminum Powder 9.1%
+  K122
+	•	Sodium Nitrate 66%
+	•	Sucrose 33%
+	•	Iron (III) Oxide 1%
+  K123
+	•	Sodium Nitrate 60%
+	•	Sucrose 30%
+	•	Aluminum Powder 9.1%
+	•	Iron (III) Oxide 0.9%
+  K137
+	•	Sodium Nitrate 60%
+	•	Sorbitol 30%
+	•	Aluminum Powder 9.1%
+	•	Iron (III) Oxide 0.9%
+13   Zinc/sulfur was a popular amateur propellant during the 50's and 60's. Due to it's low impulse, safety concerns regarding working with fine powders and rapid and uncontrollable burning rate, it has limited contemporary appeal. The roar, bright yellow flame, and copious smoke does admittedly make for a spectacular launch. A typical ratio is
+	•	Zinc dust 67.1%
+	•	Sulfur 32.9%
+The "Photuris B" rocket described in C.L.Stong's The Amateur Scientist utilized a 75% Zinc/ 25% sulfur mixture. More information on Zinc/Sulfur may be found in Brinley's Rocket Manual for Amateurs or Bill Colburn's The Micrograin Rocket.
+14   Pyrotechnic "skyrockets" as well as Estes type of model rocket engines use blackpowder as a propellant. The latter has propellant in the form of a highly compressed pellet comprised of:
+	•	71.8% Potassium Nitrate
+	•	13.45% Sulfur
+	•	13.8% Charcoal
+	•	0.95% Dextrin
+In the early 1980's, David Sleeter's Teleflite Corporation published booklets on "building your own Rocket Motors" using various compositions of blackpowder as the propellant. These motors represented self-made versions of commercial rocket motors ranging in size from A3 to E30. This was followed in 2004 by his book Amateur Rocket Motor Construction which featured blackpowder motors as large as a two-inch diameter I65. These particular publications were well-written and highly detailed, with the motors apparently being quite successful. Interestingly, Teleflite blackpowder features little or no sulfur content, with one recommended "starter" formulation being:
+	•	Potassium Nitrate 70%
+	•	Charcoal 30%
+If sulfur is added to increase the burn rate, the recommended sulfur content is 3% (apparently, the higher the sulfur content, the more "temperamental" the motor):
+	•	Potassium Nitrate 80.8%
+	•	Charcoal 16.2%
+	•	Sulfur 3.0%
+Blackpowder is a low-impulse propellant.
+15   A successful ammonium nitrate composite propellant utilizing aluminum powder as fuel was developed by the author following extensive experimentation that began in 2004. The A24 formulation proved to be particularly successful, being utilized in both static test motors and flight motors. These formulations utilize neoprene (chloroprene) as a binder, extracted from contact cement. The grains are formed by compression using a hydraulic press. Specific impulse in the range of 200-215 seconds is typical.   A24
+	•	Ammonium Nitrate 68%
+	•	Aluminum Powder 17%
+	•	Neoprene 11%
+	•	Sulfur 4%
+16   CP Technologies has developed a composite propellant that is comprised of:
+	•	Phase-Stabilized Ammonium Nitrate (PSAN) 60%
+	•	HTPB (R45HT) 20%
+	•	Magnesium, 260 mesh 20%
+By most accounts, this seems to be a good propellant that is reasonably simple to produce and gives good performance. A drawback is with the use of magnesium powder, which requires particular care in handling, and is quite expensive. As well, the AN is very hygroscopic, necessitating proper storage of the AN and finished grains.
+
+17   Of all the polymers used for composite propellants, polyurethane has one of the highest heating values. As such, polyurthane may be used as a fuel without a thermic agent. According to one source I came across, a composition in the range of 85-90% ammonium nitrate and 10-15% polyurethane works well as a propellant.
+18   An interesting formulation I came across in Jared B. Ledgard's Preparatory Manual of Blackpowder and Pyrotechnics, this formulation uses stearic acid (a.k.a. aluminum stearate), which is a white waxy powder, as a binder. The result is a "plastic-like" propellant that can be heat-cast. Performance is reportly good with a burn rate of 5-6 mm/second at 1000 psi.    formulation #03-03-013A
+	•	Ammonium Nitrate, anhydrous 70%
+	•	Aluminum Powder 15%
+	•	Aluminum Stearate 15%
+19   The use of GE Silicone II (GE280) as a fuel/binder with AP as an oxidizer is discussed in the paper Silicone II -- a New Fuel and Binder for Fireworks by Ken Burdick (see Journal of Pyrotechnics #8, 1998). Intrigued by the potential use of a simple and commonly available binder for an AP-based propellant, a few years ago I started experimenting along these lines. Indeed, GE Silicone II does make a very nice binder and the resulting propellant cures fully into a hard rubbery non-porous grain. Potential drawbacks were found to be very high burn rate and high pressure exponent. As such, I experimented with the addition of ammonium chloride as a burn rate suppressant. This resulted in a good experimental propellant.   AXP-AP1.10
+	•	Ammonium Perchlorate 62.8%
+	•	GE Silicone II 27%
+	•	Ammonium Chloride 10%
+	•	Lampblack 0.2%
+20-21   Detailed information on making PBAN-based AP composite propellant may be found in Terry McCreary's book Experimental Composite Propellant. The oxidizer is ammonium perchlorate (AP), the resin is PBAN (polybutadiene), and the curative is epoxy. The addition of aluminum results in an increased specific impulse, as the reaction of aluminum (with steam in the exhaust) is very exothermic. A drawback with the use of PBAN is the requirement that curing occur at an elevated temperature (140oF) for several days. A typical starter propellant is:
+	•	Ammonium Perchlorate, 200 micron 79.8%
+	•	PBAN 16.4%
+	•	Epoxy 3.6%
+	•	Lampblack 0.2%
+Lampblack is an opacifier. Burn rate behaviour of AP-based propellants is primarily dependant upon oxidizer particle size. As such, care must be taken to consistently use the specified particle size. The starter propellant modified with aluminum is:
+	•	Ammonium Perchlorate, 200 micron 70%
+	•	PBAN 17.3%
+	•	Epoxy 2.7%
+	•	Aluminum powder 10%
+22   HTPB has the advantage over PBAN of curing at room temperature. The uncured mixture is typically puttylike and packs nicely into a mould. Trapped air can be a problem, creating voids in the grain. Likewise, voids and bubbles can result from gases given off during curing (as a result of moisture absorption). Drawbacks also include the limited pot life once the curative has been added to the mixture. Quite a few ingredients may be required (binder, plasticizer, Tepanol, cross-linking agent, surfactant, burn rate modifiers, etc.) although this is not necessarily the case.
+Gordon N. Campbell's booklet How to Formulate and Process Composite Propellants, published by Propulsion Systems, provides detailed information on AP/HTPB based propellants intended for the amateur rocket builder, and which provides formulas for a number of AP/HTPB propellants. An example is: Procite AA6510o2:
+	•	Ammonium Perchlorate, 400 micro 49.2%
+	•	Ammonium Perchlorate, 200 micron 16.4%
+	•	Aluminum powder 10%
+	•	Oxamide (burn rate supppressant) 2%
+	•	HTPB (R45M) 12.1%
+	•	DOA (plasticizer) 5.7%
+	•	Caster oil (cross-linking agent) 1.3%
+	•	PDS-8R111 (anti-foam agent) 0.1%
+	•	MDI (curative) 1.1%
+	•	DDI-1410 (slow-acting curative) 1.7%
+	•	TPB (triphenylbismuth, cure catalyst) 0.4%
+Retired rocket engineer and fellow experimenter Harry Lawrence (who is teaching me just about everything I know about AP/HTPB propellants!) has a more simple formula that requires a minimum of additives. Harry's basic aluminum-content formula: 
+APX:
+	•	Ammonium Perchlorate, 600 micron 10.8%
+	•	Ammonium Perchlorate, 300 micron 38%
+	•	Ammonium Perchlorate, 140 micron 27%
+	•	HTPB 17%
+	•	DOA (plasticizer) 2.5%
+	•	P.MDI (curative) 1.6%
+	•	Aluminum powder 3%
+	•	Lampblack 0.1%
+It is worth noting that the composite formulations (both PBAN and HTPB based) result in propellants that deliver excellent performance, have good mechanical properties, and offer potentially long burn times. Aluminum-enriched composite propellants burn with a brilliant hot flame and it is really spectacular to watch a rocket take to the sky powered by such a motor.
+23   Recently I developed an experimental AP-based composite propellant that utilizes epoxy as a binder. As a thermic agent, iron powder is used to good effect, based on a suggestion from rocketry enthusiast John Ashcroft (aluminum powder is another candidate). Finding a suitable epoxy to safely use with AP was a challenge, as many epoxies (such as West System) result in a hazardous compound rather than a safe propellant. NuLustre epoxy, which is a two-equal part (resin-hardener) system, produces a safe propellant, but must be cured under a pressure of approximately 400 psi to eliminate porosity, This is of essential importance to avoid rapid and violent disassembly of the motor.   AXP-AP2.3
+	•	Ammonium Perchlorate 70%
+	•	Epoxy (NuLustre) 23.8%
+	•	Iron Powder (atomized) 6%
+	•	Lampblack 0.2%
+24   I have been made aware of a successful composite propellant which utilizes powdered PVC (polyvinychloride) as the fuel/binder, and AP as the oxidizer. The stoichiometric ratio is AP 79.3% and PVC 20.7%. Unfortunately, I do not presently have any additional information on AP/PVC compositions.
+25   Apparently an early "sugar" formulation used by rocketeers in the 1960's, I read about this in The Encyclopedia of Space (an English translation of La Grande Aventure de l'Espace), one of my favourite books as a teenager. Click for excerpt from the book.
+26    I have just recently developed a performance-enhanced version of KNSB, which utilizes potassium perchlorate as a supplemental oxidizer. This propellant is prepared and cast in an identical manner to standard KNSB, and features a fast burn rate and moderately high pressure exponent.   KNPSB
+	•	Potassium Nitrate 35%
+	•	Potassium Perchlorate 30%
+	•	Sorbitol 35%
+27   "Formula Two" from the booklet The Homemade Solid Rocket Engine published by Spartan Scientific consists of a propellant with the formulation:
+	•	Potassium Nitrate 46%
+	•	Aluminum powder 22%
+	•	Sulfur 14%
+	•	Charcoal 3%
+	•	Polyurethane 15%
+When I encountered this formulation back in 2004, I was skeptical. I could not imagine a propellant with such a low percentage of oxidizer. I mixed up a small batch and to my surprise, it burned very well with a hot white flame.
+28   This formulation was under development by the Aurora Project Group for their sounding rocket project. The experimental propellant consisted of Potassium Perchlorate oxidizer, epoxy binder and red iron oxide. Following successful small scale motor firings, a large motor utilizing a cast grain with a star-shaped core was test fired. The motor CATO'd and work on this formulation was discontinued. Potassium perchlorate formulations are known to suffer from a high pressure exponent. This was likely a factor that led to the unexpected CATO.
+29   Brinley's book describes an advanced amateur rocket (being built at the time) that utilized 100 lbs. of propellant consisting of 75% potassium perchlorate and 25% asphalt. GALCIT 61-C used in commercial JATO units consists of the following formulation:
+	•	Potassium Perchlorate 76%
+	•	Texaco No.18 asphalt 16.8%
+	•	SAE No.10 lubricating oil 7.2%
+The asphalt is liquified at 275 degrees F. and pulverized potassium perchlorate blended in.
+30   A successful research propellant based on potassium perchlorate with a polyester binder is described in the technical report FTD-HT-66-730 Solid Rocket Propellants by Krowicki & Syczewski. The polyester binder is Polimal 110 (55% Polyester/45% Styrene). The formulation is:
+	•	Potassium Perchlorate 73.6%
+	•	Polyester/Styrene 26.4%
+This propellant is fast burning and has a high pressure exponent. As such, grain configuration with this propellant must have a neutral burn configuration, for example, tubular grain burning on core and outer surfaces (with ends inhibited). Reported Isp=168 seconds at 2300 psi with Kn=267.
+31    A successful dual-oxidizer propellant that utilizes two-part silicone as a binder was developed by Dave from Australia. Burn rate reported to be 8 mm/sec at 500-600 psi. Recommended Kn is 300-330. This propellant was used in an 80mm motor to successfully launch an experimental rocket to an estimated 14 kft (4.3km).   SILROC
+	•	Phase-Stabilized Ammonium Nitrate (PSAN) 40%
+	•	Ammonium Perchlorate 20%
+	•	Silicone (Elastosil M4503) 23.25%
+	•	Catalyst 1.75%
+	•	Aluminum Powder, 5 micron 7.5%
+	•	Aluminum Powder, 20 micron 7.5%
+
+Some Professional Propellants of Interest
+Professional solid propellants are those used in commercial and military rocket motors. Needless to say there are countless variations and formulas, each tailored to the specific needs of the application. Nowadays, nearly all are AP-based composite propellants utilizng HTPB or PBAN as binder. This is true due to the proven reliability, performance and plenitude of engineering data available based upon abundant research that was conducted in years past to fully understand and characterize ammonium perchlorate as a propellant oxidizer. However, it is worth noting that early rocket propellants utilizing other oxidizers and other binders were successful in their own right. This is apparent when one studies the history of sounding rockets. Sounding rockets, used for meteorological and upper atmospheric research (for example) are generally "small" rockets not too dissimilar to those designed and built by amateur rocketeers. As such, I feel there is value in presenting a few of these propellants that may serve as inspiration for us amateur rocket engineers.
+The Loki Dart is one of those sounding rockets of interest. Originally developed by JPL for the military, but never put into service, the Loki-Dart found its niche as a highly successful sounding rocket, of which several thousand were flown. A number of different propellants were used in the earlier Loki-Dart rockets (ref. Richard B. Morrow's Small Sounding Rockets - A Historical Review of Meteorological Systems 1955-1973):
+  JPL 131
+	•	Ammonium Perchlorate 71.46% [1]
+	•	Polysulfide 25.67%
+	•	p-Quinone dioximine (curing agent) 1.71%
+	•	Sulfur (curing catalyst) 0.15%
+	•	Ferric oxide 1.10%
+  JPL 132
+	•	Ammonium Perchlorate 67.40% [1]
+	•	Polysulfide 30.21%
+	•	p-Quinone dioximine (curing agent) 2.00%
+	•	Diphenyl guanidine (curing accelerator) 0.33%
+	•	Sulfur (curing catalyst) 0.05%
+  JPL 100X
+	•	Ammonium Perchlorate 12.0% [1]
+	•	Potassium Perchlorate 60.0% [2]
+	•	Polysulfide 25.3%
+	•	p-Quinone dioximine (curing agent) 1.7%
+	•	Diphenyl guanidine (curing accelerator) 0.8%
+	•	Ferric Oxide 0.2%
+  Super Loki (original)
+	•	Ammonium Perchlorate, as received 46.2% [3]
+	•	Ammonium Perchlorate, after grinding 30.8% [3]
+	•	Polysulfide 16.4%
+	•	p-Quinone dioximine (curing agent) 1.2%
+	•	Diphenyl guanidine (curing accelerator) 0.1%
+	•	Dibutyl phthalate 2.8%
+	•	Aluminum powder (resonance suppressor) 1.8%
+	•	Sulfur 0.1 (curing catalyst)%
+	•	Magnesium oxide (curing catalyst) 0.6%
+  Super Loki (contemporary)
+	•	Ammonium Perchlorate, 200 micron 80.4%
+	•	Potassium Perchlorate 2.0%
+	•	HTPB 9.88%
+	•	MDI Isocyanate (curative) 1.35%
+	•	CAO-5 (antioxidant) 0.1%
+	•	IDP (plasticizer) 3.78%
+	•	Copper Chromite (curing catalyst) 0.7%
+	•	Aluminum powder, 4 micron (resonance suppressor) 1.8%
+
+Notes:
+[1] 70% as received; 30% ground 12 micron
+[2] 57% as received; 43% ground 5 micron
+[3] Grain size distribution for AP Blend
+And of course any list of professional rocket propellants of interest to the amateur rocket engineer would be amiss if it did not include the Space Shuttle Solid Rocket Booster formulation:   Space Shuttle SRB
+	•	Ammonium Perchlorate 69.6%
+	•	PBAN 12.04%
+	•	Epoxy (curative) 1.96%
+	•	Iron oxide (curing catalyst) 0.4%
+	•	Aluminum powder 16.0%
+
+
+￼
+Originally posted  May 20, 2001
+Last updated July 23, 2020
+Return to Top of Page
+Return to Home Page
+

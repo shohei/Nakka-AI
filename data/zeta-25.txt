@@ -1,0 +1,144 @@
+ 
+Basic Information
+Name
+Z-25
+Launch date:
+21 May, 2016
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+- SM = 1.05 (initial)
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Smoke charge (activated by Raven at 2500 ft. level)
+- Apogee Backup Timer
+- SJ1000-SC Video camera
+Liftoff mass
+2.580 kg.
+Flight objectives
+- Test new video camera
+- Test smoke charge initiation at prescribed altitude
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNDX
+Grain mass
+377 grams
+Nominal impulse
+444 N-sec
+Class
+I
+ 
+Additional information
+A new video camera similar to the SJ1000 used in earlier flights is being flight tested for 1st time.
+ 
+Weather conditions
+Temperature
+26°C
+Wind
+S 33 km/hr
+Sky
+Clear & sunny
+Other
+RH 26%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+The wagon was used to transport our rocket paraphernalia to the launch site for the 1st time this season. As we began to set up the launch pad, I noticed that I had brought along the wrong pre-flight checklist. It was therefore necessary to proceed by memory, which went reasonably well. The BRB transmitter was switched on, then on-board camera was activated. Raven flight computer confirmed all four pyro charges had continuity. Backup timer was tested and confirmed to be operating nominally. A camcorder was set up on a tripod to capture liftoff.  I used the hand-held Sony camcorder (with scope tube) to attempt to film the complete flight. After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, smoke was seen issuing from the nozzle and one second later, the rocket soared off the pad, climbing dead vertical. The motor burned for about two seconds. The rocket was visible during a good portion of the ascent, with the bright sun illuminating the rocket. About 10 seconds after disappearing from sight, a pair of white smoke clouds appeared, signaling successful apogee separation and backup pyro firing. The rocket was then sighted tumbling down, visually made clear by flashes of the sun glinting off the rocket. A third smoke cloud then appeared. The rocket continued to tumble downward, and a short while later, a faint white smoke trail appeared which grew rapidly denser and highly visible against the deep blue sky. The smoke trail continued for about 15 seconds. Following burnout of the smoke charge, the tumbling rocket was distinctly visible due to the clear sky. A smoke cloud suddenly appeared as the parachute charge fired. About a second later, the parachute was seen to blossom and the rocket gently drifted earthward, carried downrange by the wind. Touchdown occurred about a minute later. We then programmed the BRB GPS coordinates into the Garmin hand-held GPS unit, which indicated the landing site was 0.56 miles away.
+ 
+When we arrived at the touchdown site, the rocket appeared to be in nearly perfect condition. Scrape marks on the paint and slightly abraded fins provided evidence that the strong wind had carried the rocket along the gravel-covered ground for some distance after landing.
+ 
+Before packing up, we used the anemometer to measure and record the wind speed.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.2
+3606
+1099
+Separation
+16.0
+3596
+1096
+Main deployment
+55.2
+825
+251
+Touchdown
+110
+-
+-
+Range
+-
+3060
+933
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+73.3
+22.3
+ 
+Main parachute
+10.9/15.9
+3.32/4.85
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in great shape except for some minor scratches and scuffs. Excellent on-board HD video was obtained.
+Despite the harsh wind (33 km/hr), which was of higher velocity than forecast, the rocket did not weathercock whatsoever. This is attributed to the minimal stability margin (1.05 at liftoff).
+The Smoke Charge fired at the exact altitude specified in the Raven 4th channel configuration. The total burn time of the smoke charge was 14 seconds, less than the expected 22 seconds, perhaps due to a void in the grain. The smoke trail stood out very distinctly against the blue sky and greatly aided visual tracking during free-fall.
+As indicated by the Raven data, the descent rate was usually slow. This was perhaps a result of rising air currents due to the particular terrain over which the rocket descended. The same had been noted for Flight Z-21, which descended over the same terrain.
+Good video coverage of the entire flight was obtained with the hand-held camcorder, once again demonstrating the merit of the “scope tube”.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-25\Z-25_Raven.jpg
+Acceleration data during burn                                                                  Z-25\Z-25_Raven_accel.jpg
+ 
+ 
+Photos:                                                                                                         
+Z-24 Rocket with my brother, Blair                                                          Z-25\DSCN0303.JPG
+Liftoff (view from tripod camera)                                                            Z-25\z-25_nikon1.jpg
+Liftoff and ascent (hand-held camera)                                                   Z-25\z-25_sony1.jpg
+                                                                                                                        Z-25\z-25_sony2.jpg
+                                                                                                                        Z-25\z-25_sony3.jpg
+                                                                                                                        Z-25\z-25_sony4.jpg
+Liftoff, on-board camera view                                                                 Z-25\ssj-capture1.jpg
+Apogee and Backup Timer pyro smoke clouds                                      Z-25\z-25_sony5.jpg
+Raven Backup pyro smoke cloud                                                             Z-25\z-25_sony6.jpg
+Smoke Charge commences burning                                                        Z-25\z-25_sony7.jpg
+                                                                                                                        Z-25\z-25_sony8.jpg
+Parachute pyro fires                                                                                   Z-25\z-25_sony9.jpg
+Chute deploys                                                                                              Z-25\z-25_sony10.jpg
+Gentle descent                                                                                             Z-25\z-25_sony11.jpg
+On-board view, approaching touchdown                                              Z-25\ssj-capture2.jpg
+Shadow of rocket is seen just before touchdown                                Z-25\ssj-capture3.jpg
+Forward section of rocket floating down                                              Z-25\ssj-capture4.jpg
+After landing                                                                                                 Z-25\ssj-capture5.jpg
+Rocket at touchdown site                                                                         Z-25\DSCN0308b.JPG
+ 
+Videos:                                                                                                         
+Liftoff from remote camera                                                                     Z-25\Z-25 NIkon.MP4
+Rocket free-falling followed by parachute deployment                     Z-25\Z-25_post-ascent.MP4
+Post-landing, rocket being dragged along ground by wind                Z-25\Z-25_onboard_post-landing.MP4
+ 
+Misc:                                                                                                             
+AeroLab drawing of Z-25 rocket                                                              Z-25\Z-25_Rocket_aerolab.jpg
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

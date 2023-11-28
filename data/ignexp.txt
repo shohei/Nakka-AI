@@ -1,0 +1,99 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Propellant Igniteability Experiment
+
+Introduction:
+It had been observed during ad hoc testing (under ambient conditions) that the KN-Sorbitol propellant does not readily ignite, and that sustained heating with direct flame exposure is typically required to initiate combustion. This contrasts with both the KN-Sucrose and KN-Dextrose propellants, which tend to ignite much more readily. The igniteability of a rocket propellant is of prime importance. Ideally, all initially exposed grain surfaces should start burning immediately and simultaneously upon activation of the motor igniter. This is desired in order to produce the expected (design) thrust and pressure profile. If any portion of the propellant grain suffers from delayed ignition, the resulting profile could differ markedly from expected. In fact, "delayed ignition" is a postulated cause for the peculiar performance results obtained from static test KSB-001 of the Kappa-SB rocket motor.
+Objective:
+This set of experiments was conducted in two parts. The objective of Part A was to quantify the relative igniteability of three propellants: KN-Sucrose (KN-SC), KN-Dextrose (KN-DX) and KN-Sorbitol (KN-SB). Igniteability is defined here as the "time from initial flame exposure to initiation of combustion". The objective of Part B was to test an experimental "Combustion Primer" coating for the propellant to investigate whether igniteability may be enhanced by this method.
+
+Specimens:
+Several "slugs" of each propellant were cast using rings of 1 inch PVC pipe as the moulds. The casting surface was galvanized sheet steel, providing the slugs with one smooth "test" surface. Preparation of the propellant was per standard procedure. Typically, batches of 123 grams (80 g. oxidizer/43 g. fuel) were prepared. For the KN-Dextrose, the dextrose was oven dried to the anhydrous form. All constituents were finely ground (using an electric coffee grinder) and the powdered mixtures were thoroughly blended (3 hours) prior to casting.  Specimen size was 0.931 in. (24mm) diameter by 0.40 in. (10mm) length; mass was 8 grams each. The slugs were sized to be of appreciable mass and thickness to provide enough thermal inertia to delay the onset of combustion long enough to allow for reasonably precise measurements. Due to the hygroscopic nature of the KN-Sucrose, the test surface was slightly damp. This was considered to be acceptable, being representative of the actual condition of usage. The other two propellants, however, had surfaces that were completely dry. The KN-Sorbitol specimens were allowed to cure for a minimum of 24 hours after casting. During the casting operation of each batch, a "quality control" propellant strand was also produced, for measurement of ambient-pressure burn rate. All specimens were confirmed to be within normal limits for burn rate.  No further surface preparation was done to the slugs for Part A of the experiment. These specimen slugs are shown in Figure 1, as well as the PVC casting rings.
+
+￼
+Figure 1-- Casting rings and propellant slugs for Part A: Top: KN-Sorbitol; Middle KN-Dextrose; Bottom: KN-Sucrose
+
+
+For Part B of the experiment, slugs of KN-Sorbitol were coated on the test surface with an experimental "Combustion Primer". This primer consisted of finely ground Ignition Powder (80/20 KN/Charcoal) mixed with 70% Isopropyl Alcohol (rubbing alcohol). A mortar and pestle was first used to pulverize the granules of Ignition Powder. Isopropyl Alcohol was then added to produce a consistency of thick paint. A fine paintbrush was then used to apply the mixture onto the slug surface (single coat). This was then allowed to dry for a minimum period of 24 hours. The resulting coating was durable and adhered very well. The coating thickness was measured and found to average 0.0075 in. (200 micron). Figure 2 illustrates these slugs.
+
+￼
+Figure 2-- KN-Sorbitol slugs with primer coating, for Part B of the experiment
+
+Apparatus:
+The specimen holding fixture consisted of a vertically mounted steel plate (3.7 in. square; 0.060 in. thick) with a chamfered 21/32 inch (17mm) hole at the centre. The specimen was "hot glued" to the back side of the plate concentric to the hole. The intention of this particular design is to minimize boundary effects with regard to initiation of combustion. A butane "BBQ" lighter was used as the heating source, and was positioned 25 mm. away from the specimen test surface. A positioning fixture governed the location of the lighter. For all tests, the lighter was set to maximum flowrate, and positioned such that the flame impacted the specimen central and normal to the test surface. A sheet steel "flame shield" was temporarily placed in between the flame and the specimen to allow for precise control of onset of heating. Setup for the experiment is shown in Figure 3.
+
+￼  ￼
+Figure 3-- Apparatus used in experiment, shown with propellant slug and lighter in position
+
+Method:
+The procedure for the experiments was identical for all specimens tested. The slug was glued to the fixture, the lighter was then put into position, as was the flame shield. The lighter was lit and the flame allowed to stabilize. The shield was then rapidly pulled away, allowing the flame to contact the slug surface. The time duration between removal of the shield and initiation of combustion was measured. Videotaping of the procedure allowed for accurate timing of this duration. This process was then repeated for each subsequent specimen. Cleaning of the combustion residue and cooling of the fixture plate was done after each test.
+
+Results:
+Part A For the uncoated slugs, initiation of combustion followed a similar pattern. Initially, heating produced no visible effects on the specimen. A few seconds before combustion occurred, a "blister" would begin to form on an isolated (and seemingly random) location on the test surface. Caramelization would begin to occur at the blister, darkening in colour until a small spot of carbon appeared. The blister size for KN-Sorbitol was significantly larger than for the other two propellant types, with decomposition being somewhat different than caramelization (perhaps better described as carbonization). Nearly immediately after the carbon spot appeared, combustion would occur with initiation at this location. Flame spread over the entire surface would then be nearly instantaneous, due to the hot state of the surface layer of the propellant.  Five slugs of each propellant type were tested, with the results tabulated in Table 1. These results are also graphically presented in Figure 4 in the form of a "radar" plot.
+
+Table 1 -- Results: Time to ignition (seconds)
+Test #
+KN-Sucrose
+KN-Dextrose
+KN-Sorbitol
+1
+4.7
+7.4
+17.7
+2
+5.9
+8.0
+22.0
+3
+4.3
+8.1
+16.4
+4
+4.8
+7.2
+22.8
+5
+4.3
+8.6
+20.4
+Avg.
+4.8
+7.9
+19.9
+￼
+Figure 4-- Igniteability comparison of the three propellants (graphical format)
+
+Results   (cont.)
+Part B For the slugs coated with Ignition Primer, initiation of combustion followed a different pattern than for the bare slugs. Initial heating caused the coating to rapidly begin to melt over much of the test surface, followed by highly agitated bubbling. Soon thereafter, combustion would initiate. Flame spread over the entire surface was somewhat less rapid than for the bare specimens.  Five slugs of KN-Sorbitol propellant type were tested, with the results tabulated in Table 2. These results are also graphically presented in Figure 5 in the form of a "radar" plot. The results for the bare slugs are plotted, as well, for comparison.
+
+Table 2 -- Results: Time to ignition (seconds)
+Primer coated slugs<
+Test #
+KN-Sorbitol
+1
+2.9
+2
+4.8
+3
+5.0
+4
+12.8
+5
+3.3
+Avg.
+5.8
+￼
+Figure 5-- Igniteability of KN-Sorbitol, comparison between primed and unprimed slugs
+As is seen in Table 2, the average time to ignition for the primer coated specimens was 5.8 seconds. If the one aberrant data point is excluded, the average time is reduced to 4.0 seconds.
+Discussion:
+The results from Part A of this experiment clearly show a significant difference in igniteability of the three propellants. Initiation of combustion for KN-Sucrose is most rapid, with KN-Dextrose requiring somewhat greater heating time. KN-Sorbitol does not readily ignite, requiring a much greater heating time than the other two propellants. The qualitative observations made during the heating phase suggests that decomposition of the propellant (caramelization) plays an important role. KN-Sucrose, which is partly caramelized during the casting operation, decomposes most readily. Slight caramelization occurs during the casting of KN-Dextrose, with decomposition occurring quite readily during the heating phase. However, KN-Sorbitol does not caramelize during casting, nor does it readily decompose during heating. Only after sustained heating, does decomposition occur, with the formation of visible carbon (rather than typical caramelization).  If the results are normalized with respect to KN-Sucrose, the igniteability of the other two propellants may be expressed as a ratio of "time to initiation of combustion". For KN-Dextrose, the ratio is 1.64; for KN-Sorbitol, the ratio is 4.15.
+From the results of Part B, it is clear that igniteability of KN-Sorbitol can be greatly enhanced. The Combustion Primer coating that was used was demonstrated to be effective in achieving this objective. Igniteability was increased, on average, by nearly a factor of 5 (if the aberrant data point is neglected). The effectiveness of the Combustion Primer coating is likely due to the decomposition mechanism. As the coating is heated, the potassium nitrate melts readily (333oC.), as no energy is absorbed by decomposition or melting of the "fuel" (charcoal) in the coating mixture, at this temperature. Only slightly further heating leads to the decomposition of the potassium nitrate (400oC.), with the evolution of oxygen and subsequent combustion of the charcoal particles in the coating matrix.  Another factor that likely enhances the effectiveness of this Combustion Primer is the black colour. The high emissivity of the coating would facilitate radiant heat transfer from the flame.
+Conclusion:
+Both KN-Sucrose and KN-Dextrose propellants ignite readily, most likely aided by the natural caramelization process that occurs upon heating. As such, these propellants most likely may be utilized in a rocket motor without concern as to "delayed ignition" of portions of the grain. KN-Sorbitol, which does not experience this mode of decomposition, does not readily ignite. This is an important consideration for its use as a rocket propellant. Design of the motor igniter system is paramount to obtain rapid ignition of the grain. Critical parameters would be placement, charge size and duration, and flame temperature. The key to effective ignition would be heat transfer from the igniter combustion products to the grain surface by means of convection (i.e. high velocity flow over the surface). For a single-grain motor with a central core, a pyrogen* igniter would prove most effective for rapid startup. Certain grain configurations, however, pose a problem. For example, a BATES grain, which consists of stacked segments. Timely ignition of the segment ends is imperative to obtain the design thrust and pressure profile. However, the segment ends are pretty much in a region of stagnant flow, and thus reliable ignition may pose a problem, regardless of igniter design. The use of a Combustion Primer may well be the solution. The Combustion Primer can be applied to certain surfaces of the propellant grain to ensure rapid ignition. For example, with a BATES grain, the segment ends would be coated, and the central core may be coated part way (near the segment ends).  The Combustion Primer coating that was tested in this experiment would appear to be very effective for this purpose. In addition, the coating proved to be durable with regard to handling, and was simple to formulate and apply.
+
+
+*Essentially, a pyrogen is a small rocket motor. Reaction products from the pyrogen grain are expelled through the pyrogen nozzle at a high velocity and impinge on the surface of the motor propellant.
+
+Return to Home Page
+

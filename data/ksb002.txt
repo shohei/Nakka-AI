@@ -1,0 +1,104 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Kappa-SB rocket motor Static Test KSB-002 Test Report
+
+Introduction
+Motor Details
+Static Test Rig
+Test Report
+Analysis
+Performance
+Conclusion
+Introduction
+This web page presents the test report detailing the fourth test firing of the Kappa solid rocket motor, as well as post-test analysis. This particular test was of the Kappa-SB version, powered by KN-Sorbitol propellant, and represents the second test firing of this version, denoted KSB-002. 
+This static test had two main objectives:
+	•	To test the adequacy of a redesigned casing thermal liner.
+	•	To investigate the hypothesis of "delayed grain ignition" which was put forth to try to explain the unusual "triangular" thrust and pressure profile of the previous test (KSB-001). To overcome possible delayed ignition, a pyrogen igniter and grain "combustion primer" were employed for this test.
+Motor details
+The motor for this test was the same as that used for the previous three Kappa motor static tests (KDX-001, KDX-002, KSB-001). Certain minor modifications were made to the motor:
+
+	•	The casing thermal liner, which proved to be inadequate in the previous tests, was again redesigned. The redesigned liner consisted of concentrically rolled poster paper, of 0.0165 inch (0.42 mm) thickness. The liner, which was cut out as a single rectangular sheet, was formed into a tubular shape by rolling over a mandrel and joining at the overlapping seams with RTV adhesive. The sheet was sized to form four layers of total thickness 4 x 0.0165=0.066 inch (1.7 mm). This is twice the thickness of the liner used for KDX-002. Prior to rolling, that portion of the surface directly exposed to combustion was sprayed with hi-heat aluminum paint. The liner tube was then inserted into the casing (sliding fit) such that it would butt up against the nozzle. Silicone RTV was then applied to the tube end, and the nozzle installed. At the forward end, RTV was also used to seal the liner tube end, which extended to within a centimetre of the bulkhead. The short section of exposed casing was coated with silicone grease. Before inserting the liner into the motor, the liner outer surface was given a light coating of Castrol Syntec grease. 
+	•	The four propellant segments had a total mass of 1487 grams (excluding inhibitor liners) and are shown in Figure 1. Propellant core diameter was 0.75 inch (19.05mm) and O.D. was 2.20 inch (55.9 mm). Average segment length was 4.00 in. (102 mm). Total grain length, including spacers, was 16.6 in. (422 mm). In order to improve the igniteability of the propellant, particularly at the segment ends, experimental "combustion primer" was painted onto the segments ends and partly in the core (to within 1 cm of each end). 
+	•	An additional measure was incorporated to improve igniteability of the motor. Instead of a conventional pyrotechnic igniter, a pyrogen was designed and installed in the forward bulkhead. The design of this unit is shown in Figure 2. It is essentially a small rocket motor ignited by a pyrotechnic charge. A bench test of the unit resulted in instant ignition of the charge and subsequent burning of the pyrogen grain. The resulting flame extended over two feet in length, with a total burn of 2 seconds. When employed in the motor, the burn time would be shorter due to confinement. KN-Sucrose was chosen for the pyrogen grain due to its rapid burn rate and ease of ignition. 
+	•	The nozzle throat diameter was increased slightly, from 0.495 to 0.500 inch (12.7 mm). This represents a two percent increase in throat cross-sectional area.
+The completed rocket motor is shown in Figure 3.
+
+￼
+Figure 1-- Propellant segments
+
+￼
+Figure 2-- Pyrogen igniter design
+
+
+￼
+Figure 3--Kappa-SB Rocket Motor (prior to installation of thermal-sensitive labels)
+
+The propellant inhibitor was identical to that used for the previous test (resin-soaked cotton fabric). Average inhibitor thickness was 0.010 inch (0.25 mm). The segments were sprayed with hi-heat aluminum paint on the inhibited surfaces.
+As with the previous tests, 3 strips of thermal sensitive tape (Brother M-Tape) were placed around the casing at three locations, in order to give an indication as to how hot the casing would get during firing.
+Static Test Rig
+The STS-5000 Static Test Rig was used once again for this test. Both thrust and chamber pressure were measured. Thrust was measured by use of a hydraulic load cell connected to a 4" 0-1000 psi pressure gauge. To measure chamber pressure, the motor bulkhead was tapped with a pressure fitting which was connected to a 4" 0-2000 psi gauge. To prevent damage to the gauge by hot combustion gases, the connecting line was filled with oil (SAE 30). Gauge readings were recorded by use of a videocamera located 12 feet (3.7 metres) away. A plexiglas shield protected the camera from possible debris in case of a motor malfunction. As well, the shield buffered the camera from the shock waves due to the supersonic flow exiting the nozzle during normal operation. A second videocamera was used to record the actual motor firing. This camera was located approximately 60 feet away, with the zoom feature used to obtain a close-up view of the motor during firing.
+
+Test Report
+November 18, 2000 -- Although we arrived at the test site during mid afternoon, the outside temperature had not risen since early morning, when a few snowflakes were spotted coming down. The temperature was 0oC., with a brisk north wind, making for conditions that were a bit nippy. Nevertheless, assembly of the Test Rig progressed well (it had been partly disassembled for transport). The motor was installed and adjusted to allow free vertical movement, connections to the chamber pressure measuring system were made, and the oil buffer system was filled. One videocamera was set up behind the plexiglas shield to record the two pressure gauge readings (load cell pressure and chamber pressure), and the second videocamera was set up some 60 feet (18 m.) away. As the sky was overcast, the sunshield for the gauges was not required to be set up. The ignition system was layed out, tested and confirmed to be functioning.
+Once the setup was completed, and the observers located a safe distance away from the test stand, final connections to the pyrogen igniter system were made. A continuity check was performed, which verified that the igniter element was operative. The ignition system was then armed, final positions were taken by the personnel, and the countdown was commenced. I was poised with my digital camera to record the motor firing. When the zero count was reached, the motor came to life within a half-second, thrusting strongly, with no "build up" as had been the experience with previous firings. The sound of the exhaust jet was very loud, and undulated slightly. The forceful thrusting continued for about two seconds, then rapidly tailed off. An orange flame briefly issued from the nozzle at the end of tailoff. Some blackish smoke then issued from the nozzle, which quickly reduced to a slight but steady stream of grey smoke (from the decomposing inhibitor material) which continued for a minute or so. The spent motor was then quickly approached in order to observe the strips of heat sensitive tape. The strip nearest the nozzle end of the casing was beginning to darken. The other two strips were still completely white. The motor was very hot to the touch, in particular the nozzle, which was completely blackened (as per the previous three tests). A photo of the motor under thrust is shown in Figure 4.
+
+￼  ￼
+
+Figure 4-- Motor firing; Two fellow rocket enthusiasts, Michael (left) and Dave, posing with the freshly fired motor
+
+Click here to download a video of motor firing...
+
+
+Analysis
+Examination of the videotape showed that the three strips of thermal tape remained white during the motor firing. This indicates that the casing remained relatively cool (<250oC.), proving the effectiveness of the redesigned casing insulation. The videotape also confirmed that the motor came up to thrust very rapidly upon ignition. The pyrogen and "combustion primer" were clearly very effective in getting the motor pressurized with the grain fully burning. The footage also showed the nozzle glowing red hot at the throat region during the latter half of the burn.
+When the motor was opened up for post-firing inspection, the insulating liner was found to be largely intact. Although much of the liner was charred, burnthrough had occurred in only a few isolated spots. The liner is shown in Figure 5.
+
+￼
+Figure 5--Casing thermal liner, post-test condition (both sides shown).
+. The nozzle had no measurable erosion of the throat (< 0.001 in.). The aluminum alloy bulkhead was in good condition, with no heat damage. The thin-walled (0.028 inch) aluminum alloy pyrogen canister was completely melted, however.
+The buna-N (nitrile) O-rings that sealed the nozzle and bulkhead again performed flawlessly. Careful examination of the O-rings confirmed that there was no blow-by whatsoever.
+
+
+Performance
+Figure 6 shows a plot of the measured thrust and chamber pressure. Note that the pressure gauge line apparently was blocked during the initial phase of the burn. Only when the pressure differential between the residual pressure in the gauge line and the chamber got great enough did the blockage get cleared.
+
+￼
+Figure 6 -- Actual motor thrust and chamber pressure as a function of time
+As can be seen, the two parameters (curves) follow one another closely, as would be expected. Chamber pressure and thrust are related by the following equation:
+
+￼
+where F is the thrust, Cf is the thrust coefficient, At is the nozzle throat cross-sectional area and Po is the chamber pressure. The thrust coefficient is an important parameter which relates the amplification of the thrust due to gas expansion in the nozzle as compared to the thrust that would be exerted if the chamber pressure acted over the throat area only. In Figure 7, the thrust coefficient is plotted. The average value of the thrust coefficient (as plotted) was 1.53.
+
+￼
+Figure 7 --Nozzle thrust coefficient, shown over a portion of the burn regime
+From the thrust-time curve, the total impulse of the motor was determined to be 1821 N-sec. (410 lb-sec.), which was less than the design impulse of 2000 N-sec. by 9 percent. The delivered specific impulse was 125.0 sec., suffering (in part) from the low average chamber pressure. This compares to a delivered specific impulse of 137 sec. for the KN-Dextrose propellant in test KDX-002 and 120.4 sec. for the previous KN-Sorbitol test (KSB-001).
+Figure 8 shows a comparison of the two static test results for the Kappa-SB motor with KN-Sorbitol propellant.
+
+￼
+Figure 8 -- Comparison of results from two tests
+
+The shape of the two thrust curves is remarkably consistent! The only significant difference occurred during the thrust buildup phase. Undoubtedly, the pyrogen ignition and/or the combustion primer coating is to be credited. However, the overall performance difference is slight, being about 4% higher for KSB-002.
+
+
+Conclusion
+The two objectives of this static test were met. The redesigned casing thermal liner proved to be adequate. Although burnthrough of the liner did occur in a few isolated spots, the consequence of such is not significant. The aluminum alloy casing has sufficient thermal capacity (aided by the high thermal conductivity) to "soak up" the heat at the localized hot spots to prevent structural degradation of the casing.
+The modifications to the motor system that were intended to ensure rapid and complete ignition of the propellant segments appeared to work well, but did not affect the shape of the thrust and pressure curves. Indeed, startup was enhanced, with no "thrust buildup" period experienced, as per the previous tests. However, the overall difference in performance was slight. As such, it would appear to be unlikely that delayed grain ignition is the explanation for the odd "triangular" thrust profile obtained with the two tests utilizing KN-Sorbitol as the propellant. Interestingly, this assertion is backed up by the recent static firing of an impressive "L" class KN-Sorbitol motor tested by Paul Kelly of Australia. The propellant for this motor (BATES configuration) was also coated with a combustion primer, and was ignited by a powerful igniter. Yet, the thrust profile is very similar to my results, and is shown in Figure 9.
+
+￼
+Figure 9 --Thrust curve for Paul Kelly's "L" class motor
+
+Paul has also conducted static tests with a number of core burner (progressive) designs that have given unexpected thrust profiles. An examination of the test results of other experimenters utilizing KN-Sorbitol has revealed a similar trend. Peter Madsen of Denmark (on behalf of D.S.C.) had conducted several static tests of slab (neutral burning) motors that produced the expected neutral thrust curves for motors with low operating pressures (in the range of 2-2.5 MPa. or 300-350 psi), but unusual thrust profiles at higher operating pressures. As well, the enormous Phenix 100A "P" class motor developed by the Norwegian group NEAR, configured with a BATES neutral-burning grain, produced a thrust profile roughly triangular in shape. The curve for this motor is shown in Figure 10.
+
+
+￼
+Figure 10 --Thrust curve for NEAR's SCA9901 "Phenix" motor
+
+It would appear that KN-Sorbitol has an odd burn rate v.s. pressure behaviour, when burned in a motor, which did not show up in the Strand Burner tests that were done to characterize the burn rate for this propellant. One is tempted to put the blame on erosive burning. However, the observed effect is more the opposite. Erosive burning would produce an enhanced burning rate initially, when the chamber duct area is minimum. The effect would then drop off as the grain web recedes and the duct area increases. The observed phenomenon is such that burnrate is initially much lower than expected.
+More research, including dedicated motor testing, as well as a closer examination of existing data, needs to be conducted to try to explain (and hopefully characterize) this unusual and puzzling phenomenon.
+
+￼
+Last updated Nov. 22, 2000
+Back to Home Page
+

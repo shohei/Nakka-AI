@@ -1,0 +1,131 @@
+ 
+Basic Information
+Name
+Z-15
+Launch date:
+24 May, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+-On-board mini camcorder (set to 1280x720 resolution)
+- Smoke charge (initiated by purpose-made module at apogee)
+- Out-board microcamcorder
+- BRB900 GPS transmitter
+Liftoff mass
+2.397 kg.
+Flight objectives
+- Test activation module for Smoke Tracking charge.
+- Track landing using BRB transmitter beacon
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+294 grams
+Nominal impulse
+346 N-sec
+Class
+I
+ 
+Additional information
+Small modifications were made to improve reliability of chute inflation. Tether length increased and pyro charge increased, both by 15%. With regard to Smoke Charge triggering, the apogee tether anchor was modified with a thinner collapsible cylinder. Testing indicated a collapse load of 30 lbs (133 N.); was 70 lbs (311 N.) for Z-14. The microcamcorder was mounted externally, forward-facing, and located just forward of the payload access panel, in order to capture parachute deployment.
+ 
+A newly made weathervane used for the first time to measure wind direction. A digital anemometer was purchased and used to measure wind speed.
+ 
+Weather conditions
+Temperature
+25°C
+Wind
+SSW 5 km/hr
+Sky
+Sky thin haze with cirrus clouds; bright sun
+Other
+Wind direction later shifted to northerly
+ 
+Launch Event Description
+Setup of the rocket went smoothly. Raven confirmed all four pyro charges had continuity. Flashing LED verified that Smoke Charge module was set. After verifying the sky was clear, the countdown proceeded and at “zero” the rocket immediately came to life, rapidly climbing skyward. A distinct “wobble” was noticed during ascent. The rocket was seen throughout the ascent, all the way to apogee. Two smoke clouds were spotted, from each apogee pyro charge, and the associated “pop” sounds. After free-falling for about 15 seconds, the chute was seen to deploy and immediately blossomed. The rocket gently descended and touched down in a field roughly 500 feet (150 m.) distant. We entered to BRB GPS coordinates into the hand-held GPS unit, which pointed toward the downed rocket and indicated a range of 501 feet (150 m.). We proceeded to head toward the site which led directly to where the rocket was located. The rocket was recovered in perfect condition.
+ 
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+9.61
+1533
+467
+Separation
+10.7
+1520
+463
+Main deployment
+23.8
+672
+205
+Touchdown
+54.0
+ 
+ 
+Range
+ 
+728
+222
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+72.3
+22.0
+ 
+Main parachute
+20.4
+6.2
+ 
+ 
+Post-flight analysis and comments:
+Good Raven data and BRB tracking data was obtained. The “collapsible tether anchor” worked as intended and successfully fired the smoke charge igniter. However, this had failed to ignite the smoke charge. The BRB GPS beacon functioned nominally and once again demonstrated its ability to direct us to the exact touchdown site.
+Good video footage from the on-board camcorder was obtained. The out-board video also provided good footage, clearly showing parachute deployment followed by rapid inflation of the canopy.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-15\Raven_Z-15.jpg
+Lateral acceleration curve                                                                         Z-15\raven_a_lateral.jpg
+ 
+BRB GPS data:
+Track of rocket projected onto launch site map                                   Z-15\Z-15_BRB_track.jpg
+ 
+Photos:                                                                                                         
+Zeta-15 on launch pad                                                                                Z-15\DSCF3586b.JPG                                                                                                                              
+Liftoff…!                                                                                                        Z-15\S_capture1.jpg
+Climbing…wobble begins                                                                           Z-15\S_capture2.jpg
+                                                                                                                        Z-15\S_capture3.jpg
+                                                                                                                        Z-15\S_capture4.jpg
+                                                                                                                                                                                                                                                
+Rocket descending by parachute                                                             Z-15\S_capture5.jpg
+                                                                                                                        Z-15\S_capture6.jpg
+Nearing touch-down                                                                                  Z-15\S_capture7.jpg
+Rocket on ground                                                                                        Z-15\DSCF3590a.JPG      
+                                                                                                                        Z-15\DSCF3591b.JPG
+                                                                                                                       
+Videos:                                                                                                          
+Launch and descent                                                                                    Z-15\Flight_Z-15_lo.mp4                                                                                                                       
+ 
+Out-board camcorder captures:
+Parachute deployment sequence                                                             Z-15\deployment_sequence.jpg
+ 
+Misc:
+Apogee tether anchor showing collapsed cylinder                              Z-15\DSCF3594.JPG        
+ 
+ 
+ 
+ 
+ 
+ 
+ 

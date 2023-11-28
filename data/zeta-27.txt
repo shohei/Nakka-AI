@@ -1,0 +1,136 @@
+ 
+Basic Information
+Name
+Z-27
+Launch date:
+19 November, 2016
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+- Raven altimeter
+- BRB900 GPS transmitter
+- Smoke charge (activated by Raven at 2500 ft. level)
+- Apogee Backup Timer
+- SJ1000-SC Video camera
+Liftoff mass
+2.573 kg.
+Flight objectives
+Compare performance of Impulser-X  with KNSB versus KNDX used for Z-26
+ 
+Motor details
+Motor name
+Impulser-X
+Propellant
+KNSB
+Grain mass
+371 grams
+Nominal impulse
+437 N-sec
+Class
+I
+ 
+Additional information
+-Smoke charge modified to 59/41 KN/Sorbitol
+-Chute deploy altitude set at 700 ft (213m.)
+-Stability Margin (initial) = 1.06
+ 
+Weather conditions
+Temperature
+-4°C
+Wind
+SW 5 km/hr
+Sky
+Mainly clear
+Other
+RH 50%
+Ceiling
+22k ft.
+ 
+Launch Event Description
+Setup of the rocket proceeded smoothly until Raven checkout was performed. The check indicated a fault with the parachute pyro. The nosecone was removed and it was discovered one of the igniter leads had disconnected from the spring loaded connector. This was rectified and Raven checkout gave a positive indication. Backup timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held camcorder (with scope tube). A second camera was set up on a tripod a short ways from the launch pad.
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the rocket accelerated off the pad. The acceleration was noticeably slower than the previous flight, which was expected due to the lower thrust of the KNSB propellant. A slight wobble was noticed as the rocket cleared the launcher. The motor burned for about two seconds. Due to the bright sun and blue sky, the rocket could be seen nearly to apogee.  Around 10 seconds after burnout we heard the ‘pop’ of the apogee separation charge and spotted twin smoke clouds. The rocket was seen tumbling earthward, with glinting of the sun off the rocket greatly aiding tracking. The smoke charge was then seen to ignite leaving a distinctive smoke trail. The charge burned for about 15 seconds. The chute was then seen to deploy, at what seemed like a much higher altitude than the planned 700 feet level. Oddly, no ‘pop’ sound accompanied chute deployment.
+ 
+The rocket gently drifted earthward in a very stable manner, carried downrange by the light wind. Touchdown occurred about a minute later in a plowed field. We were puzzled by the long duration of the descent. We programmed the BRB GPS coordinates into the Garmin hand-held GPS unit, which indicated the landing site was 0.26 miles (420m.) away. When we arrived at the touchdown site, the rocket appeared to be in perfect condition.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.8
+3048
+929
+Separation
+15.3
+3040
+927
+Main deployment
+37.8
+1499
+492
+Touchdown
+112
+-
+-
+Range
+-
+1496
+456
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+70.4
+21.5
+ 
+Main parachute
+19.9
+6.1
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination confirmed that the rocket was in great shape. Excellent on-board HD video was obtained. The video footage revealed an anomaly that explained why the parachute descent took much longer than expected. The nosecone separated at some time around the apogee separation event. The parachute was seen to have been only partly extracted from the rocket body. The tumbling action of the descending rocket apparently resulted in full extraction of the chute and deployment at an altitude of 1499 feet as indicated by the Raven data. A second, apparently unrelated, anomaly occurred. Raven data ceased at the 43 second mark, about 5 seconds after chute deployment. The battery supplying power to the Raven suffered a sudden voltage drop. Battery voltage went from 8.56V down to 3.82V in 14 seconds. The first anomaly may be related to the reinstallation of the nosecone prior to launch. Due to the cold, the masking tape which retains the nosecone may not have adhered adequately and consequently separated during the apogee separation event. The second anomaly is, at the present time, unexplained.
+The peak altitude of 3048 ft. is 13% lower than 3511 ft. apogee for Z-25 that was powered by an identical amount of KNDX propellant. This was not surprising as the Impulser-X was optimized for the faster-burning KNDX propellant.
+ 
+The modified smoke tracking formulation seemed to work very well.
+ 
+Raven baro and accelerometer graph:                                                
+Barometric and axial acceleration data                                                 Z-27\Z-27_Raven_basic.jpg
+Acceleration data during burn                                                                  Z-27\Z-27_Raven_accel.jpg
+ 
+BRB:                                                                                                              
+GPS path of flight trajectory                                                                     Z-27\Z-27 BRB_Mapped.jpg
+ 
+Photos:                                                                                                         
+Leveling launch pad                                                                                    Z-27\DSCN0410a.JPG
+Author with DS-9 awaiting liftoff                                                             Z-27\DSCN0411a.JPG
+Liftoff                                                                                                             Z-27\2016-11-25_12-14-56.jpg
+Initial ascent                                                                                                 Z-27\2016-11-25_12-15-19.jpg
+                                                                                                                       
+                                                                                                                       
+Ascending gracefully                                                                                   Z-27\2016-11-25_12-17-07.jpg
+Climbing toward apogee                                                                           Z-27\2016-11-25_12-16-11.jpg
+Nearing apogee, view from on-board camera                                     Z-27\DS-9_onbd-apogee.jpg
+Ejection charge smoke clouds                                                                  Z-27\2016-11-25_12-17-56.jpg
+Tumbling downward leaving smoke trail                                                Z-27\2016-11-25_12-19-26.jpg
+Chute deploys                                                                                              Z-27\2016-11-25_12-20-50.jpg
+Gentle descent                                                                                             Z-27\2016-11-25_12-21-24.jpg
+Twelve seconds before landing, view from on-board camera          Z-27\DS-9_onbd_descent-12.jpg
+Two seconds before landing, view from on-board camera               Z-27\DS-9_onbd_descent-2.gif
+Touchdown in a ploughed corn field                                                       Z-27\DSCN0417a.JPG
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

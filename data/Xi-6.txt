@@ -1,0 +1,151 @@
+ 
+Basic Information
+Name
+Xi-6
+Launch date:
+15 August, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Timer for backup apogee separation
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+-BREO-N flight computer (passive mode)
+Liftoff mass
+2.887 kg.
+Stability Margin (initial)
+2.66
+Flight objectives
+-Test new BREO-N flight computer
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+297 grams
+Nominal impulse
+350 N-sec
+Class
+I
+ 
+Additional information
+-The BREO-N flight computer is a miniature flight computer designed and built by Dyanko Chernev. It is being flown in a passive mode, with non-pyrotechnic igniters connected to the pyro outputs, for the purpose of indicating whether the outputs are activated.
+-Launch wagon equipped with new 10.5 inch (27cm) wheels, replacing the original 8 inch (20cm) wheels. Larger wheels are expected to provide improving rolling and clearance over highly uneven terrain on path to launch site.
+-Smoke canister was modified with the addition of an indexing pin to ensure it is mounted in an orientation with the exhaust ports facing outboard (corrective action based on Xi-5 incident).
+ 
+Weather conditions
+Temperature
+30°C
+Wind
+SW 17 km/hr  gusting to 39
+Sky
+Clear
+Other
+R.H. 28%
+Ceiling
+30k ft.
+ 
+Launch Event Description
+Launch wagon equipped with larger wheels was found to be an improvement, being easier to pull. Setup of the rocket went well. Following a checklist, the procedure went smoothly with no glitches. After installing rocket on pad, BREO-N was activated first, followed by the Eggtimer, then Raven. Raven beeped nine times for voltage and gave 4 positive indications for the 4 pyros. Backup Timer was then tested and confirmed to be operating nominally. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, motor ignited and rocket accelerated skyward, climbing straight (with a slight waver) and weathercocking noticeably. Owing to the bright sun reflecting off the rocket, I was able to follow the rocket much of the way to apogee. After about 10 seconds we heard the ‘pop’ sound of the apogee pyro charges. With the rocket being directly overhead, I found it challenging to film the initial descent after spotting the trail from the smoke charge. I was able to zero-in on the rocket just as the parachute charge fired. The parachute immediately deployed and blossomed. The rocket drifted downward, with the smoke charge still burning for another five seconds or so. After about half minute of decent, the rocket gently touched down about 500 feet downwind from the pad.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site of the rocket was indicated as 0.12 miles away. We soon found the rocket exactly where indicated. It appeared to be in pristine condition.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+11.2
+1738
+530
+Separation
+12.4
+1726
+526
+Main deployment
+27.8
+497
+151
+Touchdown
+48
+-
+-
+Range
+-
+500
+152
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+85.7
+26.1
+ 
+Main parachute
+23.1
+7.0
+ 
+                                  
+Post-flight analysis and comments:
+The Eggtimer and Backup Timer performed nominally. The BREO-N also performed nominally, recording flight data and firing both igniters. Peak altitude reported by Eggtimer closely matched Raven (1740 ft. versus  1738 ft.). The BREO-N was similar, reporting an apogee of 535.5 metres (1757 feet).
+ 
+The Raven unit experienced an anomaly, suffering from a complete power drop-off at the 18 second mark of the flight. This resulted in a truncation of the flight data, and a failure of main (chute) pyro activation (the chute was deployed by the Eggtimer backup pyro). Post-flight examination could not find any obvious fault with the unit or the connections. A similar anomaly had occurred previously (e.g Flight Z-31).  As this particular Raven unit has flown close to 40 times and has experienced a number of hard landings, the unit will be retired.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                                 Xi-6\Xi-6_Raven_basic.gif
+Acceleration curve, boost phase                                                              Xi-6\Xi-6_Raven_accel.gif
+ 
+Eggtimer data:                                                                                            
+Altitude versus flight time                                                                          Xi-6\Xi-6_ET.gif
+ 
+BREO-N data:                                                                                              
+Altitude versus flight time                                                                          Xi-6\Xi-6_BREO.gif
+ 
+BRB:
+Flight path, mapped                                                                                    Xi-6\Xi-6_BRB_plotted.gif
+ 
+Photos:
+BREO-N flight computer mounted in coupler                                        Xi-6\Dscf5397a.jpg
+Rocket for Flight Xi-6 (with my brother, sister & niece)                      Xi-6\DSCN0217a.JPG
+Ignition…Liftoff…                                                                                         Xi-6\2018-08-21_12-15-51.jpg
+                                                                                                                        Xi-6\2018-08-21_12-16-09.jpg
+Ascent                                                                                                            Xi-6\2018-08-21_12-16-36.jpg
+                                                                                                                        Xi-6\2018-08-21_12-16-57.jpg
+                                                                                                                        Xi-6\2018-08-21_12-17-49.jpg
+Post-burnout, sun glints off chrome tape band                                    Xi-6\2018-08-21_12-18-06.jpg
+Raven apogee pyro charges smoke clouds                                            Xi-6\2018-08-21_12-18-43.jpg
+Backup pyro smoke clouds, smoke charge starts to burn                   Xi-6\2018-08-21_12-19-05.jpg
+Descending, trailing smoke                                                                       Xi-6\2018-08-21_12-20-01.jpg
+Main pyro charge fires, and chute deploys                                            Xi-6\2018-08-21_12-20-36.jpg
+Descending gently by chute, trailing smoke                                          Xi-6\2018-08-21_12-21-04.jpg
+                                                                                                                        Xi-6\2018-08-21_12-21-21.jpg
+Final descent                                                                                                Xi-6\2018-08-21_12-21-49.jpg                                                                                                                       
+Rocket at touchdown site                                                                         Xi-6\DSCN0223a.JPG
+                                                                                                                        Xi-6\DSCN0224a.JPG
+Rocket, post-flight, with launch wagon                                                 Xi-6\DSCN0225a.JPG
+ 
+Video:                                                                                                           
+Flight Xi-6 (Youtube)                                                                                   https://youtu.be/jscvATYLt2g
+                                                                                                                       
+                                                                                                                       
+ 
+                                                                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

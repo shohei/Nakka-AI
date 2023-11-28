@@ -1,0 +1,133 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Thermal Ablative Experimentation
+
+￼
+
+Introduction
+Ablative Materials
+Preparation of Specimens
+Test Setup and Procedure
+Results
+Discussion
+Analysis
+Conclusion
+Appendix A
+Appendix B
+Introduction
+This report describes experimentation that was performed on various ablative materials to ascertain their effectiveness in providing thermal protection of rocket motor components. An "ablative material" is a polymer with inherently low thermal conductivity which slowly pyrolyzes layer-by-layer when its surface is intensely heated, leaving a heat-resisting layer of charred material.
+The intent of studying various materials was to come up with a simple, readily available and inexpensive ablative for use in amateur rocket motors. The immediate need is for an ablative that will serve to insulate a newly-designed nozzle and bulkhead, such that the temperature is keep sufficiently low to minimize heating of a composite motor casing under development. More so than metal casings, composites are susceptible to loss of strength and stiffness at elevated temperature.
+Besides the aforementioned basic requirements, three specific requirements of a practical ablative are being sought:
+
+	1	Provide effective protection against severe thermal loading. In other words, the part being protected must be kept below a certain maximum temperature.
+	2	Be readily moldable, machineable and possessing good bonding characteristics. It is envisioned that an ablative material would be applied to the part requiring protection, perhaps with the aid of a mould, then machined to a final thickness or desired profile.
+	3	Resistance to "flow deformation" under a combination of exposure to heating and high velocity gas. To this end, it was felt that a filler material may be beneficial, integrated into a resin matrix. 
+This study is similar to one conducted in January, 2000 and is documented in the Thermal Protection for Rocket Motor Casings webpage. That set of experiments was aimed at development of an effective thermal barrier for aluminum motor casings.
+
+Ablative materials
+In an attempt to meet these sought-after requirements, eight resin-based materials were chosen for this series of tests:
+
+	1	Epoxy
+	2	Bondo body filler
+	3	Epoxy/ Glass Microspheres
+	4	Epoxy/Hydrated Magnesium Sulfate
+	5	Epoxy/Milled glass, 50/50
+	6	Epoxy/Milled glass, 30/70
+	7	J-B Kwik Weld
+	8	Bondo-Glass
+A detailed explanation of each follows.
+1. West System marine epoxy, standard 5:1 resin/hardener ratio. This material was chosen to determine the effectiveness and performance of a high-grade, unfilled epoxy.
+2. Bondo body filler is a two-part putty-like material used for automotive body repair, it consists of a polyester/styrene resin with inert filler. According to the MSDS, the product has the following constituents:
+Proprietary Resin 30 - 40% Talc 20- 30% Styrene 10 - 20% Magnesium carbonate 10 - 20% Sodium metaborate 5 - 10%
+A catalyst paste is added to cure the material.
+3. A mixture of West System epoxy containing 15% microspheres (by mass). Microspheres, also known as microballoons, are hollow spheres of glass used as a lightweight filler in composite materials such as syntactic foam. Microspheres have a very low bulk density. Individual microspheres typically have diameters ranging from 10 to 300 microns.
+4. A mixture of West System epoxy containing 78% hydrated magnesium sulfate (by mass). More commonly known as Epsom Salts, hydrated magnesium sulfate has the chemical formula MgSO4.7H2O, of which 51% of its mass is chemically-bound water. The water is released upon heating. Since thermal energy is required to liberate and boil away the water, it was felt that this material could be an effective component of an ablative insulator. Additionally, the steam produced could form an insulating film over the heated surface. Certain fire barrier sealants, such as 3M CP 25WB+ take advantage of this principle for fire protection.
+5. A mixture of West System epoxy containing 50% milled glass (by mass). Milled glass is a fine powdered form of glass that is used as a filler for composites. The intended role of using milled glass is to increase the ablative's resistance to flow deformation and heat degradation.
+6. A mixture of West System epoxy containing 70% milled glass (by mass). Similar to (5), the intent of trying this particular formulation was to determine the influence of glass content on the ablative's resistance to flow deformation and heat degradation.
+7. J-B Weld is a popular and versatile adhesive with good strength and thermal resistance. J-B Weld Kwik is a fast-curing variant. It is an epoxy-based two-part adhesive, consisting of equal parts resin and hardener. According to the MSDS, the resin has the following constituents:
+Calcium Carbonate 40-50%  Iron Powder 10-20%  Epoxy Resin 30-40%  Aromatic Hydrocarbons 1-5%
+And the hardener has the following constituents:
+Calcium Carbonate 5-10% Non-fibrous Talc 15-25% Barium Sulfate 35-45% Alkyl Phenol 1-5 % Mercaptan terminated polymer 20-30%  Amorphous Silica 1-5 %
+8. Bondo-Glass is a filler material used for automotive body repairs. This product consists of a polyester/styrene resin-based mixture containing 10% chopped glass fibres (according to MSDS). A catalyst paste is added to cure the material.
+
+Preparation of Specimens
+All eight specimens were prepared in an identical manner. The ablative was bonded to an aluminum sheet substrate of dimensions 2"x 2" (50 mm x 50 mm). To aid adhesion, the surface was roughened with 400 grit sandpaper, then cleaned with lacquer thinner. To help ensure uniform thickness of the ablative layer, the substrate was bounded by a frame made from wooden craft sticks. The resulting size of the ablative patch was 1.6"x 1.6" (40 mm x 40 mm).
+The ablative materials were prepared by carefully weighing out the constituents, blending thoroughly, then applying to the substrate using a spatula. To aid bonding of the thicker epoxy-based materials (specimens 3-6), the substrate was first given a light coating of epoxy. After curing for 24 hours at room temperature, the samples were post-cured in an oven set at 150oF (65o C.) for one hour. The surface was then sanded smooth and to a consistent thickness of approximately 0.050 in. (1.3 mm). The thickness of each specimen was then carefully measured with a micrometer and recorded. The eight specimens are illustrated in Figure 1.
+It was found that some of the samples had a small amount of infused air, which resulted in tiny air bubbles in the finished specimen. Ideally, the samples should have been degassed using a vacuum chamber after mixing.
+All of the ablative samples successfully cured to a fully hardened state with the exception of the Epoxy/Hydrated Magnesium Sulfate. This particular material had a slight gumminess to it. This was likely due to the absorbed moisture content of the Hydrated Magnesium Sulfate. Moisture is known to inhibit full curing of epoxy resin. For future testing, it may be advisable to attempt to dry the material first with aid of a desiccant.
+Prior to conducting the heating test on a given specimen, a thermocouple sensor was attached to the backside of the substrate plate using aluminum foil tape. The thermocouple was a type K Chromel/alumel interfaced to a DVM with temperature measurement capability. Sample rate was approximately 3 hertz.
+
+￼
+
+Figure 1 -- Ablative specimens
+Click for larger image
+
+Test Setup and Procedure
+A conventional propane torch was used for heating the specimens. The specimen was clamped vertically to a support base which also had a support for the torch nozzle, arranged such that the distance between nozzle tip and specimen was consistently 3.7 in. (93 mm). Heating time for each specimen was 10 seconds, which was controlled by means of a countdown timer. A metal shield was placed in front of the specimen prior to performing each test to serve as a heat shield, which was removed at commencement of heating. A camcorder was used to videotape the temperature reading displayed by the DVM.
+The test setup is shown in Figure 2.
+
+￼
+
+Figure 2 -- Setup for heating test
+The test procedure was as follows:
+
+	•	Start videocam recording, then fire up torch.
+	•	Place torch in position with flame directed at specimen centre
+	•	Initiate countdown timer and simulteously remove heat shield
+	•	At end of 10 second duration (signaled by a beep from timer), quickly remove torch
+	•	Unclamp specimen from support and plunge briefly into bucket of water
+After the specimens had cooled, they were photographed, the appearance of the burnt surface recorded. The char was then carefully scraped away and the thickness of the remaining ablative measured and recorded.
+In addition to the eight ablative specimens, the same procedure was repeated with an bare aluminum specimen in order to provide data for estimating the heating rate.
+
+￼
+
+Figure 3 -- Ablative specimen undergoing heating test
+
+Results
+The procedure worked well for all eight specimens and good data was collected. All ablative samples had similar charring which varied to some extent in colour, texture and extent. Only the appearance of Specimen 3 (epoxy/Hyd.Mg.Sulfate) was noticeably different. It experienced only light charring and the outer portion of the ablative surface was not charred at all. The heat-affected surface, in the centre, had a bubbled appearance.
+The measured temperature profiles were plotted and are shown in Figure 4. The measured thickness of the ablative coating, before and after heating, as well as the measured ablation parameters are shown in Table 1. Post-heating thickness measurements of Specimen 2 and 3 were not possible, as the ablative material of Specimen 2 was cracked and slightly deformed in the middle, and because of the uneven bubbled surface of Specimen 3.
+
+￼
+
+Figure 4 -- Results of temperature measurements recorded during ablative heating tests
+Photographs of the specimens taken immediately after the heating test: Specimens 1 & 2     (Epoxy; Bondo body filler) Specimens 3 & 4     (Epoxy/ Glass Microspheres; Epoxy/Hydrated Magnesium Sulfate) Specimens 5 & 6     (Epoxy/Milled glass, 50/50; Epoxy/Milled glass, 30/70) Specimens 7 & 8     (J-B Kwik Weld; Bondo-Glass)
+
+￼
+
+Table 1 -- Thickness measurements before and after heating test
+Click for table in metric units
+
+Discussion
+From an overall perspective, the most effective ablative material was the Epoxy/Hydrated Magnesium Sulfate composition, which performed appreciably better than all the others. The potential drawbacks of this ablative are the "slightly gummy" physical property (which could hinder machinability) and the uneven, bubbled surface that is a consequence of heating. This may be a factor for flow surfaces, which should be smooth. As mentioned earlier, drying of the Hydrated Magnesium Sulfate may eliminate the gumminess.
+The Epoxy/Glass Microspheres composition was second best with regard to thermal protecion and significantly better than the remaining ablative materials. This composition has a couple of appealing characteristics. It has been found to machine very well, and has a particularly low mass density.
+The unfilled Epoxy ablative performed quite well, as did the Bondo-glass. The Bondo-glass had an exceptionally low ablation rate. The remaining ablatives, which each had a high content of inert filler, were equally effective against ablation, but suffered in regard to being less effective insulators. J-B Kwik Weld was least effective in this regard, likely due to the iron content, which is a good conductor of heat.
+The Bondo body filler exhibited a notable shortcoming by cracking and partially separating away from the substrate.
+
+Analysis
+The time-temperature data obtained from the bare aluminum specimen was used in conjunction with THERMCAS software to estimate the convective heat transfer coefficient, denoted h. A value of h = 260 W/m-K was found to fit the data quite well. The assumed flame temperature was 1900oC. (3450o F.). This value of h = 260 W/m-K was then used as input to THERMCAS to produce a time-temperature history for five of the ablative materials tested, based on assumed thermal properties. The three other ablative materials were not considered in this analysis due to inadequate thermal property data. The results of this analysis are shown in Appendix A.
+
+Conclusion
+This experimentation was intended mainly as a comparison between various candidate ablative materials. In this regard the testing was very useful, as it demonstrated marked difference in behaviour between compositions. Further testing can concentrate on a short-list of viable candidates. Based on their effectiveness as thermal ablatives as well as the other desired traits, the two candidates that come out on top were the Epoxy/Hydrated Magnesium Sulfate and the Epoxy/Microspheres. The Bondo-Glass and unfilled Epoxy are also worthy of consideration, the former due to its very low ablation rate, and the latter due to its simplicity.
+Whether or not these potential ablatives provide sufficient thermal protection to keep the part being protected below a certain maximum temperature has not been addressed in this study. The results do suggest that this may well be the case, provided sufficient thickness of ablative material is used.
+
+Appendix A
+THERMCAS is a thermal analysis software that determines the time-varying temperature distribution through the thickness of a plate (insulated or non-insulated) that results from convective heating, due to high velocity gas flow, over one surface.
+Largely as an academic exercise, the experimental results were compared to THERMCAS predicted time-temperature history based on assumed thermal properties for the ablatives used in this experiment, and the estimated convection coefficient based on heating of the bare specimen.
+The density and thermal property values for the basic components used in the experimental ablatives are shown in Appendix B. These values were then used to estimate the corresponding values for the ablatives which consisted of a combination of the basic components. The results are shown in Table 2, where k is thermal conductivity, Cp is specific heat, and a is the diffusivity, a = k / (Cp * density). Density was calculated based upon the mass fraction of each consistuent. The values for the other properties were calculated using a similar methodology, as a first-order approximation.
+
+￼
+
+Table 2 -- Densities and thermal data for the ablatives considered in the THERMCAS analysis
+The results of the THERMCAS analysis were plotted together with the experimentally measured values for comparison:
+Epoxy; Epoxy/ Glass Microspheres Epoxy/Milled glass, 50/50; Epoxy/Milled glass, 30/70 Bondo-Glass
+In all cases, there was reasonable agreement between the THERMCAS analysis and the experimental results, considering the assumptions made in the analysis. Note that it is the slopes of the curves that are of interest, which represent the time rate of change of temperature. Due to thermal inertia and other factors, the experimentally obtained curves have a delayed response with regard to initial temperature ramp-up.
+
+Appendix B
+￼
+
+￼
+Originally posted July 21, 2007
+Return to Top of Page
+Return to Index Page
+

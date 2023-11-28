@@ -1,0 +1,26 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Example of Chamber Pressure Calculation due to Igniter Charge Combustion
+
+￼
+ 
+Consider the rocket motor and igniter shown in the figure above (dimensions are inches).
+The motor chamber volume is Vc = p/4 (3) 2 (12) = 85 in3
+And the grain volume is Vg = p/4 (2.75 2 - 1 2 ) 11 = 57 in3
+Therefore the free volume is V = 85 - 57 = 28 in3
+The igniter volume is Vi = p/4 (0.5) 2 (2) = 0.39 in3
+The charge material is Black Powder (non-commercial grade) with an impetus of 75000 ft-lbf / lbm
+and has a mass density of 0.057 lbm / in3
+Charge mass is C = 0.057 (0.39) = 0.022 lbm
+Loading density is D = 0.022 / 28 = 1 / 1273 lbm / in3
+Let G = 1 since we are interested only in the maximum pressure that results from the charge combustion
+The ambient pressure is Pa = 14.7 psia
+The effective force is l = 75000 (12) = 900 000 in-lbf / lbm
+This gives the resulting chamber pressure of
+￼
+
+￼
+Last updated July 1, 1999
+Back
+

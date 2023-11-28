@@ -1,0 +1,116 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-7
+
+ 
+Basic Information
+Name
+Z-7
+Launch date:
+2 January, 2015
+Rocket description
+63.5mm aluminum airframe
+4 fins, birch plywood
+aluminum conical nosecone
+3 ft. ellipsoidal parachute
+Payload
+Raven altimeter
+Mini camcorder (set to 640x380 resolution)
+Liftoff mass
+2.254 kg.
+Flight objectives
+- Main deploy set at higher altitude (576 ft.) to visually track descent
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+281 grams
+Nominal impulse
+330 N-sec
+Class
+H
+ 
+Weather conditions
+Temperature
+-16°C
+Wind
+SE 5 km/hr
+Sky
+Light overcast
+Other
+-
+ 
+Launch Event Description
+Despite cold weather, setup went smoothly. Raven and on-board camcorder powered up, followed by sky check, countdown and liftoff. Rocket soared skyward leaving a nice smoke trail, which aided visually tracking the rocket well past burn out. Disappeared from view. Nothing was heard, which caused some concern, as apogee charge should have fired after about 15 seconds. Several seconds later a reassuring ‘pop’ sound was heard, which was followed by an odd “twanging” sound. The rocket was not sighted and after a minute or so, it was decided that the rocket must have reached the ground, and we began a visual search of the area. After a few minutes of visually scanning the surrounding area, a black object was spotted in a snow covered field, roughly a thousand feet away. We proceeded toward the object and it soon became clear that this was indeed the rocket. From a distance, the rocket appeared to be in good condition, with the parachute lying on the ground next to the recovery section. It was odd, however, that the aft fuselage was apparently stuck in the ground with the fins facing upward. Upon reaching the site, the rocket was indeed in basically good condition, but was clear that the parachute did not unfurl, despite clearly being deployed from its compartment.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.9
+2728
+831
+Separation
+20.7
+1688
+517
+Main deployment
+32.1
+562
+171
+Touchdown
+40.2
+ 
+ 
+Range
+ 
+990
+302
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+76.3
+23.3
+ 
+Main parachute
+70.3
+21.4
+ 
+ 
+Post-flight analysis and comments:
+The aft section of the rocket was packed with frozen mud, clearly indicating it hit the ground at a significant velocity (70 fps per Raven data). There was some damage to the coupler and camcorder due to hard landing. The Raven was undamaged, as was the rest of the rocket. The camcorder was tested and found to be in working condition (requiring minor repairs) and good on-board footage was obtained. Analysis of the Raven data indicated that the primary apogee charge fired, but separation of the rocket sections had not taken place. Separation occurred well after apogee as a result of the backup apogee charge firing. Parachute ejection occurred as expected (this was confirmed by the on-board video footage) at an altitude of 562 feet. For reasons unknown, the parachute failed to unfurl, and the descent continued in a free-fall manner, at a slightly retarded speed. It was initially thought that the cold temperature caused a stiffening of the nylon material of the parachute canopy. Subsequent cold-weather testing (@ -25C) later discounted this as the cause. The reason for the primary apogee charge to fail to initiate separation was traced to the Crimson Powder (CP). For this flight, the CP was more finely ground than previous and was packed more tightly in the charge holder. This resulted in slower combustion of the charge, and combined with the cold ambient temperature, the pressure generated was insufficient to break the tape seal securing the separation joint. For future flights, CP particle size will be carefully controlled, using a granular form of mesh size range of #10-#60.
+ 
+Raven baro and accelerometer graph:                                                 Z-7\Z-7_raven.jpg
+ 
+Photos:                                                                                                         
+My brother Blair setting up launch pad                                                   Z-7\DSCF3384b.JPG        
+Rocket on pad                                                                                              Z-7\DSCF3383a.JPG                                                                                                                                
+Liftoff (capture from videos)                                                                    Z-7\launch_capture_1a.jpg
+                                                                                                                        Z-7\launch_capture_2.jpg
+                                                                                                                        Z-7\capture_camera_2_no.2b.jpg
+Landing in snow-covered field                                                                  Z-7\DSC00024b.JPG
+                                                                                                                        Z-7\DSC00025b.JPG
+On-board video capture, showing forward section of rocket           Z-7\Image3.jpg
+On-board capture, showing some tangling of lines                             Z-7\Image26.jpg
+Parachute is visible in this capture                                                           Z-7\Image19.jpg
+View shortly before landing                                                                      Z-7\Image17.jpg
+                                                                                                                       
+Videos:                                                                                                         
+Launch (camera 2)                                                                                       Z-7\Flight_Z-7_camera2.mp4
+Flight (camera 1)                                                                                          Z-7\Flight_Z-7_camera1.wmv
+On-board video                                                                                            Z-7\Z-7_on-board_camera.WMV                                                                                 
+ 
+
+￼
+Last updated March 14, 2015
+Back to Home Page
+

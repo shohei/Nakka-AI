@@ -1,0 +1,66 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+Formulations
+Two formulations are currently being presented. These are the "basic" RNX formulations that are considered to be the simplest and safest to make. These deliver a fair performance and are well suited to motors up to and including "L" class. The two basic RNX formulations are:    Note: all are mass percentages
+
+Formulation
+Epoxy brand
+Resin : hardener [1]
+Potassium Nitrate (%)
+Epoxy (%)
+Ferric Oxide (%)
+RNX-57
+East Systems
+6:1
+70.0
+22.0  [2]
+8.0
+RNX-71V
+West System
+6:1
+68.0
+24.0  [3]
+8.0
+[1]   by mass [2]   18.9 % resin, 3.1% hardener [3]    20.6 % resin, 3.4 % hardener
+The two propellant formulations are very similar in most respects, including physical & mechanical properties, performance and burning characteristics. There is one key difference, however, in regard to preparation of the two propellants. The RNX-57, made with East Systems epoxy, is the simpler of the two to prepare. The ingredients are simply weighed out, blended, mixed, then packed into the grain mould. The RNX-71V formulation, made with West System epoxy, requires an additional step in preparation, that is, vacuum degassing.
+It had been discovered early in my experimental work with the RNX formulations that those grains prepared using West System epoxy experience a chemical reaction that generated a small amount of gas when combined with the potassium nitrate. This is likely a result of a reaction between a component of the hardener and the small amount of residual moisture that remains in the potassium nitrate, even after oven drying. The result is a propellant with a profusion of microscopic voids or bubbles, as many as 4000 per cubic centimetre, constituting 10-15% of the grain's volume. The consequence of such voids is an increase in propellant burn rate that is not readily predictable.
+It was later learned that degassing the mixed & uncured propellant in a vessel largely evacuated of air (near vacuum) results in the unwanted gas being expelled from the mixture. The resulting density of cured, degassed propellant increases to typically 94% or 95% TMD, up from the 88% to 89% TMD that is obtained without degassing. The required apparatus and procedure for degassing is described in the Vacuum Degassing section.
+
+
+￼
+Potassium Nitrate
+The grade (purity) of the potassium nitrate required for the RNX propellants needn't be any better than "technical" grade of 98-99% purity or thereabouts. Unlike sugar propellants, small amounts of alkaline impurities have no adverse affects on the propellant preparation or performance. As such, fertilizer grade or certain brands of Stump Remover are perfectly fine. The potassium nitrate, however, should be dessicated prior to usage (to minimize gas formation on contact with epoxy resin). This is done by spreading the material on a cooking sheet, lined with parchment paper, and placing in a preheated oven at 150oC. for about 2 hours. The potassium nitrate, which typically is obtained in the form of prills or granules, must be milled into the form of a fine powder. This is accomplished by pulverizing the prills in an electric coffee grinder, typically 30 seconds per tablespoon.
+This will result in a particle size distribution largely in the range of 60 to 125 microns. As the burn rate of RNX is not greatly affected by particle size (such as it is for AP based propellants), there is no need for great accuracy to be achieved in this pulverizing process.
+￼
+Ferric Oxide
+I've used two different sources of Ferric Oxide, chemical (cosmetic) grade, and pigment grade. The latter is Granastar Red Brick pigment used for colouring concrete, bought at the local Home Depot hardware store. Note that chemically, these are both red ferric oxide, and are anhydrous (Fe2O3). Other forms of iron oxides are available, such as brown iron oxide (Fe2O3.H2O), and black iron oxide (Fe3O4 ). It is currently not known how effective these would be as substitutes. Note that brown iron oxide can be converted to red (anhydrous) iron oxide by heating in a crucible at high temperature.
+The cosmetic grade Ferric Oxide comes in the form of a very fine powder and as such, no further processing is required. The Granastar pigment comes in the form of prills (to make it pourable), however, these prills break up into a fine powder when blended together with the potassium nitrate in the electric mixing drum (the inclusion of small oblong pebbles or glass marbles during the mixing process ensures this). Liquid pigments may also be a feasible choice if dried in an oven.
+￼
+Epoxy
+RNX-57:     East Systems
+1032 Resin & 834 slow hardener    6:1 mass ratio
+RNX-71V:     West System 
+105 Resin & 206 slow hardener    6:1 mass ratio Although other brands of epoxy may be candidates for propellant usage, it has been found that the burn rate characteristics may vary significantly from one brand to the next. As such, there is currently no direct substitute for the epoxies used in RNX-57and RNX-71V. West Systems also offers an extra-slow hardener (209) for use with the 105 resin. This product was recently investigated, as extended pot life is beneficial when preparing large batches of propellant. Unfortunately, the burn rate of the resulting propellant is significantly reduced compared to that of RNX-71V, and as such, the required Kn may be beyond the limit of practicality. Further investigation was consequently put off.
+
+Note that the resin/hardener ratio for East Systems and for West System is different than the 5:1 ratio suggested by the manufacturers. The 6:1 mass ratio is used to prolong the pot life, reduce viscosity and to minimize self-heating during curing.
+Other candidate epoxies are discussed below.
+
+Other epoxy systems   Epoxy systems are also available at certain craft stores or retail stores such as Wal-mart. Two examples are NU-LUSTRE-55 (at the local Wal-mart) and ENVIROTEX LITE, sold at a local crafts superstore. Both of these come in the form of a kit contain two 8 oz. (235 ml.) bottles (BPA resin & polyamine hardener). These kits are typically used for creating a thick, durable surface on tables or other furniture. The cost for the NU-LUSTRE-55 is $12.84 CAD (=$9.63 USD), the unit price works out to $7.86 USD/lb., which is less expensive than the West System or East Systems epoxy. The quality appears to be similar to the other epoxies currently being used for the RNX formulations. To date, these alternative epoxy systems have not be tested for usage in an RNX propellant formulation.
+
+Cost
+Although not nearly as economical to make as the sugar propellants, RNX propellants are relatively inexpensive, especially when compared to the high performance AP based propellants. The most costly constituent is the epoxy resin & hardener. West System epoxy currently costs about $96 USD for 1.20 gal. (4.55 litres). This quantity has a mass of 11.5 lbs. (5.23 kg), enough for producing over 48 lbs. (21 kg) of RNX-71V propellant. The unit cost works out to $8.35 USD/lb. ($18.40/kg). East Systems epoxy has a similar cost. Mr. Fiberglass epoxy is much more economical, costing $49 USD for 1.33 gal. (5.0 litres), resulting in a unit cost of $3.89 USD/lb. ($8.57/kg).
+The cost for red ferric oxide is very much dependant upon the source and grade. I use Granastar brand "cement colourant", which is essentially pure ferric oxide, and has performed very well. The cost for this material, at Home Depot, is $14 CAD (=$10.5 USD) for a container of 700 grams (1.54 lbs.), which works out to a unit cost of $6.82 USD/lb. ($15/kg).
+Potassium nitrate varies significantly in cost depending on the source and grade. Fertilizer grade, which is perfectly suitable, can cost as little as $0.50 USD/lb. However, a more representative cost is about $1 USD/lb. ($2.20/kg).
+Based on these constitutent costs, the unit cost for RNX-71V and RNX-73 may be calculated as:
+RNX-71V Unit cost = 0.68 (1.00) + 0.24 (8.35) + 0.08 (6.82) = 0.68 + 2.00 + 0.55 = $3.23 USD/lb. ($7.10/kg).
+RNX-73 Unit cost = 0.69 (1.00) + 0.23 (3.89) + 0.08 (6.82) = 0.69 + 0.89 + 0.55 = $2.13 USD/lb. ($4.70/kg).
+As can be seen, the dominant constituent with regard to cost is the epoxy.
+Next -- Grain Mould
+
+￼
+Last updated  April 14, 2004
+Back to RNX Index Page Back to Home Page
+

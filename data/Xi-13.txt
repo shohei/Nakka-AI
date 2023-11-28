@@ -1,0 +1,165 @@
+ 
+Basic Information
+Name
+Xi-13
+Launch date:
+16 August 2019
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Legendary smoke formulation
+Liftoff mass
+3.072 kg.
+Stability Margin (initial)
+1.91
+Flight objectives
+- 3rd flight of JEM rocket motor. Full propellant load.
+- Flight test of 3D printed rocket components
+ 
+Motor details
+Motor name
+JEM
+Propellant
+KNDX
+Grain mass
+498 grams
+Nominal impulse
+633 N-sec
+Class
+J
+ 
+Additional information
+JEM motor had been earlier modified by increasing grain core diameter from 7/16 in. (11.1mm) to ½ in. (12.7mm). The objective was to reduce grain inhibitor damage. The modified motor was flown on Xi-12 with good results. However, the propellant load was only 86% of capacity. For this flight, a full propellant load is being flown to determine if the core size increase solves the problem of inhibitor damage.
+ 
+Propellant (KNDX) for this flight was made using potassium nitrate synthesized from calcium-ammonium nitrate fertilizer.
+ 
+As a result of the Xi-12 Raven in-flight shut-down anomaly, the toggle switch that powers the Raven is replaced with a rotary switch. Likewise, the toggle switch used for powering up the EggTimer is also replaced with a rotary switch.
+ 
+This is the first flight to feature 3D printed rocket parts. The nosecone, parachute piston, motor retainer, and rotary switch mounts were all fabricated of 3D printed PLA plastic filament.
+ 
+Weather conditions
+Temperature
+28°C  (82°F)
+Wind
+SW 15 km/hr
+Sky
+Sunny; cirrus cloud cover over much of the sky
+Other
+R.H. 37%
+Ceiling
+39k ft.
+ 
+Launch Event Description
+Once we arrived at the launch site, setup of the rocket went smoothly, with no glitches. Followed checklist as usual. The BRB transmitter and receiver were activated and verified that a good GPS signal was obtained. After installing rocket on pad, the BREO-N, Eggtimer, and then Raven were activated. Raven beeped nine times for voltage and gave 3 positive indications for the 3 active pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately ignited with a cloud of smoke appearing at the base of the rocket. The rocket then accelerated rapidly skyward. Ascent was essentially vertical. Burn time appeared to be less than two seconds, of slightly shorter duration than expected for a nominal burn. Visual contact was lost shortly after burnout.  After about twenty seconds, we heard a very faint ‘pop’ sound of the apogee charge. Due to the white clouds in the background, the smoke clouds of the apogee charges were not seen. We searched for sign of a smoke trail, but could not discern such against the light coloured clouds. After approximately one minute, we heard a loud ‘pop’ of the parachute charge and immediately spotted the rocket descending by parachute. The gently descending rocket drifted with the wind at what seemed to be a particularly slow rate of descent. It was nearly two minutes later that the rocket gently touched down in a field estimated at nearly ½ mile away, almost out of visual range.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.46 miles (750 metres). We packed up then headed out to recover the rocket. We arrived at the landing site about a half hour later. It was apparent as we approached the rocket that only the forward section, which included the nosecone (with BRB transmitter enclosed within) and the attached parachute (and parachute piston) was present at the touchdown site. Inspection of the tether indicated that the screw-eye fitting had detached from the AvBay. We immediately started to search the area for the missing aft section of the rocket and AvBay. As it was getting late in the day, we decided to end the search. We headed home to review the video footage and BRB GPS data to determine the most likely location for the missing rocket parts.
+ 
+The video footage clearly showed that the aft section and AvBay had detached shortly after chute deployment. The BRB data gave us the GPS coordinates of the rocket at the moment of chute deployment, which occurred at an altitude of 888 feet (271 m.). Projected onto the ground, we denoted this point as “ground zero” and headed out the next day to begin the search. At “ground zero” we planted a pole with attached streamer into the ground. We systematically began searching in a grid pattern with the pole marking the centre of the grid. Approximately 45 minutes later we found the wayward aft section and AvBay. Both parts had landed in tall grass. The AvBay appeared to be undamaged and when picked up, the Raven beeped out an apogee of 4467 feet. Inspection of the attached smoke charge canister indicated the smoke charge had burned. The only apparent damage to the aft section was two loosened fins.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+16.2
+4370
+1332
+Separation
+17.2
+4358
+1328
+Main deployment
+67
+888
+271
+Touchdown
+83/192 *
+-
+-
+Range
+-
+339
+103
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+71.2 (58.6)*
+21.7 (17.9)*
+ 
+Main parachute
+21.3
+6.5
+ 
+*value in parenthesis for aft section/AvBay following separation
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data confirmed that the operation of the Raven, EggTimer, BREO and BRB was fully nominal. The peak altitude readings reported by the Raven, Eggtimer and BREO all agreed to within 0.4%.
+ 
+Anomalous separation of the rocket was a result of an eyebolt that was not properly installed. The eyebolt threads were only engaged partially and at some point either during installation of the AvBay or following chute deployment, the eyebolt was rotated sufficiently to detach. In the future this will be rectified by using an eyebolt with improved thread engagement and the use of Loctite thread locker.
+ 
+The AvBay and electronic components all escaped damage. The aft section and motor were undamaged with the exception of two loosened fins and elongated screw holes at the coupler joint.
+ 
+The JEM rocket motor performance was somewhat off-nominal. The rocket acceleration curve provided by the Raven indicated a burn that indicated some degree of inhibitor failure. This was confirmed by tear-down of the motor. Two of the grain casting tubes (which serve as burn inhibitors) were fully intact except for the ends which are expected to burn away. However, the middle casting tube was burned along one side. For the next JEM flight, the core size will be made 25% larger in area, which will hopefully resolve this issue.
+ 
+All of the 3D printed parts performed nominally. The parachute piston withstood the heat of the main ejection charge without any thermal damage.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-13\Xi-13_Raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-13\Xi-13_Raven_accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-13\Xi-13_ET.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-13\Xi-13_BREO.jpg
+ 
+BRB:
+Flight path, mapped                                                                                Xi-13\Xi-13_BRB_plotted.jpg
+Altitude versus time from GPS readings                                              Xi-13\Xi-13_BRB_alt.gif
+ 
+JEM motor:
+Propellant grain segments                                                                     Xi-13\DSCF5872a.JPG
+ 
+Miscellaneous photos:
+Igniters and ejection pyros (left to right)                                            Xi-13\pyros.JPG
+JEM igniter and backup, smoke charge igniter, ejection pyros (5)
+3D printed parts:                                                                                      Xi-13\DSCF5893a.JPG
+             Nosecone                                                                                     Xi-13\DSCN0346a.JPG
+             Parachute piston                                                                        Xi-13\DSCF5897a.JPG
+             Motor retainer (installed)                                                         Xi-13\DSCF5896a.JPG
+             Rotary switch holder                                                                 Xi-13\DSCF5894a.JPG
+             Rotary switch installed                                                              Xi-13\DSCF5900a.JPG
+ 
+Launch photos:
+Rocket on the pad; my brother Blair manning checklist                  Xi-13\DSCN0352a.JPG
+Liftoff…!                                                                                                    Xi-13\2019-08-29_12-30-21.jpg
+Soaring skyward                                                                                       Xi-13\2019-08-29_12-30-50.jpg
+                                                                                                                    Xi-13\2019-08-29_12-31-08.jpg
+                                                                                                                    Xi-13\2019-08-29_12-31-33.jpg
+Main pyro fires followed by chute deployment                                Xi-13\2019-08-29_12-33-38.jpg
+Forward section descending under parachute                                  Xi-13\2019-08-29_12-34-30.jpg
+                                                                                                                    Xi-13\2019-08-30_12-16-31.jpg
+                                                                                                                    Xi-13\2019-08-30_12-17-03.jpg
+Touchdown                                                                                               Xi-13\2019-08-30_12-21-49.jpg
+Approaching landing site                                                                        Xi-13\2019-09-11_12-11-02.jpg
+                                                                                                                    Xi-13\2019-09-11_12-11-28.jpg
+                                                                                                                    Xi-13\2019-09-11_12-11-52.jpg
+Forward rocket body with 3D printed nosecone                               Xi-13\2019-09-11_12-12-56.jpg
+Parachute piston (3D printed)                                                               Xi-13\2019-09-11_12-13-39.jpg
+Parachute                                                                                                  Xi-13\2019-09-11_12-14-04.jpg
+Author with aft rocket section, found the following day                Xi-13\DSCN0361a.JPG
+AvBay (tethered to aft rocket section)                                                Xi-13\DSCN0360a.JPG
+                                                                                                                   
+ 
+ 

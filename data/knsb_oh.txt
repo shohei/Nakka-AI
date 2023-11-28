@@ -1,0 +1,125 @@
+Experiment:
+PR991030-1       Date: 30 October 1999
+
+
+
+
+Title:
+KN-Sorbitol Propellant Over-heating Experiment
+
+
+
+
+Objective:
+To determine the effects of over-heating the Potassium Nitrate- Sorbitol mixture.
+
+In particular, the physical effects of over-heating the mixture is to be determined,
+
+as well as the auto-ignition temperature. Both objectives are important
+
+and relate to the safety aspect of casting this propellant, the former to provide
+
+physical signs that over-heating is occurring, and the latter, to know how much
+
+of a "safety margin" exists between normal casting temperatures and the
+
+
+hazardous auto-ignition temperature.
+
+
+
+
+Method:
+A 16 gram sample of KN-Sorbitol powdered mixture (65/35 O/F ratio; prepared
+
+by the standard procedure) was placed in a small (3 inch) aluminum foil pan.
+
+In the middle of the sample, a thermocouple (type K) was placed, attached to a
+
+metal ring such that the bead was positioned about 3 mm. above the pan bottom
+
+(Fig.1). The pan was placed in a holding rack positioned a certain height above
+
+the tip of an electric heat gun (1400 watt; 1100 deg.F max. rating). A DVM was
+
+used to measure the emf of the thermocouple. Heating was commenced and
+
+the physical appearance and thermocouple emf monitored every minute.
+
+
+The setup for this experiment is shown in Figure 2.
+
+
+
+
+Results:
+Shortly after heating began, it was clear that the rate of heating was insufficient.
+
+The height between gun tip and pan was reduced from 13 cm. to 6 cm., then
+
+heating was continued. The mixture was largely melted after about 8 minutes.
+
+The edges of the sample showed signs of decomposition (yellowing) but the
+
+material at the middle remained milky. The sample was then stirred to make
+
+it more homogenous and to make the heating more uniform. After 12 minutes,
+
+it was decided to raise the heat gun tip to within 3.5 cm of the pan, as the
+
+
+rate of temperature rise was minimal at this point. After an additional 2
+
+
+minutes, puffs of smoke appeared, together with some light bubbling.
+
+
+A strong odour of burning caramel was detected. After 19 minutes, it was
+
+
+decided to terminate heating, in order to closely examine the decomposed
+
+
+sample. The sample was found to have severe charring below the surface.
+
+
+The entire bottom layer was blackened (Fig.3). Some pieces of the sample
+
+
+were ignited, and burned normally. Details of the results are given in Table 1
+
+
+and in Figure 4.
+
+
+
+
+Conclusion:
+The maximum temperature of the sample, just prior to termination of heating,
+
+was just over 300 C. The sample was severely decomposed at this point, in
+
+particular, the material in contact with the heated bottom surface of the pan.
+
+As such, it would appear unlikely that accidental ignition would occur during
+
+a normal casting operation, given the unmistakable indicators of overheating,
+
+such as marked colour change, smoke emanation, strong caramel odour,
+
+and if heated sufficiently, charring.
+
+
+
+￼
+Figure 1 -- Detail of T/C sensor in sample pan
+
+￼
+Figure 2 -- Setup for experiment
+
+￼
+Figure 3 -- Remains of sample after test (with charred bottom layer exposed)
+
+￼
+￼
+Figure 4 -- Heating curve

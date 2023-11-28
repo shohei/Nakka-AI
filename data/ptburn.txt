@@ -1,0 +1,139 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Burn Rate Determination from Static Test Pressure Measurement
+
+Will this page be displayed properly? Click here to check your browser...
+
+
+Introduction
+The instantaneous burning rate of a propellant may be estimated from the pressure-time data obtained from a rocket motor static firing. This method is based on the knowledge that motor chamber pressure and burn rate are directly related in terms of Kn, c* and the propellant density. The all-important burn rate coefficient (a) and the pressure exponent (n) may also be estimated by this method.
+The method described here was inspired by the treatise Non Parametric Burning Rate Estimation, authored by Henrik D. Nissen. This paper is available for downloading from the DARK web site.
+
+Method
+Steady-state chamber pressure may be expressed in terms of the propellant properties, Kn, and burn rate:
+￼      EQN.1
+where Kn is the klemmung (ratio of burning area to throat area), rp is the propellant mass density, c* is the propellant characteristic velocity, and r is the burn rate. Steady-state implies that the motor is operating under the condition of choked nozzle flow whereby any chamber pressure variation is due solely to grain geometry, and excludes the "pressure build-up" or "tail-off" phases of operation. Derivation of this equation may be found in the Chamber Pressure Theory web page.
+The klemmung and burn rate may be expressed as
+￼            ￼      EQN.2 and EQN.3
+where Ab is the grain burning area and At is the nozzle throat cross-section area, Ds is the surface regression (depth burned) over the incremental time step Dt.
+The equation for chamber pressure may be re-arranged as follows:
+￼      EQN.4
+In this equation, it is important to note that the burning area, Ab, is a function of surface regression, s. The surface regression, as well as chamber pressure, Po, are both functions of time. This may be explicitly written as
+￼      EQN.5
+The throat area is normally assumed constant, as are c* and rp. The equations for calculating burning area as a function of surface regression, in terms of grain initial geometry, is given in Appendix A for hollow cylindrical grains. The chamber pressure as a function of time is the experimentally obtained pressure-time data, where Po is known at each Dt time interval.
+The characteristic velocity, c*, is also obtained from the pressure-time data, given by time integral of chamber pressure over the burn, multiplied by the coefficient shown:
+￼      EQN.6
+where mp is the propellant total mass (for english units, mass = weight divided by gravity constant, g). The pressure integral can be found simply by taking the sum of the pressure values factored by the time interval:
+
+￼      EQN.7
+In order to solve EQN.5, it is only necessary to determine Ds such that the equation is satisfied (at each Dt. time interval). Surface regression, s, as a function of time is consequently obtained at each time interval, where the initial condition is s = so at t = 0. The burn rate is then found, at each time interval, from EQN.3. Finally, the burn rate coefficient, a, and the pressure exponent, n, may be estimated by performing a curve fit of the burn rate versus chamber pressure plot.
+Acceptable systems of measurement units are provided in Appendix B
+
+Example
+The pressure-time data from a static test of the APM-C.2 rocket motor will be used to obtain the propellant burn rate and burn rate parameters a and n. The APM-C.2 is a 51mm experimental rocket motor powered by the newly-developed KNPSB propellant.
+After obtaining the burn rate parameters, these are inputted into SRM.XLS rocket motor design software, and the prediction for chamber pressure compared to the static test data.
+The first step is to determine the delivered characteristic velocity, c*. This is accomplished by use of EQN.6 and EQN.7, whereby the pressure values are summed up, then multiplied by the time increment and nozzle throat area divided by propellant mass. The pressure-time curve from the static firing is shown in Figure 1, and the c* is calculated from the tabular form of the pressure time data.
+￼ Figure 1 -- Pressure-time curve for APM-C.2-ST1
+The applicable parameters for this motor are shown below.
+
+￼
+Characteristic velocity is calculated as such:
+￼
+where the value of 145 is a conversion factor from psi to N/mm2.
+The burn rate analysis is performed using an MS Excel spreadsheet, set up as shown in Figure 2.
+￼ Figure 2 -- Spreadsheet basic layout
+The analysis, in this example, is done using metric units.
+	•	Col.1-3 -- Static test data is entered into these three columns.
+	•	Col.4 -- The pressure units are converted to N/m2 (1 psi = 6895 N/m2 )
+	•	Col.5 -- The formula for burning area is inserted, for a BATES grain, see Appendix A. 
+	•	Col.6 -- This column was added for the case where the throat erodes with resulting change in cross-sectional area. For this example, throat area is constant.
+	•	Col.7 -- This column is for instantaneous surface regression Ds, which is the unknown quantity to be solved for
+	•	Col.8 -- This column has the formula inserted for the left-side term of EQN.4. The constant alpha, is given by a = rp  c*
+	•	Col.9 -- The surface regression, s, which is simply the summed Ds values, plus an initial value, so, which is 0.00 for this example. The initial value accounts for grain burning required to generate chamber pressure during the "build-up" phase. This initial value starts off with a guess, which can be later changed if required. The goal is to have the total surface regression equal to the initial web thickness, wo
+	•	Col.10 -- The last column is the instantaneous burning rate, per EQN.3
+The GOAL SEEK function in Excel is used to solve for Ds. Make sure that File/Options/Formulas "Maximum Iterations" option is set to at least 1000 and the "Maximum Change" option is set to a small value, such as to 0.0001.
+Proceeding row by row, the value in Column 8 is converged to zero by changing the value in Column 7, using the Data/What If Analysis/Goal Seek tool. It is recommended to write a macro to automate this process, as it can be quite tedious if there are a lot of data points.
+The completed spreadsheet analysis is shown in Figure 3.
+￼ Figure 3 -- Spreadsheet with completed analysis
+Notice that the value of total surface regression, 14.56 mm, is close to the initial web thickness of 14.61 mm. As such, the initial surface regression value of 0.00 is close enough and there is no need to modify the value. The most important values are in Column 10, the values for instantaneous burn rate, which correspond to the pressure values shown in Columns 3 and 4. The burn rate may then be plotted as a function of pressure, as shown in Figure 4.
+￼ Figure 4 -- Analysis results -- burn rate v.s. pressure
+In Figure 4, the two different slopes (pressure rising/pressure falling) are a result of the computed burn rate being slightly different over the duration of pressure rise (from t = 0 to t = 0.37 in Figure 1) compared to pressure decline (t > 0.37). Ideally, the slopes should coincide. For the purpose of designing a motor utlizing this propellant, taking the average of the two curves is fully suitable. As well, the burn rate at the lower pressure regime may be neglected. For this example, the burn rate at pressure greater than 3.5MPa (500 psi) is solely of interest. To fit a curve through the data points, use Add Trendline/Power Series and select Display Equation on chart. The Power Series is chosen as this correlates to the St.Robert's Law burning rate relationship for a solid propellant. The result is shown in Figure 5, where the red dashed line is the trendline.
+￼ Figure 5 -- Analysis results -- burn rate v.s. pressure
+The derived burn rate parameters are therefore:
+a = 6.4995       n = 0.6279     
+For purpose of design, the values may be rounded off to suitable engineering accuracy:
+a = 6.50      (burn rate coefficient) n = 0.628     (pressure exponent)
+Note that the value of "a" is for pressure in megapascals (MPa) and gives burn rate in millimetres per second. The value can be readily converted for pressure in "psi" and burn rate in inches per second:
+a = 0.0112     pressure = psi;  r= in./sec  The value for "n" remains the same as this parameter is dimensionless.
+The values for "a" and "n" are now inserted into SRM.XLS that has been populated with the pertinent motor and propellant parameters. Specifically, these values are entered into the Other Propellant box in the BURNRATE tab.
+￼
+The calculated value of characteristic velocity (c*) based on the static test data is also required. To accomplish this, a value of Combustion efficiency is entered to give c* = 973 m/sec. (using Goal Seek tool).
+￼
+The resulting chamber pressure curve predicted by SRM with the derived a,n parameters is then plotted together with the chamber pressure curve obtained from the static test. The result is shown in Figure 6
+￼ Figure 6 -- Comparison of static test data and SRM prediction
+The chamber pressure curve predicted by SRM using the derived values for the burning rate parameters is a close match to the static test data. The values should be considered tentative, albeit fully suitable for further experimental rocket motor design utilizing this propellant.
+It is important to note that in order for this method to work well in derivation of burning rate parameters, the pressure curve should closely mimic the design (predicted) curve. In other words, as with this example, the pressure rise at startup should be rapid, with nearly instantaneous ignition of all exposed propellant burning surfaces. In order to achieve this, the following are recommended:
+Use a suitably powerful igniter, preferably pyrogen type
+Coat all exposed burning surfaces with ignition primer (applicable to sugar-based propellants)
+Excel files for this example:
+Burn-rate-analysis-example.xlsx  161 kb SRM_APM-C.2-ST1.xls  1570 kb
+
+
+Appendix A
+For a BATES grain, the burning area, Ab, as a function of surface regression, s, is given by:
+￼
+
+where N = number of propellant segments, D = segment outside diameter, do = segment initial core diameter, Lo = segment initial length
+For a hollow cylindrical grain with ends only inhibited, the burning area is constant, and is given by
+￼
+
+with initial dimensions: D = grain outside diameter, d = grain core diameter, L = grain length
+For a hollow cylindrical grain with unrestricted burning, the burning area, Ab, as a function of surface regression, s, is given by:
+￼
+
+where Do = grain initial outside diameter, do = grain initial core diameter, Lo = grain initial length
+
+
+Appendix B
+The following table provides a choice of three different systems of units, of which any one may be used for this method (MKS, metric or english):
+
+Parameter
+MKS system
+metric
+english
+t
+second
+second
+second
+At
+m2
+mm2
+in2
+Ab
+m2
+mm2
+in2
+c*
+metre/sec
+metre/sec
+ft/sec
+P
+N/m2
+N/m2
+psi
+r
+kg/m3
+g/cm3
+slug/in3
+s
+metre
+mm
+inch
+
+￼
+Last updated August 24, 2020
+Originally posted June 24, 2001
+Return to Top of Page
+Back to Index Page
+

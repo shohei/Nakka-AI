@@ -1,0 +1,417 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Xi Series of Rocket Launches
+
+
+￼￼￼
+
+Introduction
+Basic Description
+Avionics
+Recovery System
+Rocket Motors
+Drawings
+Flights Summary
+Launch Reports
+Introduction
+Xi is my newest rocket project, which began in the late summer of 2017. After many successful flights of both the Zeta and DS rockets, it was felt that a rocket with a larger payload capacity was needed. The design of the Xi rocket was based on both the positive and negative experiences gained from the Zeta and DS series of flights. The objective was to incorporate the better features of the two predecessors in a larger size rocket that would allow for greater payload and for accomodating larger rocket motors.
+
+Basic Description
+The Xi rocket is largely of aluminum construction. The airframe is made of thin-walled (0.035 inch/0.89mm) aerospace grade aluminum tubing, of 3 inch (76mm) diameter for the forward section, and of 2.5 inch (64mm) for the aft section that houses the motor. A tapered coupler, machined from 6061 aluminum, joins the two body sections of different diameter. The coupler additionally serves to transfer thrust load from the motor to the rocket airframe. The four fins are fabricated of high-strength 2024-T3 sheet aluminum, bonded in place through slots cut into the body tube. The hollow nosecone (which houses the GPS transmitter) was machined from a single piece of Delrin thermoplastic. The avionics (recovery electronics) are housed within an Av-bay compartment which also serves as a coupler between aft and forward body sections. Additional payload can be accomodated in the Aft body section, which also houses an aft-facing video camera.
+Rocket for Flight Xi-1  Rocket for Flight Xi-2  Cutaway view of Xi rocket AeroLab drawing of Xi rocket for Flight Xi-1
+
+Avionics
+Based on overall positive experience with the Raven, this unit was chosen as the primary flight computer. The Raven measures and records flight data based on accelerometer and barometric readings throughout the entire flight. The Raven also activates main and backup pyro charges at apogee, and fires a pyro charge at a pre-determined altitude to release the parachute. Post-flight downloading of the Raven data provides altitude, axial and lateral acceleration, and velocity, as well as details regarding pyro charge activation. To improve overall reliability of parachute deployment, a separate flight computer is used as a backup. The Eggtimer (Classic) was chosen to fit this role, based on it's low cost and relative simplicity of design. For initial flights (until the Eggtimer demonstrates reliability) the same backup Timer used on both Zeta and DS is being flown.
+The Raven is powered by a 9V lithium primary cell battery. The main reason for choosing this battery is its excellent cold-weather performance. Both the Eggtimer and Backup Timer are powered (separately) by rechargeable lithium-ion batteries. These batteries are 3 cell (11.4V) 180mAh weighing a mere 19 grams.
+Recovery of the rocket after landing is greatly facilitated by use of a Big Red Bee (BRB) BRB900 GPS telemetry system. This system, also flown in the Zeta and DS rockets, consists of an on-board 250mw transmitter operating at 900 Mhz spectrum (no license required), which transmits GPS coordinates of the rocket throughout the flight and after landing. The signal is picked up by a matching receiver. The receiver has an LCD display showing the GPS coordinates. After landing, the GPS coordinates are entered into my Garmin hand-held GPS unit. The Garmin displays the distance to the downed rocket and direction, which makes tracking and recovery of the rocket a breeze.
+The BRB unit is mounted inside the nosecone, housed in a protective styrofoam shell. This shell additionally provides thermal insulation, a requirement for winter launches.
+Av-bay avionics, showing Raven and Eggtimer Av-bay avionics, showing Timer, control panel and 6G inertial switch Av-bay avionics, side view Av-bay avionics, side view Av-bay assembly, showing pyro charges and smoke canister Close-up of aft end of Avbay Big Red Bee GPS transmitter with styrofoam shell (opened) Big Red Bee GPS transmitter with styrofoam shell (closed)
+
+Recovery System
+Dual-deployment is used for recovery in order to minimize down-range drift of the rocket.The method is very similar to that of the DS rocket. At apogee, a pyro charge is fired which separates the rocket into two sections. The two sections, connected by a tether, then free-fall in a tumbling fashion, at a relatively slow velocity, typically around 70 feet/sec. (21 m/s). When a predetermined altitude is reached (typically 700 feet, or 215m.), a pyro charge is triggered by the flight computer which blows off the Av-bay compartment. The momentum pulls the recovery parachute out of the forward airframe. The pyro charges typically employ between 1 and 2 grams of Crimson Powder, contained within a sealed polyethylene tube.
+The Av-bay is secured to the airframe with two joints featuring nylon shear screws. The aft joint, which separates at the apogee event, is secured with three #4-40 nylon screws. The forward joint, which separates at the parachute deployment event is secured with six #6-32 flush-head nylon screws. The parachute used for recovery is the same as that used for Zeta flights, a 36" Fruity-Chutes semi-ellipsoidal chute. Descent rate under parachute is around 25 feet/sec. (7.6 m/s).
+A backup system is employed for both the primary recovery event and main (parachute) event. The Raven flight computer fires a separate pyro charge two seconds after apogee. For additional redundancy, the Eggtimer also fires a separate pyro charge two seconds after apogee. For initial flights, the flight-proven backup timer used for both Zeta and DS flights also fires a separate pyro charge following a pre-determined time delay following liftoff (6G acceleration activated). For main parachute deployment backup, the Eggtimer fires a separate pyro charge at an altitude of 500 feet (150m).
+
+
+
+Rocket motors
+It is expected that the Impulser-X motor will be used for most initial flights. Plans are in the works for flights powered by the new Helios-XX "I-class" motor powered by ANCP, which has a similar total impulse as Impulser-X. Another motor that is slated to loft the Xi rocket is the SSJ-F motor, a "J-class" motor that is the flight version of the SSJ motor that was used for static testing back in 2006-2007 timeframe. As a longer term goal, the Xi rocket will be utilized for flight testing of future APCP based rocket motors.
+Impulser-X rocket motor SSJ-F rocket motor (top) next to Impulser
+
+Drawings
+Drawing ofXi rocket Aft section Av-bay body Av-bay body ring Coupler Nosecone Parachute Piston (delrin) Parachute Piston (aluminum) Smoke Canister Electrical schematic of Xi backup timer Parts list for Xi backup timer
+
+Flights Summary
+
+Xi FLIGHT SUMMARY
+ 
+ 
+ 
+ 
+Nominal
+ 
+Barometric
+Range
+ 
+ 
+Flight
+ 
+ 
+ 
+Impulse
+ 
+Apogee
+ 
+ 
+ 
+no.
+Launch Date
+Motor
+Propellant
+(N-s)
+Class
+ft. (m.)  [1]
+ft. (m.)
+Payload  [2]
+Note
+Xi-1
+Nov.12, 2017
+Impulser
+KNSB-S.1
+356
+I
+1711 (521)
+506 (154)
+Ra, SC, BRB, ABT, ET
+Maiden flight Xi rocket
+Xi-2
+Dec.17, 2017
+Impulser-X
+KNDX
+449
+I
+2525 (769)
+1266 (386)
+Ra, SC, BRB, ABT, ET, MC
+ 
+Xi-3
+Jan.7, 2018
+Impulser-X
+KNDX
+452
+I
+2959 (902)
+1925 (587)
+Ra, SC, BRB, ABT, ET
+ 
+Xi-4
+Feb.19, 2018
+Impulser-X
+KNDX
+453
+I
+2591 (790)
+413 (126)
+Ra, SC, BRB, ABT, ET, MC
+ 
+Xi-5
+Apr.7, 2018
+Impulser-X
+KNDX
+449
+I
+2478 (755)
+1127 (344)
+Ra, SC, BRB, ABT, ET, MC, BR
+ 
+Xi-6
+Aug.15, 2018
+Impulser
+KNSB
+350
+I
+1833 (559)
+500 (152)
+Ra, SC, BRB, ABT, ET, BR
+ 
+Xi-7
+Sept.12, 2018
+Impulser-XX
+KNDX
+559
+I
+3805 (1160)
+1189 (362)
+Ra, SC, BRB, ET, BR, GY
+First flight with Impulser-XX motor
+Xi-8
+Oct.21, 2018
+Impulser-XX
+KNDX
+547
+I
+3822 (1165)
+673 (205)
+Ra, SC, BRB, ET, BR, GY
+ 
+Xi-9
+Nov.17, 2018
+NTM-12
+KNDX
+354
+I
+1248 (380)
+375 (114)
+Ra, BRB, ET, BR
+First flight with nozzleless motor
+Xi-10
+Jan.5, 2019
+Impulser-XX
+KNDX
+544
+I
+3829 (1167)
+1075 (328)
+Ra, SC, BRB, ET, BR
+ 
+Xi-11
+Feb.16, 2019
+JEM
+KNDX
+645
+J
+3901 (1189)
+2224 (678)
+Ra, SC, BRB, ET, BR
+First flight with JEM motor
+Xi-12
+June 6, 2019
+JEM
+KNDX
+463
+I
+3507 (1069)
+339 (103)
+Ra, SC, BRB, ET, BR
+ 
+Xi-13
+Aug. 16, 2019
+JEM
+KNDX
+586
+I
+4584 (1397)
+1952 (595)
+Ra, SC, BRB, ET, BR
+ 
+Xi-14
+Sept.28, 2019
+JEM
+KNDX
+610
+I
+3989 (1216)
+1178 (359)
+Ra, SC, BRB, ET, BR, mC
+Auxilliary chute mounted camera
+Xi-15
+Dec.22, 2019
+JEM
+KNDX
+614
+I
+3933 (1199)
+1962 (598)
+Ra, SC, BRB, ET, BR
+ 
+Xi-16
+Feb.16, 2020
+Impulser-XX
+KNDX
+504
+I
+3338 (1018)
+1552 (473)
+Ra, SC, BRB, ET, BR
+ 
+Xi-17
+Mar.14, 2020
+APM-C
+KNPSB
+460
+I
+2978 (908)
+2253 (688)
+Ra, SC, BRB, ET, BR
+First flight with KNPSB propellant
+Xi-18
+June 20, 2020
+Impulser-B
+KNSB/KNPSB
+423
+I
+2448 (746)
+1374 (419)
+Ra, SC, BRB, ET, BR, SL
+First flight of Impulser-B; Test of strobe lamp
+Xi-19
+Aug. 29, 2020
+APM-C.2
+KNPSB
+482
+I
+3271 (997)
+856 (261)
+Ra, SC, BRB, ET, BR, mC
+First flight of APM-C.2 motor
+Xi-20
+Oct.10, 2020
+APM-D.1
+APX-N1.0
+469
+I
+2949 (899)
+1325 (404)
+Ra, SC, BRB, ET, BR
+First-ever flight powered by APCP
+Xi-21
+Nov.28, 2020
+APM-G
+KNPSB
+687
+J
+4471 (1362)
+3521 (1073)
+Ra, SC, BRB, ET, BR
+First flight of finned APM-G motor
+Notes
+
+
+
+
+
+
+
+
+
+[1] Barometric altitude per Raven, corrected for base temperature
+
+
+
+
+[2] Payload definitions:
+
+
+
+
+
+
+
+
+Ra = Raven flight computer
+
+
+
+
+
+
+
+MC = mini camcorder (on-board)
+
+
+
+
+
+
+
+mC = micro camcorder (out-board)
+
+
+
+
+
+
+
+SC = Smoke Charge
+
+
+
+
+
+
+
+
+SL = Strobe Lamp
+
+
+
+
+
+
+
+
+BRB = BRB900 GPS transmitter
+
+
+
+
+
+
+
+ABT = Apogee Backup Timer
+
+
+
+
+
+
+
+ET = Eggtimer flight computer
+
+
+
+
+
+
+
+BR = BREO-N flight computer
+
+
+
+
+
+
+
+GY = Gyro sensor module
+
+
+
+
+
+
+
+
+Launch Reports
+	•	Flight Xi-1
+	•	Flight Xi-2
+	•	Flight Xi-3
+	•	Flight Xi-4
+	•	Flight Xi-5
+	•	Flight Xi-6
+	•	Flight Xi-7
+	•	Flight Xi-8
+	•	Flight Xi-9
+	•	Flight Xi-10
+	•	Flight Xi-11
+	•	Flight Xi-12
+	•	Flight Xi-13
+	•	Flight Xi-14
+	•	Flight Xi-15
+	•	Flight Xi-16
+	•	Flight Xi-17
+	•	Flight Xi-18
+	•	Flight Xi-19
+	•	Flight Xi-20
+	•	Flight Xi-21  ￼ Original posting March 21, 2018 Last updated December 9, 2020 Back to Home Page 

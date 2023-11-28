@@ -1,0 +1,34 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Propellant Mechanical Properties
+General Notes
+The mechanical properties of RNX propellant are particularly appealing with regard to the needs of the amateur rocketeer. When fully cured, the material can be readily "finished". For example, cut, drilled, milled, sanded, turned or faced on a lathe, etc. The machining properties are excellent and as such RNX can be drilled using a regular drill bit or a spade bit, bearing in mind that the oxidizer particles are quite hard which may require regular re-sharpening of the bit. Cutting can be readily done with a hacksaw. There is essentially no tendency for the "sawdust" to clog the saw blade as occurs when cutting sugar propellants. Turning and facing is readily accomplished using a lathe with a carbide bit. Note that all tooling surfaces exposed to cutting residue should be cleaned up immediately to eliminate a fire hazard, and to prevent rusting which will readily occur due to the oxidizing nature of the propellant. The additional fact that the material is non-hygroscopic reduces handling and exposure limitations during finishing operations, and contributes to lack of gumming up the cutting tool.
+Inadvertent ignition during finishing operations as a consequence of friction sensitivity does not appear to be a issue, based on ample experience that the author has performed on RNX over the years. Suitable safety precautions must always be taken, nevertheless, such as having a bucket of water nearby as well as a fire extinguisher. Even though RNX tends to fracture in a brittle (rather than ductile) manner, impact resistance has been found to be good, with impact energy being absorbed by plastic deformation at the impact zone.
+The material bonds extremely well using epoxy adhesive, which is important for application of inhibitors.
+
+
+Stiffness and Strength
+Strength and toughness are appreciable, minimizing the possibility of a grain being damaged either by handling or by operating loads. Two key mechanical properties of RNX have been determined – elastic modulus and tensile strength. Elastic modulus is a basic parameter in characterizing the mechanical properties of solids, and relates the stiffness (tendency to resist deflection) of a material when subjected to loading. Knowledge of the elastic modulus is important for calculating induced stress due to strain, in particular for case-bonded grains. Tensile strength relates the amount of force needed to fracture a solid when loaded in tension (including the effect of bending). Knowledge of tensile strength is also important for case-bonded designs or any other application which results in the propellant being subjected to a determinable stress level.
+To measure elastic modulus, a “slab” grain was utilized. The geometry of a slab grain, which has a rectangular cross-section, is convenient for such measurement. The method is shown in Figure 1, whereby a force (P) is applied to the free end of a cantilevered slab which is clamped at the opposite end. The deflection of the slab tip under load (indicated as d ) allows for calculation of elastic modulus (E). Strictly speaking, this method provides the “flexural modulus”, which is typically close in value to the tensile elastic modulus.
+
+￼
+Figure 1 -- Setup to measure elastic modulus
+
+For the propellant slab tested, which had a cross section of 0.525 x 1.665 inch (13.3 x 42.3 mm) and a cantilevered length of 12.91 inch (328 mm), the calculated value was E = 795,000 lb/in2 (5.48 GPa). For comparison, this is roughly equivalent to the elastic modulus of a polycarbonate plastic or a typical softwood. This result is for RNX-57, however, a modulus measurement was made for RNX-71V which indicated a similar value. The load versus deflection curve is shown in Figure 2, with the black trend line representing a “best fit” of the data points.
+
+￼
+Figure 2 -- Results of load versus deflection measurements
+For convenience, tensile strength of RNX was approximated by measuring the ‘flexural strength”. Tensile strength is the stress level at which a specimen fractures when loaded in pure tension (pulled). It is much more convenient to load a specimen in bending and measure the load at which tensile fracture occurs. Rod shaped specimens of RNX-71V were prepared and mounted at one end, and a force applied to the free end (basically the same setup as used for modulus measurement) and gradually increased until fracture occurred. The stress level (bending moment divided by section modulus) at which fracture occurred is the flexural strength. The results of this exercise, which was performed on seven specimens, is shown in Table 1.
+
+￼
+Table 1 -- Results of RNX flexural strength testing
+The average flexural strength of UFS=4128 psi (28.5 MPa) can be used to estimate the tensile strength of RNX propellant. Flexural strength can be approximated as 1.5x the tensile strength, giving UTS=2750 psi (19 MPa)and used as a tentative value until actual tensile testing is performed at a future date.
+Next -- Propellant Burn rate
+
+￼
+Last updated  January 1, 2018
+Back to RNX Index Page
+Back to Home Page
+

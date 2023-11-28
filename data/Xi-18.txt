@@ -1,0 +1,170 @@
+Basic Information
+Name
+Xi-18
+Launch date:
+20 June 2020
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Smoke tracker with Legendary formulation
+- Xenon strobe lamp
+Liftoff mass
+2.910 kg.
+Stability Margin (minimum)
+2.52
+Flight objectives
+-Flight test of new Impulser-B motor (B=Boosted)
+-Test of strobe lamp
+ 
+ 
+Motor details
+Motor name
+Impulser-B
+Propellant
+KNSB /KNPSB
+Grain mass
+310 grams
+Nominal impulse
+423 N-sec.
+Class
+I
+ 
+Additional information
+-Impulser-B powered by 1 segment KNPSB and 3 segments KNSB (KNPSB=35%KN, 30%KP and 35% sorbitol). This motor was twice successfully static fired.
+-A xenon strobe lamp housed in 3D printed compartment (PLA plastic) aft of nose cone being tested to potentially aid tracking under cloudy conditions. Flash rate approximately 1/3 hz.
+-Two-ply layer thermal barrier (stainless steel foil 0.002 inch/0.05mm) augments the propellant casting tubes.
+ 
+Weather conditions
+Temperature
+20°C  (68°F)
+Wind
+S 20-25 km/hr
+Sky
+Variable clouds with intermittent sun
+Other
+-
+Ceiling
+10k ft.
+ 
+Launch Event Description
+Setup of the launch equipment and rocket went well. However there were a couple of glitches. One of the pair of aft launch lugs was found to be broken. This is a 3D printed part made of PLA plastic. It has broken in the past and a new, more robust, part was designed but not yet implemented on the rocket. The alternate pair of lugs was used to mount the rocket on the launch rod. One of the tripods used for mounting the GPS receiver was found to have a broken leg. The tripod intended for a close-up camera was commandeered, and the camera was instead set up on a crate.
+ 
+Following the launch checklist,  the BRB receiver was activated and verified that a good GPS signal was obtained. The BREO-N, Eggtimer and Raven were then activated. Eggtimer “blinked” its LED indicating ready for launch. Raven beeped nine times for voltage and gave three positive indications for the three active pyros. Lastly, the strobe lamp was activated. For videotaping the flight, I used the hand-held Sony camcorder fitted with scope tube. The close-up camera was set up approximately 5 metres from the pad.
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately came to life and the rocket soared skyward, climbing nearly vertical with a slight tilt to the left. As expected, the thrusting sound of the Impulser-B motor was initially intense followed by a more subdued intensity. Burn time was about a second and a half. We lost sight of the rocket shortly after burnout. We searched the sky for flashes from the xenon strobe, but nothing was seen. After about 14 seconds we heard a ‘pop’ sound of the apogee charge. The rocket was not sighted. After about ½ minute, we heard the ‘pop’ sound of the parachute pyro charge and spotted the rocket straight ahead. The chute had deployed and fully blossomed. The rocket and chute gyrated somewhat during descent, perhaps due to the rather strong wind. The smoke charge was seen to be still burning. Approximately ½ minute later the rocket touched down roughly ¼ mile downrange.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Oddly the indicated distance from where we were located was 450 feet. And even more oddly, the indicated direction to the touchdown site was not right. We thought that perhaps the nosecone (with BRB transmitter) had broken away from the rocket due to structural failure of the strobe housing. As such, we headed to the indicated location. But nothing was found. Fortunately, the touchdown site was marked by the landing locator (which is standard practice as a backup to the GPS system). I headed in the direction of the landing site while my brother, stationed at the landing locator, directed me using FRS radio for communication. After trekking approximately a quarter mile, the rocket’s parachute was soon spotted a few hundred feet directly ahead of me. Arriving at the touchdown site, all the rocket components were seen to be present and looked to be in great condition with one exception. The strobe compartment had fractured on landing. The strobe lamp was still flashing. A quick inspection indicated that all five pyro charges had fired and the smoke charge had fully burned.
+ 
+I then decided to turn on the BRB GPS receiver to see if the transmitter was working. Sure enough, the receiver picked up the signal and gave the proper coordinates of the landing site.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.4
+2394
+730
+Apogee (temperature corrected)
+-
+2448
+746
+Separation
+13.0
+3267
+728
+Main deployment
+38.5
+646
+197
+Touchdown
+63
+-
+-
+Range
+-
+1374
+419
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+72.5
+22.1
+ 
+Main parachute
+26.2
+8.0
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven, EggTimer and BREO was fully nominal.  The Raven, EggTimer and BREO all gave apogee readings within 0.3 percent (7 feet).
+ 
+The BRB transmitter appeared to have function normally. The errant GPS coordinates last picked up by the receiver was most likely a result of loss of signal from the transmitter. It is speculated that the strobe circuit, which generates high voltage pulses, caused radio interference. In fact, this scenario had been considered as a possibility early on when implementing the strobe device. I had planned to shield the BRB transmitter by isolating it from the strobe using aluminum foil barrier. Unfortunately, in the months that followed, I had completely forgotten about doing this.
+ 
+The strobe lamp proved to lack sufficient intensity to be of use in tracking. A ground test had been conducted earlier to test how well its flash could be seen at a distance. From 1500 feet (450m.), the flash could be seen but there was doubt as to whether it was bright enough to spot in the sky. It was decided to anyway flight test the unit to ascertain its effectiveness for tracking. A much more powerful strobe lamp is currently being investigated for a possible future flight test.
+ 
+The Impulser-B rocket motor performed as expected based on earlier static test results. The shape of the acceleration curve closely matched the pressure-thrust curve from the static test. Tear-down of the motor showed it to be in pristine shape. The casing thermal liner and all casting tubes were essentially intact.
+ 
+The smoke charge burned for an estimated 48 seconds, which is approximately twice as long as expected. The Legendary stock was made in October 2018. Although degradation was not expected, it may have suffered some type of deterioration or may have absorbed moisture. New stock will be used for the next flight.
+ 
+Raven data:                                                                                            
+Barometric and axial acceleration data                                          Xi-18\Raven_Xi-18_Basic.gif
+Acceleration curve, boost phase                                                     Xi-18\Raven_Xi-18_accel.gif
+Static test thrust-pressure graph Impulser-B                                 Xi-18\Impulser-B-ST2-graph.gif
+ 
+Eggtimer data:                                                                                    
+Altitude versus flight time                                                                 Xi-18\ET_Xi-18.gif
+ 
+BREO-N data:                                                                                      
+Altitude versus flight time                                                                 Xi-18\BREO_Xi-18.gif
+ 
+BRB GPS data:
+Launch and landing sites                                                                   Xi-18\Xi-18_BRB_mapped.gif
+ 
+Miscellaneous photos:
+Impulser-B                                                                                            Xi-18\DSCF6251.JPG
+Strobe compartment                                                                          Xi-18\DSCF6244.JPG
+                                                                                                                Xi-18\DSCF6245.JPG
+ 
+Launch photos:
+Rocket on the pad                                                                               Xi-18\DSCN0472.JPG
+Seconds before launch                                                                      Xi-18\2020-06-27_9-39-29.jpg
+Motor ignition and liftoff…                                                               Xi-18\2020-06-27_9-40-39.jpg
+                                                                                                                Xi-18\2020-06-27_9-51-45.jpg
+Accelerating along launch rod                                                          Xi-18\2020-06-27_9-40-56.jpg
+Veering slightly to left as rocket gains speed                                Xi-18\2020-06-27_9-41-35.jpg
+                                                                                                                Xi-18\2020-06-27_9-42-20.jpg
+Climbing straight vertical                                                                   Xi-18\2020-06-27_9-42-43.jpg
+                                                                                                                Xi-18\2020-06-27_9-43-28.jpg
+                                                                                                                Xi-18\2020-06-27_9-43-52.jpg
+Burnout: 500 ft (150m.); max. velocity 560 km/hr                       Xi-18\2020-06-27_9-44-32.jpg
+Descending by parachute                                                                  Xi-18\2020-06-27_9-45-39.jpg
+White smoke trail is visible against dark clouds                           Xi-18\2020-06-27_9-46-04.jpg
+                                                                                                                Xi-18\2020-06-27_9-46-29.jpg
+                                                                                                                Xi-18\2020-06-27_9-46-56.jpg
+Seconds from touching down                                                          Xi-18\2020-06-27_9-48-07.jpg
+Rocket at landing site                                                                         Xi-18\DSCN0474.JPG
+                                                                                                                Xi-18\DSCN0475.JPG
+                                                                                                                Xi-18\DSCN0476.JPG
+ 
+Video:
+Launch video (Youtube)                                                                                                                https://youtu.be/tE8bxxLdXew
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,156 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-13
+
+ 
+Basic Information
+Name
+Z-13
+Launch date:
+18 April, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood, reduced span
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+-On-board mini camcorder (set to 1280x720 resolution)
+-Side-facing microcamcorder
+- Smoke Charge initiated by Raven after apogee
+- BRB900 GPS transmitter
+Liftoff mass
+2.309 kg.
+Flight objectives
+- Reduced weathercocking with smaller fins
+- Smoke Charge for visual aid during free-fall descent.
+- Track landing using BRB transmitter beacon
+- Assess KNXY propellant for Impulser motor
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNXY
+Grain mass
+281 grams
+Nominal impulse
+-
+Class
+I
+ 
+Additional information
+Fin span was reduced to 5.5cm (was 7.5cm) to reduce weathercocking. Provision was made to hold the microcamcorder internally in a side-facing orientation.  The hand-held camcorder, to be used for filming the flight, was modified with the addition of a “sight tube”. In previous outings, it was found that it was difficult to point the camera in the right direction, using the LCD screen which is hard to see in daylight (camera has no viewfinder).
+ 
+Weather conditions
+Temperature
+16°C
+Wind
+SW 20 km/hr
+Sky
+Mainly clear sky with scattered cirrus clouds
+Other
+-
+ 
+Preamble
+I am basically not a superstitious person, however, I did harbour a slight trepidation about this particular Zeta flight, being the “13th” in the series. I gave passing thought to skipping over Z-13 and calling this flight Z-14, but my sensible nature over-ruled that notion.
+ 
+ 
+Launch Event Description
+Sled was once again used for hauling launch supplies. It was found that the sled could be hauled over the grassy surface without undue effort, and involves much less physical strain than carrying the supplies by hand. The setup of the rocket once again went smoothly with no glitches. The BRB was powered up first, verified to be transmitting, then the microcamcorder was powered up and installed in the rocket. The minicamcorder was then powered up, followed by the Raven. Raven sounded out 4 consecutive beeps, verifying that all four pyro charges were positively connected. After verifying the sky was clear, the countdown proceeded and shortly after “zero” the xylitol powered motor came to life. The skyward climb was distinctly slower than previous, veering noticeably into the south-west wind. The burn time appeared to be longer. The rocket was seen throughout the entire ascent, and following turn-over at apogee, the ‘pop’ sound of the apogee separation event was heard. The smoke cloud was spotted and soon after, a thin jagged trail of smoke was seen streaming from the rocket. The two sections of the rocket tumbled downward, as the sun glinted off the rocket several times, aiding the visual sighting. The rocket continued to tumble, quite wildly compared to earlier descents. The tumbling descent continued with no indication of the parachute being deployed. The rocket struck the ground, landing in a plowed field about 300 feet distant.
+ 
+We then noted the GPS coordinates on the BRB receiver and entered these into the hand-held GPS unit. Although the landing site was only about 300 feet from us, we wanted to, once again, test the recovery process using the GPS signal from the rocket. The handheld GPS unit indicated distance to touchdown site, and direction. We proceeded to “track” the rocket, which led us directly to the downed rocket. The rocket appeared to be in good condition, no damage was apparent. Through good fortune, the rocket landed on soft soil. The nosecone was separated from the rocket, apparently from ground impact. The chute was still in its compartment. The pyro charge was noticed to be intact, clearly having not fired. Raven beeped out an apogee of 2117 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+12.1
+2115
+645
+Separation
+13.1
+2104
+641
+Main deployment
+-
+-
+-
+Touchdown
+43.2
+ 
+ 
+Range
+ 
+365
+111
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+71.8
+21.9
+ 
+Main parachute
+-
+-
+ 
+ 
+Post-flight analysis and comments:
+Remarkably, the rocket and payload suffered no damage. Good Raven data was obtained. The smoke charge once again served very well to track the rocket during free-fall, thanks to the bright sun illuminating the smoke. The reflective aluminum tape also helped to generate occasional “flashes” as the sun glinted off the tape. The BRB GPS beacon functioned nominally and once again demonstrated its value in directing us to the exact touchdown location.
+Examination of the BRB GPS tracking data indicated that the rocket “weather-cocked” once again, about the same as the previous flight. The relatively slow ascent, as a result of the KNXY powered motor, would have contributed to the weathercocking, as would the stronger wind.
+From Raven data, the motor burn time was 2.1 seconds. This, combined with the slower acceleration and lower apogee, clearly demonstrates that KNXY is slower burning and does not operate efficiently in the Impulser motor designed for KNSB/KNDX.
+Both on-board camcorders suffered anomalous operation. The microcamcorder footage had some missing coverage, notably during the ascent phase. This seems to be a flaw with the camera and is not related to the hard landing (this anomaly occurred on a previous flight). The minicamcorder held no video file, as a result of improper shutdown as a result of depleted batteries (camcorder was not correctly powered off following the flight, due to operator error, and batteries ran out).
+The ‘sight tube’ mounted on the hand-held camcorder proved to be of great benefit, especially during the descent portion of the flight. Good video footage of nearly the entire descent was obtained.
+The reason for the failure of the parachute pyro charge to fire took a great deal of investigative work to finally pin-point the probable cause. Raven data indicated that the pyro channel was activated at the prescribed moment (at an altitude of 352 ft.) but that the electrical current was only 10% of what it should have been. All electrical wiring connections were carefully scrutinized after the flight and nothing anomalous could be found. The pyro charge bridgewire was intact and had the same resistance value as that measured prior to flight. The Raven was subsequently employed to test-fire the charge using the flight simulation feature. The charge fired nominally. The manufacturer of the Raven was contacted about the anomaly. Adrian Adamson kindly reviewed the Raven flight data and pointed out an anomaly relating to the ‘main pyro’ voltage trace. The voltage ‘dropped out’ during the boost phase and again after the apogee separation event. Based on this evidence and the fact that I could find nothing wrong with the wiring connections “downstream” of the Raven, I decided to carefully examine the Raven. Using a 20x magnifier, I soon noticed what appeared to be a compromised solder joint. The solder attaching the ground pin of the pyro terminal block to the circuit board had the appearance of thermal degradation. The solder appeared to have separated (partially melted) from the pin, likely as a result of overheating through a combination of significant current flow and possibly a non-perfect original solder joint. Remedial action was to carefully de-solder, then re-solder, the defective joint.
+ 
+Raven baro and accelerometer graph:                                                 Z-13\Z-13_Raven.jpg
+ 
+BRB GPS data:
+Track of rocket projected onto launch site map                                   Z-13\Z-13_brb_tracked.jpg                                                                                                                                                     
+ 
+Photos:                                                                                                         
+Hand-held camcorder with “sight tube”                                                 Z-13\DSCF3531a.JPG
+Microcamcorder with side-mounting fitting                                         Z-13\DSCF3520a.JPG
+Receptacle for side-mounting fitting                                                      Z-13\DSCF3521a.JPG
+Microcamcorder installed                                                                         Z-13\DSCF3525a.JPG
+Xylitol-based propellant grains                                                                 Z-13\DSCF3518a.JPG
+Zeta-13 on launch pad                                                                                Z-13\DSC00064a.JPG                                                                                                                              
+Liftoff…!                                                                                                        Z-13\Z-13_liftoff-1.jpg
+Landing site                                                                                                  Z-13\DSC00070a.JPG
+                                                                                                                        Z-13\DSC00076a.JPG
+Close-up of chute compartment and nosecone                                   Z-13\DSC00075a.JPG
+[unfired pyro charge (red) is seen in centre of photo]
+Raven main pyro voltage trace                                                                Z-13\volts-pyro-main.jpg
+Anomalous solder joint on Raven terminal block joint                        Z-13\Dscf3535d.jpg
+                                                                                                                       
+Captures from launch video:
+Smoke cloud from parachute charge                                                      Z-13\smoke_cloud.jpg
+Free-falling rocket with trailing smoke                                                   Z-13\tumbling6.jpg
+                                                                                                                        Z-13\tumbling5.jpg
+                                                                                                                        Z-13\tumbling4.jpg
+                                                                                                                        Z-13\tumbling3.jpg
+                                                                                                                        Z-13\tumbling2.jpg
+                                                                                                                        Z-13\tumbling1.jpg
+Sun glints off rocket reflective tape                                                        Z-13\glinting.jpg
+Just before landing                                                                                      Z-13\just_before_landing.jpg
+                                                                                                                       
+ 
+Captures from side-facing video:
+Walking toward launch controller station (225 ft. from pad)            Z-13\microcam3.jpg
+Moments before countdown commences                                             Z-13\microcam2.jpg
+                                                                                                                       
+ 
+Videos:                                                                                                         
+Descent                                                                                                         Z-13\Z-13_descent.mp4
+ 
+
+￼
+Last updated April 23, 2015
+Back to Home Page
+

@@ -1,0 +1,134 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+PVC Rocket Motors Tools
+
+Chuck Knight   of Pennsylvania, U.S.A. has developed simple to make "G", "H" & "I" Class KN-Sorbitol rocket motors, utilizing PVC (PolyVinyl Chloride) plastic tubing for the casing and requiring no special tools for construction. These motors incorporates a time delay and ejection charge for parachute deployment.
+
+
+In order to produce the PVC motors in a consistent manner it is suggested that tooling be made to aid in their construction. These tools will not only give consistent results, but will speed construction. Following is a list of these tools.
+	1	Centering Fixture
+	2	Nozzle Mold and Throat Bushing
+	3	Divergence Cutter
+	4	Casting Support and Coring Rods
+	5	Sleeve Form
+	6	Propellant Grain Storage Case
+In addition to the tools above, it would advisable to acquire a miter box for cutting the PVC pipe and short sections off of PVC pipe couplers. These cuts need to be square to the pipe or coupler. Making even, square cuts free hand with a hacksaw or other handsaw can be very difficult. The miter box will make cutting the PVC pipe and couplers easy and accurate.
+For measuring propellant and delay mix ingredients, it is recommended to obtain a balance or scale accurate to 0.1 gram. A search of the Internet will reveal several sources for scales that can be purchased for less than US$100.
+1. Centering Fixture The centering fixture guides a drill bit for drilling a 1/8" hole into the exact center of the end of the end cap. The 1/8" hole acts as a guide hole for a larger drill bit when drilling the end cap for the nozzle or delay grain assembly. The centering tool is inserted into the end cap and a long 1/8" drill bit is guided through the tool to locate the hole. One centering fixture is required for the 1" end cap and another for the 1-1/4" end cap.
+
+￼
+CENTERING FIXTURE FOR LOCATING GUIDE HOLE
+
+The centering fixture is made by securing a Fender Washer into both ends of a short length of PVC pipe. The ID of the washers locates a bushing with an ID of 1/8" through which the drill bit is guided. Epoxy is used to secure the washers and bushings to the pipe.
+
+￼
+It is difficult to give an exact listing of the materials required to make the centering fixture because it depends on the availability of properly sized fender washers. Fender washers have a small ID compared to the OD and provide a large surface for securing screws in soft materials. The ID of fender washers is sized 1/32" larger than the bolt with which they are used. Thus a 1/4" x 1" actually has an ID of 9/32". Ideally, you want 1/8" x 1" and 1/8" x 1-1/14" fender washers. If you are unable to find these size washers, use washers with the smallest ID you can find, but no less than 1/8" (actual 5/32"). Bushings can be made to accommodate whatever size washer you find.
+Materials List
+G Motor
+H & I Motor
+2 each ?? x 1" fender washers
+2 each ?? x 1-1/4" fender washers
+1-3/4" length of 1" PVC pipe
+1-3/4" length of 1-1/4" PVC pipe
+5/32" OD brass tubing plus sequentially larger tubing as needed
+5/32" OD brass tubing plus sequentially larger tubing as needed
+Epoxy glue
+Epoxy glue
+Masking tape
+Masking tape
+The bushing is made by stacking sequentially larger OD brass tubing, one within the other, and soldering them together to form a single unit. Brass tubing is available at most hobby stores. The tubing has a wall thickness of 1/64" and is available in multiples of 1/32" OD, i.e. 5/32", 3/16", 7/32", etc. You will have to obtain whatever sizes of brass tubing you need depending on ID of the fender washers you have been able to find. Start with 5/32" OD tubing (1/8" ID) and stack additional concentric layers of tubing until you get an OD that matches the actual ID of the fender washer.
+Cut the tubing with the largest OD 1-3/4" in length. Cut the subsequent smaller OD tubing slightly longer than the previous. In this way, when the tubing is stacked, the pieces can be made to telescope at one end. Heat the tubing with a torch and apply solder to the telescoping section and the solder will wick between the tubing binding the tubing together.
+Hint: A Dremel Tool with an abrasive cutting wheel is usually required to cut brass tubing. However, another way to cut brass tubing is with a utility knife. Lay the tubing on a flat surface. Lay the blade of the knife across the tubing and role the tubing back and forth under the blade. Within a few roles the blade will cut through the tubing leaving a smooth edge.
+The fender washers need to fit snugly within the ends of the PVC pipe and it may be necessary to roll short pieces of masking tape on the inside of the pipe to build up the wall thickness to get a snug fit. Lay the pieces of tape end-to-end and be sure the tape lays tight so there is no uneven build up or bulges. After inserting the washers, insert the bushing through the washers and glue everything together with the epoxy.
+2. Nozzle Mold
+The nozzle mold is used to form the convergence and throat of the nozzle. A throat insert is placed over a bushing supported by the nozzle mold and the whole assembly is inserted through the top end the motor casing. Concrete is packed into the casing through a hole in the end cap. As the concrete begins to set, the bushing is removed freeing the throat insert from the mold. The casing is then removed from the mold leaving the concrete and throat insert inside the casing. A nozzle mold is needed for the 1" casing and another for the 1-1/4" casing. The molds are wood dowels with OD's slightly smaller than the ID's of the PVC casing with which they are used. A support rod protrudes from one end of the mold to support the throat bushing and throat insert. The shape of the nozzle convergence is carved into the dowel around the support rod. Following is a drawing of the nozzle mold, throat bushing, and critical dimensions.
+
+￼ ￼
+Dimension
+G Motor
+H Motor
+I Motor
+A
+1/4"
+3/8"
+3/8"
+B
+5/32"
+1/4"
+5/16"
+C
+3-1/8"
+2-5/8"
+2-3/8"
+D
+1/4"
+5/16"
+7/16"
+E
+7/8"
+1"
+1-1/8"
+The throat bushings are used collectively when assembling the nozzle mold for "H" and "I" motors. The "G" bushing is used inside the "H" bushing and the "G" and "H" bushings are used inside the "I" bushing. Their lengths are such that they telescope one within the other.
+Materials List
+
+￼
+Most of the operations to make the 1" mold and 1-1/4" nozzle molds are the same except for sizing the mold. Use the dimensions of the schematic above as a guide.
+The dowels from which the molds are made should fit loosely, but they should fit without too much slop. It has been found that the actual ID of PVC pipe varies somewhat from lot-to-lot within the same manufacturer and between different manufactures of PVC pipe. Final fitting of the mold to the casing for casting the nozzle will be accomplished by wrapping masking tape around the mold until it fits snug within the pipe. The 1" dowel, as purchased from the store, should be a good fit for the 1" PVC casing. However, the 1-1/4" dowel is too small compared to the actual ID of the 1-1/4" PVC pipe. To compensate for this difference it will be necessary to enlarge the diameter of the dowel. Rolling consecutive sheets of paper onto the dowel until the proper diameter is achieved will size the dowel properly. Cut the letter paper sheets to a 7" width. Spray Super 77 Spray Adhesive onto one side of the paper and roll the paper around the one end of the dowel. Allow the spray adhesive to dry for 15 - 20 seconds before rolling onto the dowel. This will allow the adhesive to become tacky and helps the paper to stick better. Add several sheets until the mold fits loosely inside the pipe. Once the proper size has been achieved, saturate the paper with CA glue to waterproof and protect it.
+Locating and drilling the hole for the support rod is the most exacting task when making the nozzle mold. This hole must be exactly in the center of the end of the dowel. Any side location and the support rod will locate the nozzle off center. This will produce a side thrust that could cause the rocket to not fly straight.
+The centering fixture can be used to position the hole for the support rod. Insert the centering fixture into one end of the coupler and a 12" length of pipe into the other end. Insert the dowel into the pipe so that it rests against the centering fixture. If the dowel wobbles side-to-side within the pipe, wrap masking tape around the top end of the dowel and again about 10" down from the top so that the dowel fits snugly and does not wobble. This will assure that the dowel is positioned exactly within the center of the pipe. Use the centering fixture to align the 1/8" drill bit and drill a hole to a depth of about 1". Remove the dowel and enlarge the 1/8" hole to 5/32".
+Insert a 5/32" steel rod into the 5/32" hole allowing at least 2" to protrude. Glue the rod in place with thin CA glue. If you are unable to find 5/32" steel rod a 5/32" drill bit will be a perfect alternative.
+Dimension "A" on the drawing of the nozzle mold is the length of the convergence. Carve the convergence with a knife and finish with sand paper. Saturate this surface with thin CA glue to waterproof the wood.
+Solder up the 3 bushing using the brass tubing on the materials list. The procedure for making these bushings is the same as used for making the bushings for the centering fixture. Remove solder blobs and/or burrs so the bushings slide easily within each other.
+Scribe a mark on each bushing according to dimension "E". This dimension sets the position of the nozzle mold within the casing.
+Once you are satisfied with the nozzle mold cut the length of the 1" dowel to 15" and the 1-1/4" dowel to 24".
+
+￼
+MOLD AND BUSHINGS FOR "H" AND "I" MOTORS
+
+3. Divergence Cutter
+The divergence is cut into the nozzle with a divergence cutter after the casing is removed from the nozzle mold and while the concrete is still soft. The divergence cutter is hand twisted into the hole left by the throat bushing until the correct nozzle exit diameter is reached. A pattern sheet with a properly sized hole is held in position over the nozzle to fix the exit diameter.
+The divergence cutter is made from a 3/4" Speedbor drill bit. The tip of a Speedbor has an angle approximate to that required for the divergence. Extending the drill bit tip by grinding or filling the blade of the drill bit into a "V" shape makes the divergence cutter.
+The exit diameter patterns are made from 1-1/2" squares of thin plastic sheets in which a 1/2", 5/8" and 3/4" hole is drilled for the "G", "H" and "I" motors respectively. The squares of plastic are cut from throwaway plastic containers.
+
+￼
+DIVERGENCE CUTTER AND EXIT PATTERNS
+4. Casting Stand and Coring Rod
+The casting stand supports the inhibitor sleeve while casting the propellant. The base of the casting stand is a piece of 1/2" plywood in which a hole the size of the coring rod has been drilled. A support tube made from a piece of PVC pipe of the same diameter as the motor casing and the length of the propellant grain is supported over the hole by a mounting bracket cut from a PVC coupler. Wax paper is used to cover the hole in the casting stand during the propellant casting process. After the propellant is poured into the inhibitor sleeve, a coring rod is rammed through the soft propellant, pierces the wax paper, and is captured and supported by the hole in the base until the propellant hardens.
+
+￼
+CASTING STAND
+Materials List
+
+￼
+Mark the center of the plywood base by crossing lines corner-to-corner. Use the drill bits on the materials list to drill a hole in the center of the ply wood base. The wood blocks are cut from 2 X 4 stock. These are feet, which elevate the base so that the coring rod can be pushed through the hole in the base. Nail the wood blocks to each end of the base.
+Cut a 5/16" long ring from the end of the PVC coupler for the mounting bracket. Spread epoxy glue on the cut surface of the ring and center it over the hole in the base. Remove and clean any glue that may have smeared on the inside of the ring or on the base within the ring.
+Hint: Holding the short pipe coupler in a miter box may be difficult. Insert a short piece of pipe into the coupler and another coupler on the other end of the pipe. This will provide something extra to grip while cutting the coupler.
+The PVC pipe will be the support tube for the inhibitor sleeve. This completes the casting stand.
+The coring rod for the "G" motor grain is made from a 3/8" dowel. Carve a point on one end to facilitate the pushing of the rod through the propellant and for piercing of the wax paper. The coring rod for the "H" and "I" motor grains is made using the 9/16" brass tubing and the 1/2" dowel. Slide the dowel through the tubing so that 3/4" of the dowel protrudes from one end of the brass tubing. Secure with glue. It may be necessary to wrap tape or paper around the dowel to provide a snug fit for the tubing. Carve a point on the 3/4" length of dowel that protrudes from the tubing. Harden the tips of the coring rods with CA glue.
+
+5. Sleeve Form The sleeve form is the form on which the inhibitor sleeve is rolled. The exact diameter of the form is determined by trial and error and is fixed when you are able to roll a sleeve that slides easily into the motor casing without being loose fitting
+Materials List
+
+￼
+The wood dowels are a starting point for the forms. The kraft paper is cut in strips 10" in length and 1/2" wider than the length of the dowels. Spray adhesive is used to adhere the paper to the dowel. Allow the spray adhesive to set for a few seconds before rolling it onto the dowel. Be sure that the paper is rolled evenly onto the dowel with even pressure. If the paper is not rolled evenly, the form may begin to taper and the finished form will not have a uniform diameter end-to-end. If this happens, start over. After rolling each sheet of paper onto the form, trim the excess paper from each end of the form.
+Once you have a form, which you think is about the correct size roll an inhibitor sleeve to see how well it fits within the casing. The inhibitor sleeve materials are different for the different size grains, but the techniques are the same. For the "G" motor, the sleeve is rolled from a single piece of letter paper cut to 7-1/4" x 11". The paper is laid on a flat surface and the sleeve form is positioned at one end across the narrow dimension of the paper. The edge of the paper is brought up, over, and under the sleeve form until the edge of the paper begins to catch under the form. Be sure the paper is even on the form and the pressure is applied evenly to prevent the form from tapering. Spray the exposed flat surface of the paper with adhesive. A light coating is sufficient, but be sure to catch all edges and corners. Also spray in the area under the sleeve form where the first wrap meets the flat surface of the paper. The sleeve form is shorter than the paper is wide so the paper acts as a mask to keep the spray from getting inside the sleeve and causing the form to stick to the sleeve. Allow the adhesive to set for 15 - 20 seconds before completing the roll up of the paper. Allow the adhesive extra time to cure before removing the sleeve form.
+If the sleeve is too small, roll another layer of kraft paper onto the form until you can make an inhibitor sleeve that slides easily into a motor casing, but is not loose fitting. The sleeve should not fall out of the motor casing under its own weight. If the sleeve is too large, you will have to start over.
+The sleeve form for the "H" and "I" motors is made in the same manner as for the "G" motor except that the inhibitor sleeves are rolled from 7-3/4" x 10" sheets of tag board. To make the sleeve form, roll successive layers of Kraft paper onto the 1-1/4" dowel until you can roll an inhibitor sleeve of the correct size. 100# grade tag board can be obtained in 24" x 36" sheets from print shops or other paper supply houses. An alternative source for tag board is the manila file folders that can be purchased at any stationery store.
+6. Propellant Grain Storage Case
+Once a propellant grain is cast, it may be necessary to store the grain for an indefinite period of time. Since sugar propellants are hygroscopic and absorb water from the air the best place to store propellant grains is in a desiccator grain storage case. A desiccator can be made from a covered Tupper Ware cake pan. These are available 5" deep x 9" wide x 14" long and have tight fitting lids. The easiest thing to do is to place a dish full of a desiccant material inside the cake pan along with the propellant grains. The desiccant absorbs the moisture from the air and keeps the grains dry. It is also believed that this dryness helps to cure the propellant by drawing moisture out of the grain.
+A more efficient desiccator can be made from the same Tupper Ware cake pan. Instead of a dish of desiccant, the entire bottom of the cake pan is covered with desiccant. This exposes more desiccants to the air than what can be achieved with a dish. A shelf is fitted above the desiccant to carry the propellant grains. The shelf is made from 1" square wire mesh cut to the inside dimensions of the cake pan. The mesh is supported 1" above the bottom of the pan by two wood strips that are secured to the inside of the dish near the bottom. A layer of desiccant is spread over the bottom of the pan and the shelf is laid on the wood supports over the desiccant.
+There are several desiccants that could be used, but the cheapest and most readily available is calcium chloride. Calcium chloride can be obtained from agriculture stores where it is sold to spread on dusty roads to control dust. The calcium chloride absorbs moisture from the air and keeps the road damp. Another source would be a swimming pool store. Calcium chloride for swimming pools is used to increase the calcium hardening of pool water and is sold under several brand names. Calcium chloride is also sold as an ice-melt for sidewalks.
+It is important to keep the desiccator closed at all times since calcium chloride will continuously absorb moisture from the air. As calcium chloride absorbs moisture, it gets mushy and must be replaced. Unlike other desiccants, calcium chloride cannot be dried in an oven and used over.
+
+￼
+PROPELLANT GRAIN DESICCATOR AND STORAGE CASE
+
+
+Next -- Construction...
+
+￼
+Last updated March 25, 2002
+Return to Top of Page
+Return to Home Page
+

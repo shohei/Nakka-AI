@@ -1,0 +1,91 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+￼
+Introduction
+Formulation
+Preparation and Mixing
+Mould
+Packing
+Mechanical properties
+Combustion chemistry
+Burn rate
+Propellant Chemistry and Performance Data
+Safety Precautions
+Drawbacks
+Assessment
+Introduction
+This web page details the formulations, preparation, and grain forming process of two recently developed epoxy based composite propellants that utilize potassium nitrate (KN) as the primary oxidizing agent. Details are also provided with regard to the mechanical properties, combustion chemistry, burning rate characteristics, and performance of these propellants.
+The two formulations featured here, RNX-57 and RNX-62, were borne out of an extensive development program that spanned 1-1/2 years of experimental work, which is still on-going. The initial phase of research was published earlier in the Experiments with Potassium Nitrate - Epoxy Formulations web page.
+The goal of developing an epoxy/potassium nitrate based rocket propellant was seen as a logical next step following my experience with the sugar-based propellants (KNSU, KNDX & KNSB). Although the sugar-based propellants are very nearly ideal for the beginning (as well as advanced) AER experimenter, they do have certain drawbacks. Key shortcomings lie in the physical and mechanical properties, such as brittleness, and their hygroscopic nature. Residual moisture can also lead to inhibitor disbonding. Additionally, the fact that the sugar propellants are cast at elevated temperatures has always been a somewhat contentious issue. The RNX composite propellants eliminate these issues, posessing excellent physical and mechanical properties, are non-hygroscopic, and are produced by a cold-casting technique. This latter feature, together with the use of the highly stable, low-energy KN oxidizer, makes for one of the safest-to-produce and safest-to-handle rocket propellants available to the AER enthusiast.
+￼
+What exactly is epoxy ? The term "epoxy" is actually a prefix denoting the presence of an epoxide group in a molecule. A family of thermosetting resins, epoxy resins are generally formed from low molecular weight diglicidyl ethers of bisphenol A (BPA).
+Epoxy resins can be cured with amines, polyamides, anhydrides or other catalysts. Epoxy resins are widely used in the reinforced plastics field because they have good adhesion to glass (and other) fibres and in electrical composites because their thermal expansion can be tailored to match that of copper. In addition, their low viscosities are effective in wetting various reinforcing materials. When cured, epoxies exhibit good resistance to heat degradation (a little ironic, perhaps).  What specifically makes epoxy suitable for use in a rocket propellant ? Epoxy plays a dual role, serving as fuel and binder. As a fuel, epoxy has good combustion characteristics, with a respectable energy content, and is a material that decomposes by pyrolysis (goes directly from solid to gas) upon heating. As a binder, epoxy has superb mechanical strength and toughness, good machineability (can be readily cut, drilled, milled, turned, etc.), is safe to use (with reasonable precautions), utilizes two-part curing (no evaporative solvents involved) and has low viscocity (allowing high solids loading). Epoxy's unique adhesive traits are also well suited to propellant usage. Epoxy bonds "like a bear" to most materials, making for superb bonding of grain inhibitor material, for example. Conversely, epoxy has zero adhesion to certain materials such as polyethylene. This is very convenient, allowing for easy removal from grain moulds lined with polyethylene sheet. Epoxy has only slight adhesion to PVC, making this a good candidate for mould material.
+Two different brands of epoxy were used in the development of the basic RNX propellants: East Systems and West System. Both are premium grade, two-part multi-purpose BPA epoxies with a polyamine hardener, and are typically used for boat building and aircraft composite repair. Both are similar in appearance and with respect to physical properties, and are of medium viscocity, although East Systems is slightly less viscous. East Systems epoxy was the preferred brand during the early development work of the RNX propellants, since it produced a propellant that gave the best density ratio (actual versus theoretical densities), typically 94-95%. West System produced a significantly lower ratio, typically 90-91%. Examination of the West System based propellant under a microscope revealed that it contained a large number of tiny bubbles. The presence of such voids has an influence on the burn rate, and such, was initially shunned. However, after the successful development of an epoxy based propellant, culminating with RNX-57, it was decided to press ahead with a propellant that was based on West System, the rationale being that this brand of epoxy is globally marketed and is therefore more readily available to AER enthusiasts.
+In addition to epoxy and potassium nitrate, a third constituent makes up the RNX propellants -- Ferric Oxide (Fe2O3). Also known as iron oxide ("rust"), this is the key ingredient that led to the successful development of the RNX propellant. Without Ferric Oxide, the formulation simply burns too slowly to produce a practical propellant. Small quantites of Ferric Oxide will increase the burn rate significantly, but the resulting formulation possesses a burn rate pressure exponent (symbolized as "n") that is too high to produce a successful propellant. After much development work, it was found that a relatively large percentage of Ferric Oxide provides the requisite traits -- moderate burn rate and reduced pressure exponent.
+To date, the RNX-57 propellant has been successfully utilized in two recently developed rocket motors:
+	•	Epoch -- an "I" class motor with a hollow-cylindrical grain, neutral Kn profile (=920), grain mass of 380 grams, total of 5 flights (Boreas) and 10 static firings (ERMS series).
+	•	Paradigm -- a "J" class motor, rod & tube grain, neutral Kn profile (=930), grain mass of 925 grams, total of 1 flight (Frostfire One) and 1 static firing (PRMS-1).
+The more recently developed RNX-62 propellant has, to date, been static fired once in the Epoch motor (ERMS-19) with an experimental BATES grain configuration.
+Formulations
+Two formulations are currently being presented. These are the "basic" formulations that are considered to be the simplest and safest to make. These deliver a fair performance and are well suited to motors up to and including "J" class. Other formulations are being developed that are projected to have a higher performance, and will be well suited to "K" class motors and larger.
+The two basic RNX formulations are:
+
+Formulation
+Epoxy brand
+Resin:hardener
+KN (%)
+Epoxy (%)
+Ferric Oxide (%)
+RNX-57
+East Systems
+6:1
+70
+22
+8
+RNX-62
+West System
+6:1
+70
+23
+7
+Potassium Nitrate
+The grade (purity) of the potassium nitrate required for the RNX propellants does not need to be any higher than "technical" grade of 98-99% purity or thereabouts. As such, fertilizer grade or certain brands of Stump Remover are perfectly fine. The potassium nitrate, however, should be dessicated prior to useage (to minimize gas formation on contact with epoxy resin). This is done by spreading the material on a cooking sheet, lined with parchment paper, and placing in a preheated oven at 150oC. for about 2 hours. The potassium nitrate, which typically is obtained in the form of prills or granules, must be made into the form of a fine powder. This is accomplished by pulverizing the prills in an electric coffee grinder, typically 30 seconds per tablespoon.
+Ferric Oxide
+I've used two different sources of Ferric Oxide, chemical (cosmetic) grade, and pigment grade. The latter is Granastar Red Brick pigment used for colouring concrete, bought at the local Home Depot. Note that chemically, these are both red ferric oxide, and are anhydrous (Fe2O3). Other forms of iron oxides are available, such as brown iron oxide (Fe2O3.H2O), and black iron oxide (Fe3O5 ). It is currently not known how effective these would be as substitutes.
+Epoxy
+RNX-57:     East Sytems 1032 Resin & 834 slow hardener    6:1 ratio
+RNX-62:     West System 105 Resin & 206 slow hardener    6:1 ratio
+Although other brands of epoxy may be candidates for propellant useage, it has been found that the burn rate characteristics vary quite significantly from one brand to the next. As such, there is no direct substitute for the epoxies used in RNX-57 and RNX-62.
+Note that the resin/hardener ratio is different than the 5:1 ratio suggested by the manufacturers. The 6:1 ratio is used to prolong the pot life and to minimize self-heating during curing.
+Temperature greatly affects the curing rate of epoxies. In theory, a temperature change of 10 degrees C (18 degrees F.) will double or half the potlife and cure time of an epoxy. Higher temperatures will lower the viscosity (thin) the epoxy, but also reduce the working time. Spreading out the mixed epoxy instead of keeping it concentrated will extend the potlife. Generally epoxies become too thick to be mixed at temperatures below 10o C (50o F.). A mixing temperature of about 15-20o C (60-70o F.) is the best compromise.
+
+
+Preparation and Mixing
+As there tends to be little wastage, it is only necessary to prepare an additional 5% or so "for the pot" and enough to produce a small strand of propellant for quality-control burn rate testing. After weighing out the required amounts of potassium nitrate and ferric oxide, these two ingredients are blended together and dry mixed in an electric mixing drum or tumbler, similar to that used for premixing the sugar propellants. This step is essential in order to intimately combine these two constituents. To assist in this, several (typically a dozen or more) small oblong pebbles are added to help stir and break up the ferric oxide, which has a tendency to clump. Mixing times are typically one hour per 100 grams of mixture, rotating at 30 RPM. Note that the potassium nitrate/ferric oxide blend is noncombustible, but a dust mask should be worn when handling the blended mixture to avoid breathing the finely divided dust that may arise.
+
+￼
+Fig.TBD -- Weighing resin and hardener
+
+￼
+Fig.TBD -- Intermediate consistency of mixture
+
+￼
+Fig.TBD -- Consistency of mixture ready for packing into mould
+
+Burn rate
+Propellant burn rate at elevated pressure levels was determined experimentally by means of a "Delta P" Strand Burner apparatus. The technique used was similar to that employed in the original investigation which studied the burn rate of epoxy based propellant formulations. The apparatus used this time, however, was improved by use of a pressure transducer to sense pressure. A conditioning circuit permitted collection and storage of the data on a laptop computer (click for photo)
+The results of this investigation are plotted in Figure TBD for RNX-57 propellant.
+
+￼ 
+Fig.TBD -- Burn rate of RNX-57 at various pressures 
+Chart in Metric units
+￼
+
+￼
+Last updated June 15, 2003
+Return to Top of Page
+Back to Home Page
+

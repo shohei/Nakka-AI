@@ -1,0 +1,88 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Cirrus TV-1 Launch Report
+
+Introduction
+Rocket Details
+Launch
+Post-flight Analysis
+Conclusion
+Update, Jan.26/02
+Introduction
+This web page presents the launch report detailing the flight of the Cirrus TV-1 (Test Vehicle) rocket, as well as post-flight analysis. The TV-1 was designed as a single-use rocket solely intended to test various systems and techniques that are planned to be implemented on the two-stage Cirrus Two rocket to be launched at a future date. 
+Construction and flight of this vehicle had numerous objectives, including the testing or substantiation of:
+	•	various fabrication and construction techniques that may be used for the Cirrus Two rocket, such as epoxy/styrofoam nosecone, 'shear pin' jointing of the two stages, and modified fin attachment method.
+	•	primary upper stage ignition system
+	•	the staging technique, with particular emphasis on maintaining vehicle stability and trajectory.
+	•	the passive chute deployment for the booster; piston-type ejection system for the drogues chutes
+	•	the concept of vehicle roll-inducement by use of tabbed fins on the booster stage, and compare to analytical prediction. Test the effectiveness of roll markings to visually measure roll rate.
+	•	the effectiveness of the Juno motor in boosting a heavy rocket aloft and into a stable trajectory.
+	•	Perform a second test firing, and first flight test, of the Juno rocket motor. The motor incorporated certain design improvements following the first test firing, (JDX-001).
+
+Rocket Details
+￼
+The Cirrus TV-1 rocket, shown at left, together with the Juno ( J-class) booster motor, and TM-1 (G-class) second stage motor. (click here for larger image). Both motors utilize KN-Dextrose propellant (Juno: 714 grams/1.6 lb; TM-1: 91 g./0.2 lb.).
+The rocket stands 6.2 feet (1.9 m.) high, and has a lift-off mass of 20.0 lbs. (9.1 kg). Of this, 9.25 lbs. (4.2 kg) consists of silica sand, included as ballast, to bring the lift off mass to the design mass of the Cirrus Two rocket. Predicted peak altitude is just over 2000 ft. (622 metres) (view SOAR altitude simulation program output file for Cirrus TV-1:  soar053.txt).
+The booster stage has four aluminum alloy (5052) fins (0.075"/1.9mm), with integral tabs, canted 15o to the airstream. The purpose is to induce roll about the rocket's longitudinal axis, in order to nullify any veering tendency due to unsymmetrical vehicle drag. The rocket paint scheme includes roll markings on the upper stage (1/2 black, 1/2 white sides) and alternating colour fins, to allow for roll rate determination from video footage.
+
+The upper stage is equipped with three fins, also fabricated from aluminum alloy sheet.
+The booster stage is equipped with one 70 cm. cross drogue parachute, which is passively released at stage separation. The upper stage is equipped with two similar drogue chutes. A pyrotechnic charge is used to propel a piston within the fuselage, which ejects the nosecone and chutes. The charge is activated by an air-speed/mercury switch system, which triggers when the rocket slows to 60 mph (95 km/hr) nearing apogee.
+Upper stage ignition is triggered upon booster burnout by use of a mercury bulb switch. This switch is wired in series with an inertial switch, which is normally open, and latches (closes) upon liftoff, at an acceleration of 3g's. This design helps ensure that inadvertent ignition will not occur when the rocket is sitting on the launch pad. Two igniters (for redundancy) were installed in the TM-1 motor. The upper stage ignition system and the parachute triggering system are combined into a single circuit and share a common power supply (9V alkaline cell). An LED serves to indicate the system is armed, and that the inertial switch is set (unlatched).
+Two launch lugs were used for initial guidance (rings cut from 1" EMT) which fit over the launch rod, which consisted of a 10 foot (3m.) length of 3/4" EMT.
+Modifications were made to the Juno motor to address the issues that arose from the first static test. An ABS plastic ring was installed just forward of the nozzle to protect the o-ring from direct hot gas exposure, and additionally, to support the grain under acceleration. As well, a strip of 0.032" (0.8mm) PVC sheet was used to protect the forward portion of the casing walls from the pyrogen flame jet.
+
+Rocket construction detail photos:
+1   Parachute ejection triggering & upper stage ignition module 2   Booster/upper stage interface 3   View of aft end of booster stage 4   View of aft end of upper stage 5   Epoxy coated styrofoam nosecone 6   TM-1 upper stage motor 7   TM-1 motor propellant grain 8   Juno motor propellant grain 9   Ejection charge for deploying drogue chutes 10 Drogue chutes
+
+Launch
+Sunday, January 13, 2002 
+On the morning of the planned launch date the weather conditions were not very promising, in particular, a rather brisk west wind at 30 km/hr. The temperature was quite tolerable, at, -2C., however, the combination of the two made for a rather harsh windchill (-16C). A look at the weather maps indicated that a low pressure zone was moving into the area, which I felt was promising, in terms of some alleviation of the wind. My rocketry buddy, Rob, had two rockets ready to be flown, so we made the decision to head out the launch site, and make the final Go NoGo call after we arrived.
+When we got to the site about two hours later, the wind was just as harsh. However, as we'd had previous experience with launches in similar wind conditions (although with a much milder temperature), Rob made the decision to proceed with the launch of his first rocket.
+Both were 3" diameter rockets powered by PVC H-class KN-Dex motors. Despite some discomfort due to the cold, we managed to set up for launch quickly without any hitches. The first rocket was then launched, and flew beautifully, however, to our dismay, the recovery system did not fire, and the rocket impacted a few hundred feet upwind of the launch pad. The second rocket was then launched, with an identical result. This puzzled us, and had me particularly concerned, as the TV-1 utilized a nearly identical method to deploy the chutes, that is, an air-speed /mercury switch system. This was a proven system had worked earlier with 100% reliability in firing the ejection charge over several previous flights. Was the excessive cold condition to blame? Did this deteriorate the power supply (9V alkaline cell) that much?
+I considered abandoning the launch; especially since both the parachute ejection system and the second stage igniters were powered by the same (single) battery. However, I had earlier performed a 'cold soak' test on the ejection system, by placing the module (including battery) into a freezer for two hours, then confirmed that sufficient capacity was available. As such, I made the 'Go' for launch call, and proceeded to prep the rocket. This task became very challenging due the extreme windchill. My bare hands became numb and essentially useless after a minute's exposure, which required putting on my mitts to warm my hands for the next minute, a rather frustrating '50% duty cycle'.
+Despite this, the preparations went well, and the rocket booster was connected to the upper stage and finally placed over the launch rod and into position onto the pad. The ejection system was then armed & verified, and the connection made to the Juno motor pyrogen initiator. Two video cameras were being used to film the launch, one set up on a tripod several hundred feet from the pad, and the other (digital, with 300X zoom) was manned by me, as I would attempt to film the complete flight. We took our positions at a safe distance, situated approximately perpendicular to the wind direction. The all clear signal was given, and countdown then commenced….5-4-3-2-1-fire!
+After what seemed like an eternity, but was in fact only about two seconds, a small cloud of smoke (pyrogen firing) appeared near the base of the rocket. Nearly instantly, a large plume of smoke spread out radially around the pad, and the rocket bolted off the pad, shrieking skyward! The rocket initially veered slightly to the left after leaving the launch rod, but immediately straightened and climbed vertically. Burnout occurred as expected, after the short operating duration of the Juno motor. However, the rocket continued to coast upward (straight as an arrow), with no sign of upper stage ignition. After nearly ten seconds, the rocket achieved peak altitude and began to descend. The air-speed switch should have activated the ejection charge prior to apogee, as the vehicle slowed down to the trigger velocity, so it was clear at this point that the malfunction that caused upper stage ignition failure likely also doomed the recovery system. The rocket accelerated downward, cutting more deeply into the wind, and impacted about 300 feet upwind of the launch pad, with a distinctive odious 'thud' as it bore into the frozen field. The cold-embrittled PVC fuselage shattered into hundreds of shards.
+
+￼
+Rocket on pad just prior to launch; Liftoff of Cirrus TV-1!
+Flight video captures:
+1   Author with rocket set up on launch pad 2   Halo forms from pyrogen unit firing 3   Booster motor explodes to life 4   Rocket clears launch rod and begins its skyward flight... 5   Immediately the trajectory begins to straighten toward vertical... 6   Burnout of the Juno motor 7   Coasting, the upper stage should have come to life by this point... 8   With no stage separation or parachute deployment, the intact rocket reaches apogee (300x zoom).
+
+Post-flight Analysis
+Despite the failures, at least good fortune was on our side in some respects. The parachute triggering module on one of Rob's rockets survived the hard landing fully intact and functioning. In fact, this allowed us to conduct an important test. We tested the power output of the 'chilled' battery, and had our suspicions confirmed, as the current output was greatly reduced and likely incapable of heating the igniter nichrome filament and the cold B.P. in which the filament was encased.
+As well, although the rocket fuselage was shattered by the impact, many important components were found to be undamaged. The Juno and TM-1 motors were, fortunately, completely undamaged. All three parachutes were likewise unscathed. Fins, motor mounts, and launch lugs are also fully reusable.
+Closer examination of the recovered components showed that both of the pyro igniters for the upper stage motor had not fired (as suspected) and were in operable condition. As well, the pyro ejection had not fired, and the nichrome filament was intact. This leads us to conclude that the extreme windchill conditions at the time of launch were responsible for incapacitating the dry cell battery.
+Tear-down examination of the Juno motor showed that the modifications were successful in eliminating leakage past the o-rings, as no leakage or damage to the o-rings occurred. There was no measurable throat erosion. There was, however, a slight pressure bulge at the midspan of the casing at one location, where a local hot spot likely developed.
+Good video footage of the flight was obtained, and the following times were extracted:
+	•	Pyrogen unit ignition to liftoff:    1.2 sec.
+	•	Motor ignition to liftoff:    0.07 sec.
+	•	Motor ignition to burnout:    0.63 sec.
+	•	Liftoff to apogee:    9 sec. (approx.)
+	•	Liftoff to impact:    18.4 sec.
+The above data was used to estimate the ballistic parameters for the flight, using the SOAR simulation software:
+	•	Peak altitude:     1320 ft. (403 m.)
+	•	Peak velocity:     203 mph (91 m/sec.)
+Also, from the video, it was apparent that the roll markings were very effective in allowing the roll rate of the rocket to be ascertained. To illustrate, the two frames below are sequential (1/30 sec. time difference) and show that the rocket rotated one-half revolution, as the colour marking changed from white to black. The roll rate at burnout is therefore 15 rev/sec.
+￼<
+At burnout, rocket is rotating 1/2 revolution per video frame
+
+Conclusion
+The flight was a partial success, in that some of the key objectives were met. However, the primary goal of testing the upper stage ignition and separation technique was not achieved. The consequence of this, with regard to the Cirrus Two mission, is unclear at the moment. One possibility being considered is to perform a simplified ad hoc test utilizing existing flight hardware, modified to test the two-stage concept.
+An important goal was met. The Juno motor, now flight proven and successfully modified to resolve the minor design deficiencies, is clearly capable of boosting the 20 lb. projected liftoff weight of the Cirrus Two rocket into a stable, vertical trajectory required for second stage firing. The 'time to apogee' was determined to be 9 seconds for this flight, which means that the 'window' for upper stage firing is now known. With a sufficient margin to ensure the rocket remains vertically stable, the window can be considered to span 6 or 7 seconds from booster burnout, a comfortable window indeed, considering that the objective is to ignite the upper stage immediately following burnout.
+The technique of utilizing tabbed fins to induce roll was clearly successful, as was the method of using roll markings to measure the rate. The measured roll rate can now be compared to analytical predictions (indication is that the roll rate is significantly greater than initially predicted). The effectiveness of inducing roll to maintain a straight trajectory is strongly evidenced by this flight, especially considering the condition of high winds existing at the time of launch.
+
+Update, Jan.26/02
+We decided to test a potential solution to the 'cold battery' problem. To accomplish this, Rob prepared a couple of his rockets for flight , which were essentially identical to those launched the fateful week earlier, equipped with the same air-speed/mercury switch deployment system powered by a 9V dry cell. To keep the battery warm, we'd wrap it within a pair of hand-warmers. When activated, these small, light packets generate heat by the catalyzed oxidation of iron powder (claimed average temperature of 57oC/135oF for 7 hours).
+On Sunday January 20th, under nearly identical weather conditions (-1C; wind 20km/hr.), both rockets were flown. Both experienced successful deployment of the recovery system just prior to apogee. One rocket was refurbished and flown a second time, again with successful chute deployment.
+The hand-warmers proved to be very effective. As well as being ideal for maintaining a warm battery, these could also be quite suitable to maintain the temperature of an electronic payload in the event of a cold weather launch. Many electronic components are rated at 0oC minimum operating temperature (indeed, the R-DAS recovery and data acquisition unit is rated at 0oC. minimum).
+Another, perhaps more elegant, solution to the limited current capacity of a cold battery is being investigated. Instead of relying solely on the battery to deliver the current for an igniter, a better means would be to employ a capacitor in parallel with the battery. I will soon be testing a miniature 4 Farad (!) ultracapacitors for this purpose, which is rated for use at a temperature as low as -40oC.
+
+￼
+Battery wrapped in hand-warmer packets
+
+￼
+Last updated Jan. 27, 2002
+Back to Home Page
+

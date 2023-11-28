@@ -1,0 +1,62 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Juno Rocket Motor
+Preliminary Design Concept
+
+Introduction
+Basic dimensions
+Cutaway view
+Nozzle drawing
+Kn data
+Chamber pressure data
+Performance data
+
+Introduction
+The preliminary design data for the Juno rocket motor is presented in this web page. This motor, powered by the KN-Dextrose propellant, has a predicted total impulse of 885 N-sec, which categorizes it as a mid "J" class motor.
+This intended purpose of this rocket motor is to serve as a "booster", or first stage motor, of the two stage Cirrus Two rocket, which is currently in the design phase. This rocket has an apogee target of 20,000 feet (6 km), and will utilize an "L" class Lambda rocket motor as the second stage sustainer.
+As a booster, the Juno rocket motor is designed to have a short burn, high thrust operation, which will provide the rocket vehicle with a rapid climb off the launch pad, and achieve ample velocity to ensure a stable vertical attitude for second stage firing. To deliver the desired thrust profile, the motor utilizes a single hollow cylindrical grain of approximately 650 grams (1.4 lbs) mass, with unrestricted burning. As such, the burning surfaces consist of the core, outer grain surface, and both ends, resulting in a slightly regressive theoretical thrust profile. Motor construction will be conventional, with a steel convergent-divergent supersonic nozzle with an expansion ratio of 8.0. The forward bulkhead will also be fabricated from steel, and will incorporate the ignition pyrogen unit. The electrical initiator will be removable, for security. The lightweight motor casing will be of ultrathin-walled steel tube construction, which restricts the design pressure to 1000 psi (6.9 MPa). Attachment of the nozzle is through eight alloy steel machine screws; the bulkhead will also be retained with eight machine screws, however, of stainless steel material, and will act as shear pins to blow the bulkhead, in case of motor overpressurization. A single o-ring will be used for sealing of each the nozzle and bulkhead. As the casing is steel, minor blowby resulting from o-ring failure would not have a serious consequence, thus a single o-ring is acceptable (unlike an aluminum alloy casing, where even minor blowby could lead to catastrophic motor failure).
+￼
+
+Figure 1 -- Juno basic dimensions and data
+
+￼
+
+Figure 2 -- Section A-A, cutaway view of motor
+Click for larger image...
+
+￼
+
+Figure 3 -- Juno Nozzle
+Click for photo...
+
+
+￼
+
+Figure 4 -- Details of Pressure Bulkhead
+Click for photo...
+
+
+
+The following images are excerpts from the SRM_beta Excel spreadsheet that was utilized in the design of the motor:
+
+￼
+
+Figure 5 -- Design Kn with respect to web regression
+
+
+￼
+
+Figure 6 -- Plots of design chamber pressure v.s. time
+
+
+￼
+
+Figure 7 --Plots of design thrust v.s. time
+
+
+￼
+Last updated November 25, 2001
+Return to Top of Page
+Return to Home Page
+

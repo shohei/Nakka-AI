@@ -1,0 +1,80 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- Boreas 1  Rocket -   Flight #4
+
+Introduction
+Rocket Description
+Launch Report
+Post-flight Analysis
+Introduction
+This web page presents details of ERMS-17, the official designation of the fourth flight of the Boreas 1 rocket, which is powered by the newly developed RNX propellant in the Epoch solid rocket motor.
+The primary objective of this flight was to test out the RDAS flight computer, originally purchased for the Cirrus Two rocket, but never flown. This is the first flight test of the RDAS unit, which is a sophisticated flight data acquisition unit, which can also be configured to trigger the recovery systems of the rocket. For this flight, both the drogue parachute and the main parachute were set to be deployed by the RDAS. The drogue is intended to be ejected at apogee, when the RDAS senses a zero acceleration integral, and the main parachute is intended to be released at an altitude of 600 feet, based on barometric pressure measurement. As well, the unit was set to continually record both the acceleration and the barometric pressure throughout the flight at a rate of 200 samples per second.
+
+Rocket Description
+The motor used for this flight was the 48 mm Epoch-SS solid rocket motor, an "I" class motor (I308-1.5) which delivers a total impulse of 460 N-sec. with a thrust time of 1.5 seconds.
+The specific propellant formulation was once again RNX-57, consisting of 70% Potassium Nitrate oxidizer, 8% Ferric Oxide (burn rate modifier & supplemental oxidizer), and 22% Epoxy (fuel & binder).
+The total propellant mass was 378 grams (0.83 lb.), and consisted of a free-standing hollow-cylindrical grain, inhibited on both ends (exclusively) which provides for a constant Kn =916. A thermal liner consisting of epoxy impregnated cardboard was employed to reduce heat transfer to the lightweight 1 mm steel casing.
+Although the motor is unchanged from the previous flights of the Boreas rocket, the igniter was modified and relocated to the space between the grain outer surface and the thermal liner. Static test ERMS-16 demonstrated that thrust build up is much quicker compared to placement of the igniter within the grain core, due to the much greater local burning area. The modified igniter consisted of #36 nichrome wire encased within a thin disc of Potassium Chlorate/Epoxy based pyromix. I've nicknamed these "Ferocious" igniters for the intensity of burn! Two of these igniters were installed in the motor, one serving as a backup.
+There were some changes to the configuration of the rocket for this flight:
+	•	A thermally insulated compartment was fabricated for the RDAS unit, which was protected from the winter cold by the inclusion of two chemical hand-warmers placed within the compartment. The thermal insulation consisted of aluminized mylar wrapped around the compartment. In addition, a 1 cm. thick glass-fibre tubular sleeve was placed in the space between the compartment and the rocket fuselage. The compartment body consisted of a 2 inch (4.5 cm) diameter glass-reinforced epoxy tube, intended to help protect the RDAS in case of a hard landing (drogue chute only, with main chute failure to deploy). For barometric pressure sensing, four 2 mm static ports were drilled in the rocket fuselage, equally spaced around the circumference. Except for these four port openings, the compartment was sealed. Power supply for the RDAS consisted of a 9V lithium battery, mounted beneath the compartment.  ￼  ￼  ￼
+	•	RDAS unit and protective compartment 
+	•	The Parachute Ejection Triggering (PET) module that had been used for the previous flights of the Boreas rocket was utilized on this flight solely as a backup system. The Air Speed (A-S) system was disabled, but the Timer System was set to trigger deployment of the drogue chute after a delay of 14 seconds from liftoff. Since the rocket was expected to reach apogee prior to this, the primary triggering system for the drogue is the RDAS.
+	•	As with the previous flight, the drogue chute was a 12 shroud-line cross type, illustrated below. Each of the two ripstop nylon panels comprising the parachute measures 28x9 inches (70x22 cm). The drag force for this parachute, as a function of velocity, was experimentally determined. The resulting drag coefficient was derived from this data, with the reference area based on the non-inflated canopy. Both results are plotted in the graphs shown here.  ￼
+	•	Cross type drogue chute (Coke can is for size reference) 
+	•	The main parachute was once again the 1 metre diameter semi-ellipsoidal parachute, first flown on the preceding flight.
+	•	The nosecone, which was damaged upon landing during the previous flight, was repaired (construction of the nosecone consisted of a Styrofoam SM core covered with an epoxy skin).
+Pre-launch weight of the rocket was 8.26 lbs (3.75 kg.); total height was 1.726 metres (5.66 ft.). The minimum stability margin was 1.33.
+
+
+Launch Report
+Sunday, January 19, 2003 
+The weather conditions for this launch were reasonably good. The bright blue winter sky was mainly sunny, and the temperature was -10oC (14oF.). Winds were moderate, being 15-20 km/hr. out of the south-west.
+After setting up the launch pad, the rocket was assembled. Due to the length of the rocket, it had been separated for transport into two sections. Next the rocket was loaded onto the launch rail. In order to access the RDAS unit, which was located just aft of the nosecone, the truck was backed up close to the pad, which allowed me to stand on the tailgate. First of all, the hand warmers (which had been activated some minutes earlier) were inserted into the compartment. Then the RDAS was powered up, and the igniter leads connected to the terminal block. This accomplished, RDAS gave the "ready for launch" audible code (RDAS automatically checks & confirms the igniter continuity). The nosecone was then placed on the rocket and secured with three screws.
+Next, the hatch was removed to gain access to the PET (Parachute Ejection Triggering) module. The procedure for testing and setting the PET circuitry was followed, using a checklist, as usual, to ensure all steps were done properly. Connections were made to the ejection charges and continuity confirmed. All went quite smoothly, despite the cold which was, by now, beginning to numb my bare hands (why didn't I use hand warmers to keep my hands warm? Good question...). The hatch was secured and the ALS (Audible Locator System) was powered up. With the rocket now set for launch, the motor ignition system was set up and checked out to ensure that it was functioning normally. This accomplished, the observers then headed to safe viewing locations. The final step in launch prepping the rocket was to connect the motor igniter to the ignition box, then to arm the box.
+
+￼
+Author standing next to the Boreas rocket prior to flight.
+
+I had the usual task of operating the digital videocamera to capture the launch and flight. Once I was set up and the camera was rolling, the final "all ready & all clear" signals were announced over the FRS radios, and the countdown commenced...5-4-3-2-1-Ignition!
+Black smoke from the igniter(s) was seen to emanate from the base of the rocket, followed immediately by the greyish white smoke characteristic of the propellant burning, signalling successful motor ignition. Thrust buildup prior to liftoff was much shorter than usual, as was expected, owing to the more efficient ignition method. The Boreas once again soared skyward, on this fourth flight, leaving a trail of dense, grey smoke in its wake. The rocket climbed very fast, but after achieving an altitude of perhaps 50 feet, the rocket suddenly started to veer into the wind, at an angle of approximately 30 degrees from the vertical.
+
+
+￼  ￼  ￼
+Fourth flight of Boreas 1...building up thrust -- liftoff and skyward bound, 
+veering distinctly into the windward direction
+The rocket continued along this trajectory, with burnout of the motor occurring about a second and a half after liftoff. Some apparent "wobble" had been noticed coinciding with the initial ascent. After approximately 8 seconds the rocket attained apogee, then began to descend, with nosedown rotation occurring shortly after. Just then a "puff" of smoke was seen accompanied by the sight of the drogue chute, which immediately deployed. This was followed by the distinctive "pop" sound of the separation charge, delayed by the distance. The rocket descended in a fairly rapid but stable manner. Main chute ejection did not occur as the rocket descended past the planned deployment altitude, and continued its earthward journey by drogue chute only. Touchdown occurred about a half minute after launch, landing in the snow & ice covered field approximately 350 feet (100 metres) from the launch site.
+
+￼  ￼
+Rocket descending by drogue chute only
+
+Upon inspection of the rocket at the landing site, some damage was apparent. The nosecone was crushed and partly pushed into the forward fuselage, which was cracked at the hatch opening. The aft fuselage was also cracked at the motor mount attachment points.
+
+￼
+Rob cautiously examining the rocket after touchdown (main pyro charge still live). 
+Note forward & mid fuselages (foreground) still joined.
+
+Post-flight Analysis
+From inspection of the video footage, the following times were excerpted:
+	•	Liftoff to burnout --        1.5 sec.
+	•	Liftoff to "pop" sound of drogue parachute ejection --       11.0 sec.
+	•	Liftoff to touchdown --       27.5 sec..
+Touchdown occurred at an estimated descent rate of 58 feet/sec. (17 m/s), based on the drag characteristics of the drogue parachute. Planned touchdown rate, with main chute deployed, was 25 feet/sec. Fortunately, much of the surplus kinetic energy was dissipated by the crushing of the epoxy/styrofoam nosecone, aided by the crusty layer of snow on the field. Post-flight teardown of the rocket additionally revealed :
+	•	the motor suffered zero leakage, and there was very little slag (24 grams representing 6.3% of original grain mass)
+	•	ALS suffered only minor damage, repairable.
+	•	One mercury switch had shattered upon touchdown.
+	•	The aft fuselage was cracked at each of the three motor mounts attachments.
+	•	The RDAS unit escaped largely undamaged. The circuitboard was chipped at one end resulting in two breaks in the printed circuit.
+	•	Examination of the drogue system igniter filaments confirmed that the RDAS triggered the ejection charge. This was expected to be the case, as the drogue charge had fired before the PET Timer delay period (14 seconds) had expired.
+	•	Examination of the main chute system igniter filament indicated no sign of heating.
+	•	The PET module was undamaged and testing revealed it to be fully functional.
+
+The reason as to why the RDAS did not trigger ejection of the main parachute is not known. Also, there is the question as to why the RDAS delayed in triggering drogue chute deployment until some three seconds after apogee. It is suspected that the cold conditions were to blame. The RDAS unit is rated at operations between 0oC and 70oC. This is why the compartment housing the unit was insulated and actively warmed. However, with the wind chill, the effectiveness may not have been sufficient.
+The breaks in the RDAS printed circuit were repaired with wire jumpers soldered in place. The unit did not initially function after this repair. However, Jeroen Louwers was kind enough to examine the unit, and found that the RAM had been damaged. He replaced the RAM and the unit is now fully functional, thanks again, Jeroen! (Unfortunately, no usable flight data could be recovered).
+The reason as to why the rocket veered sharply after liftoff is also not known for certain. The wind may have played a key role, however, combined with the fairly narrow stability margin (1.33). One effect of wind on the flight of a rocket is to create a non-zero angle of attack (aoa), due to the added horizontal component of velocity that is effectively imparted on the rocket. Standard methods of computing Centre of Pressure (CP), such as the Barrowman method, assume a zero aoa. The consequence of a non-zero aoa may be a shifting forward of the CP, resulting in an unexpected reduction in the stability margin. This will be investigated, but for rocket flights in the immediate future, the stability margin will be increased.
+
+￼
+Last updated Feb. 13, 2003
+Back to Home Page
+

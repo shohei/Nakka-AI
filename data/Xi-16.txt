@@ -1,0 +1,154 @@
+Basic Information
+Name
+Xi-16
+Launch date:
+16 February 2020
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- 3D printed conical PLA nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+- BREO-N flight computer (2nd backup, apogee only)
+- BRB900 GPS transmitter
+- Dual smoke tracker with Legendary /Sublime formulations
+Liftoff mass
+2.923 kg.
+Stability Margin (minimum)
+2.45
+Flight objectives
+- Impulser-XX motor with improved propellant inhibitor featuring steel foil thermal barrier.
+- Test of dual-smoke tracker
+ 
+Motor details
+Motor name
+Impulser-XX
+Propellant
+KNDX
+Grain mass
+428 grams
+Nominal impulse
+504 N-sec
+Class
+I
+ 
+Additional information
+Impulser-XX propellant casting tubes (inhibitor) modified by adding thermal barrier consisting of 2 plies stainless steel foil of thickness 0.002 inch (0.05mm). Thermal liner likewise improved by thermal barrier of same material (single ply).
+ 
+A dual composition smoke tracker is being tested. A short layer of proven Legendary composition burns first followed by a lengthier layer of Sublime.
+ 
+Weather conditions
+Temperature
+-16°C  (3°F)
+Wind
+S 20-25 km/hr
+Sky
+Variable clouds with intermittent sun
+Other
+Wind chill -25C
+Ceiling
+20k ft.
+ 
+Launch Event Description
+As is usual practice for winter launches, we used our sled to haul our supplies to the launch site. Setup of the launch equipment and rocket went smoothly, despite the cold wind chill. When doing tasks that required bare hands, such as activating the avionics, hands required frequent warming using mitts or a chemical hand warmer. Hand warmer packets were also used to keep the electronic components (flight computers and BRB transmitter) from getting overly chilled. Two packets had been first activated then were taped to the outside of the nosecone (which houses the BRB transmitter) and two packets were taped to the outside of the AvBay. This was done some hours prior to the launch (the packets supply heat for several hours). To help retain the heat, cloth towels were then wrapped around the rocket at these locations.
+ 
+ After removing the heat packets and towelling, the BRB receiver was activated and verified that a good GPS signal was obtained. After installing rocket on pad, the BREO-N, Eggtimer, and then Raven were activated. Eggtimer “blinked” its LED indicating ready for launch. Raven beeped eight times for voltage and gave three positive indications for the three active pyros. For videotaping the flight, I used the hand-held Sony camcorder fitted with scope tube.
+ 
+After verifying the sky was clear, the countdown proceeded. At the zero mark, the motor immediately came to life. The rocket accelerated skyward at a rapid pace, climbing nice and vertical. Burn time appeared to be around 1.5 seconds. Visual contact was lost shortly after burnout.  We searched the sky for smoke from the tracker and soon spotted an elongated cloud of smoke straight overhead. We then heard a faint ‘pop’ sound of the apogee charge. Curiously, the smoke trail ended and we were not able to spot the descending rocket. After about ½ minute, we heard the ‘pop’ sound of the parachute pyro charge. I immediately spotted the rocket straight ahead. It appeared to be quite distant however it was clear that the chute has blossomed fully and that the rocket was descending gently. Approximately ½ minute later the rocket touched down in a snowy field.
+ 
+We programmed the landing site GPS coordinates into the Garmin hand-held unit. Indicated distance from where we were located was 0.34 miles (550 metres). We headed out to recover the rocket. When we arrived at the touchdown site all the rocket components were seen to be present and looked to be in great condition. The smoke charge had fully burned. Raven beeped out an apogee of 3775 feet (1150m.). A quick inspection indicated that all five pyro charges had fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.3
+3776
+1150
+Separation
+15.2
+3766
+1148
+Main deployment
+58
+653
+199
+Touchdown
+87
+-
+-
+Range
+-
+1552
+473
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+75.2
+22.9
+ 
+Main parachute
+20.6
+6.3
+ 
+ 
+Post-flight analysis and comments:
+Post-flight examination of the rocket and data indicated that the operation of the Raven, EggTimer, BREO and BRB was fully nominal.  The Raven, EggTimer and BREO gave apogee readings within ½ percent.
+ 
+The Impulser-XX rocket motor performance was fully nominal. The vehicle acceleration curve provided by the Raven indicated a burn that demonstrated that the inhibitor and in particular the thermal barrier was fully effective. This was confirmed by tear-down of the motor. All casting tubes were essentially intact.
+ 
+The smoke charge appeared to have suffered an anomalous burn. Instead of burning for the expected 30 seconds, it appears that after a few seconds, uncontrolled burning of the charge occurred. Evidence of this was the short, dense smoke trail. As well, the ceramic cap that seals the smoke canister had been blown off (never occurred prior to this), indicative of canister pressure being greater than nominal. It is speculated that the moisture in the Sublime composition had dried out over the month or so since it was packed into the canister. This would result  in shrinkage of the charge grain, and in doing so, could allow hot combustion gases to seep around the grain, leading to an uncontrolled burn.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-16\Xi-16_Raven_basic.png
+Acceleration curve, boost phase                                                          Xi-16\Xi-16_Raven_accel.png
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-16\Xi16_ET.jpg
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-16\BREO_Xi-16.png
+ 
+Miscellaneous photos:
+AvBay with Smoke Canister & pyros                                                    Xi-16\DSCF6130.JPG
+3D printed cold-weather housing for BRB receiver                          Xi-16\DSCF6098.JPG
+ 
+Launch photos:
+Rocket with warmer packs prior to launch setup                             Xi-16\DSCN0403.JPG
+Rocket on the pad                                                                                   Xi-16\Dscn0405a.jpg
+Author with rocket                                                                                  Xi-16\DSCN0406.JPG
+Seconds before motor ignition                                                             Xi-16\2020-03-10_12-06-18.jpg
+Liftoff…!                                                                                                    Xi-16\2020-03-10_12-06-52.jpg
+Soaring skyward                                                                                       Xi-16\2020-03-10_12-07-39.jpg
+                                                                                                                    Xi-16\2020-03-10_12-07-56.jpg
+                                                                                                                    Xi-16\2020-03-10_12-08-18.jpg
+                                                                                                                    Xi-16\2020-03-10_12-08-49.jpg
+Smoke trail at apogee                                                                            Xi-16\2020-03-10_12-09-38.jpg
+Gentle descent                                                                                         Xi-16\2020-03-10_12-10-53.jpg
+                                                                                                                    Xi-16\2020-03-10_12-11-57.jpg
+                                                                                                                    Xi-16\2020-03-10_12-12-32.jpg
+Using GPS to track landing site                                                             Xi-16\2020-03-10_12-13-06.jpg
+Landing site ½ km downrange                                                              Xi-16\2020-03-10_12-14-00.jpg
+                                                                                                                    Xi-16\2020-03-10_12-14-46.jpg
+                                                                                                                    Xi-16\DSCN0410.JPG
+Aft section of rocket                                                                               Xi-16\2020-03-10_12-15-24.jpg
+Forward section, chute and AvBay                                                      Xi-16\DSCN0408.JPG
+                                                                                                                    Xi-16\2020-03-10_12-15-53.jpg
+Author with rocket at landing site                                                        Xi-16\Dscn0413a.jpg
+Heading back home after successful flight Xi-16                              Xi-16\DSCN0419.JPG
+ 
+Launch video:
+Xi-16 on Youtube                                                                                     https://youtu.be/BYJA0hWZmdo
+ 
+ 
+ 
+ 
+ 
+ 
+ 

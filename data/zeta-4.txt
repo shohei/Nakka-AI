@@ -1,0 +1,103 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-4
+
+ 
+Basic Information
+Name
+Z-4
+Launch date:
+25 October, 2014
+Rocket description
+63.5mm airframe (plastic)
+4 fins, birch plywood
+aluminum conical nosecone
+2 ft. circular parachute
+Payload
+Raven altimeter
+Flashing LED light
+Liftoff mass
+TBA
+Flight objectives
+- Flight with 25% greater total impulse than Z-2.
+- Test flashing LED light for visibility during free-fall
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+286 grams
+Nominal impulse
+336 N-sec
+Class
+H
+ 
+Weather conditions
+Temperature
+10°C
+Wind
+W 15 km/hr
+Sky
+Clear
+Other
+Sun just below horizon
+ 
+Launch Event Description
+Shortly after ignition, rocket rose quite rapidly and straight vertical. Disappeared from view after burnout. After about 15 seconds, a ‘pop’ heard from apogee charge. Nothing visual, and no flashing light observed. After an additional 30 seconds or so, a second ‘pop’ heard and rocket descending by chute was spotted about ½ kilometer downwind. After approximately 15 seconds, rocket was seen to touchdown.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+14.2
+3330
+1015
+Separation
+15.1
+-
+-
+Main deployment
+52.6
+525
+160
+Touchdown
+68.2
+ 
+ 
+Range
+ 
+1637
+499
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+77.0
+23.5
+ 
+Main parachute
+28.5
+8.7
+ 
+ 
+Post-flight analysis and comments:
+Flight and recovery was nominal. Flashing LED did not prove to be a visual aid at any time during descent. Impulser motor casing suffered a slight bulge near nozzle from overheating. Thermal liner was a single ply poster board for this flight (normally two plies used).
+ 
+Raven baro and accelerometer graph:                                                 Z-4\Z-4_raven.jpg
+ 
+Photos:                                                                                                          none
+ 
+Videos:                                                                                                          Z-4\Flight_Z-4.mp4
+ 
+
+￼
+Last updated March 7, 2015
+Back to Home Page
+

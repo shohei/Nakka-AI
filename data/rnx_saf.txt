@@ -1,0 +1,40 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+RNX Composite Propellant
+Safety Considerations
+RNX and Toxicity 
+Combustion Hazards 
+Safety Guidelines
+Safety Considerations
+Safety was one of the main drivers that led to the development of RNX rocket propellant. Although casting sugar propellants (particularly low melt-point formulations) at elevated temperature has historically proven to be safe when done according to prescribed methods, it was felt that a propellant prepared at room temperature conditions would be inherently more safe (all other things being equal). As such, the use of epoxy as a binder seemed a natural choice.
+RNX and Toxicity
+Epoxy is a commonly used material in industry, not to mention a popular household product serving as a convenient, high-strength adhesive. Laminating epoxy (such as used for RNX) is considered to be non-toxic if accidentally ingested. Epoxy contains no volatile solvents and as such is not considered to be a respiratory risk (although the hardener has a pungent odour that can cause irritation). Skin exposure is to be avoided, as direct skin contact with epoxy can result in rashes or sensitization. In the cured state, epoxy is neither toxic nor a skin irritant.
+Both Potassium Nitrate and Red Iron Oxide are considered to be non-toxic materials. Potassium nitrate is present in certain foods as a preservative, and is used in toothpastes such as Sensodyne (my toothpaste of choice, not because it contains a rocket propellant oxidizer, but indeed due to its effectiveness in relieveing my sensitve teeth). Red Iron Oxide is a pigment commonly used in cosmetics.
+Inhalation of the products of combustion of RNX should naturally be avoided, as respiratory irritants are produced. The solid residue of combustion, primarily potassium carbonate, can be toxic as well as a skin and eye irritant. This is especially true after exposure to moisture. All items exposed to RNX exhaust residue, which is corrosive, parts such as rocket motor components, launch pad and rail, etc. should be fully washed with warm water, while wearing long rubber gloves and safety glasses.
+
+Combustion Hazards
+In its raw state, prior to mixing, RNX constituents are not a combustion hazard. The dry, blended mix of Potassium Nitrate and Red Iron Oxide (KN-IO) is not combustible. Uncured epoxy resin and hardener is likewise not combustible, or at least will not sustain combustion without a protracted source of heat. Once the KN-IO is fully mixed with the liquid epoxy, the resulting product is combustible and of course can sustain combustion, even in a air-tight environment (it is rocket-fuel, after all!). The good news is, the uncured RNX is not easy to ignite, is not friction-sensitive, and burns slowly if ignited. The resulting flame can be readily extinguished by dousing with water.
+In the cured state, RNX can be readily ignited by a sustained flame. In the open air, RNX burns slowly, at a linear rate of approximately a millimetre per second. The open-air flame is not particularly energetic and is readily extinguished with water. In the cured state, RNX is not friction sensitive and can be safely cut and machined (such as drilling or latheing). Common sense must be followed to avoid overheating and potential combustion due to excessive frictional heating during such operations.
+Guidelines
+Although RNX propellant is not a high-energy propellant, suitable care, backed by common sense, must be taken when working with any rocket propellant, including preparation, loading and storing.
+Take appropriate measures to avoid skin rash and epoxy sensitization, such as wearing vinyl gloves when handling the resin and hardener
+
+Wear a dust mask when handling the dry, blended mix of Potassium Nitrate and Red Iron Oxide (KN-IO) to avoid eye and respiratory irritation
+
+Keep all sources of potential ignition away from propellant preparation and propellant loading area
+
+When machining RNX, promptly collect and discard (soak in water or burn) all shavings. RNX shavings, when exposed to a humid environment, are corrosive, so this additionally serves to protect tools
+
+Store RNX propellant in a safe, secure and dry location
+And most of all (in fact, this applies to all aspects of rocketry)
+Avoid complacency (a false sense of security that arises from troublefree repitition of a process or event)
+
+Next -- Final Assessment
+
+￼
+Last updated  July 10, 2018
+Back to RNX Index Page
+Back to Home Page
+

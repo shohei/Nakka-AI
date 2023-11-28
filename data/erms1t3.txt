@@ -1,0 +1,37 @@
+
+KN-EPOXY PROPELLANT DEVELOPMENT BRIEFS
+
+TEST RESULTS OF 2 SEPTEMBER 2002
+￼
+Epoch-S and Epoch-SS motors
+
+￼
+￼
+￼
+￼
+￼
+￼
+
+Comments
+	1	The Epoch-S motor is meant for static testing to characterize propellant c-star and burn rate. Epoch-SS is meant as both a static test motor to characterize propellant Isp and thrust coefficient, and as a flight motor.
+	2	Pressure spikes and regressive pressure profile for tests ERMS-1 & 2 were likely caused by a breakup of the new inhibitor material.
+
+TEST RESULTS OF 1 AUGUST 2002
+￼
+Test firing of RNXS-13 Rocket Motor
+
+￼
+￼
+￼
+￼
+
+
+TEST RESULTS OF 5 JULY 2002
+￼
+
+￼
+￼
+￼
+￼
+
+

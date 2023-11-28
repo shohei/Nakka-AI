@@ -1,0 +1,8 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼
+
+Ballistic Evaluation Motor (BEM) of stated reference
+The BEM grain size was 2 inch diameter by 5.6 inch length. Grain was case bonded with a double-cone & cylinder configuration, resulting in neutral burning. Nozzle was carbon, with divergence half-angle of 15 degrees, and an expansion ratio of 7:1. Operating pressure range was 800-1200 psi. Propellant type was not specified other than stating it was plastic (polymer) based. The igniters contained SR371C, a mixture of magnesium, potassium nitrate and acaroid resin.
+

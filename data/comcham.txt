@@ -1,0 +1,15 @@
+
+
+Richard Nakka's Experimental Rocketry Web Site
+
+￼        ￼
+
+These photos show the apparatus that was used for combustion tests of dextrose-based and sucrose-based propellants.
+LEFT PHOTO:       The electrical connectors are seen for interfacing thermocouple to the DVM (left) for combustion temperature measurement, and for connection of the igniter to the ignition control box (right).
+RIGHT PHOTO:       Smoke issues from the top of the Combustion Chamber, taken during an actual test.
+The Combustion Chamber is made from 1/2" black iron pipe, screwed into a cast iron base fitting, mounted on a steel base plated fitted with four legs.
+The thermocouple is Type C, Tungsten-5% Rhenium vs Tungsten-26% Rhenium, slid through a pair of ceramic tubes epoxied inside a 1/8" black iron pipe, screwed into a tapped hole in the side of the Combustion Chamber.
+A 'blowout pin', which consists of a press fit roll pin, is installed just below the thermocouple bead to protect it from damage (thermocouple is expensive!) in case of a possible ejection of the propellant sample due to failure of the bonding which attaches the sample to the base.
+
+Back
+

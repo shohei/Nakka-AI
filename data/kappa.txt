@@ -1,0 +1,142 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Kappa  Solid Rocket Motor
+￼
+
+Introduction
+Basic Dimensions and Configuration
+Nozzle
+Motor Casing
+Forward Bulkhead
+Pyrogen Igniter
+Casing Thermal Insulation
+Propellant Grain
+Engineering drawings
+Motor Kn data
+Performance
+Chamber pressure and Cf
+Photos
+
+Introduction
+Late in the summer of 1999, I set out to design and construct a rocket motor quite unlike any previous motor that I'd previously developed. All the motors that I had built previously were powered by the KN-Sucrose propellant. These were of relatively simple design, which provided a high thrust with a very short burn, a consequence of unrestricted-burning grains. The steel casings used for these motors were well suited to this purpose, providing the required strength at the high temperatures experienced during operation. This approach resulted in highly reliable motors that were capable of rapidly boosting my rockets aloft, which helped ensure stability of the rockets.
+My goal then became one to design a motor that would be capable of boosting a rocket to a much higher altitude, targeted at 10 000 feet, or 3 km. This represented a nearly threefold increase in altitude with respect to any previous rocket I had launched. Preliminary analysis indicated that K-Class performance of about 2000 N-s impulse would be capable of achieving this goal with a sufficient margin to allow for a respectably sized rocket and payload. I opted to design the motor to operate interchangeably with either of the two contemporary, and easier to cast propellants: KN-Dextrose and KN-Sorbitol. Although I considered the use of KN-Sucrose as a third alternative, this option was later dropped, as it would have necessitated modifications to the nozzle due to the more rapid burn rate  The motor powered by Dextrose-based propellant is designated Kappa-DX, and for Sorbitol-based, the designation is Kappa-SB.
+Physically, the size of the proposed motor was such that the use of steel for a casing would have resulted in a significant weight penalty, since steel has a density of nearly three times that of aluminum alloy (for similar strength). The obvious reason for minimizing motor "dead" mass is to make the rocket lighter, providing improved mass ratio, or increased payload capacity. But another important motive is stability. A heavy motor drives the rocket c.g. aft, which is opposite to what is desired. The use of thin-walled aluminum alloy for the casing represented a significant challenging, particularly as its strength is greatly reduced at elevated temperature. Therefore, an effective casing insulation was required to be developed, which turned out to be a bigger challenge than anticipated.
+Another key departure from my earlier designs was the grain configuration. An unrestricted-burning grain with consequential high thrust and short burn time would impose undesired high g-loading to any sensitive payload. As well, due to the high terminal velocity, the aerodynamic drag penalty would be particularly great. It was felt that a better approach was to have the motor produce lower thrust, but with a longer burn time. As such, a BATES grain profile was chosen, with the grain consisting of four individual segments. Burning would occur at the central core as well as the segment ends. This necessitated developing an effective means of inhibiting the outer segment surfaces from burning (this would turn out to be the most formidable and frustrating challenge). Motor capacity allows for a grain mass of up to 1.5 kg (3.3 lb.). Empty weight of the assembled motor is 2.40 lbs. (1.09 kg.).
+In order to design the motor, an Excel spreadsheet was created which used the propellants' characterization data to calculate predicted motor performance, such as chamber pressure and thrust as a function of time. From this, predicted total impulse and specific impulse could be derived for various motor and grain configurations. The starting point for all this, however, was the motor casing. Earlier that summer, I had come upon a quantity of 2 ½ inch thin-walled 6061 aluminum alloy tubing. This formed the basis for designing the Kappa motor. Since I wanted to minimize overall motor mass, and maximize operating efficiency, the structural limit of this casing material set the maximum operating pressure (MEOP) of the motor.
+During the development phase, the Kappa motor was static test fired a total of four times, and was subsequently used to propel the Cirrus One rocket to an altitude of over 10,000 feet, in April 2001.
+	1	KDX-001 Dextrose-based propellant. Inhibitor and casing liner failed; resulting overpressurization led to catastrophic motor failure
+	2	KDX-002 Inhibitor and liner redesigned; successful firing
+	3	KSB-001 Sorbitol-based propellant; successful firing
+	4	KSB-002 Sorbitol-based propellant with modified ignition method; successful firing
+	5	Cirrus One was successfully flown on the Kappa-DX motor
+Full details regarding problems encountered and design modifications may be found in the test reports for each of the above tests.
+Altitude simulations using the SOAR program predict that the Kappa rocket motor will boost a 15 lb. (7 kg.) , 2.5 inch (6.35 cm) diameter rocket , with a constant Cd=0.4, to an altitude of over 11 000 feet (3.3 km.). Maximum mach number would be 0.90. A similar rocket designed for minimal drag and slightly reduced mass could achieve Mach 1.07 (initial Cd=0.25, Cd@M1.07=0.417).
+View SOAR output file 1 View SOAR output file 2
+
+Basic Dimensions and Configuration
+￼
+Figure 1 -- Basic dimensions of the Kappa SRM
+￼
+Figure 2 -- Cutaway view of motor
+
+
+
+Figure 1 illustrates the basic dimensions of the Kappa motor. Figure 2 shows a section view, including details of the grain (segments) layout.
+The nozzle is retained with a total of twelve 6-32NC "socket cap" screws. These alloy steel screws (black oxide coated) have a rated tensile strength of 180,000 lb/sq.in. The shear strength was conservatively taken to be 100,000 lb/sq.in. Actual testing confirmed the screw shear capability (at the threaded portion) exceeds 1000 lbs (4450 N) each. Installation of both the nozzle and bulkhead retaining screws are such that the head is tightened against the nozzle or bulkhead flange (see Fig.3). This design minimizes shank bending . As such, the casing holes were sized to the head diameter of the fasteners. Load transfer is thus accomplished through bearing of the fastener head against the casing wall.
+The bulkhead is retained with a total of nine 8-32NF "pan head" stainless steel screws. These "18-8" alloy screws have a tensile strength of 120,000 lb/sq.in. The shear strength was conservatively taken to be 65,000 lb/sq.in. Actual testing confirmed the shear capability (at the threaded portion) averaged 990 lbs (1375N) each. The number of screws was sized by the requirement that the bulkhead would blow out (by shearing the attachment screws) if chamber overpressurization occurred to a level of 2000 psi. Note that the head diameter of these screws was reduced (by grinding) to minimize the required hole size in the casing. 
+Another important reason for this particular joint design is to minimize discontinuity stresses in the casing. As the casing tends to expands radially under operating pressure, it is important to allow for this expansion at the closures, which this design accomplishes. Otherwise, bending stresses are set up locally which act together with the normal longitudinal stress, which could result in unexpected casing failure. 
+For sealing of the motor joints, O-rings (type AS568A-139) are employed in pairs (for redundancy) at both the nozzle and bulkhead. O-ring material is ordinary Buna-N (nitrile). Prior to nozzle or bulkhead installation, the O-rings and grooves are thoroughly coated with silicone lubricant.
+￼
+
+Figure 3 --Detail of nozzle entrance region
+
+
+Nozzle
+￼
+
+Figure 4 --Nozzle
+
+￼
+
+Figure 5 -- Cutaway view of nozzle
+
+
+The Kappa motor is equipped with a convergent-divergent supersonic nozzle, detailed in Figures 4 and 5. Details of the throat and O-ring grooves are provided in Figure 6.
+The nozzle material is SAE 1018 cold-rolled low-carbon steel. This choice was based upon easy machinability of this steel, and the relatively high melting point. The convergent portion has a dual half-angle taper of 45 and 25 degrees. The divergent portion half-angle is a shallow 12 degrees, and the expansion ratio is 11:1. Together with the well-rounded throat contour, the intent was to minimize two-phase flow losses, which can be significant with the propellants being utilized, due to the high fraction of condensed particles present in the exhaust.
+All the nozzle flow surfaces are polished smooth. 
+The nozzle bell has an integrally machined stiffening ring for structural reinforcement.
+The prototype nozzle constructed for motor development was of a slightly different design than that shown (see Eng. Dwg. #7&8). All the basic dimensions are identical, with the difference being the attachment method. The prototype nozzle was not machined with an integral flange for the attachment screws, rather, the nozzle was equipped with a separate retainer ring fitted with tapped holes for the attachment screws (see Eng. Dwg. #9). The ring was fabricated from 6061-T6 aluminum alloy. The drawback with this method of nozzle retention is that the nozzle is not positively attached to the casing. In other words, although the nozzle is restrained with regard to aftward displacement, the nozzle can potentially displace forward in the motor if a sufficiently large force (e.g. through handling) is applied to the nozzle end. This could conceivably jeopardize the insulator RTV seals at the ends. As such, this design is fine for static testing, but not recommended for a flight motor, where the rocket mass may rest upon the nozzle while sitting on the launch pad.
+￼￼
+
+Figure 6 -- Nozzle details
+
+Motor Casing
+
+The casing is fabricated from 6061-T6351 aluminum alloy tubing of 0.065 inch (1.65 mm) wall thickness. As the tubing is extrusion formed, the inside surface is quite unsmooth (with longitudinal ridges), and as such, needs to be polished at each end where the O-rings seal the nozzle and bulkhead. This may be accomplished by using an automotive brake-cylinder honing tool. This tool, which is fitted with three honing stones, is spun rapidly using a power drill. Inserted into the casing, each end may then be gently polished (click for image). Sprayed with a generous dose of water during polishing, this method was found to be very effective in obtaining a smooth surface that formed an excellent gas-tight seal.
+All of the attachment holes are chamfered on the inside edges to prevent damaging the O-rings during installation of the nozzle and bulkhead (see Eng. Dwg. #12).
+
+Forward Bulkhead
+￼
+
+Figure 7 -- Forward Bulkhead
+
+
+The bulkhead, illustrated in Figure 7, is machined from 6061-T6 aluminum alloy bar stock. The bulkhead is not subjected to particularly severe thermal conditions, as the gas flow at the head of the motor is largely stagnant. Required thermal protection is from a combination of inherent "thermal inertia" (see Item#2), and a layer of silicone grease that is applied to all surfaces exposed to heating. 
+The purpose of the bulkhead is threefold: to seal the forward end of the motor, to retain the pyrogen igniter, and to act as a blowout plug in case of motor overpressurization (discussed earlier).
+The prototype bulkhead constructed for motor development differs slightly (see Eng. Dwg. #16). The prototype bulkhead was fabricated with a single integral flange which facilitated both attachment screw mounting and the O-ring grooves. The drawback to this design is that gas leakage can potentially occur through the attachment screw holes. As such, it was necessary to seal around the protruding shanks of the screws with RTV to prevent leakage. The revised design eliminates this shortcoming.
+
+Pyrogen Igniter
+￼
+
+Figure 8 -- Bulkhead/Pyrogen assembly
+
+￼
+
+Figure 9 --Pyrogen canister
+
+
+During Kappa motor development, a number of igniter designs were tested. The standard Pyrotechnic Igniter lacked adequacy, in the sense that onset of motor thrust took two or more seconds to occur, after ignition. As a result, a Pyrogen Igniter, which is essentially a small rocket motor, was developed. Used for Test KSB-002, it led to nearly immediate onset of motor thrusting.
+The Pyrogen Igniter as installed in the Forward Bulkhead, is illustrated in Figure 8. The detail of the pyrogen canister is shown in Figure 9. The canister is machined from 6061-T6 aluminum alloy bar stock, and retained by six screws that are identical to those that retain the nozzle. This design allows for the pyrogen to be installed on site, for safety considerations. RTV is employed to seal the canister against the bulkhead, and to seal the screw threads.  The Igniter Body (see Eng. Dwg. #18) is fabricated from a #10-32 steel machine screw with a hole drilled centrally through. The igniter leads are fed through the hole, and sealed and secured by filling the hole with epoxy. The igniter filament consists of a 3 mm length of #36 nichrome wire soldered to the leads (which are looped at the ends to facilitate soldering).  The pyrogen main charge consists of a grain of KN-Sucrose propellant, chosen for its rapid burn rate. The propellant is cast directly into the canister, with a 0.25 inch (6.4 mm) core centrally cast. Initiation of grain burning is accomplished by use of Ignition Powder. To ensure rapid response, a burst diaphragm is employed to seal the canister to allow for pressure buildup. The diaphragm consists of thin cardboard of 0.0165 inch (0.42 mm) thickness, RTV bonded to the canister end. To assist ignition of the motor top segment, the canister has 6 radial ports located around the side walls, to divert a portion of the gas flow. Initially, these ports are sealed with burst tape (masking tape). A bench test of the Pyrogen assembly was conducted prior to its use in an actual motor static test. The performance was impressive, with nearly instantaneous ignition of the powder, followed by pyrogen grain ignition a split-second later. The flame was about 2 feet (0.6 m.) long, and burn duration was about 2 seconds. In actual operation, the burn duration would be shorter, due to the effect of confinement.
+
+Casing Thermal Insulation
+
+The purpose of the thermal insulation is to maintain the temperature of the casing below a predetermined value (150oC.), required to maintain sufficient structural strength during motor operation. As such, the insulation was designed to accomplish this through combined ablative cooling and thermal resistance. 
+The insulation material is art-grade thin cardboard of 0.0165 inch (0.42 mm) thickness, with a density of 350 g/m2, or equivalent to "93 lb." paper. To make the insulator, the cardboard is cut to a rectangular shape, of a size such that when concentrically rolled, it forms a tube of four layers of 0.066 inch (1.67 mm) total thickness. The cardboard is then painted on both sides with hi-heat aluminum paint.
+To facilitate fabrication of the insulator tube, a mandrel was fashioned from a steel pipe with an outside diameter slightly less than that required. Layers of paper were then rolled over the mandrel to pad the diameter to 2.20 inch (55.9 mm). This gave the insulator tube an outer diameter of 2.34 inch (59.4 mm), slightly less than the inside diameter of the casing, allowing the insulator tube to be slid into the motor. When forming the insulator tube, the two seams were bonded with silicone RTV. 
+The insulator tube is installed in the motor prior to installing the nozzle. The insulator is slid into the casing such that the final position is about 1 mm forward of the nozzle location (see Fig.3). RTV is applied around the insulator end, then the nozzle installed. A fillet of RTV is then applied at the forward end of the insulator, to seal it against the casing wall.
+The drawback to using cardboard as an insulating material is that it tends to char quite severely. An advanced insulation material that will be considered for future use is ceramic paper such as Cotronics Rescor 300 or 3M Nextel. These high-temperature papers are fabricated from alumina based refractory fibres, and have a service temperature of 1300oC - 1650oC, which should provide for an ideal casing insulator.
+
+Propellant Grain
+￼
+Figure 10 --Propellant segment with inhibitor
+
+
+The Kappa motor is designed to be powered by either KN/Dextrose or KN/Sorbitol propellant. These may be used interchangeably without modification to the motor. A total of four propellant segments, as illustrated in Figure 10, make up the grain.
+These segments are heat-cast, with the central core formed by insertion of a coring tool during the casting operation. The coring tool is made from a smooth steel rod, 0.75 inch (19 mm) diameter, tapered at one end, and fitted with a detachable handle at the other end. To ease removal after casting, the coring tool is lightly coated with silicone lubricant (Master Plumber brand works extremely well). For centering within the mould, the rod is fitted with four radial spokes near the handle end (the tapered end of the rod fits within a hole located centrally in the base of the mould). Prior to casting, the coring tool is preheated to about 100oC. 
+The casting mould consists of a 4.75 inch (120 mm) length of 2.50 inch diameter tubing (same material as casing), modified by a longitudinal cut through the full length. The purpose of slitting the mould is to allow for easy insertion of the propellant spacer, as this allows the mould to be expanded slightly. Additionally, this imparts a "clamping" action around the spacer. The spacer is simply a tube formed from rolled heavy paper, with the express purpose of reducing the diameter of the cast propellant segment to that required, in order to provide space for the propellant inhibitor and casing insulator. The paper that was used for the spacers during motor development was of 0.010 inch (0.25 mm) thickness ("55 lb" paper). Forming the spacer into a tubular shape was simplified by using a mandrel, which consisted of a 2 inch (51 mm) steel tube, with the diameter subsequently increased to 2.170 inch (55 mm) with rolled paper. After casting the propellant segment, the spacer is peeled off and discarded. 
+The inhibitor may then be applied to the outer surface of the segment. The inhibitor consists of a single layer of thin tight-weave cotton fabric soaked with polyester/styrene resin. The fabric used for development testing had a thickness of 0.008 inch (0.20 mm). Final inhibitor thickness typically was 0.010 inch (0.25 mm). After the resin hardens, the surface is sanded to remove irregularities, then sprayed with a coating of hi-heat aluminum paint.
+The final step in preparation of the propellant segments is to trim any excess inhibitor material from the segment ends. Residual grease is then removed from the core surfaces by use of acetone or lacquer thinner applied to a cloth plug and drawn through the core.
+Final segment weight is required to be 375 grams maximum, for a total grain mass of 1.500 kg (excluding inhibitor). Due to unavoidable waste during the casting operation (typically 20%), the batch size should be a minimum of 450 grams of mixture, per segment.  Note that KN/Dextrose propellant is fully hard once it has cooled. The mandrel is removed typically after 1.25 hours. The KN/Sorbitol propellant, on the other hand, must be allowed to harden (cure) for 20 hours (minimum) before mandrel removal. Installation of the segments into the motor simply involves sliding the segments into place, each separated by a spacer ring (see Eng. Dwg.#20). A spacer ring is also placed between the first segment and the nozzle. The spacer rings are made from short lengths of 2.50 inch diameter tubing (same material as casing), with a slot cut-out, which allows the rings to be slightly compressed to the required diameter. This also produces a spring-like behaviour which holds the rings in place even after the segments have burned away.
+
+Engineering drawings
+	1	Kappa Rocket Motor
+	2	Motor Section A-A
+	3	Detail 'A' (Casing/Nozzle Interface)
+	4	Nozzle
+	5	Nozzle, sectional view
+	6	Nozzle Details (O-ring grooves; throat)
+	7	Prototype Nozzle
+	8	Prototype Nozzle, sectional view
+	9	Prototype Nozzle Retaining Ring
+	10	Motor Casing
+	11	Casing Section A-A
+	12	Casing Detail 'A'
+	13	Bulkhead
+	14	Bulkhead Detail (O-Ring groove)
+	15	Bulkhead Attachment Screw
+	16	Prototype Bulkhead
+	17	Pyrogen Canister
+	18	Igniter Body
+	19	Bulkhead-Pyrogen Assembly
+	20	Propellant Spacer Ring  Motor Kn Data ￼  Figure 11 -- Ideal Kn with respect to web regression The calculated Kn (ratio of propellant burning area to nozzle throat area) for the Kappa motor is shown in Figure 11. The BATES grain configuration provides, ideally, a nearly neutral Kn, with initial Kn=317, maximum Kn=378, and final Kn=360.   Performance ￼  ￼  Figure 12 -- Kappa-DX thrust curves (English/Metric)  ￼  ￼  Figure 13 -- Kappa-SB thrust curves (English/Metric) The thrust v.s. time data is given in Figure 12 for the Kappa-DX motor, showing both the design (predicted) curve, and the static test results (KDX-002). Similar data is provided for the Kappa-SB motor in Figure 13, where the actual curve is that of static test KSB-002.  The actual performance of the Kappa-DX motor is in good agreement with the design curve, delivering a total impulse of 2003 N-sec., compared to the target impulse of 2076 N-sec. Delivered specific impulse was 137 sec., compared to the target of 141 sec.  The actual performance of the Kappa-SB motor suffers in comparison to the design target. The reason for the odd thrust curve is speculated to be a result of negative erosive burning. As such, the delivered total impulse is less than the predicted value of 1987 N-sec., producing 1821 N-sec., with the delivered specific impulse being 125 sec. compared to the target value of 137 seconds.   Chamber Pressure and Cf ￼  ￼  Figure 14 --Kappa-DX chamber pressure curves (English/Metric)  ￼  ￼  Figure 15 -- Kappa-SB chamber pressure curves (English/Metric) The chamber pressure time history is given in Figure 14 for the Kappa-DX motor, showing both the design (predicted) curve, and the static test results (KDX-002). Similar data is provided for the Kappa-SB motor in Figure 15, where the actual curve is that of static tests KSB-001 combined with KSB-002. Note that the shape of the pressure curves (both design and actual) closely parallel the thrust curves. This is to be expected, as the chamber pressure and thrust are directly related by the thrust coefficient (Cf), which may be considered to be the degree of amplification of thrust generated by the nozzle. The Cf for the Kappa-DX motor is shown in Figure 16.  ￼  Figure 16 -- Nozzle thrust coefficient, design and actual (over steady-state regime) for Kappa-DX   Note: the preceding design curves for motor Kn, thrust, chamber pressure, and Cf were generated by the SRM_Beta Excel spreadsheet.  Photos ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼   ￼ Last updated July 25, 2001 Return to Top of Page Return to Home Page 

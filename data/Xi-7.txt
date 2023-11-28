@@ -1,0 +1,157 @@
+ 
+Basic Information
+Name
+Xi-7
+Launch date:
+12 September, 2018
+Rocket description
+- 76.2/63.5mm aluminum airframe
+- 4 fins, 2024 aluminum
+- delrin conical nosecone
+- 3 ft. ellipsoidal "Fruity Chutes" parachute
+Payload
+- Raven3 altimeter (primary role)
+- BRB900 GPS transmitter
+- Smoke charge, activated by Raven 2 sec. post-apogee
+- Eggtimer Classic altimeter for backup apogee separation and backup main deploy
+-BREO-N flight computer (2nd backup)
+-Gyro module
+Liftoff mass
+3.248 kg.
+Stability Margin (initial)
+3.75
+Flight objectives
+- Test new smoke formulation
+- Use BREO-N flight computer in place of Timer
+- Test flight of Gyro module
+- First flight of new Impulser-XX motor
+ 
+Motor details
+Motor name
+Impulser-XX
+Propellant
+KNDX
+Grain mass
+475 grams
+Nominal impulse
+559 N-sec
+Class
+I
+ 
+Additional information
+-The BREO-N flight computer, first flown on Xi-6, is being used as a second backup to the EggTimer for both apogee and main deployment.
+-Raven is brand new (unit #4).
+-Gyro module is an Arduino based unit that measures three Euler angles during initial portion of ascent. The module was built by Rachel Georgianna of  Dana Point, California.
+-A new smoke composition (Legendary) being tried. This composition includes paraffin to enhance the smoke output.
+-The Impulser-XX, powered by KNDX, was successfully static-fired 3 June 2018. The KNDX for this flight was made with synthetic potassium nitrate.
+-An additional payload bay was added to the aft section of rocket, increasing overall length by 8 inches (20cm.) and used for this flight to house the gyro module.
+ 
+Weather conditions
+Temperature
+15°C  (59°F)
+Wind
+NE 20 km/hr with gusts
+Sky
+Mixed sun and cloud
+Other
+R.H. 77%
+Ceiling
+11k ft.
+ 
+Launch Event Description
+Setup of the rocket went well. Following a checklist, the procedure went smoothly with no glitches. After installing rocket on pad, the gyro module was activated first, followed by the BREO-N, Eggtimer, and then Raven. Raven beeped eight times for voltage and gave 4 positive indications for the 4 pyros. For videotaping the flight, I used the hand-held Sony camcorder (fitted with scope tube).
+ 
+After verifying the sky was clear, the countdown proceeded. Immediately after ignition switch was closed, the igniter was seen to fire. It took a full second before the rocket began to accelerate skyward. Rocket climbed straight without weathercocking. Acceleration and velocity of the rocket was noticeably greater than usual, and the sound of the motor was exceptionally loud, especially during the latter portion of the burn. The rocket disappeared from sight on its way to apogee. After about 15 seconds we heard the ‘pop’ sound of the apogee pyro charges. Due to the clouds we were unable to spot any smoke clouds or smoke trail. After about 40 seconds we heard the ‘pop’ sound of the main chute charge. Immediately the descending rocket was spotted, directly downwind, approximately 1000 feet (300m.) away. The rocket was descending at a quicker pace than it should have. It was apparent that the chute must have gotten somewhat tangled or otherwise not fully inflated. The rocket touched down about 1200 feet (350m.) downwind from the pad.
+ 
+We programmed the BRB GPS coordinates into the hand-held Garmin unit. Landing site of the rocket was indicated as 0.27 miles away from where we were located. The rocket was soon found where indicated, having landed in an area of dense grass. The tether lines were severely twisted and the chute was partly open and tangled with the shroud lines. Three fins were seen to be snapped off. Otherwise the rocket appeared to be in pristine condition. The Raven beeped out a peak altitude of 3783 feet.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+15.0
+3785
+1154
+Separation
+16.0
+3773
+1150
+Main deployment
+55.0
+721
+219
+Touchdown
+69
+-
+-
+Range
+-
+1189
+362
+Descent rates:
+ft./sec.
+m/sec.
+ 
+Free-fall
+82.8
+25.2
+ 
+Main parachute
+44.3*
+13.5*
+ 
+* chute partly inflated         
+Post-flight analysis and comments:
+The Raven, Eggtimer and BREO-N unit all performed nominally. Peak altitude reported by Eggtimer closely matched Raven (3783 ft. versus  3785 ft.). The BREO-N was similar, reporting an apogee of 1156 metres (3793 feet).
+ 
+The gyro unit failed to record flight data. The cause of the anomaly is being investigated.
+ 
+Reason for the chute failing to fully inflate is unclear. Examination of photographic/video evidence suggests that the chute canopy tangled with one of the tethers immediately following deployment. The chute was packed in the usual manner that has proven to be reliable. The only difference between this and previous flights is that the main tethers were increased in length by 1 metre to improve shock resistance. With regard to the badly tangled tethers that were observed when the rocket was recovered, the video shows that the chute had rotated continually on the way down due to its unbalanced aerodynamics, resulting in severe twisting of the tethers.
+ 
+Raven data:                                                                                                 
+Barometric and axial acceleration data                                              Xi-7\Xi-7_Raven_basic.gif
+Acceleration curve, boost phase                                                          Xi-7\Xi-7_Raven_accel.gif
+ 
+Eggtimer data:                                                                                        
+Altitude versus flight time                                                                      Xi-7\Xi-7_ET_altitude.gif
+ 
+BREO-N data:                                                                                          
+Altitude versus flight time                                                                      Xi-7\BREO_Xi-7_.gif
+ 
+BRB:
+Flight path, mapped                                                                                Xi-7\BRB_Xi-7_mapped.gif
+Altitude versus flight time                                                                      Xi-7\BRB_Xi-7_altitude.gif
+ 
+Photos:
+Electronics rack showing BREO-N                                                        Xi-7\Xi-7_flightcomputers-2.JPG
+Electronics rack showing Raven and EggTimer                                 Xi-7\Xi-7_flightcomputers-1.JPG
+Gyro module and payload compartment                                            Xi-7\gyro-Xi-7.JPG
+Smoke canister & igniter                                                                        Xi-7\smoke-canister-Xi-7.JPG
+Trek to the launch site                                                                            Xi-7\IMG_1832a.JPG
+Starting to set up                                                                                     Xi-7\IMG_1839a.JPG
+Activating electronics                                                                             Xi-7\IMG_1848a.JPG
+                                                                                                                    Xi-7\IMG_1853a.JPG
+Author with Xi-7 rocket prior to launch                                              Xi-7\IMG_1858a.JPG
+Igniter fires                                                                                               Xi-7\2018-09-18_12-12-00.gif
+Liftoff                                                                                                         Xi-7\2018-09-19_12-13-16.jpg
+                                                                                                                    Xi-7\2018-09-18_12-12-35.jpg
+Ascending skyward                                                                                  Xi-7\2018-09-18_12-13-26.gif
+                                                                                                                    Xi-7\2018-09-19_12-13-37.jpg
+                                                                                                                    Xi-7\2018-09-19_12-35-42.jpg
+                                                                                                                    Xi-7\2018-09-18_12-13-53.gif
+Descending with partly inflated parachute                                        Xi-7\2018-09-18_12-15-25.gif
+                                                                                                                    Xi-7\2018-09-18_12-16-56.gif                                                                                                                   
+Rocket at touchdown site                                                                      Xi-7\IMG_1869a.JPG
+                                                                                                                    Xi-7\IMG_1874a.JPG
+                                                                                                                    Xi-7\2018-09-19_12-16-24.jpg
+Listening to altitude callout from Raven                                            Xi-7\2018-09-19_12-17-41.jpg
+Examining burned out smoke charge                                                  Xi-7\IMG_1877a.JPG
+Tangled parachute                                                                                  Xi-7\2018-09-19_12-19-36.jpg
+How parachute should have inflated                                                   Xi-7\2018-09-19_12-20-45.jpg
+                                                                                                                    Xi-7\2018-09-19_12-21-07.jpg
+Packing up after successful flight                                                         Xi-7\IMG_1882a.JPG
+ 
+Video:                                                                                                           
+Flight Xi-7 (Youtube)                                                                                https://youtu.be/ECwdyrh0RA0

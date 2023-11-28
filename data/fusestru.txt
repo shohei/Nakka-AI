@@ -1,0 +1,43 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Rocket Body Structural Strength
+
+The strength of a thin-walled aluminum cylinder, such as a rocket body, loaded primarily in axial compression, is remarkably strong. Cylinders are structurally efficient, carrying the applied load in such a manner that the load is evenly distributed, resulting in an even stress level throughout the wall. As long as the cylinder is not excessively long (L / D > 15) which could result in buckling failure as a long column, thin-walled cylinders will fail in a collapsing, or crippling, mode. This is beneficial, as this means that the structure will remain largely undeformed until collapse. A great deal of analysis and testing has been done on thin-walled cylinders in compression. This topic is covered in detail in such references as Analysis and Design of Missile Structures (Bruhn) or Astronautic Structures Manual (NASA). The strength of a thin-walled cylinder is a function of the L / r ratio (Length / radius) and the r / t ratio (radius / wall thickness). In the chart below, the collapsing strength of an aluminum cylinder is given, where Fcc is the wall stress level at which the cylinder will collapse.  Note, however, that a cutoff value equal to the compressive yield strength, Fcy, of the aluminum material is to be used. In other words, the lower of either Fcc and Fcy is considered to be the collapsing stress. For the aluminum sheet material that I have used for my earlier riveted body tubes, the compressive yield strength is about Fcy =15000 psi. Other aluminum alloys have a much higher Fcy, such as those used for aerospace structures. For example, 6061-T6 aluminum tube has Fcy = 34000 psi.
+￼   ￼
+
+The applied stress in the cylinder walls is given by ￼ where P = applied load (lbs), D = avg. body diameter, and t = wall thickness. Note that the term in the denominator is the cross-sectional area of the body wall.
+As long as the applied stress is less than the collapsing strength (fs <- Fcc) the cylinder will remain intact.
+
+Example
+Before applying this analysis to a rocket body, let's look at an interesting example of a thin-walled aluminum cylinder that is encountered in everyday life, that is, a Coke can. Despite its very thin wall, it is surprisingly strong. (measured thickness is 0.0043 inch, about 1/4 the thickness of the body; as a further comparison, household aluminum foil is about 0.0010 inch thick). To demonstrate the strength, I conducted a simple structural test of such a can (actually, it was a "Wink" can). After placing a small square piece of plywood on top of the can (to apply the load evenly) I proceeded to gradually apply my body weight. I was able to apply my full weight, and only when trying to increase the load slightly more did the can suddenly (and catastrophically!) collapse.  Thus, the critical load was about 160 lbs. Since the can had a measured diameter of D = 2.58 inch, the applied wall stress was fc = 160 / (3.14 * 2.58 * 0.0043) = 4600 psi.
+The effective length was measured as L = 3.5 inch. This gives L / r = 3.5 / 1.29 = 2.7 , with r / t = 1.29 / 0.0043 = 300. From the above chart, a collapsing stress of Fcc = 4500 psi is obtained, which is in close agreement with the calculated stress at the critical load.
+View Chart
+Rocket Body Strength
+Consider a rocket body of length is L= 20 inch, wall thickness t = 0.016 inch, average diameter D = 2.234 inch, giving a radius r = 1.117 inch.
+This gives L / r = 18 and r / t = 70. Using the above chart, the collapsing strength is found to be about 16000 lb/sq.in.
+View Chart
+Since the aluminum that was used to construct the body has a compressive yield strength of about 15 ksi (15000 psi), this value is taken, instead, as the collapsing stress level.
+So what does this mean? By working backward, one can determine the maximum allowable axial load that the body can handle. ￼
+Therefore, Pmax = 15000 * 3.14 * 2.234 * 0.016 = 1675 lbs. That's a lot! But, the next question is, what magnitude of loading will an amateur rocket experience during flight?
+
+body Loading
+￼
+In the diagram on the left, a hypothetical rocket is shown, utilizing the sample body of 2.25 inch diameter and 20 inch length, as the upper body. The lower body is of the same diameter and basically of the same construction. However, the lower body is not structurally loaded to the same degree as the upper body. Therefore, we will examine loading only on the upper body.
+Under the condition of maximum structural loading, the upper body is being "sandwiched" by the two main force vectors acting upon the rocket--the thrust from the engine, transmitted to the upper body at the thrust bulkhead, and by the drag force acting upon the rocket nosecone (and to a smaller degree, along the body and fins). The drag force acting upon the rocket is given by the expressions shown, depending on whether the rocket will undergo subsonic or supersonic flight. In these expressions, ￼, p, and k are the properties of air at the altitude of interest: ￼ is the density, p is the pressure, and k is the ratio of specific heats. Cd is the drag coefficient of the rocket, A is the cross-sectional area of the nosecone, V is the velocity of the rocket, and M is the Mach number. Air density and pressure decrease with altitude and the drag coefficient varies with Mach number. Since we are interested only in the maximum loading, we conservatively choose "standard" (sea level) air properties, where ￼ = 0.00238 slug/ft3, p = 14.7 psia, and k = 1.4. Let's suppose this rocket is designed to achieve a maximum supersonic velocity of Mach 1.5, and that the drag coefficient at that speed is Cd=1.55. Since the body is 2.25 inch in diameter, A = 3.14 / 4 * (2.25)2 = 3.98 in2 It is now possible to calculate the aerodynamic force acting on the rocket, which we will conservatively assume acts totally upon the nosecone.
+The aerodynamic force, considering supersonic flight, putting the body in compression is therefore:
+Fd = 1/2 * 1.4 * 14.7 * 1.5 2 * 1.55 * 3.98 = 143 lbs.
+The additional force acting upon the upper body is the inertia force. In this expression, "m" is the mass of both the nosecone and the upper body, and "a" is the acceleration of the rocket. As is depicted in the figure, the thrust force vector is always greater than the drag force vector, while the engine is firing, therefore the rocket accelerates upward. For our example, we will assume that the maximum acceleration occurs at the point of maximum velocity and aerodynamic loading. Let's assume that the maximum acceleration at this point is 50 g's (1610 ft/sec), and that the weight of the nosecone + body is 2 lbs, which gives a mass of 2/32.2 = 0.062 slugs.
+The inertia force putting the body in compression is therefore:
+Finertia = 0.062 * 1610 = 100 lbs   (or, more simply, 2.0 * 50 = 100 lb).
+And the total compressive force acting on the rocket upper body:
+Ftotal =143 + 100 = 243 lbs.
+Since the maximum allowable compressive force was previously calculated to be 1675 lbs, the body clearly has a wide margin of safety with regard to its structural capability. Theoretically, it may be possible to use an even thinner walled body. However, handling loads pretty well rule this out, as too thin a wall can easily be dented or distorted during handling.
+It should be noted that the above analysis applies to a rocket in stable flight flying head on (zero angle of attack) and neglects effects of a cross-wind. The effect of non-zero angle of attack and cross-wind is to subject the rocket body to bending. This places additional stress on the rocket body that is added directly to the basic axial stress computed earlier. If a rocket is unstable or marginally stable, the bending stress can far exceed the basic axial stress.
+
+￼
+Originally posted August 16, 1998
+Last updated September 20, 2016
+Back
+Return to Index Page
+

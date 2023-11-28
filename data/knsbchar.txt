@@ -1,0 +1,66 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+Burn Characteristics of Sorbitol Based Propellants
+By Chuck Knight
+
+Sorbitol has some strange burn characteristics, which are not fully understood. Among these characteristics are:
+	1	A slower burn rate in motors than predictions based upon strand burn rate tests.
+	2	An achieved specific impulse much less than the theoretical specific impulse.
+	3	A progressive burn characteristic, even with motors whose grains have been designed to provide a flat response.
+These characteristics have been observed by Richard Nakka with his KSB motors, by other experimenters and in the PVC motors. Several theories have been offered for the causes of these odd characteristics including crack formation and delayed ignition. Following is another possible scenario for these unusual characteristics.
+It was during the development of the "G", "H" and "I" motors and later with the K1000 that a pattern emerged that led to the following theory about the burn characteristics of Sorbitol. This theory leaves unanswered questions, but tests and observation made with the PVC motors and results of other experimenters give validity to this hypothesis.
+1. Upon ignition, there is no delayed ignition and all exposed surfaces ignite quickly. This is evident by the "knee" on the leading edge of almost every published thrust curve for Sorbitol propellant. The sharpness of the knee varies from motor-to-motor and grain geometry probably plays a role in shaping the knee. However, there is usually an indication that thrust reaches some plateau and then flattens before peaking. This knee is very evident in the "G" motor. Richard Nakka's experiments with ignition initiator in the KSB-002 motor when compared to the KSB-001 motor showed little difference in the shape of the thrust curves and provided further evidence that ignition spreads quickly to all exposed surfaces.
+2. There is a process that is eroding the surface of the grain. This is not erosive burning, but more of a "flushing" action that is occurring FASTER than the burn rate of the propellant. This flushing action has two effects.
+a. Flushing reduces performance because it expels propellant from the motor before it has a chance to burn and contribute to the impulse of the motor. This was first noticed during a comparative analysis of the "G", "H", and "I" motors. It was found that the "G" and "H" motors had specific impulses of only 108 seconds while the "I" motor had a specific impulse of 129 seconds. The explanation offered for this difference was that since the grain of the "I" motor was twice as long as either the "G" or "H" motors it allowed for a more complete burn of propellant, which accounted for the increased performance of the "I" motor.
+b. Flushing is the cause of the progressive burn nature of Sorbitol. Flushing is the result of heat that melts the Sorbitol and rapidly moving gases that push the molten propellant from the motor. Since gases are flowing slowest at the top of the grain and fastest near the nozzle the difference in flow rates shapes the core into a cone with the base of the cone at the nozzle. This coning action increases Kn faster than predicted by the conventional uniform burn rate models and contributes to the progressive burning nature of Sorbitol.
+
+￼
+
+Burn/Flush Rate Model
+The flowing gases do not affect the burn rate at the top of the core or on the end surfaces. These areas are the only surfaces of the grain that exhibit the true burn rate of Sorbitol propellant.
+Understanding the consequences of flushing allows application of the uniform burn rate model to design a regressive thrust curve that compensates for the coning of the core and to produce a flat thrust curve.
+
+The Affect of Flushing on Motor Performance
+If flushing were occurring in the "G" motor to the extent that it reduced the performance of the motor, a test could be made to see if extending the length of the combustion chamber to allow for a more complete burning of the propellant improved the performance of the motor. A "G" motor was built with a 13" chamber, but with a propellant grain of only 7" that matched the original "G" motor design. The grain was placed in the top of the motor and a 6" spacer was placed between the grain and the nozzle. The motor was test fired in the same test stand, as were all of the motors of the PVC series. Following is a comparative analysis of the performance of both motors.
+
+Measured Thrust Curves
+Original "G" Motor                                     Long Chamber "G" Motor
+￼   ￼
+
+￼  ￼
+
+￼
+There is a significant increase in performance of the long chamber "G" motor with a specific impulse of 124 seconds over the original "G" motor that has a specific impulse of only 108 seconds. Clearly, propellant is being flushed from the grain and burned in the aft section of the long chamber that boosts the performance of the motor.
+
+Flush Rate Model
+Another premise of the flushing theory is that the flush rate is faster than the burn rate, which gives Sorbitol its characteristic progressive burn. The flat thrust curve of the K1000 provides a unique opportunity to examine burn rates at various points on the curve because it removes burn rate as a function of pressure.
+
+￼
+
+K1000 Thrust Curve
+It is assumed that ignition occurs very rapidly. If this is so then the knee (point A) of the thrust curve represents the initial Kn, which is easily calculated. This is the only point during the burn that the Kn is known with any certainty. By applying the following equations it was possible to calculate the burn rate at the knee shortly after ignition. Flushing is ignored because it has not had time to take affect.
+￼
+These equations give an initial burn rate at the moment of ignition (rb) of 0.279 in./sec. However, the burn rate at point A based upon strand burn tests computes to be 0.305in./sec. The reason for the difference between the two burn rates is not clear.
+Point B represents the instant that the flame front reaches the OD of the grain or the moment that the flame front has burned through a web thickness of 0.485". The time between A and B is 1.53 seconds suggesting that the combined burn/flush rate over that interval of time was 0.381 in./sec. or 1.37 times faster than the initial burn rate. This accelerated rate is the flush rate of the propellant.
+A spreadsheet was written to compute and plot the Kn for the K1000 in 20 steps, as propellant is burned across the top of the grain. The progression rate nearest the nozzle can be adjusted by any factor (flush rate) greater than 1.0 to give the core a cone shape. The actual shape caused by the flushing may vary form motor-to-motor, which accounts for the different curves produce by those motors.
+
+￼   ￼
+Flush Rate = 1.0                                  Flush Rate = 1.37
+With a flush rate of 1.0, the Kn is the same as computed for the regressive Kn using the uniform burn rate model.
+With a flush rate of 1.37 the Kn takes a dramatic plunge near the end of the progression. This is caused when the bottom edge of the cone reaches the OD of the grain leaving a wedge shaped grain in the upper portion of the motor that shortens at an ever increasing rate as the cone attempts to get wider and wider.
+The model also illustrates the difference in burn rates between the top and bottom of the core. The model suggests that the web at the top of the core is not breached until the burn process comes to a complete end. On the K1000 thrust curve, the difference between point A and the total burn time of 2.0 seconds is 1.74 seconds. This gives a burn rate of 0.279in./sec. at the top of the grain, which is exactly the burn rate calculated at point A.
+The wedge created near the end of the burn can also explain why Sorbitol has less than predicted specific impulse. The propellant in the wedge contributes little or nothing to the overall total impulse of the motor. However, specific impulse is the total impulse of the motor divided by the total weight of the propellant including any noncontributing portions. This total weight computes a smaller specific impulse than what may have actually been achieved by the motor at any instantaneous point in time.
+It was the intention of the model to show that the added area of the conical surface was a major factor that compensated for the regressive thrust curve calculated by the uniform burn rate model. However, this was not the case. Although it can be shown that the conical surface did progressively increase the Kn, the model suggests that the K1000 exhibited a flat thrust curve because most of the propellant was burned across the short flat portion of the curve.
+One more observation. The shape of the descending portion of the Kn plot is concave. This is a prevalent shape of the descending portions of many of the published thrust curves. This concave shape becomes more pronounced in the model as the flush rate increases.
+
+Conclusion
+From the evidence, flushing of propellant from the core is a major factor for the odd burn characteristics of Sorbitol propellant. Flushing may be difficult to predict due to the various geometries and flow rates within a grain. However, traditional uniform burn rate models are good enough to compute approximations for motor designs that can be refined through experimentation.
+Experiments performed for this article suggest that to maximize the performance of Sorbitol based motors it is best to use long rather than short fat grains. These experiments show that the minimum length of a Sorbitol grain to achieve optimum performance is on the order of 13" - 15".
+One thing that goes unanswered is the why the burn rates (exclusive of flush rate) seem to be slower than predicted by strand burn rate tests. The answer to that question may lie in the chemistry of Sorbitol, which is beyond the scope of this article.
+
+￼
+Last updated March 9, 2003
+Return to Top of Page
+Return to Home Page
+

@@ -1,0 +1,122 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Flight Z-10
+
+ 
+Basic Information
+Name
+Z-10
+Launch date:
+28 February, 2015
+Rocket description
+- 63.5mm aluminum airframe
+- 4 fins, birch plywood
+- birch elliptical nosecone
+- 3 ft. ellipsoidal parachute
+Payload
+-Raven altimeter
+-On-board mini camcorder (set to 1280x720 resolution)
+-Modified Smoke Charge (initiated by Raven, 2 sec. post-apogee)
+- BRB900 GPS transmitter
+Liftoff mass
+2.350 kg.
+Flight objectives
+- Experimental smoke charge with improved ignition for tracking free-fall descent
+- Track using BRB transmitter beacon
+ 
+Motor details
+Motor name
+Impulser
+Propellant
+KNSB
+Grain mass
+299 grams
+Nominal impulse
+352 N-sec
+Class
+I
+ 
+Weather conditions
+Temperature
+-11°C
+Wind
+SW 15 km/hr
+Sky
+Hazy sky; sun partially obscured
+Other
+Light snowfall
+ 
+Launch Event Description
+After arriving at the launch site, the first order of business was to set up the on-board camcorder. The BRB transmitter was then powered up and within a few minutes, there was a good satellite fix, as indicated on the receiver unit. The Raven was then powered up and confirmed to be operating nominally with all four pyro charges showing continuity. We relocated to the launch position, verified clear sky, then proceeded with the countdown. The igniter failed to initiate the motor and after a few minutes wait, the igniter was swapped with a replacement. This time the motor fired and the rocket rapidly soared skyward, veering somewhat into the wind, and disappearing from sight following burn out. The ‘pop’ sound of the apogee charge was heard a short while later. We searched the sky but could not see any sign of the rocket, smoke cloud or smoke charge trail. About a half minute later the ‘pop’ of the main deployment charge was heard and the rocket was spotted descending under a fully blossomed canopy, about 1000 feet downwind. The rocket gently touched down in a snow-covered field. We then noted the GPS coordinates on the BRB receiver and entered these into the handheld GPS unit. Although we visually spotted and marked the touchdown site, we wanted to test the recovery process using the GPS signal from the rocket. The handheld GPS unit indicated distance to touchdown site, and direction. We then tracked the downed rocket using this information and it led us exactly to where the rocket was situated. The rocket looked to be in great shape, and examination of the smoke charge revealed that it had indeed fired.
+ 
+Flight Analysis
+Event:
+Time (sec)
+feet
+metres
+Apogee
+13.2
+3143
+958
+Separation
+14.4
+-
+-
+Main deployment
+50.3
+564
+172
+Touchdown
+77.4
+ 
+ 
+Range
+ 
+690
+210
+Descent rates:
+ft/sec.
+m/sec.
+ 
+Free-fall
+71.7/75.8
+21.9/23.1
+ 
+Main parachute
+19.1
+5.8
+ 
+ 
+Post-flight analysis and comments:
+Good Raven data and on-board video footage was obtained. The rocket had a significant roll (spin) during ascent which reduced the value of the video footage. The same was true during descent. The BRB GPS beacon functioned nominally and was fully effective in locating the rocket touchdown site. A plot of the BRB GPS data file using Google Maps indicated that the rocket veered quite significantly into the wind (approximately), by about 230 metres at apogee. This was an interesting and useful revelation.
+The smoke charge fired and must have left a smoke trail, however, nothing of the sort was sighted during descent. This was undoubtedly due to the grey sky and lack of sun (the smoke is greyish colour). The smoke charge will be flown again on the next flight, but will only be activated if the sky is clear and sunny. Clearly, as this flight demonstrated,  the smoke charge is of no value on a non-sunny day.
+ 
+Raven baro and accelerometer graph:                                                 Z-10\Z-10_raven.jpg
+ 
+Photos:                                                                                                         
+Zeta-10 on launch pad                                                                                Z-10\DSC00041.JPG        
+Touchdown site                                                                                           Z-10\DSC00046.JPG
+Wind inflating the chute on ground                                                         Z-10\DSC00047.JPG
+Rocket safely on ground                                                                            Z-10\Dsc00048.jpg
+                                                                                                                        Z-10\capture_landing6.jpg
+                                                                                                                        Z-10\capture_landing5.jpg
+                                                                                                                        Z-10\capture_landing4.jpg
+                                                                                                                        Z-10\capture_landing3.jpg
+                                                                                                                        Z-10\capture_landing2.jpg
+Plot of flight path based on GPS data                                                     Z-10\BRB_GPS_plot.jpg
+Fabricating new nosecone to house BRB                                               Z-10\DSCF3460a.JPG
+New nosecone                                                                                             Z-10\DSCF3466a.JPG
+                                                                                                                        Z-10\DSCF3467a.JPG
+Nosecone and BRB GPS unit                                                                     Z-10\DSCF3468a.JPG
+ 
+Videos:                                                                                                         
+On-board video                                                                                            Z-10\Z-10_onboard.mp4
+Final descent                                                                                                Z-10\Z-10_descent.mp4
+ 
+
+￼
+Last updated March 14, 2015
+Back to Home Page
+

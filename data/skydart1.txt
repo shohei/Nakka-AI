@@ -1,0 +1,91 @@
+
+Richard Nakka's Experimental Rocketry Web Site
+
+
+Launch Report -- SkyDart Rocket Flight SD-1
+
+Introduction
+Rocket Description
+Rocket Motor
+Launch Report
+Post-flight Analysis
+Video-clips
+Introduction
+This web page presents details of SD-1, the first flight of the new SkyDart rocket. The SkyDart is a small, simple to construct, and inexpensive sounding rocket that is designed to be powered by the newly developed A-100M solid rocket motor. The primary purpose of developing the SkyDart rocket is for flight testing of an experimental Delay Ejection Device (DED). This is a pyrotechnic device that is fitted to a modified A-100M bulkhead. The heat of combustion of the motor initiates a pyrotechnic delay composition that allows the rocket to coast to apogee, at which point an integral ejection charge fires to deploy the parachute.
+A secondary objective of the SkyDart is to flight test the A-100M motor which, to date, has solely been static test fired.
+
+SkyDart Details            ￼            ￼            ￼
+
+	•	Fuselage for the SkyDart rocket was made from 2" (51 mm) PVC pipe used for home central vacuum systems. This tubing is inexpensive, strong and very lightweight, with a wall thickness of 0.070" (1.8 mm). The linear density is 0.22 lbs/ft. (325 g/m.). 
+	•	Overall length of the rocket was 37.4" (950 mm), with the aft fuselage being 10.4" (264 mm), the forward fuselage 24.3" (617 mm) and the nosecone 2.7" (69 mm). The forward fuselage contains the parachute and also has an 11.3" (287 mm) compartment for a payload. For the first flight, 600 grams (1.32 lb.) of silica sand ballast was loaded to restrict the maximum altitude, targeted at 900 feet (275 m.). 
+	•	The nosecone was turned on a lathe from solid birch stock. The shape is blunted parabolic. This hardwood was chosen for its durability combined with low weight. 
+	•	Three fins were used for stability. These were fabricated from 0.080" (2 mm) sheet aluminum (5052 alloy). The attachment method is similar to that which was used for the Cirrus One rocket. Two integral tabs (unslotted) were incorporated into the fins. The tabs were fitted through slots cut into the fuselage. For retention, a piece of epoxy soaked fibre glass was positioned on each side of the tab once inserted into the fuselage. To give the fins lateral strength and stiffness, "quarter-rounds" of thin aluminum tubing were cut and bonded at the interface between the fuselage and the fin surface. "Paneling adhesive" was found to work very well in this application. The mounted fins were found to be very rigidly attached. This attachment design is quite aerodynamically clean, especially in comparison to the "angle clip" technique used on many of my rockets. Detail of the fin mounting is seen in Figure 1.  ￼
+	•	Detail view of fins and attachment method
+	•	Click for larger image 
+	•	Six cooling vents (slots) were cut into the aft fuselage to allow for airflow through the motor compartment. Since the motor uses a free-standing unrestricted grain, the steel casing gets very hot, and could damage or distort the fuselage if no provisions were made for cooling. It is also expected that base drag may be reduced, as air would tend to be drawn through the vents, preventing a partial vacuum (and thus base drag) from developing. 
+	•	Two nylon curtain-rail clips were attached (bonded) to the rocket to interface with the same EMT rail launcher that has been used for my earlier rockets such as the Zephyr and Frostfire series. 
+	•	For parachute deployment, an experimental Delay Ejection Device (DED) was employed. The basic concept of operation is the same as used for commercial model rocket motors and many Hi-Power motors. The DED is a screw-on unit that mates with the motor bulkhead. Combustion of the motor propellant initiates combustion of a delay composition. This allows the rocket to coast to apogee. The flame front of the delay grain then ignites a fast burning ejection composition, either Crimson Powder or BP. For Flight SD-1, 0.5 grams of CP was used. The resulting pressure in the sealed section of the fuselage applies force upon a piston. The force is great enough to separate the rocket at the break-apart joint, releasing the parachute. To ensure that the separation occurs with enough force for reliable chute deployment, the joint is wrapped with a single layer of aluminum foil tape, constituting a "frangible" joint. The delay composition is comprised of: 
+	•	Constituent
+	•	Percentage
+	•	Potassium Nitrate
+	•	65 %
+	•	Epoxy (West System)
+	•	30 %
+	•	Red Iron Oxide
+	•	5 %
+	•	Delay composition Burn rate at ambient pressure was found to be very consistent (even between batches) being 1.3 mm/sec. The body of the DED was machined from a length of 1/2" hex 6061-T6 aluminum alloy. A timing hole is drilled into the delay composition (prior to loading the CP), of the same diameter as the orifice. The depth of the timing hole determines the delay time duration. For SD-1, the delay was set for 8 seconds.  ￼ Several ground tests of the DED were conducted prior to this first flight. 
+	1	Strands of delay composition were made and burn rate measured to determine consistency of delay.
+	2	DED loaded with delay composition and CP was tested to confirm delay and ignition of ejection charge.
+	3	DED was installed in a loaded A-100M motor, and static fired to confirm operation in situ.
+	4	DED was mounted in the rocket to test delay, ignition, and chute deployment.
+	•	All 4 ground tests were successful, clearing the way for first test flight. 
+	•	Pre-launch weight of the rocket was 3.682 lbs (1.670 kg.).  
+
+Rocket Motor
+The motor used for this flight was the 25 mm "G" class A-100M solid rocket motor. The propellant formulation for SD-1 was KNDX. A grain of KNSB was also prepared in anticipation of a second flight, SD-2. Total propellant mass was 115 grams (0.25 lb.), and consisted of a free-standing hollow-cylindrical grain (with frustum), unrestricted, with Kn = 425. To ensure rapid start-up, the outer surface of the grain was painted with Combustion Primer, consisting of finely ground Ignition Powder (IP) (80/20 KN/Charcoal) blended with 70% IPA. The igniter was a standard Straw Igniter loaded with 1 gram of IP.
+
+
+Launch Report
+Sunday, October 31, 2004 
+Poor weather resulted in postponement of the launch for a few weeks. On this day, the weather was finally suitable. The sky was overcast, with a 3000 foot (900 m.) ceiling. The temperature was 10oC (50oF.). Winds were brisk, being 25 km/hr. out of the west.
+
+The tripod launch pad was set up first. The rail was adjusted to about 10o from vertical, aligned with the wind in order to reduce the effect of expected weathercocking of the rocket. Setup of the rocket itself was essentially finished once it was slid into position on the launch rail. No checklist required! Only the igniter needed to be inserted into the motor.The final setup procedure was to lay out the motor ignition system and ensure that it was functioning properly. The tripod mounted videocamera was set up about 100 feet (30 m.) upwind to capture liftoff from a right angle to that of the second (digital) videocamera that I was using to attempt to capture the flight. Finally, after taking a few preflight photos, the igniter was connected to the ignition box. This accomplished, the observers then headed to safe viewing locations. The ignition system was then armed.
+
+￼
+Author & the SkyDart rocket just prior to flight.
+After the "all ready & all clear" signals were announced, the countdown commenced...5-4-3-2-1-Ignition!
+Nearly immediately, a cloud of smoke was witnessed at the base of the rocket, signalling successful ignition, then a split second later, SkyDart accelerated off the pad extremely rapidly. The rate of acceleration of this smaller, lighter rocket was far greater than what I was accustomed to, and it was not possible to follow the flight with the videocamera. From the sound, however, I could tell that the burn time seemed shorter and more powerful than the static firings of the A-100M motor.
+
+
+￼  ￼  ￼
+A-100M motor bursts to life (left).....then liftoff and skyward bound! (middle)
+View of liftoff from another angle (right)
+The rocket coasted in a very straight and stable manner toward apogee, estimated by Rob to be about 1100 feet, and curiously did not veer at all into the wind. In fact, apogee occurred some distance downwind. There was no trace of smoke (from the delay charge) seen during ascent. The bright fluorescent orange colour of the rocket was very beneficial in maintaining visual contact. SkyDart then was seen to "turn over" and begin to descend. The rocket continued to accelerate earthward with no indication of chute deployment or ejection charge firing. Impact occurred about 400 feet (120 m.) directly downwind.
+The rocket was found separated into two parts, having coming apart at the joint by the force of impact. The upper section was burrowed about 8" (20 cm.) into the hard clay-rich soil. The nosecone could not be removed readily and was left in the ground.
+
+￼
+Recovered SkyDart rocket
+
+Post-flight Analysis
+When the rocket was inspected immediately after the flight, it was found that the ejection charge had not fired, as the aluminum cap on the DED was still intact. Damage to the rocket was surprisingly light. The sand ballast likely absorbed a lot of the impact energy.Of course, the fuselage sections were damaged beyond repair, but all other components were either undamaged or were in a repairable state. The parachute, piston, tethers and motor were undamaged. Two fins had bent tabs but were otherwise in fine shape and were still attached to the fuselage. The third fin was still attached to the rocket and was not harmed. This certainly attests to the strength of the fin attachment method!
+From inspection of the video footage & soundtrack, the following times were excerpted:
+	•	Liftoff to burnout --        0.3 sec.
+	•	Liftoff to apogee "call" --       9 sec. (approx.)
+	•	Liftoff to impact--       17.5 sec. (approx.).
+Flight simulation based on static test data of the A-100M motor had indicated that the rocket would reach a peak altitude of approximately 850 feet (260 m.) at 7.5 seconds into the flight. Based on the measured time to peak, as well as the longer total flight time than predicted, a revised simulation suggested a maximum altitude of 1100 feet (335 m.). To achieve this, the motor would have had to produce a greater thrust for a shorter burn time (same total impulse). This is consistent with the observed behaviour. It had been noted that during post-casting inspection of the propellant grain, that the density was significantly lower than what was typical. Consistently, grain densities of 97-98% had been achieved, but for this grain, the density was 95%. Closer examination revealed a significant hidden flaw (bubble). A repair had been attempted by filling the void with molten propellant. It was thought that the repair was successful, but perhaps this was not he case, resulting in enhanced burning area. This would result in higher chamber pressure (and therefore thrust) and shorter burn time, as was apparent.
+As to why the parachute did not deploy, post-flight tear-down of the motor revealed that the delay charge had not ignited. The surface of the charge was lightly scorched. The very short burn time of the motor undoubtedly contributed to this failure, as exposure time was apparently too brief to heat the surface of the delay grain to ignition temperature. There were two other contributing factors. The DED was recessed within the bulkhead, and the delay formulation has a fairly high ignition temperature. To resolve the problem, five ideas are being considered:
+	1	Modify the installation of the DED to expose the delay grain surface more effectively to the convective heating that occurs within the combustion chamber. 
+	2	Coat the delay grain surface with a primer that is readily ignited and burns at a sufficiently high temperature to ensure ignition. 
+	3	Texturize the surface of the delay grain to expose more surface area to heating combined with less thermal inertia. 
+	4	Use a thermal initiator embedded into the delay grain surface. This would be a thermally conductive, low mass material that would instantly absorb heat from combustion and transfer sufficient heat into the delay grain to initiate combustion. An example would be a small ball of steel wool, fine copper wires or staples. 
+	5	Use an alternative delay composition that ignites more readily. An example would be a formulation of dextrose and potassium nitrate. A composition that is known to ignite readily and burn in a fairly slow & stable manner is 56/44 KN/dextrose, used in the past as a smoke charge. Burn rate had been measured at 1.5 to 1.7 mm/second.
+The first idea will definitely be incorporated for Flight SD-2. The second idea will require development of a suitable primer, and will likely be deferred for the time being. Both the 3rd and 4th ideas will be experimented with over the next while to determine if indeed these may be beneficial. The 5th idea will definitely be considered, but at a later date.
+
+Video-clips
+￼    A-100M static firing with DED   (2.3 Mb)
+￼    Liftoff of Flight SD-1   (1.2 Mb)
+
+￼
+Last updated November 11, 2004
+Back to Home Page
+
