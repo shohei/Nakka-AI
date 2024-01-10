@@ -1,5 +1,23 @@
 # Nakka-AI
+
+
+## Web application
+![](image/app.png)
 How to use
+
+```
+$ ./start.sh
+```
+or
+
+```
+$ streamlit run webapp.py
+```
+
+
+## Stand alone app
+How to use
+
 ```
 $ python nakka.py
 ```
